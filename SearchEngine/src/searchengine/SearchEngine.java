@@ -5,6 +5,8 @@
  */
 package searchengine;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author Iva
@@ -14,5 +16,8 @@ public class SearchEngine {
     Index myIndex = new Index(myParser);
     QueryProcessor myQP = new QueryProcessor(myIndex);
     
+    public ArrayList<String> processQuery(String query){
+        return myQP.processQuery(query);
+    }
     
 }

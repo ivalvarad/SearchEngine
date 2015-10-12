@@ -9,6 +9,7 @@ package searchengine;
  * @author Iva
  */
 public class Controller {
+    
     private static SearchEngine mySearchEngine;
     private static Interface myInterface;
     
