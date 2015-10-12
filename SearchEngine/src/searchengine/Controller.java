@@ -10,8 +10,8 @@ package searchengine;
  */
 public class Controller {
     
-    private static SearchEngine mySearchEngine;
-    private static Interface myInterface;
+    private static SearchEngine mySearchEngine; //Interface of the program
+    private static Interface myInterface; //The entity that represents all the other parts unified
     
     public Controller(){
         mySearchEngine = new SearchEngine();

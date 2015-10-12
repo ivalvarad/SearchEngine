@@ -17,6 +17,11 @@ public class SearchEngine {
     QueryProcessor myQP = new QueryProcessor(myIndex);
     
     public ArrayList<String> processQuery(String query){
+        //parse the documents
+        //get the map
+        //build the index
+        //fix the query
+        //actually myQP.processQuery(query); would be the last step, this is just an example.
         return myQP.processQuery(query);
     }
     
