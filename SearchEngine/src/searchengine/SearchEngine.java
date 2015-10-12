@@ -16,6 +16,12 @@ public class SearchEngine {
     Index myIndex = new Index(myParser);
     QueryProcessor myQP = new QueryProcessor(myIndex);
     
+    /*
+       The Interface is going to call this method once the search botton is clicked, so here
+       is where all the things are done.
+       Then, the interface is going to take the ArrayList this method returns and is going to show
+       the output based on this. 
+    */
     public ArrayList<String> processQuery(String query){
         //parse the documents
         //get the map
