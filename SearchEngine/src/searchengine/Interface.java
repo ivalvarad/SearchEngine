@@ -15,7 +15,9 @@ public class Interface extends javax.swing.JFrame {
     /**
      * Creates new form Interfaz
      */
-    public Interface() {
+    private static SearchEngine searchEngine;
+    public Interface(SearchEngine searchEngine) {
+        this.searchEngine = searchEngine;
         initComponents();
     }
 
@@ -123,7 +125,7 @@ public class Interface extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new Interface().setVisible(true);
+                new Interface(searchEngine).setVisible(true);
             }
         });
     }

@@ -9,13 +9,20 @@ package searchengine;
  * @author Iva
  */
 public class Controller {
-    Interface myInterface = new Interface();
-    Parser myParser = new Parser();
-    Index myIndex = new Index(myParser);
-    QueryProcessor myQP = new QueryProcessor(myIndex);
+    private static SearchEngine mySearchEngine;
+    private static Interface myInterface;
     
     public Controller(){
-        
+        mySearchEngine = new SearchEngine();
+        myInterface = new Interface(mySearchEngine);
     }
     
+    public void run(){
+        myInterface.setVisible(true);
+    }
+    
+    public static void main(String args[]){
+        Controller theController = new Controller();
+        theController.run();
+    }
 }
