@@ -11,12 +11,10 @@ import java.util.ArrayList;
  */
 public class Index {
     
-    private Parser parser; 
     private int nEntries;
     private ArrayList<IndexEntry> table;
     
-    public Index(Parser parser, int nEntries){
-        this.parser = parser;
+    public Index(int nEntries){
         this.nEntries = nEntries;
         this.table = new ArrayList<>();
         for(int i = 0; i < nEntries; i++){

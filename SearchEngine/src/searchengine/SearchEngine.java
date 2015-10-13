@@ -12,8 +12,7 @@ import java.util.ArrayList;
  * @author Iva
  */
 public class SearchEngine {
-    Parser myParser = new Parser();
-    Index myIndex = new Index(myParser,5);
+    Index myIndex = new Index(5);
     QueryProcessor myQP = new QueryProcessor(myIndex);
     
     /*
@@ -23,13 +22,10 @@ public class SearchEngine {
        the output based on that. 
     */
     
-    //parse the documents
-    //get the map
-    //build the index
-    //fix the query
-    
+    //receive the path of the file where the data for the index is stored at
+    //fill the index
     public ArrayList<String> processQuery(String query){
-        
+        //parse the query
         //actually myQP.processQuery(query); would be the last step, this is just an example.
         return myQP.processQuery(query);
     }
