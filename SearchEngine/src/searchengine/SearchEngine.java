@@ -13,7 +13,7 @@ import java.util.ArrayList;
  */
 public class SearchEngine {
     Parser myParser = new Parser();
-    Index myIndex = new Index(myParser);
+    Index myIndex = new Index(myParser,5);
     QueryProcessor myQP = new QueryProcessor(myIndex);
     
     /*
@@ -22,11 +22,14 @@ public class SearchEngine {
        Then, the interface is going to take the ArrayList this method returns and is going to show
        the output based on that. 
     */
+    
+    //parse the documents
+    //get the map
+    //build the index
+    //fix the query
+    
     public ArrayList<String> processQuery(String query){
-        //parse the documents
-        //get the map
-        //build the index
-        //fix the query
+        
         //actually myQP.processQuery(query); would be the last step, this is just an example.
         return myQP.processQuery(query);
     }
