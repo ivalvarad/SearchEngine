@@ -12,18 +12,79 @@ import java.util.ArrayList;
 public class Index {
     
     private Parser parser; 
-    private int nEntries; 
+    private int nEntries;
     private ArrayList<IndexEntry> table;
     
     public Index(Parser parser, int nEntries){
         this.parser = parser;
         this.nEntries = nEntries;
-        this.table = new ArrayList<IndexEntry>();
-        /*for(int i = 0; i < nEntries; i++){
-            table.add(i,new IndexEntry());
-        }*/
+        this.table = new ArrayList<>();
+        for(int i = 0; i < nEntries; i++){
+            //table.add(i,new IndexEntry());
+            table.add(i,null);
+        }
     }
     
+    // applies the hash function to a term
+    public int funHash(String term){
+        char ch[] = term.toCharArray();
+        int i, sum;
+        for(sum=0, i=0; i < term.length(); i++){
+          sum += ch[i];
+        }
+        return sum % nEntries;
+    }
+    
+    //inserts a new IndexEntry in the Index (probably never gonna happen)
+    public void insert(IndexEntry entry){
+        int i = funHash(entry.getTerm());
+        table.add(i, entry);
+    }
+    
+    //inserts a new IndexEntry with term in the Index
+    public void insert(String term){
+        int i = funHash(term);
+        table.add(i, new IndexEntry(term));
+    }
+    
+    //returns the object IndexEntry with the term "term"
+    public IndexEntry getEntry(String term){
+        IndexEntry index = null;
+        for(int i=0; i< nEntries; i++){
+            if(table.get(i).getTerm().compareTo(term)==0){
+                index = table.get(i);
+            }
+        }
+        return index;
+    }
+    
+    //return the index where the object IndexEntry with the term "term" is stored at
+    public int getIndex(String term){
+        int index = -1;
+        for(int i=0; i < nEntries; i++){
+            if(table.get(i).getTerm().compareTo(term)==0){
+                index = i;
+            }
+        }
+        return index;
+    }
+    
+    //associated a docID with a term
+    public void associate(String term, int docID){
+        table.get(getIndex(term)).addDocument(docID);
+    }
+    
+    //returns true if the docID is already associated to the term, false otherwise
+    public boolean isAssociated(String term, int docID){
+        boolean result = false;
+        IndexEntry temp = table.get(getIndex(term));
+        if(temp.hasDocument(docID)==true){
+            result = true;
+        }
+        return result;
+    }
+    
+    //returns a formatted String of this Index
     public String toString(){
         String result = "";
         for(int i=0; i < nEntries; i++){
@@ -31,48 +92,4 @@ public class Index {
         }
         return result; 
     }
-    
-    //buscar otra función hash
-    public int funHash(String k){
-        return (k.length() % nEntries);
-    }
-    
-    /*
-    int sascii(String x, int M) {
-        char ch[];
-        ch = x.toCharArray();
-        int xlength = x.length();
-
-        int i, sum;
-        for (sum=0, i=0; i < x.length(); i++)
-          sum += ch[i];
-        return sum % M;
-     }*/
-    
-    public void insert(IndexEntry entry){
-        int i = funHash(entry.getTerm());
-        table.add(i, entry);
-    }
-    
-    public IndexEntry search(String term){
-        
-        return null;
-    }
-    
-    /*
-        // Retorna un puntero a la llave o NULL si no se encuentra
-	T* search(const T& item){
-            T *itemPtr = NULL;
-            int i = funHash(item);
-            if(i>=0 && i<numEntradas){
-                typename std::list<T>::iterator it;
-                for(it = tabla[i].begin(); it != tabla[i].end(); ++it){
-                    if(*it==item){
-                        itemPtr = &*it;
-                    }
-                }
-            }
-            return itemPtr;
-	}
-    */
 }

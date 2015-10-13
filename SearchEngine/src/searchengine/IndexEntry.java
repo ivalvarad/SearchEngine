@@ -44,6 +44,16 @@ public class IndexEntry {
         return postingsList.get(index);
     }
     
+    public boolean hasDocument(int docID){
+        boolean result = false;
+        for(int i = 1; i < postingsList.size(); i++){
+            if(postingsList.get(i)==docID){
+                result = true;
+            }
+        }
+        return result;
+    }
+    
     public void incrementFrecuency(){
         frequency++;
     }
