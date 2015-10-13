@@ -1,0 +1,99 @@
+2015-10-13 00:01:17,410 INFO  crawl.Injector - Injector: starting at 2015-10-13 00:01:17
+2015-10-13 00:01:17,430 INFO  crawl.Injector - Injector: crawlDb: crawl/crawldb
+2015-10-13 00:01:17,430 INFO  crawl.Injector - Injector: urlDir: urls
+2015-10-13 00:01:17,430 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
+2015-10-13 00:01:18,065 ERROR crawl.Injector - Injector: org.apache.hadoop.util.Shell$ExitCodeException: chmod: cannot access ‘C:\\tmp\\hadoop-JN1\\mapred\\system\\job_local_0001’: No such file or directory
+
+	at org.apache.hadoop.util.Shell.runCommand(Shell.java:195)
+	at org.apache.hadoop.util.Shell.run(Shell.java:134)
+	at org.apache.hadoop.util.Shell$ShellCommandExecutor.execute(Shell.java:286)
+	at org.apache.hadoop.util.Shell.execCommand(Shell.java:354)
+	at org.apache.hadoop.util.Shell.execCommand(Shell.java:337)
+	at org.apache.hadoop.fs.RawLocalFileSystem.execCommand(RawLocalFileSystem.java:481)
+	at org.apache.hadoop.fs.RawLocalFileSystem.setPermission(RawLocalFileSystem.java:473)
+	at org.apache.hadoop.fs.FilterFileSystem.setPermission(FilterFileSystem.java:280)
+	at org.apache.hadoop.fs.FileSystem.mkdirs(FileSystem.java:266)
+	at org.apache.hadoop.mapred.JobClient.configureCommandLineOptions(JobClient.java:573)
+	at org.apache.hadoop.mapred.JobClient.submitJobInternal(JobClient.java:761)
+	at org.apache.hadoop.mapred.JobClient.submitJob(JobClient.java:730)
+	at org.apache.hadoop.mapred.JobClient.runJob(JobClient.java:1249)
+	at org.apache.nutch.crawl.Injector.inject(Injector.java:323)
+	at org.apache.nutch.crawl.Injector.run(Injector.java:379)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:65)
+	at org.apache.nutch.crawl.Injector.main(Injector.java:369)
+
+2015-10-13 00:01:36,558 INFO  crawl.Injector - Injector: starting at 2015-10-13 00:01:36
+2015-10-13 00:01:36,559 INFO  crawl.Injector - Injector: crawlDb: crawl/crawldb
+2015-10-13 00:01:36,559 INFO  crawl.Injector - Injector: urlDir: dbmoz
+2015-10-13 00:01:36,560 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
+2015-10-13 00:01:37,064 ERROR crawl.Injector - Injector: org.apache.hadoop.util.Shell$ExitCodeException: chmod: cannot access ‘C:\\tmp\\hadoop-JN1\\mapred\\system\\job_local_0001’: No such file or directory
+
+	at org.apache.hadoop.util.Shell.runCommand(Shell.java:195)
+	at org.apache.hadoop.util.Shell.run(Shell.java:134)
+	at org.apache.hadoop.util.Shell$ShellCommandExecutor.execute(Shell.java:286)
+	at org.apache.hadoop.util.Shell.execCommand(Shell.java:354)
+	at org.apache.hadoop.util.Shell.execCommand(Shell.java:337)
+	at org.apache.hadoop.fs.RawLocalFileSystem.execCommand(RawLocalFileSystem.java:481)
+	at org.apache.hadoop.fs.RawLocalFileSystem.setPermission(RawLocalFileSystem.java:473)
+	at org.apache.hadoop.fs.FilterFileSystem.setPermission(FilterFileSystem.java:280)
+	at org.apache.hadoop.fs.FileSystem.mkdirs(FileSystem.java:266)
+	at org.apache.hadoop.mapred.JobClient.configureCommandLineOptions(JobClient.java:573)
+	at org.apache.hadoop.mapred.JobClient.submitJobInternal(JobClient.java:761)
+	at org.apache.hadoop.mapred.JobClient.submitJob(JobClient.java:730)
+	at org.apache.hadoop.mapred.JobClient.runJob(JobClient.java:1249)
+	at org.apache.nutch.crawl.Injector.inject(Injector.java:323)
+	at org.apache.nutch.crawl.Injector.run(Injector.java:379)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:65)
+	at org.apache.nutch.crawl.Injector.main(Injector.java:369)
+
+2015-10-13 00:03:20,674 INFO  tools.DmozParser - skew = -1667919424
+2015-10-13 00:03:20,676 INFO  tools.DmozParser - Begin parse
+2015-10-13 00:03:48,665 INFO  tools.DmozParser - Completed parse.  Found 3614 pages.
+2015-10-13 00:04:14,839 INFO  crawl.Injector - Injector: starting at 2015-10-13 00:04:14
+2015-10-13 00:04:14,839 INFO  crawl.Injector - Injector: crawlDb: crawl/crawldb
+2015-10-13 00:04:14,840 INFO  crawl.Injector - Injector: urlDir: dbmoz
+2015-10-13 00:04:14,840 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
+2015-10-13 00:04:15,348 ERROR crawl.Injector - Injector: org.apache.hadoop.util.Shell$ExitCodeException: chmod: cannot access ‘C:\\tmp\\hadoop-JN1\\mapred\\system\\job_local_0001’: No such file or directory
+
+	at org.apache.hadoop.util.Shell.runCommand(Shell.java:195)
+	at org.apache.hadoop.util.Shell.run(Shell.java:134)
+	at org.apache.hadoop.util.Shell$ShellCommandExecutor.execute(Shell.java:286)
+	at org.apache.hadoop.util.Shell.execCommand(Shell.java:354)
+	at org.apache.hadoop.util.Shell.execCommand(Shell.java:337)
+	at org.apache.hadoop.fs.RawLocalFileSystem.execCommand(RawLocalFileSystem.java:481)
+	at org.apache.hadoop.fs.RawLocalFileSystem.setPermission(RawLocalFileSystem.java:473)
+	at org.apache.hadoop.fs.FilterFileSystem.setPermission(FilterFileSystem.java:280)
+	at org.apache.hadoop.fs.FileSystem.mkdirs(FileSystem.java:266)
+	at org.apache.hadoop.mapred.JobClient.configureCommandLineOptions(JobClient.java:573)
+	at org.apache.hadoop.mapred.JobClient.submitJobInternal(JobClient.java:761)
+	at org.apache.hadoop.mapred.JobClient.submitJob(JobClient.java:730)
+	at org.apache.hadoop.mapred.JobClient.runJob(JobClient.java:1249)
+	at org.apache.nutch.crawl.Injector.inject(Injector.java:323)
+	at org.apache.nutch.crawl.Injector.run(Injector.java:379)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:65)
+	at org.apache.nutch.crawl.Injector.main(Injector.java:369)
+
+2015-10-13 00:51:56,001 INFO  crawl.Injector - Injector: starting at 2015-10-13 00:51:56
+2015-10-13 00:51:56,002 INFO  crawl.Injector - Injector: crawlDb: crawl/crawldb
+2015-10-13 00:51:56,002 INFO  crawl.Injector - Injector: urlDir: dbmoz
+2015-10-13 00:51:56,002 INFO  crawl.Injector - Injector: Converting injected urls to crawl db entries.
+2015-10-13 00:51:56,530 ERROR crawl.Injector - Injector: org.apache.hadoop.util.Shell$ExitCodeException: chmod: cannot access ‘C:\\tmp\\hadoop-JN1\\mapred\\system\\job_local_0001’: No such file or directory
+
+	at org.apache.hadoop.util.Shell.runCommand(Shell.java:195)
+	at org.apache.hadoop.util.Shell.run(Shell.java:134)
+	at org.apache.hadoop.util.Shell$ShellCommandExecutor.execute(Shell.java:286)
+	at org.apache.hadoop.util.Shell.execCommand(Shell.java:354)
+	at org.apache.hadoop.util.Shell.execCommand(Shell.java:337)
+	at org.apache.hadoop.fs.RawLocalFileSystem.execCommand(RawLocalFileSystem.java:481)
+	at org.apache.hadoop.fs.RawLocalFileSystem.setPermission(RawLocalFileSystem.java:473)
+	at org.apache.hadoop.fs.FilterFileSystem.setPermission(FilterFileSystem.java:280)
+	at org.apache.hadoop.fs.FileSystem.mkdirs(FileSystem.java:266)
+	at org.apache.hadoop.mapred.JobClient.configureCommandLineOptions(JobClient.java:573)
+	at org.apache.hadoop.mapred.JobClient.submitJobInternal(JobClient.java:761)
+	at org.apache.hadoop.mapred.JobClient.submitJob(JobClient.java:730)
+	at org.apache.hadoop.mapred.JobClient.runJob(JobClient.java:1249)
+	at org.apache.nutch.crawl.Injector.inject(Injector.java:323)
+	at org.apache.nutch.crawl.Injector.run(Injector.java:379)
+	at org.apache.hadoop.util.ToolRunner.run(ToolRunner.java:65)
+	at org.apache.nutch.crawl.Injector.main(Injector.java:369)
+
