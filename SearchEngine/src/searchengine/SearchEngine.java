@@ -5,14 +5,18 @@
  */
 package searchengine;
 
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 /**
  *
  * @author Iva
  */
 public class SearchEngine {
-    Index myIndex = new Index(5);
+    Index myIndex = new Index(3);
+    Parser myParser = new Parser("postings.txt");
     QueryProcessor myQP = new QueryProcessor(myIndex);
     
     /*
@@ -21,12 +25,40 @@ public class SearchEngine {
        Then, the interface is going to take the ArrayList this method returns and is going to show
        the output based on that. 
     */
+
+    public void buildIndex(){
+        String postings = "";
+        try{
+            postings = myParser.getStrFile();
+        }catch(FileNotFoundException ex){}
+        String[] lines = postings.split("\n"); //array with a line in each field
+        for(int i = 0; i < lines.length; i++){
+            String line = lines[i];
+            int blankIdx = line.indexOf(' '); //index of the first blank
+            String term = line.substring(0, line.indexOf(' ')); //cut from beginning to the first blank
+            IndexEntry newEntry = new IndexEntry(term); //create a new IndexEntry containing the term
+            
+            line = line.substring(blankIdx+1); //remove the term from the line
+            blankIdx = line.indexOf(' '); //index of the first blank
+            while(blankIdx!=-1){ //if there are blanks (means there are docID's)
+                String strDocID = line.substring(0,blankIdx); 
+                int docID = Integer.valueOf(strDocID); //get one of the DocID's
+                newEntry.addDocument(docID); //add the new docID to the entry
+                line = line.substring(blankIdx+1); //remove the docID from the line
+                blankIdx = line.indexOf(' '); //recalculate the index of the first blank
+            }
+            myIndex.insert(newEntry);
+        }
+        System.out.print(myIndex.toString());
+    }
     
-    //receive the path of the file where the data for the index is stored at
-    //fill the index
     public ArrayList<String> processQuery(String query){
-        //parse the query
-        //actually myQP.processQuery(query); would be the last step, this is just an example.
+        try {
+            //parse the query
+            //actually myQP.processQuery(query); would be the last step, this is just an example.
+            myParser.getStrFile();
+        } catch (FileNotFoundException ex) {}
+        buildIndex();
         return myQP.processQuery(query);
     }
     
