@@ -16,7 +16,7 @@ import java.util.logging.Logger;
  */
 public class SearchEngine {
     Index myIndex = new Index(3); //a esto hay que pasarle la cantidad de términos del diccionario
-    Parser myParser = new Parser("postings.txt");
+    Parser myParser = new Parser("C:\\Users\\Iva\\Documents\\II-2015\\CI-2414 Recup\\SearchEngine\\postings.txt");
     QueryProcessor myQP = new QueryProcessor(myIndex);
     
     /*

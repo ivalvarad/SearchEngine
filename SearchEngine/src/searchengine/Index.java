@@ -18,7 +18,6 @@ public class Index {
         this.nEntries = nEntries;
         this.table = new ArrayList<>();
         for(int i = 0; i < nEntries; i++){
-            //table.add(i,new IndexEntry());
             table.add(i,null);
         }
     }

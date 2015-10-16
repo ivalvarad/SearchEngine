@@ -18,11 +18,8 @@ import java.util.ArrayList;
  *
  * @author Iva
  */
+
 public class TokensProcessor {
-    
-    /*
-        term | cant | idArchivo
-    */
     
     private ArrayList<Token> tokens; 
     
@@ -34,12 +31,11 @@ public class TokensProcessor {
         String text = "";
         BufferedWriter output = null;
         try {
-            File file = new File("output.txt");
+            File file = new File("..\\output.txt");
             output = new BufferedWriter(new FileWriter(file));
             for(int i=0;i<tokens.size();i++){
                 text+="Token: "+tokens.get(i).getToken()+" | Number: "+tokens.get(i).getTokens()+" | DocID: "+tokens.get(i).getDocID();
                 text+="\n";
-                //System.out.println("Token: "+tokens.get(i).getToken()+" | Number: "+tokens.get(i).getTokens()+" | DocID: "+tokens.get(i).getDocID());
             }
             output.write(text);
         } catch ( IOException e ) {System.out.println("ERROR: failed to create the output file.");} 
@@ -106,22 +102,13 @@ public class TokensProcessor {
         }
     }
     
+    //this method should transform the output file into a list of postings
+    public void processOutput(){
+        
+    }
+    
     public void run(String path){
         processDir(path);
     }
-    
-    /*
-    public void showFiles(File[] files) {
-        for (File file : files) {
-            if (file.isDirectory()) {
-                System.out.println("Directory: " + file.getName());
-                showFiles(file.listFiles()); // Calls same method again.
-            } else {
-                //System.out.println("File: " + file.getName());
-                processFile(file);
-                
-            }
-        }
-    }*/
     
 }

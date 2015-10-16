@@ -13,7 +13,7 @@ import java.util.ArrayList;
  */
 public class IndexEntry {
     String term;
-    int frequency;
+    int frequency; //# of documents the terms appears on
     ArrayList<Integer> postingsList;
     
     public IndexEntry(String term){
