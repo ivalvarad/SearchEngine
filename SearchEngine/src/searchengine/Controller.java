@@ -23,8 +23,6 @@ public class Controller {
     }
     
     public static void main(String args[]){
-        for (String s : args)
-            System.out.println("arg -> " + s);
         Controller theController = new Controller();
         theController.run();
     }

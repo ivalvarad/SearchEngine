@@ -42,4 +42,22 @@ public class Parser {
         return everything;
     }
     
+    public int getNumberLines() throws FileNotFoundException{
+        BufferedReader br = new BufferedReader(new FileReader(path));
+        String everything = "";
+        try {
+            StringBuilder sb = new StringBuilder();
+            String line = br.readLine();
+            while (line != null) {
+                sb.append(line);
+                sb.append(System.lineSeparator());
+                line = br.readLine();
+            }
+            br.close();
+            everything = sb.toString();
+        } catch (IOException ex) {}
+        //System.out.print(everything);
+        return everything.split("\n").length;
+    }
+    
 }

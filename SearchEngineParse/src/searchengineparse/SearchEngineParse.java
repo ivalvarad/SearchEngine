@@ -17,8 +17,7 @@ public class SearchEngineParse {
     public static void main(String[] args) {
         // TODO code application logic here
         TokensProcessor tp = new TokensProcessor();
-        tp.run("C:\\Users\\Iva\\Documents\\II-2015\\CI-2414 Recup\\SearchEngine\\dirTokens");
-        tp.seeTokenList();
+        tp.run("..\\dirTokens");
     }
     
 }

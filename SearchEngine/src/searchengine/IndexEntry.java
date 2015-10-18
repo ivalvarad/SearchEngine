@@ -14,18 +14,18 @@ import java.util.ArrayList;
 public class IndexEntry {
     String term;
     int frequency; //# of documents the terms appears on
-    ArrayList<Integer> postingsList;
+    ArrayList<String> postingsList;
     
     public IndexEntry(String term){
         this.term = term;
         this.frequency = -1;
-        this.postingsList = new ArrayList<Integer>();
+        this.postingsList = new ArrayList<>();
     }
     
     public IndexEntry(){
         this.term = "";
         this.frequency = -1;
-        this.postingsList = new ArrayList<Integer>();
+        this.postingsList = new ArrayList<>();
     }
     
     public void setTerm(String term){
@@ -36,18 +36,18 @@ public class IndexEntry {
         return this.term;
     }
     
-    public void addDocument(int docID){
+    public void addDocument(String docID){
         postingsList.add(docID);
     }
     
-    public int getDocument(int index){
+    public String getDocument(int index){
         return postingsList.get(index);
     }
     
-    public boolean hasDocument(int docID){
+    public boolean hasDocument(String docID){
         boolean result = false;
-        for(int i = 1; i < postingsList.size(); i++){
-            if(postingsList.get(i)==docID){
+        for(int i = 0; i < postingsList.size(); i++){
+            if( postingsList.get(i).compareTo(docID)==0 ){
                 result = true;
             }
         }
@@ -66,6 +66,7 @@ public class IndexEntry {
         return postingsList;
     }
     
+    @Override
     public String toString(){
         String result = "";
         result += "Term: "+term+", Frequency: "+frequency+", Documents: ";
