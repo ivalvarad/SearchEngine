@@ -43,26 +43,15 @@ public class SearchEngine {
         String lines[] = postings.split("\n"); //array with a line in each field
         for(int i = 0; i < lines.length; ++i){
             String line = lines[i];
-            int blankIdx = line.indexOf(" "); //index of the first blank
+            int blankIdx = line.indexOf(' '); //index of the first blank
             String term = new String (line.substring(0, line.indexOf(' '))); //cut from beginning to the first blank
             IndexEntry newEntry = new IndexEntry(term); //create a new IndexEntry containing the term
-            
             line = line.substring(blankIdx+1); //remove the term from the line
-            
-            blankIdx = line.indexOf(" "); //index of the first blank after the first docID
-            
-            do{ //if there are blanks (means there are docID's)
-                String docID = "";
-                if(blankIdx!=-1){
-                    docID = new String(line.substring(0,blankIdx)); 
-                    line = line.substring(blankIdx+1); //remove the docID from the line
-                    blankIdx = line.indexOf(" "); //recalculate the index of the first blank
-                }
-                if(blankIdx == -1){
-                    docID = new String(line);
-                }
+            String parts[] = line.split(" ");
+            for(String part : parts){
+                String docID = part;
                 newEntry.addDocument(docID);
-            }while(blankIdx!=-1);
+            }
             myIndex.insert(newEntry);
         }
         System.out.println(myIndex.toString());

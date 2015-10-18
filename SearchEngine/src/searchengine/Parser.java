@@ -44,20 +44,15 @@ public class Parser {
     
     public int getNumberLines() throws FileNotFoundException{
         BufferedReader br = new BufferedReader(new FileReader(path));
-        String everything = "";
+        int lines = 0; 
         try {
             StringBuilder sb = new StringBuilder();
-            String line = br.readLine();
-            while (line != null) {
-                sb.append(line);
-                sb.append(System.lineSeparator());
-                line = br.readLine();
+            while (br.readLine() != null) {
+                lines += 1;
             }
             br.close();
-            everything = sb.toString();
         } catch (IOException ex) {}
-        //System.out.print(everything);
-        return everything.split("\n").length;
+        return lines;
     }
     
 }

@@ -9,16 +9,18 @@ import java.util.ArrayList;
  *
  * @author Iva
  */
+
+//has to be an ArrayList of ArrayList<IndexEntry>;
 public class Index {
     
     private int nEntries;
-    private ArrayList<IndexEntry> table;
+    private ArrayList<ArrayList<IndexEntry>> table;
     
     public Index(int nEntries){
         this.nEntries = nEntries;
         this.table = new ArrayList<>(nEntries);
         for(int i = 0; i < nEntries; i++){
-            table.add(null);
+            table.add(new ArrayList<>());
         }
     }
     
@@ -32,35 +34,40 @@ public class Index {
         return sum % nEntries;
     }
     
-    //inserts a new IndexEntry in the Index (probably never gonna happen)
+    //inserts a new IndexEntry in the Index
     public void insert(IndexEntry entry){
         int i = funHash(entry.getTerm());
-        table.add(i, entry);
+        table.get(i).add(entry);
     }
     
     //inserts a new IndexEntry with term in the Index
     public void insert(String term){
-        int i = funHash(term); //SI YA ESTA OCUPADO LE ESTOY CAYENDO ENCIMA -.-
-        table.add(i, new IndexEntry(term));
+        int i = funHash(term); 
+        table.get(i).add(new IndexEntry(term));
     }
     
     //returns the object IndexEntry with the term "term"
     public IndexEntry getEntry(String term){
         IndexEntry index = null;
-        for(int i=0; i< nEntries; i++){
-            if(table.get(i).getTerm().compareTo(term)==0){
-                index = table.get(i);
+        for(int i=0; i< table.size(); i++){
+            for(int j = 0; j < table.get(i).size(); j++){
+                if( table.get(i).get(j).getTerm().compareTo(term)==0 )
+                    index = table.get(i).get(j);
             }
         }
         return index;
     }
     
     //return the index where the object IndexEntry with the term "term" is stored at
-    public int getIndex(String term){
-        int index = -1;
-        for(int i=0; i < nEntries; i++){
-            if(table.get(i).getTerm().compareTo(term)==0){
-                index = i;
+    public ArrayList getIndex(String term){
+        //int index = -1;
+        ArrayList index = new ArrayList(2);
+        for(int i=0; i< table.size(); i++){
+            for(int j = 0; i < table.get(i).size(); j++){
+                if(table.get(i).get(j).getTerm().compareTo(term)==0 ){
+                    index.add(0, i); //index in table
+                    index.add(1, j); //index in table entry
+                }
             }
         }
         return index;
@@ -68,14 +75,15 @@ public class Index {
     
     //associated a docID with a term
     public void associate(String term, String docID){
-        table.get(getIndex(term)).addDocument(docID);
+        ArrayList<Integer> idx = getIndex(term);
+        table.get(idx.get(0)).get(idx.get(1)).addDocument(docID);
     }
     
     //returns true if the docID is already associated to the term, false otherwise
     public boolean isAssociated(String term, String docID){
+        ArrayList<Integer> idx = getIndex(term);
         boolean result = false;
-        IndexEntry temp = table.get(getIndex(term));
-        if(temp.hasDocument(docID)==true){
+        if(table.get(idx.get(0)).get(idx.get(1)).hasDocument(docID)==true){
             result = true;
         }
         return result;
@@ -85,9 +93,13 @@ public class Index {
     @Override
     public String toString(){
         String result = "";
-        for(int i=0; i < nEntries; i++){
+        for(int i=0; i < table.size(); i++){
+            result += "===> Index"+i+"\n";
             if(table.get(i)!=null){
-                result += table.get(i).toString()+"\n";
+                for(int j = 0; j < table.get(i).size(); j++){
+                     if(table.get(i).get(j)!=null)
+                        result += "\t"+table.get(i).get(j).toString()+"\n";
+                }
             }
         }
         return result; 
