@@ -12,7 +12,7 @@ class AranaPipeline(object):
 	nombre = 1
 	
 	def process_item(self, item, spider):
-		self.file = open(str(self.nombre) + '.txt', 'wb')
+		self.file = open('../paginas/' + str(self.nombre) + '.txt', 'wb')
 		self.nombre += 1;
 		line = item['texto'] + "\n"
 		self.file.write(line)
