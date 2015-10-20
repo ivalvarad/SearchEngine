@@ -18,7 +18,6 @@ import java.util.logging.Logger;
 
 public class QueryProcessor 
 {
-    
     //receives a string with the search query from the user
     //in some way, it has to fix the query (ignore stop words and that kind of stuff)
     //then it has to process the query and look in the Index for the resulting docs
@@ -39,7 +38,7 @@ public class QueryProcessor
         // ArrayList with the id of the documents which match the boolean retrival.
         ArrayList<String> result = new ArrayList<>();
         ArrayList<String> queryWords = new ArrayList<>();
-	// ignore white-spaces and all that stuff.
+        // ignore white-spaces and all that stuff.
 	queryWords = separateWords(query);
 	// eliminates the stop-words.
 	queryWords = processWords(queryWords);
@@ -144,4 +143,30 @@ public class QueryProcessor
         }    
         return ans;
     }
+    
+    // intersection between two sets of words.
+    // the structure of the set model was simulated as an array.
+    public ArrayList<String> setIntersection(ArrayList<String> S1, ArrayList<String> S2)
+    {
+        ArrayList<String> ans = new ArrayList<>();
+        String word1;
+        String word2;
+        for(int i = 0; i < S1.size(); ++i)
+        {
+            word1 = S1.get(i);
+            for(int j = 0; j < S2.size(); ++j)
+            {
+                word2 = S2.get(j);
+                // element is part of the sets intersection.
+                if(word1.compareToIgnoreCase(word2) == 0)
+                {
+                    ans.add(word1);
+                    // it is not needed to end the intern cycle.
+                    break;
+                }
+            }
+        }
+        return ans;
+    }
+    
 }
