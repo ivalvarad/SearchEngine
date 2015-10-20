@@ -81,13 +81,18 @@ public class QueryProcessor {
     // could generate an empty array of words for being processed as a query.
     public ArrayList<String> processWords(ArrayList<String> queryWords)
     {
-        ArrayList<String> result = new ArrayList<String>();
+        ArrayList<String> result = new ArrayList<>();
+        String aux;
+        String stopword;
 	for(int i = 0; i < queryWords.size(); ++i)
 	{
             boolean includeW = true;
+            aux = queryWords.get(i);
             for(int j = 0; i < stopwords.size() && includeW != false; ++j)
             {
-                if((queryWords[i]).compareToIgnoreCase(stopwords[j]) == true))
+                stopword = stopwords.get(j);
+                // verifies if both string of characters are equal.
+                if(aux.compareToIgnoreCase(stopword) == 0)
 		{
                     // this word in the query will be not taken into account.
                     includeW = false;					
@@ -95,7 +100,7 @@ public class QueryProcessor {
             }
             if(includeW == true)
             {
-                result.add(queryWords[i]);				
+                result.add(aux);				
             }
 	}
 	return result;		
