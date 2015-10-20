@@ -28,7 +28,12 @@ public class QueryProcessor
     
     public QueryProcessor(Index index)
     {
-        this.index = index; 
+        this.index = index;
+        try 
+        {
+            loadStopWords("..\\stopwords.txt");
+        }
+        catch (FileNotFoundException ex){}
     }
     
     // receives String with the query
@@ -38,14 +43,43 @@ public class QueryProcessor
         // ArrayList with the id of the documents which match the boolean retrival.
         ArrayList<String> result = new ArrayList<>();
         ArrayList<String> queryWords = new ArrayList<>();
+        String post;
         // ignore white-spaces and all that stuff.
 	queryWords = separateWords(query);
 	// eliminates the stop-words.
-	queryWords = processWords(queryWords);
-        result.add("Hola");
+	queryWords = eliminateWords(queryWords);
+        result = processWords(queryWords);
         return result;
     }
-	
+    
+    // 
+    public ArrayList<String> processWords(ArrayList<String> queryWords)
+    {
+        ArrayList<String> postListF = new ArrayList<>();
+        ArrayList<String> postList = new ArrayList<>();
+        IndexEntry entry;
+        String aux;
+        
+        for(int i = 0; i < queryWords.size(); ++i)
+        {
+            // word to analize.
+            aux = queryWords.get(i);
+            // get the post-list for the word.
+            entry = index.getEntry(aux);
+            postList = entry.getPostingsList();                    
+            // postlist is still empty.
+            if(postListF.isEmpty())
+            {
+                postListF = postList;
+            }
+            else
+            {
+                postListF = setIntersection(postList, postListF);
+            }
+        }
+        return postListF;
+    }
+    	
     // generates an array of words according to a query that was originally a simple string of chars.
     public ArrayList<String> separateWords(String query)
     {
@@ -80,7 +114,7 @@ public class QueryProcessor
     // checks if the word has to be ignored or not.
     // none stop-word will be processed.
     // could generate an empty array of words for being processed as a query.
-    public ArrayList<String> processWords(ArrayList<String> queryWords)
+    public ArrayList<String> eliminateWords(ArrayList<String> queryWords)
     {
         ArrayList<String> result = new ArrayList<>();
         String aux;
@@ -110,7 +144,7 @@ public class QueryProcessor
     // processes a file with the stop-words
     // and loads them to memory.
     // stop-words are supposed to be one in each line of the file.
-    public void processStopWords(String path) throws FileNotFoundException
+    public void loadStopWords(String path) throws FileNotFoundException
     {
         BufferedReader br = new BufferedReader(new FileReader(path));
         try
