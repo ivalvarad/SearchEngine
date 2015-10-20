@@ -1,2 +1,40 @@
-casa 0 4 5
-hola 1 2 3 5
+-_- 02.txt
+Jenny 01.txt
+Oscar? 01.txt
+QUEFEO 01.txt
+QUELINDO 01.txt
+QUEMIERDAHAGOCONMIVIDA 01.txt
+alajuela 01.txt
+alalala 01.txt
+alo? 03.txt
+avispa 02.txt
+ayer 03.txt
+casa 01.txt
+enserio 01.txt
+estoNoesvida 01.txt
+gato 02.txt
+hola 01.txt 03.txt
+hoy 03.txt
+jeje 01.txt
+jiji 01.txt 03.txt
+jojoj 01.txt
+jojo 01.txt
+la? 01.txt
+losQuiero 01.txt
+maybe 03.txt
+mequieroMorir 01.txt
+mequieromatar 02.txt
+no 01.txt 03.txt
+ortografia 02.txt
+perro 01.txt
+que-bien 03.txt
+quelindo 03.txt
+quemal 02.txt
+quemolesto 02.txt
+quiz�s 01.txt
+san-jose 01.txt
+sapo 02.txt
+si 01.txt 03.txt
+solobueno 03.txt
+what 01.txt
+yanotoleroesto 02.txt

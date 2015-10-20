@@ -13,6 +13,8 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 /**
  *
@@ -27,6 +29,7 @@ public class TokensProcessor {
         tokens = new ArrayList();
     }
     
+    /*
     public void seeTokenList(){
         String text = "";
         BufferedWriter output = null;
@@ -44,6 +47,23 @@ public class TokensProcessor {
                 output.close();
             } catch (IOException ex) {System.out.println("ERROR: failed to close the file.");}
         }
+    }*/
+    
+    //returns a string with the tokens in the format
+    //term|number|docID
+    public String getTokenList(){
+        List<String> toOrder = new ArrayList(); 
+        String text = "";
+        for(int i=0;i<tokens.size();i++){
+            toOrder.add(tokens.get(i).getToken()+"|"+tokens.get(i).getTokens()+"|"+tokens.get(i).getDocID());
+        }
+        Collections.sort(toOrder);
+        for(String line : toOrder){
+            text += line;
+            text += "\n";
+        }
+        //System.out.print(text);
+        return text;
     }
     
     //adds a new token found into the list of tokens
@@ -78,7 +98,7 @@ public class TokensProcessor {
             }
             br.close();
             everything = sb.toString();
-        } catch (IOException ex) {System.out.println("ERROR: failed convertion from file to String.");}
+        } catch (IOException ex) {System.out.println("ERROR: failed conversion from file to String.");}
         return everything;
     }
     
@@ -89,7 +109,7 @@ public class TokensProcessor {
             String fileS = getStrFile(file.getAbsolutePath());
             String terms[] = fileS.split("[\\r\\n]+"); //NOT SURE IF THIS WORKS
             for(int i=0; i<terms.length;i++){
-                addToken(terms[i].trim(), docID);
+                addToken(terms[i].trim(), docID); //we are not working with composed tokens
             }
         } catch (FileNotFoundException ex) { System.out.print("ERROR: failed file processing."); }
     }
@@ -102,13 +122,52 @@ public class TokensProcessor {
         }
     }
     
-    //this method should transform the output file into a list of postings
-    public void processOutput(){
+    //this method should transform the output file into a list of postings in the format
+    //term docID1 docId2 ... docIDn
+    //assumes same token appears in continous lines
+    public void processOutput(String output){
+        String postings = "";
+        String lines[] = output.split("\n");
+        int initialIndex = 0;
+        int finalIndex = initialIndex;
+        while(finalIndex < lines.length){
+            String term = lines[initialIndex].substring(0,lines[initialIndex].indexOf("|"));
+            postings += term;
+            int i = initialIndex+1;
+            while( i < lines.length && lines[i].substring(0,lines[i].indexOf("|")).compareTo(term)==0 ){
+                finalIndex++;
+                i++;
+            }
+            for(int j = initialIndex; j <= finalIndex; j++){
+                String line = lines[j];
+                line = line.substring(line.indexOf("|")+1);
+                String docID = line.substring(line.indexOf("|")+1, line.length()); //leaves: docID
+                postings += " "+docID;
+                //System.out.print(" DocID: "+docID);
+            }
+            //System.out.println();
+            postings += "\n";
+            finalIndex++;
+            initialIndex = finalIndex;
+        }
         
+        BufferedWriter post = null;
+        File file = new File("..\\postings.txt");
+        try {
+            post = new BufferedWriter(new FileWriter(file));
+            post.write(postings);
+        } catch (IOException ex) {System.out.println("ERROR: failed to write the file.");}
+        if ( post != null ){
+            try {
+                post.close();
+            } catch (IOException ex) {System.out.println("ERROR: failed to close the file.");}
+        }
     }
     
     public void run(String path){
         processDir(path);
+        processOutput(getTokenList());
+        //getTokenList();
     }
     
 }
