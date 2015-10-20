@@ -16,14 +16,14 @@ import java.util.logging.Logger;
  */
 public class Parser {
     
-    private String fileName;
+    private String path;
     
-    public Parser(String fileName){
-        this.fileName = fileName;
+    public Parser(String path){
+        this.path = path;
     }
     
     public String getStrFile() throws FileNotFoundException{
-        BufferedReader br = new BufferedReader(new FileReader("C:\\Users\\Iva\\Documents\\II-2015\\CI-2414 Recup\\SearchEngine\\"+fileName));
+        BufferedReader br = new BufferedReader(new FileReader(path));
         String everything = "";
         try {
             StringBuilder sb = new StringBuilder();
@@ -40,6 +40,19 @@ public class Parser {
         }
         //System.out.print(everything);
         return everything;
+    }
+    
+    public int getNumberLines() throws FileNotFoundException{
+        BufferedReader br = new BufferedReader(new FileReader(path));
+        int lines = 0; 
+        try {
+            StringBuilder sb = new StringBuilder();
+            while (br.readLine() != null) {
+                lines += 1;
+            }
+            br.close();
+        } catch (IOException ex) {}
+        return lines;
     }
     
 }
