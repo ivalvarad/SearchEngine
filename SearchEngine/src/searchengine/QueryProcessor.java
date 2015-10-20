@@ -16,7 +16,8 @@ import java.util.logging.Logger;
  * @author Iva
  */
 
-public class QueryProcessor {
+public class QueryProcessor 
+{
     
     //receives a string with the search query from the user
     //in some way, it has to fix the query (ignore stop words and that kind of stuff)
@@ -31,10 +32,11 @@ public class QueryProcessor {
         this.index = index; 
     }
     
-    //receives String with the query
-    //returns an ArrayList with the id of the documents found
+    // receives String with the query
+    // returns an ArrayList with the id of the documents found
     public ArrayList<String> processQuery(String query)
     {
+        // ArrayList with the id of the documents which match the boolean retrival.
         ArrayList<String> result = new ArrayList<>();
         ArrayList<String> queryWords = new ArrayList<>();
 	// ignore white-spaces and all that stuff.
@@ -57,7 +59,7 @@ public class QueryProcessor {
 	{
             c = query.charAt(i);
             // white spaces are ignored.
-            if(Character.isWhitespace(c) == true)
+            if( ignoreChar(c) == true)
             {
                 // generates a substring.
 		pos2 = i-1;
@@ -66,7 +68,7 @@ public class QueryProcessor {
 		result.add(aux);
 		// ignores the white-spaces between words.
 		c = query.charAt(i+1);
-		while(Character.isWhitespace(c) == true)
+		while(ignoreChar(c) == true)
 		{
                     ++i;
 		}
@@ -127,5 +129,19 @@ public class QueryProcessor {
         {
             Logger.getLogger(QueryProcessor.class.getName()).log(Level.SEVERE, null, ex);
         }
+    }
+    
+    // only alphanumeric substrings of the query will be taken into account.
+    // verifies if the given char is alphanumeric or not.
+    // false if it is alphanumeric, otherwise true.
+    public boolean ignoreChar(char c)
+    {
+        boolean ans = false;
+        // verifies if the character is alphanumeric or not.
+        if(!Character.isDigit(c) && !Character.isLetter(c))
+        {
+            ans = true;
+        }    
+        return ans;
     }
 }
