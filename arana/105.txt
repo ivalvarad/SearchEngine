@@ -1,0 +1,1096 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Anheuser-Busch InBev - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Anheuser-Busch_InBev","wgTitle":"Anheuser-Busch InBev","wgCurRevisionId":686564967,"wgRevisionId":686564967,"wgArticleId":19395099,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with page title different than on Wikidata","Official website different in Wikidata and Wikipedia","BEL20 companies","Use dmy dates from June 2013","2008 establishments in Belgium","Anheuser-Busch InBev","Beer and breweries in Belgium","Beer and breweries in Brazil","Companies established in 2008","Companies listed on the New York Stock Exchange","InBev brands","Leuven","Multinational breweries","Price fixing convictions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Anheuser-Busch_InBev","wgRelevantArticleId":19395099,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/en/thumb/9/98/AB_InBev_logo.svg/100px-AB_InBev_logo.svg.png","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q128738","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Anheuser-Busch_InBev" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Anheuser-Busch_InBev" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Anheuser-Busch_InBev skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Anheuser-Busch InBev</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<caption class="fn org">Anheuser-Busch InBev SA/NV</caption>
+<tr>
+<td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:AB_InBev_logo.svg" class="image"><img alt="AB InBev logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/98/AB_InBev_logo.svg/220px-AB_InBev_logo.svg.png" width="220" height="96" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/98/AB_InBev_logo.svg/330px-AB_InBev_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/98/AB_InBev_logo.svg/440px-AB_InBev_logo.svg.png 2x" data-file-width="451" data-file-height="197" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Types_of_business_entity" title="Types of business entity">Type</a></div>
+</th>
+<td class="category" style="line-height:1.35em;">Public company</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded&#160;as</a></th>
+<td style="line-height:1.35em;"><a href="/wiki/Euronext" title="Euronext">Euronext</a>:&#160;<a rel="nofollow" class="external text" href="https://euronext.com/products/equities/BE0003793107-XBRU/quotes">ABI</a><br />
+<a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">NYSE</a>:&#160;<a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:BUD">BUD</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Industry</th>
+<td class="category" style="line-height:1.35em;">Beverages, brewing</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Founded</th>
+<td style="line-height:1.35em;">2008<span class="noprint">; 7&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2008</span>)</span>,<br />
+through merger of <a href="/wiki/InBev" title="InBev">InBev</a> with <a href="/wiki/Anheuser-Busch" title="Anheuser-Busch">Anheuser-Busch</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Headquarters</th>
+<td class="label" style="line-height:1.35em;"><a href="/wiki/Leuven" title="Leuven">Leuven</a>, Belgium</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Key people</div>
+</th>
+<td class="agent" style="line-height:1.35em;"><a href="/wiki/Carlos_Brito_(businessman)" title="Carlos Brito (businessman)">Carlos Brito</a> <small>(CEO)</small>,<br />
+<a href="/wiki/Kees_J._Storm" title="Kees J. Storm" class="mw-redirect">Kees J. Storm</a> <small>(chairman)</small></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Products</th>
+<td style="line-height:1.35em;">Beers, soft drinks</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Revenue</th>
+<td style="line-height:1.35em;">US$ 47.063 billion <small>(2014)</small><sup id="cite_ref-FR2014_1-0" class="reference"><a href="#cite_note-FR2014-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div>
+</th>
+<td style="line-height:1.35em;">US$15.111 billion <small>(EBIT 2014)</small><sup id="cite_ref-FR2014_1-1" class="reference"><a href="#cite_note-FR2014-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;"><a href="/wiki/Net_income" title="Net income">Profit</a></th>
+<td style="line-height:1.35em;">US$11.302 billion <small>(2014)</small><sup id="cite_ref-FR2014_1-2" class="reference"><a href="#cite_note-FR2014-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;"><span class="nowrap"><a href="/wiki/Asset" title="Asset">Total assets</a></span></th>
+<td style="line-height:1.35em;">US$142.550 billion <small>(2014)</small><sup id="cite_ref-FR2014_1-3" class="reference"><a href="#cite_note-FR2014-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;"><span class="nowrap"><a href="/wiki/Equity_(finance)" title="Equity (finance)">Total equity</a></span></th>
+<td style="line-height:1.35em;">US$54.257 billion <small>(2014)</small><sup id="cite_ref-FR2014_1-4" class="reference"><a href="#cite_note-FR2014-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div>
+</th>
+<td style="line-height:1.35em;">&gt;155,000 <small>(2014)</small><sup id="cite_ref-CI2014_2-0" class="reference"><a href="#cite_note-CI2014-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;"><a href="/wiki/Subsidiary" title="Subsidiary">Subsidiaries</a></th>
+<td style="line-height:1.35em;"><a href="/wiki/Anheuser-Busch" title="Anheuser-Busch">Anheuser-Busch</a><br />
+<a href="/wiki/AmBev" title="AmBev">AmBev</a><br />
+<a href="/wiki/InBev" title="InBev">InBev</a><br />
+<a href="/wiki/Grupo_Modelo" title="Grupo Modelo">Grupo Modelo</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Website</th>
+<td style="line-height:1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://www.ab-inbev.com">www<wbr />.ab-inbev<wbr />.com</a></span></td>
+</tr>
+</table>
+<p><b>Anheuser-Busch InBev SA/NV</b> (<small>Dutch pronunciation:</small> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_Dutch" title="Help:IPA for Dutch">[ˈɑnɦɔi̯zər ˈbuʃ ˈɪmbɛf]</a></span>, abbreviated as <b>AB InBev</b>) is a multinational beverage and brewing company headquartered in <a href="/wiki/Leuven" title="Leuven">Leuven</a>, Belgium. It is the world's largest brewer and has a 25 <a href="/wiki/Percent" title="Percent" class="mw-redirect">percent</a> global market share. AB InBev was formed through successive mergers of three international brewing groups: <a href="/wiki/Interbrew" title="Interbrew">Interbrew</a> from Belgium, <a href="/wiki/AmBev" title="AmBev">AmBev</a> from Brazil, and <a href="/wiki/Anheuser-Busch" title="Anheuser-Busch">Anheuser-Busch</a> from the United States. It has 16 brands that individually generate over 1 billion USD per year in revenue out of a portfolio of more than 200 brands (2014).<sup id="cite_ref-CI2014_2-1" class="reference"><a href="#cite_note-CI2014-2"><span>[</span>2<span>]</span></a></sup> This portfolio includes global brands <a href="/wiki/Budweiser_(Anheuser-Busch)" title="Budweiser (Anheuser-Busch)" class="mw-redirect">Budweiser</a>, <a href="/wiki/Corona_(beer)" title="Corona (beer)">Corona</a> and <a href="/wiki/Stella_Artois" title="Stella Artois">Stella Artois</a>, international brands <a href="/wiki/Beck%27s" title="Beck's" class="mw-redirect">Beck's</a>, <a href="/wiki/Hoegaarden_Brewery" title="Hoegaarden Brewery">Hoegaarden</a> and <a href="/wiki/Leffe" title="Leffe">Leffe</a> and local brands such as <a href="/wiki/Bud_Light" title="Bud Light" class="mw-redirect">Bud Light</a>, <a href="/wiki/Skol" title="Skol">Skol</a>, <a href="/wiki/Brahma_beer" title="Brahma beer">Brahma</a>, <a href="/wiki/Companhia_Antarctica_Paulista" title="Companhia Antarctica Paulista">Antarctica</a>, <a href="/wiki/Cerveza_Quilmes" title="Cerveza Quilmes">Quilmes</a>, Victoria, <a href="/wiki/Modelo_Especial" title="Modelo Especial" class="mw-redirect">Modelo Especial</a>, <a href="/wiki/Michelob_Ultra" title="Michelob Ultra" class="mw-redirect">Michelob Ultra</a>, <a href="/wiki/Harbin_Brewery" title="Harbin Brewery">Harbin</a>, Sedrin, Klinskoye, Sibirskaya Korona, Chernigivske and <a href="/wiki/Jupiler" title="Jupiler">Jupiler</a>. Total revenue for all 200 AB InBev brands in 2014 was over 47 billion USD.<sup id="cite_ref-CI2014_2-2" class="reference"><a href="#cite_note-CI2014-2"><span>[</span>2<span>]</span></a></sup> The company employs over 155,000 people in 25 countries. After the integration in 2008 of Anheuser-Busch, based in <a href="/wiki/Saint_Louis,_Missouri" title="Saint Louis, Missouri" class="mw-redirect">Saint Louis, Missouri</a>, the company started reporting its financial results in US dollars.</p>
+<p>AB InBev has a primary listing on <a href="/wiki/Euronext_Brussels" title="Euronext Brussels" class="mw-redirect">Euronext Brussels</a> and is a constituent of the <a href="/wiki/Euro_Stoxx_50" title="Euro Stoxx 50">Euro Stoxx 50</a> index. It has a secondary listing on the <a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">New York Stock Exchange</a>. Dividends per share increased steadily from 0.35 USD in 2008 to 3.00 USD for 2014. The payout ratio increased from 26.3% to 64.8% during the same period.<sup id="cite_ref-key_figures_3-0" class="reference"><a href="#cite_note-key_figures-3"><span>[</span>3<span>]</span></a></sup> AB InBev's market share, measured as volume of beverages sold, on a country-by-country basis, was published by the company for 2014, showing it has the highest market share and market share over 40% in seven of its 10 top markets—including Belgium, United States, Canada, Mexico, Brazil, Argentina and South Korea.<sup id="cite_ref-CI2014_2-3" class="reference"><a href="#cite_note-CI2014-2"><span>[</span>2<span>]</span></a></sup> AB InBev operates 140 plants in its 10 top markets.</p>
+<p>In October 2015, Anheuser-Busch InBev announced a successful all-cash bid to acquire multinational competitor <a href="/wiki/SABMiller" title="SABMiller">SABMiller</a> for £69 billion ($104 billion).<sup id="cite_ref-inbevmerger_4-0" class="reference"><a href="#cite_note-inbevmerger-4"><span>[</span>4<span>]</span></a></sup> The plan must yet pass regulatory and anti-trust scrutiny.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Takeovers"><span class="tocnumber">2</span> <span class="toctext">Takeovers</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Interbrew"><span class="tocnumber">2.1</span> <span class="toctext">Interbrew</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#AmBev"><span class="tocnumber">2.2</span> <span class="toctext">AmBev</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Anheuser-Busch"><span class="tocnumber">2.3</span> <span class="toctext">Anheuser-Busch</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#InBev"><span class="tocnumber">2.4</span> <span class="toctext">InBev</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Grupo_Modelo"><span class="tocnumber">2.5</span> <span class="toctext">Grupo Modelo</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Oriental_Brewery"><span class="tocnumber">2.6</span> <span class="toctext">Oriental Brewery</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Bud_Analytics_Lab"><span class="tocnumber">2.7</span> <span class="toctext">Bud Analytics Lab</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#SABMiller"><span class="tocnumber">2.8</span> <span class="toctext">SABMiller</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Brands"><span class="tocnumber">3</span> <span class="toctext">Brands</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>AB InBev was formed following the acquisition of American brewer <a href="/wiki/Anheuser-Busch" title="Anheuser-Busch">Anheuser-Busch</a> by Belgian-Brazilian brewer <a href="/wiki/InBev" title="InBev">InBev</a>, which is a merger of <a href="/wiki/AmBev" title="AmBev">AmBev</a> and <a href="/wiki/Interbrew" title="Interbrew">Interbrew</a>.</p>
+<ul>
+<li><b><a href="/wiki/Interbrew" title="Interbrew">Interbrew</a></b> was formed in 1987 from a merger of the two largest breweries in Belgium: <a href="/wiki/Stella_Artois#History" title="Stella Artois">Artois</a> and <a href="/wiki/Piedboeuf_Brewery" title="Piedboeuf Brewery">Piedboeuf</a>. The Artois brewery, previously known as <i>Den Hoorn</i>, was already established by 1466. In 1995, Interbrew purchased <a href="/wiki/Labatt_Brewing_Company" title="Labatt Brewing Company">Labatt Brewing Company</a> (founded 1847), the largest brewer in Canada. In 2002 it acquired <a href="/wiki/Beck%27s_Beer" title="Beck's Beer" class="mw-redirect">Beck's</a> (founded 1873), the maker of the world's top selling German beer.</li>
+<li><b><a href="/wiki/AmBev" title="AmBev">AmBev</a></b> (short for <i>Companhia de Bebidas das Américas</i>, or "Beverages Company of the Americas") was created in 1999 with the merger of the two biggest Brazilian brewers, <a href="/wiki/Companhia_Antarctica_Paulista" title="Companhia Antarctica Paulista">Antarctica</a> (founded in 1880) and <a href="/wiki/Brahma_beer" title="Brahma beer">Brahma</a> (founded in 1886).</li>
+<li><b><a href="/wiki/Anheuser-Busch" title="Anheuser-Busch">Anheuser-Busch</a></b> was established in 1860 in <a href="/wiki/St._Louis" title="St. Louis">St. Louis</a>, <a href="/wiki/Missouri" title="Missouri">Missouri</a>, United States, as <i>Anheuser &amp; Co</i>.</li>
+</ul>
+<p>In 2004, Interbrew and AmBev <a href="/wiki/Mergers_and_acquisitions" title="Mergers and acquisitions">merged</a>, creating the world's largest brewer, InBev.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> The deal was valued at $11.5 billion and combined the 3rd largest (Interbrew) and 5th largest (Ambev) brewers into the world's No.1 beermaker. The deal consolidated the top brands from Belgium, Canada, Germany and Brazil.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>In 2013, InBev acquired the Fujian Sedrin brewery in China, making InBev the No. 3 brewer in China (the world's largest beer market). In 2007, subsidiary Labatt acquired <a href="/wiki/Lakeport_Brewing_Company" title="Lakeport Brewing Company">Lakeport</a> in Canada, and InBev increased its shareholding in <a href="/wiki/Cerveza_Quilmes#QUINSA" title="Cerveza Quilmes">QUINSA</a>, strengthening the company’s foothold in Argentina, Bolivia, Chile, Paraguay and Uruguay.</p>
+<p>In 2008, the merger of InBev and Anheuser-Busch was completed, creating Anheuser–Busch InBev, expanding on InBev's previous status as the world's largest brewer, now creating one of the top five consumer products companies in the world. Under the terms of the merger agreement, all shares of Anheuser-Busch were acquired for 70 USD per share in cash, for an aggregate of 52 billion USD.<sup id="cite_ref-ab-inbev.com_7-0" class="reference"><a href="#cite_note-ab-inbev.com-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Takeovers">Takeovers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=edit&amp;section=2" title="Edit section: Takeovers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following is a diagram of Anheuser-Busch's major mergers and acquisitions and historical predecessors</p>
+<table cellspacing="0" cellpadding="0" border="0" style="font-size:90%;line-height:110%">
+<tr>
+<td style="width: 1.5em; border-bottom: 0px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><span class="nowrap"><span style="font-size:100%;"><b>Anheuser-Busch InBev</b></span></span></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><span class="nowrap">Anheuser-Busch InBev<br />
+<small>(Formed 2008)</small></span></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><span class="nowrap"><a href="/wiki/InBev" title="InBev">InBev</a></span></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><span class="nowrap"><a href="/wiki/Interbrew" title="Interbrew">Interbrew</a><br />
+<small>(Merged 2004)</small></span></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p>Brouwerij Artois<br />
+<small>(Est 1366, Named <i>Artois</i> 1717, Merged 1988)</small></p>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><a href="/wiki/Piedboeuf_Brewery" title="Piedboeuf Brewery">Piedboeuf Brewery</a><br />
+<small>(Merged 1988)</small></p>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><a href="/wiki/Labatt_Brewing_Company" title="Labatt Brewing Company">Labatt Brewing Company</a><br />
+<small>(Est 1847, Acq 1995)</small></p>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><a href="/wiki/Lakeport_Brewing_Company" title="Lakeport Brewing Company">Lakeport Brewing Company</a><br />
+<small>(Est 1992, Acq 2007)</small></p>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><span class="nowrap"><a href="/wiki/AmBev" title="AmBev">AmBev</a><br />
+<small>(Merged 2004)</small></span></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><a href="/wiki/Brahma_beer" title="Brahma beer">Brahma</a><br />
+<small>(Merged 1999)</small></p>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><a href="/wiki/Companhia_Antarctica_Paulista" title="Companhia Antarctica Paulista">Companhia Antarctica Paulista</a><br />
+<small>(Merged 1999)</small></p>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><a href="/wiki/Cerveza_Quilmes" title="Cerveza Quilmes">Cerveza Quilmes</a><br />
+<small>(Acq 2006)</small></p>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><a href="/wiki/Cervecer%C3%ADa_Nacional_Dominicana" title="Cervecería Nacional Dominicana">Cervecería Nacional Dominicana</a><br />
+<small>(Acq 2012)</small></p>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><span class="nowrap"><a href="/wiki/Anheuser-Busch" title="Anheuser-Busch">Anheuser-Busch</a></span></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><a href="/wiki/Harbin_Brewery" title="Harbin Brewery">Harbin Brewery</a></p>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p>Anheuser-Busch<br />
+<small>(Est 1852)</small></p>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><a href="/wiki/Grupo_Modelo" title="Grupo Modelo">Grupo Modelo</a><br />
+<small>(Acq 2012)</small></p>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><span class="nowrap"><a href="/wiki/SABMiller" title="SABMiller">SABMiller</a><br />
+<small>offer accepted</small><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>N 1<span>]</span></a></sup></span></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><a href="/wiki/South_African_Breweries" title="South African Breweries">South African Breweries</a><br />
+<small>(Acq 1947)</small></p>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><a href="/wiki/Miller_Brewing_Company" title="Miller Brewing Company">Miller Brewing Company</a><br />
+<small>(Acq 2002)</small></p>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><a href="/wiki/Bavaria_Brewery_(Colombia)" title="Bavaria Brewery (Colombia)">Bavaria Brewery</a><br />
+<small>(Acq 2005)</small></p>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><a href="/wiki/Foster%27s_Group" title="Foster's Group">Foster's Group</a><br />
+<small>(Acq 2011)</small></p>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><a href="/wiki/Meantime_Brewing" title="Meantime Brewing" class="mw-redirect">Meantime Brewing</a><br />
+<small>(Acq 2015)</small></p>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Note, as of October 2015 the acquisition of SABMiller is still pending regulatory approval</span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Interbrew">Interbrew</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=edit&amp;section=3" title="Edit section: Interbrew">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Interbrew" title="Interbrew">Interbrew</a></div>
+<p>After the merger in 1987, Interbrew acquired a number of local breweries in Belgium. By 1991, a second phase of targeted external growth began outside Belgium. The first transaction in this phase took place in Hungary, followed in 1995 by the acquisition of Labatt, in Canada, and then in 1999 by a joint venture with Sun in Russia.</p>
+<p>In 2000, Interbrew acquired Bass and Whitbread in the UK, and in 2001 the company established itself in Germany, with the acquisition of Diebels. This was followed by the acquisition of Beck’s &amp; Co., the Gilde Group and Spaten. Interbrew operated as a family-owned business until December 2000. At this point it organized an Initial Public Offering, becoming a publicly owned company trading on the Euronext stock exchange (Brussels, Belgium).</p>
+<p>In 2002, Interbrew strengthened its position in China, by acquiring stakes in the K.K. Brewery and the Zhujiang Brewery.</p>
+<h3><span class="mw-headline" id="AmBev">AmBev</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=edit&amp;section=4" title="Edit section: AmBev">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/AmBev" title="AmBev">AmBev</a></div>
+<p><a href="/wiki/AmBev" title="AmBev">AmBev</a> is a Brazilian beverages company formed by a merger in 1999 between the Brahma and Antarctica breweries. It has a dominant position in South America and the Caribbean region.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>10<span>]</span></a></sup> The subsidiary is listed on <a href="/wiki/BM%26F_Bovespa" title="BM&amp;F Bovespa">BM&amp;F Bovespa</a>, the São Paulo stock exchange, and on the <a href="/wiki/New_York_Stock_Exchange" title="New York Stock Exchange">New York Stock Exchange</a>.</p>
+<h3><span class="mw-headline" id="Anheuser-Busch">Anheuser-Busch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=edit&amp;section=5" title="Edit section: Anheuser-Busch">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Anheuser-Busch" title="Anheuser-Busch">Anheuser-Busch</a></div>
+<p>Anheuser-Busch is the largest brewing company in the United States. It was the world's largest brewing company based on <a href="/wiki/Revenue" title="Revenue">revenue</a>, but third in brewing volume, before the acquisition by <a href="/wiki/InBev" title="InBev">InBev</a> announced 13 July 2008. The division operated 12 breweries in the United States and 17 others overseas.</p>
+<p>Anheuser-Busch's best known beers included brands such as <a href="/wiki/Budweiser_(Anheuser-Busch)" title="Budweiser (Anheuser-Busch)" class="mw-redirect">Budweiser</a>, the <a href="/wiki/Busch_Beer" title="Busch Beer" class="mw-redirect">Busch</a> (originally known as Busch Bavarian Beer) and <a href="/wiki/Michelob" title="Michelob" class="mw-redirect">Michelob</a> families, and <a href="/wiki/Natural_Light" title="Natural Light">Natural Light</a> and <a href="/wiki/Natural_Ice" title="Natural Ice" class="mw-redirect">Ice</a>. The company also produced a number of smaller-volume and specialty beers, nonalcoholic brews, <a href="/wiki/Malt_liquor" title="Malt liquor">malt liquors</a> (King Cobra and the Hurricane family), and flavored <a href="/wiki/Malt_beverage" title="Malt beverage">malt beverages</a> (e.g., the Bacardi Silver family and <a href="/wiki/Tequiza" title="Tequiza" class="mw-redirect">Tequiza</a>).</p>
+<p>Anheuser-Busch was also one of the largest theme park operators in the United States with ten parks throughout the United States. In October 2009, AB InBev announced the sale of its <a href="/wiki/Busch_Entertainment" title="Busch Entertainment" class="mw-redirect">Busch Entertainment</a> theme park division to <a href="/wiki/The_Blackstone_Group" title="The Blackstone Group">The Blackstone Group</a> for $2.7 billion. The company had been investigating a sale of Busch Entertainment since the merger with Inbev.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>12<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="InBev">InBev</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=edit&amp;section=6" title="Edit section: InBev">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/InBev" title="InBev">InBev</a></div>
+<p>InBev was the second largest brewery company in the world.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>13<span>]</span></a></sup> While its core business is beer, the company also had a strong presence in the <a href="/wiki/Soft_drink" title="Soft drink">soft drink</a> market in Latin America. It employed about 86,000 people and was headquartered in Leuven, Belgium, where Anheuser–Busch InBev will now be based.</p>
+<p>Before the merger with AmBev, Interbrew was the third largest brewing company in the world by volume, <a href="/wiki/Anheuser-Busch" title="Anheuser-Busch">Anheuser-Busch</a> was the largest, followed by <a href="/wiki/SABMiller" title="SABMiller">SABMiller</a> in second place. <a href="/wiki/Heineken_International" title="Heineken International">Heineken International</a> was in fourth place and AmBev was the world's fifth largest brewer.</p>
+<p>InBev employed close to 89,000 people, running operations in over 30 countries across the Americas, Europe and Asia Pacific. In 2007, InBev realized 14.4 billion euro of revenue.</p>
+<h3><span class="mw-headline" id="Grupo_Modelo">Grupo Modelo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=edit&amp;section=7" title="Edit section: Grupo Modelo">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The company owns <a href="/wiki/Grupo_Modelo" title="Grupo Modelo">Grupo Modelo</a>, Mexico's leading brewer and owner of the <a href="/wiki/Corona_(beer)" title="Corona (beer)">Corona</a> brand as of 4 June 2013. This transaction was valued at 20.1 billion USD. To satisfy US anti-trust demands, Grupo Modelo sold its US business, including US brand rights and the Piedras Negras Brewery in Mexico, for approx. 4.75 billion USD to <a href="/wiki/Constellation_Brands" title="Constellation Brands">Constellation Brands</a>, a competitor of AB Inbev in some beverage sectors.<sup id="cite_ref-FR2014_1-5" class="reference"><a href="#cite_note-FR2014-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>Additionally, the group has a 51% controlling stock on <a href="/wiki/Cerveceria_Nacional_Dominicana" title="Cerveceria Nacional Dominicana" class="mw-redirect">Cerveceria Nacional Dominicana</a> through the <a href="/wiki/AmBev" title="AmBev">AmBev</a> division.</p>
+<h3><span class="mw-headline" id="Oriental_Brewery">Oriental Brewery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=edit&amp;section=8" title="Edit section: Oriental Brewery">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On April 1, 2014, AB Inbev completed the re-acquisition of the <a href="/wiki/Oriental_Brewery" title="Oriental Brewery">Oriental Brewery</a> (OB), which it had sold in July 2009. OB is the largest brewer in South Korea. Its <i>CASS</i> brand is the best-selling beer in South Korea. All beers produced by OB are brewed using rice.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>14<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Bud_Analytics_Lab">Bud Analytics Lab</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=edit&amp;section=9" title="Edit section: Bud Analytics Lab">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2013, AB Inbev opened its Bud Analytics Lab in <a href="/wiki/Research_Park,_University_of_Illinois_at_Urbana-Champaign" title="Research Park, University of Illinois at Urbana-Champaign">Research Park, University of Illinois at Urbana-Champaign</a>, which develops data research and innovation to solve problems ranging from assortment optimization, social media, and market trends to large scale data initiatives.</p>
+<h3><span class="mw-headline" id="SABMiller">SABMiller</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=edit&amp;section=10" title="Edit section: SABMiller">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/SABMiller" title="SABMiller">SABMiller</a></div>
+<p>On October 13, 2015, Anheuser-Busch InBev made a bid of $106 billion or £70 billion (£44 per share) for its largest rival, <a href="/wiki/SABMiller" title="SABMiller">SABMiller</a>, which if approved would give the company almost 30 percent of the world's beer market.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>15<span>]</span></a></sup> The company had previously offered £38, £40, £42.15, £43.50 per share respectively, but each of these had been turned down.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>18<span>]</span></a></sup></p>
+<p>SABMiller accepted the bid <a href="/wiki/Agreement_in_principle" title="Agreement in principle">in principle</a>, but consummation of the deal awaits <a href="/wiki/Antitrust" title="Antitrust" class="mw-redirect">antitrust</a> approval by regulatory agencies in the U.S. and possibly elsewhere. Industry leader AB InBev, based in Belgium, accounted for more than a fifth of global beer sales and 45% of the U.S. market in 2014.<sup id="cite_ref-MW20150727_20-0" class="reference"><a href="#cite_note-MW20150727-20"><span>[</span>19<span>]</span></a></sup> AB InBev's brands include Budweiser, Corona, Stella Artois and Becks.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>20<span>]</span></a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>21<span>]</span></a></sup></p>
+<p>SABMiller, whose brands include <a href="/wiki/Foster%27s_Lager" title="Foster's Lager">Fosters</a>, <a href="/wiki/Pilsner_Urquell_Brewery" title="Pilsner Urquell Brewery">Pilsner Urquell</a>, <a href="/wiki/Grolsch_Brewery" title="Grolsch Brewery">Grolsch</a>, <a href="/wiki/Miller_Brewing_Company" title="Miller Brewing Company">Miller</a>, <a href="/wiki/Coors_Brewing_Company" title="Coors Brewing Company">Coors</a>, and <a href="/wiki/Peroni_Brewery" title="Peroni Brewery">Peroni</a>,<sup id="cite_ref-snapshot_23-0" class="reference"><a href="#cite_note-snapshot-23"><span>[</span>22<span>]</span></a></sup> is the world's second-largest brewer with a global market share of nearly 10 percent. In 2014, its 58% interest in the <a href="/wiki/MillerCoors" title="MillerCoors">MillerCoors</a> joint venture represented the second-biggest share of the U.S. market at 15%.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>23<span>]</span></a></sup><sup id="cite_ref-MW20150727_20-1" class="reference"><a href="#cite_note-MW20150727-20"><span>[</span>19<span>]</span></a></sup> If the deal were to go through without requiring divestiture of some brands (seen as unlikely), the combined company would control 30% of the global market and have a dominating 60% U.S. market share.</p>
+<h2><span class="mw-headline" id="Brands">Brands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=edit&amp;section=11" title="Edit section: Brands">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/AB_InBev_brands" title="AB InBev brands">AB InBev brands</a></div>
+<p>AB InBev's brand portfolio includes highly popular beer and soft drinks brands. The company classifies its brands as Global Brands, International Brands, and Local Champions.</p>
+<p>Global brands include:</p>
+<ul>
+<li><a href="/wiki/Budweiser_(Anheuser-Busch)" title="Budweiser (Anheuser-Busch)" class="mw-redirect">Budweiser</a></li>
+<li><a href="/wiki/Corona_(beer)" title="Corona (beer)">Corona</a></li>
+<li><a href="/wiki/Stella_Artois" title="Stella Artois">Stella Artois</a></li>
+</ul>
+<p>International brands include:</p>
+<ul>
+<li><a href="/wiki/Beck%27s" title="Beck's" class="mw-redirect">Beck's</a></li>
+<li><a href="/wiki/Hoegaarden_Brewery" title="Hoegaarden Brewery">Hoegaarden</a></li>
+<li><a href="/wiki/Leffe" title="Leffe">Leffe</a></li>
+</ul>
+<p>Local Champion brands include:</p>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/w/index.php?title=10_Barrel&amp;action=edit&amp;redlink=1" class="new" title="10 Barrel (page does not exist)">10 Barrel</a><sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>24<span>]</span></a></sup></li>
+<li><a href="/wiki/Alexander_Keith%27s" title="Alexander Keith's" class="mw-redirect">Alexander Keith's</a></li>
+<li><a href="/w/index.php?title=BagBier&amp;action=edit&amp;redlink=1" class="new" title="BagBier (page does not exist)">BagBier</a></li>
+<li><a href="/wiki/Bass_(beer)" title="Bass (beer)" class="mw-redirect">Bass</a></li>
+<li><a href="/wiki/Blue_Point_Brewing_Company" title="Blue Point Brewing Company">Blue Point Brewing Company</a></li>
+<li><a href="/w/index.php?title=Bogot%C3%A1_Beer_Company&amp;action=edit&amp;redlink=1" class="new" title="Bogotá Beer Company (page does not exist)">Bogotá Beer Company</a></li>
+<li><a href="/wiki/Brahma_beer" title="Brahma beer">Brahma</a></li>
+<li><a href="/wiki/Busch_Beer" title="Busch Beer" class="mw-redirect">Busch</a></li>
+<li><a href="/wiki/Oriental_Brewery#Brands" title="Oriental Brewery">Cafri</a></li>
+<li><a href="/wiki/Oriental_Brewery#Brands" title="Oriental Brewery">Cass</a></li>
+<li><a href="/wiki/Dommelsch" title="Dommelsch" class="mw-redirect">Dommelsch</a></li>
+<li><a href="/wiki/Elysian_Brewing_Company" title="Elysian Brewing Company">Elysian Brewing Company</a></li>
+<li><a href="/w/index.php?title=Diebels&amp;action=edit&amp;redlink=1" class="new" title="Diebels (page does not exist)">Diebels</a></li>
+<li><a href="/wiki/Dutch_Gold" title="Dutch Gold">Dutch Gold</a></li>
+<li><a href="/wiki/Spaten-Franziskaner-Br%C3%A4u" title="Spaten-Franziskaner-Bräu">Franziskaner</a></li>
+<li><a href="/w/index.php?title=Golden_Road_(beer)&amp;action=edit&amp;redlink=1" class="new" title="Golden Road (beer) (page does not exist)">Golden Road</a></li>
+<li><a href="/wiki/Goose_Island_Brewery" title="Goose Island Brewery">Goose Island</a></li>
+<li><a href="/wiki/Guaran%C3%A1_Antarctica" title="Guaraná Antarctica">Guaraná Antarctica</a></li>
+<li><a href="/wiki/Harbin_Brewery" title="Harbin Brewery">Harbin Brewery</a></li>
+<li><a href="/wiki/Hasser%C3%B6der" title="Hasseröder">Hasseröder</a></li>
+<li><a href="/wiki/Hertog_Jan" title="Hertog Jan">Hertog Jan</a></li>
+<li><a href="/wiki/Jupiler" title="Jupiler">Jupiler</a></li>
+<li><a href="/w/index.php?title=%D0%9Alinskoye&amp;action=edit&amp;redlink=1" class="new" title="Кlinskoye (page does not exist)">Кlinskoye</a></li>
+<li><a href="/wiki/Kokanee_beer" title="Kokanee beer">Kokanee</a></li>
+<li><a href="/wiki/Labatt" title="Labatt" class="mw-redirect">Labatt</a></li>
+<li><a href="/wiki/L%C3%B6wenbr%C3%A4u" title="Löwenbräu">Löwenbräu</a></li>
+<li><a href="/wiki/Michelob" title="Michelob" class="mw-redirect">Michelob</a></li>
+<li><a href="/wiki/Grupo_Modelo" title="Grupo Modelo">Modelo</a></li>
+<li><a href="/wiki/Natural_Ice" title="Natural Ice" class="mw-redirect">Natural Ice</a></li>
+<li><a href="/wiki/Oriental_Brewery#Brands" title="Oriental Brewery">OB Golden Lager</a></li>
+<li><a href="/wiki/O%27Doul%27s" title="O'Doul's" class="mw-redirect">O'Doul's</a></li>
+<li><a href="/wiki/Oranjeboom" title="Oranjeboom" class="mw-redirect">Oranjeboom</a></li>
+<li><a href="/wiki/Premier" title="Premier">Premier</a></li>
+<li><a href="/wiki/Presidente_(beer)" title="Presidente (beer)">Presidente</a></li>
+<li><a href="/wiki/Cerveza_Quilmes" title="Cerveza Quilmes">Quilmes</a></li>
+<li><a href="/w/index.php?title=Rifyey&amp;action=edit&amp;redlink=1" class="new" title="Rifyey (page does not exist)">Rifyey</a></li>
+<li><a href="/wiki/Rolling_Rock" title="Rolling Rock">Rolling Rock</a></li>
+<li><a href="/wiki/Shock_Top" title="Shock Top" class="mw-redirect">Shock Top</a></li>
+<li><a href="/w/index.php?title=Sibirskaya_Korona&amp;action=edit&amp;redlink=1" class="new" title="Sibirskaya Korona (page does not exist)">Sibirskaya Korona</a></li>
+<li><a href="/wiki/Skol" title="Skol">Skol</a></li>
+<li><a href="/wiki/Spaten-Franziskaner-Br%C3%A4u" title="Spaten-Franziskaner-Bräu">Spaten</a></li>
+<li><a href="/w/index.php?title=Tolstyak&amp;action=edit&amp;redlink=1" class="new" title="Tolstyak (page does not exist)">Tolstyak</a></li>
+<li><a href="/wiki/Volzhanin" title="Volzhanin">Volzhanin</a></li>
+</ul>
+</div>
+<p>The company also owns distribution rights to the <a href="/wiki/Bacardi" title="Bacardi">Bacardi</a> and <a href="/wiki/Monster_Energy" title="Monster Energy">Monster Energy</a> brands.<sup id="cite_ref-ab-inbev.com_7-1" class="reference"><a href="#cite_note-ab-inbev.com-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-FR2014-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-FR2014_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FR2014_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FR2014_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FR2014_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-FR2014_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-FR2014_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ab-inbev.com/content/dam/universaltemplate/abinbev/pdf/investors/annual-and-hy-reports/2014/AB_InBev_AR14_EN_financial.pdf">"Financial Report 2014"</a> <span style="font-size:85%;">(PDF)</span>. Anheuser-Busch InBev.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=Financial+Report+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ab-inbev.com%2Fcontent%2Fdam%2Funiversaltemplate%2Fabinbev%2Fpdf%2Finvestors%2Fannual-and-hy-reports%2F2014%2FAB_InBev_AR14_EN_financial.pdf&amp;rft.pub=Anheuser-Busch+InBev&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CI2014-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-CI2014_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CI2014_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CI2014_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-CI2014_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ab-inbev.com/media/our-company.html">"Company Information"</a>. Anheuser-Busch InBev<span class="reference-accessdate">. Retrieved <span class="nowrap">20 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=Company+Information&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ab-inbev.com%2Fmedia%2Four-company.html&amp;rft.pub=Anheuser-Busch+InBev&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-key_figures-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-key_figures_3-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ab-inbev.com/content/dam/universaltemplate/abinbev/pdf/media/press-kit/2014/ABInBev_Annual%20Report_14_KeyFigures.jpg">Key Figures 2014</a></span></li>
+<li id="cite_note-inbevmerger-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-inbevmerger_4-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.thehindubusinessline.com/todays-paper/tp-news/ab-inbev-sabmiller-clink-glasses-for-69b-deal/article7758570.ece">"AB InBev, SABMiller clink glasses for £69-b deal"</a>. <i>Business Line</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.atitle=AB+InBev%2C+SABMiller+clink+glasses+for+%C2%A369-b+deal&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.thehindubusinessline.com%2Ftodays-paper%2Ftp-news%2Fab-inbev-sabmiller-clink-glasses-for-69b-deal%2Farticle7758570.ece&amp;rft.jtitle=Business+Line&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.beveragedaily.com/news/ng.asp?id=50355-interbrew-buys-ambev">"Interbrew buys AmBev and becomes world's number one"</a>. <i>Beverage Daily</i>. 3 March 2004. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20080213164030/http://www.beveragedaily.com/news/ng.asp?id=50355-interbrew-buys-ambev">Archived</a> from the original on 13 February 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">9 February</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=Interbrew+buys+AmBev+and+becomes+world%27s+number+one&amp;rft.date=3+March+2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.beveragedaily.com%2Fnews%2Fng.asp%3Fid%3D50355-interbrew-buys-ambev&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://fortune.com/2013/08/15/carlos-brito-brewmaster-of-the-universe/">"Carlos Brito: (Brew)master of the universe"</a>. <i>Fortune</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=Carlos+Brito%3A+%28Brew%29master+of+the+universe&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ffortune.com%2F2013%2F08%2F15%2Fcarlos-brito-brewmaster-of-the-universe%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ab-inbev.com-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-ab-inbev.com_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ab-inbev.com_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ab-inbev.com">"Home"</a>. ab-inbev.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=Home&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ab-inbev.com&amp;rft.pub=ab-inbev.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ambev.com.br">"Companhia de Bebidas das Américas"</a>. AmBev. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20100809150923/http://www.ambev.com.br/">Archived</a> from the original on 9 August 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-07-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=Companhia+de+Bebidas+das+Am%C3%A9ricas&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ambev.com.br&amp;rft.pub=AmBev&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gstock.com/quote/abv.html">"Stock symbol abv"</a>. Gstock Supercomputer<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-07-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=Stock+symbol+abv&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.gstock.com%2Fquote%2Fabv.html&amp;rft.pub=Gstock+Supercomputer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/americas/6631147.stm">"Alcoholic beer taster gets payout"</a>. BBC News. 6 May 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.atitle=Alcoholic+beer+taster+gets+payout&amp;rft.date=6+May+2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Famericas%2F6631147.stm&amp;rft.pub=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.marketwatch.com/story/blackstone-buys-a-b-inbevs-theme-parks-for-27b-2009-10-07">Blackstone to buy A-B InBev's theme parks for $2.7 billion</a>. MarketWatch, 7 Oct. 2009</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.boston.com/business/articles/2008/07/16/inbev_may_sell_us_theme_parks/">InBev may sell US theme parks</a>. Boston Globe, 16 July 2008</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/business/7417392.stm">Bid talk boosts Budweiser maker</a>. BBC News. 23 May 2008.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ab-inbev.com/press_releases/hugin_pdf%5C604218.pdf">"Global Press Release Archive"</a> <span style="font-size:85%;">(<a href="/wiki/Portable_document_format" title="Portable document format" class="mw-redirect">PDF</a>)</span>. <i>AB-InBev</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=Global+Press+Release+Archive&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ab-inbev.com%2Fpress_releases%2Fhugin_pdf%255C604218.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/business-34513520">"Beer giants AB InBev and SABMiller agree takeover terms"</a>. BBC News.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=Beer+giants+AB+InBev+and+SABMiller+agree+takeover+terms&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-34513520&amp;rft.pub=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/business-34505589">"AB InBev makes higher offer for SABMiller"</a>. BBC News.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=AB+InBev+makes+higher+offer+for+SABMiller&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-34505589&amp;rft.pub=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bloomberg.com/news/articles/2015-10-12/ab-inbev-raises-sabmiller-takeover-proposal-to-103-6-billion">"AB InBev Lifts SABMiller Takeover Proposal to $103.6 Billion"</a>. <i>Bloomberg</i>. 12 October 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=AB+InBev+Lifts+SABMiller+Takeover+Proposal+to+%24103.6+Billion&amp;rft.date=12+October+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2015-10-12%2Fab-inbev-raises-sabmiller-takeover-proposal-to-103-6-billion&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.reuters.com/article/2015/10/07/us-sabmiller-m-a-ab-inbev-idUSKCN0S10FD20151007">"AB InBev makes $104 billion bid for rival brewer SABMiller"</a>. Reuters. 7 October 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=AB+InBev+makes+%24104+billion+bid+for+rival+brewer+SABMiller&amp;rft.date=7+October+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.reuters.com%2Farticle%2F2015%2F10%2F07%2Fus-sabmiller-m-a-ab-inbev-idUSKCN0S10FD20151007&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-MW20150727-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-MW20150727_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MW20150727_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.marketwatch.com/story/these-11-brewers-make-over-90-of-all-us-beer-2015-07-27">"These 11 brewers make over 90% of all U.S. beer"</a>. MarketWatch.com. Jul 28, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=These+11+brewers+make+over+90%25+of+all+U.S.+beer&amp;rft.date=Jul+28%2C+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.marketwatch.com%2Fstory%2Fthese-11-brewers-make-over-90-of-all-us-beer-2015-07-27&amp;rft.pub=MarketWatch.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://finance.yahoo.com/news/top-beer-makers-join-forces-173810069.html">"Top beer makers to join forces to face industry challenges"</a>. <i>Yahoo Finance</i>. 13 October 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=Top+beer+makers+to+join+forces+to+face+industry+challenges&amp;rft.date=13+October+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ffinance.yahoo.com%2Fnews%2Ftop-beer-makers-join-forces-173810069.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://finance.yahoo.com/news/makes-beer-brands-owned-big-180432778.html">"Who makes this beer? Brands owned by big brewers"</a>. <i>Yahoo Finance</i>. 13 October 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=Who+makes+this+beer%3F+Brands+owned+by+big+brewers&amp;rft.date=13+October+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fmakes-beer-brands-owned-big-180432778.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-snapshot-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-snapshot_23-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sabmiller.com/files/companysnapshot/SABMiller_company_snapshot.pdf">"Company Snapshot 2010"</a> <span style="font-size:85%;">(PDF)</span>. SABMiller plc<span class="reference-accessdate">. Retrieved <span class="nowrap">30 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=Company+Snapshot+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sabmiller.com%2Ffiles%2Fcompanysnapshot%2FSABMiller_company_snapshot.pdf&amp;rft.pub=SABMiller+plc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">Whipp, Lindsay (September 22, 2015). <a rel="nofollow" class="external text" href="http://www.ft.com/cms/s/0/17eb2264-6066-11e5-a28b-50226830d644.html">"AB InBev offer for SABMiller brews opportunity for Molson Coors"</a>. <i>Financial Times</i>. Chicago.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.aufirst=Lindsay&amp;rft.aulast=Whipp&amp;rft.btitle=AB+InBev+offer+for+SABMiller+brews+opportunity+for+Molson+Coors&amp;rft.date=September+22%2C+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F17eb2264-6066-11e5-a28b-50226830d644.html&amp;rft.place=Chicago&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://newsroom.anheuser-busch.com/anheuser-busch-and-10-barrel-brewing-announce-purchase-agreement/">"Anheuser-Busch and 10 Barrel Brewing Announce Purchase Agreement"</a>. <i>Newsroom</i>. Anheuser-Busch.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnheuser-Busch+InBev&amp;rft.btitle=Anheuser-Busch+and+10+Barrel+Brewing+Announce+Purchase+Agreement&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fnewsroom.anheuser-busch.com%2Fanheuser-busch-and-10-barrel-brewing-announce-purchase-agreement%2F&amp;rft.pub=Anheuser-Busch&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Anheuser%E2%80%93Busch_InBev" class="extiw" title="commons:Category:Anheuser–Busch InBev">Anheuser-Busch InBev</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><span class="official website"><span class="url"><a rel="nofollow" class="external text" href="http://www.ab-inbev.com">Official website</a></span></span></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Anheuser%E2%80%93Busch_InBev" title="Template:Anheuser–Busch InBev"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Anheuser%E2%80%93Busch_InBev" title="Template talk:Anheuser–Busch InBev"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Anheuser%E2%80%93Busch_InBev&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><strong class="selflink">Anheuser-Busch InBev</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Corporation" title="Corporation">Corporate</a> <a href="/wiki/Board_of_directors" title="Board of directors">directors</a>:</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carlos_Brito_(businessman)" title="Carlos Brito (businessman)">Carlos Brito</a>, CEO</li>
+<li><a href="/wiki/August_Busch_IV" title="August Busch IV">August Busch IV</a></li>
+<li><a href="/wiki/Arnoud_de_Pret_de_Calesberg" title="Arnoud de Pret de Calesberg">Arnoud de Pret Roose de Calesberg</a></li>
+<li><a href="/wiki/Jean-Luc_Dehaene" title="Jean-Luc Dehaene">Jean-Luc Dehaene</a></li>
+<li><a href="/wiki/Philippe_de_Spoelberch" title="Philippe de Spoelberch">Philippe de Spoelberch</a></li>
+<li><a href="/wiki/Jorge_Paulo_Lemann" title="Jorge Paulo Lemann">Jorge Paulo Lemann</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Subsidiaries</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anheuser-Busch" title="Anheuser-Busch">Anheuser-Busch, Inc</a> (<a href="/wiki/Manufacturers_Railway_(St._Louis)" title="Manufacturers Railway (St. Louis)">Manufacturers Railway</a>)</li>
+<li><a href="/wiki/St._Louis_Refrigerator_Car_Company" title="St. Louis Refrigerator Car Company">St. Louis Refrigerated Car Co.</a></li>
+<li><a href="/wiki/InBev" title="InBev">InBev</a></li>
+<li><a href="/wiki/AmBev" title="AmBev">AmBev</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Equity investments</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Craft_Brew_Alliance" title="Craft Brew Alliance">Craft Brew Alliance</a> [32.2%]
+<ul>
+<li><a href="/wiki/Redhook_Ale_Brewery" title="Redhook Ale Brewery">Redhook</a></li>
+<li><a href="/wiki/Widmer_Brothers_Brewery" title="Widmer Brothers Brewery">Widmer Bros.</a></li>
+<li><a href="/wiki/Kona_Brewing_Company" title="Kona Brewing Company">Kona Brewing</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Global and<br />
+multi-country brands</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beck%27s_Brewery" title="Beck's Brewery">Beck's</a></li>
+<li><a href="/wiki/Brahma_beer" title="Brahma beer">Brahma beer</a></li>
+<li><a href="/wiki/Budweiser_(Anheuser-Busch)" title="Budweiser (Anheuser-Busch)" class="mw-redirect">Budweiser</a></li>
+<li><a href="/wiki/Grupo_Modelo" title="Grupo Modelo">Grupo Modelo</a></li>
+<li><a href="/wiki/Hoegaarden_Brewery" title="Hoegaarden Brewery">Hoegaarden</a></li>
+<li><a href="/wiki/Leffe" title="Leffe">Leffe</a></li>
+<li><a href="/wiki/Stella_Artois" title="Stella Artois">Stella Artois</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Local brands</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=10_Barrel_Brewing&amp;action=edit&amp;redlink=1" class="new" title="10 Barrel Brewing (page does not exist)">10 Barrel</a></li>
+<li><a href="/wiki/Companhia_Antarctica_Paulista" title="Companhia Antarctica Paulista">Antarctica</a></li>
+<li><a href="/wiki/Bass_Brewery" title="Bass Brewery">Bass</a></li>
+<li><a href="/wiki/Belle-Vue_Brewery" title="Belle-Vue Brewery">Belle-Vue</a></li>
+<li><a href="/wiki/Blue_Point_Brewing_Company" title="Blue Point Brewing Company">Blue Point</a></li>
+<li><a href="/wiki/Boddingtons_Brewery" title="Boddingtons Brewery">Boddingtons Brewery</a></li>
+<li><a href="/wiki/Anheuser-Busch_brands#Busch" title="Anheuser-Busch brands">Busch Beer</a></li>
+<li><a href="/wiki/Dommelsch" title="Dommelsch" class="mw-redirect">Dommelsch</a></li>
+<li><a href="/wiki/Dutch_Gold" title="Dutch Gold">Dutch Gold</a></li>
+<li><a href="/wiki/Elysian_Brewing_Company" title="Elysian Brewing Company">Elysian</a></li>
+<li><a href="/wiki/Spaten-Franziskaner-Br%C3%A4u" title="Spaten-Franziskaner-Bräu">Franziskaner</a></li>
+<li><a href="/wiki/Goose_Island_Brewery" title="Goose Island Brewery">Goose Island</a></li>
+<li><a href="/wiki/Guaran%C3%A1_Antarctica" title="Guaraná Antarctica">Guaraná Antarctica</a></li>
+<li><a href="/wiki/Harbin_Brewery" title="Harbin Brewery">Harbin Brewery</a></li>
+<li><a href="/wiki/Hasser%C3%B6der" title="Hasseröder">Hasseröder</a></li>
+<li><a href="/wiki/Hertog_Jan" title="Hertog Jan">Hertog Jan</a></li>
+<li><a href="/wiki/Jupiler" title="Jupiler">Jupiler</a></li>
+<li><a href="/wiki/Anheuser-Busch_brands#King_Cobra" title="Anheuser-Busch brands">King Cobra</a></li>
+<li><a href="/wiki/Kokanee_beer" title="Kokanee beer">Kokanee</a></li>
+<li><a href="/wiki/Labatt_Brewing_Company" title="Labatt Brewing Company">Labatt</a></li>
+<li><a href="/wiki/Lakeport_Brewing_Company" title="Lakeport Brewing Company">Lakeport</a></li>
+<li><a href="/wiki/L%C3%B6wenbr%C3%A4u" title="Löwenbräu">Löwenbräu</a></li>
+<li><a href="/wiki/Lucky_Lager" title="Lucky Lager">Lucky</a></li>
+<li><a href="/wiki/Anheuser-Busch_brands#Michelob" title="Anheuser-Busch brands">Michelob</a></li>
+<li><a href="/wiki/Mousel" title="Mousel">Mousel</a></li>
+<li><a href="/wiki/Anheuser-Busch_brands#Natural" title="Anheuser-Busch brands">Natural</a></li>
+<li><a href="/wiki/Oranjeboom" title="Oranjeboom" class="mw-redirect">Oranjeboom</a></li>
+<li><a href="/wiki/Cerveza_Quilmes" title="Cerveza Quilmes">Quilmes</a></li>
+<li><a href="/wiki/Rolling_Rock" title="Rolling Rock">Rolling Rock</a></li>
+<li><a href="/wiki/Skol" title="Skol">Skol</a></li>
+<li><a href="/wiki/Spaten-Franziskaner-Br%C3%A4u" title="Spaten-Franziskaner-Bräu">Spaten</a></li>
+<li><a href="/wiki/St._Pauli_Girl" title="St. Pauli Girl">St. Pauli Girl</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Anheuser-Busch_InBev" title="Category:Anheuser-Busch InBev">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="//commons.wikimedia.org/wiki/Category:Anheuser%E2%80%93Busch_InBev" class="extiw" title="commons:Category:Anheuser–Busch InBev"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Euro_Stoxx_50_Companies" title="Template:Euro Stoxx 50 Companies"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Euro_Stoxx_50_Companies" title="Template talk:Euro Stoxx 50 Companies"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Euro_Stoxx_50_Companies&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><span class="flagicon"><a href="/wiki/European_Union" title="European Union"><img alt="European Union" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" data-file-width="810" data-file-height="540" /></a></span> <a href="/wiki/Euro_Stoxx_50" title="Euro Stoxx 50">Euro Stoxx 50</a> companies of the <a href="/wiki/Eurozone" title="Eurozone">Euro Area</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Air_Liquide" title="Air Liquide">Air Liquide</a></li>
+<li><a href="/wiki/Allianz" title="Allianz">Allianz</a></li>
+<li><strong class="selflink">Anheuser-Busch InBev</strong></li>
+<li><a href="/wiki/ArcelorMittal" title="ArcelorMittal">ArcelorMittal</a></li>
+<li><a href="/wiki/ASML_Holding" title="ASML Holding">ASML Holding</a></li>
+<li><a href="/wiki/AXA" title="AXA">AXA</a></li>
+<li><a href="/wiki/Santander_Group" title="Santander Group">Banco Santander</a></li>
+<li><a href="/wiki/BASF" title="BASF">BASF</a></li>
+<li><a href="/wiki/Bayer" title="Bayer">Bayer</a></li>
+<li><a href="/wiki/BMW" title="BMW">BMW</a></li>
+<li><a href="/wiki/Banco_Bilbao_Vizcaya_Argentaria" title="Banco Bilbao Vizcaya Argentaria">BBVA</a></li>
+<li><a href="/wiki/BNP_Paribas" title="BNP Paribas">BNP Paribas</a></li>
+<li><a href="/wiki/Carrefour" title="Carrefour">Carrefour</a></li>
+<li><a href="/wiki/CRH_plc" title="CRH plc">CRH</a></li>
+<li><a href="/wiki/Daimler_AG" title="Daimler AG">Daimler</a></li>
+<li><a href="/wiki/Groupe_Danone" title="Groupe Danone" class="mw-redirect">Danone</a></li>
+<li><a href="/wiki/Deutsche_Bank" title="Deutsche Bank">Deutsche Bank</a></li>
+<li><a href="/wiki/Deutsche_Telekom" title="Deutsche Telekom">Deutsche Telekom</a></li>
+<li><a href="/wiki/E.ON" title="E.ON">E.ON</a></li>
+<li><a href="/wiki/Enel" title="Enel">Enel</a></li>
+<li><a href="/wiki/Eni" title="Eni">Eni</a></li>
+<li><a href="/wiki/Essilor" title="Essilor">Essilor</a></li>
+<li><a href="/wiki/GDF_Suez" title="GDF Suez" class="mw-redirect">GDF Suez</a></li>
+<li><a href="/wiki/Assicurazioni_Generali" title="Assicurazioni Generali">Generali</a></li>
+<li><a href="/wiki/Iberdrola" title="Iberdrola">Iberdrola</a></li>
+<li><a href="/wiki/Inditex" title="Inditex">Inditex</a></li>
+<li><a href="/wiki/Intesa_Sanpaolo" title="Intesa Sanpaolo">Intesa Sanpaolo</a></li>
+<li><a href="/wiki/L%27Or%C3%A9al" title="L'Oréal">L'Oréal</a></li>
+<li><a href="/wiki/LVMH" title="LVMH">LVMH</a></li>
+<li><a href="/wiki/Munich_Re" title="Munich Re">Munich Re</a></li>
+<li><a href="/wiki/Nokia" title="Nokia">Nokia</a></li>
+<li><a href="/wiki/Orange_S.A." title="Orange S.A.">Orange</a></li>
+<li><a href="/wiki/Philips" title="Philips">Philips</a></li>
+<li><a href="/wiki/Repsol_S.A." title="Repsol S.A." class="mw-redirect">Repsol</a></li>
+<li><a href="/wiki/RWE" title="RWE">RWE</a></li>
+<li><a href="/wiki/Saint-Gobain" title="Saint-Gobain">Saint-Gobain</a></li>
+<li><a href="/wiki/Sanofi" title="Sanofi">Sanofi</a></li>
+<li><a href="/wiki/SAP_AG" title="SAP AG" class="mw-redirect">SAP</a></li>
+<li><a href="/wiki/Schneider_Electric" title="Schneider Electric">Schneider Electric</a></li>
+<li><a href="/wiki/Siemens" title="Siemens">Siemens</a></li>
+<li><a href="/wiki/Soci%C3%A9t%C3%A9_G%C3%A9n%C3%A9rale" title="Société Générale">Société Générale</a></li>
+<li><a href="/wiki/Telef%C3%B3nica" title="Telefónica">Telefónica</a></li>
+<li><a href="/wiki/Total_S.A." title="Total S.A.">Total</a></li>
+<li><a href="/wiki/Unibail-Rodamco" title="Unibail-Rodamco">Unibail-Rodamco</a></li>
+<li><a href="/wiki/UniCredit" title="UniCredit">UniCredit</a></li>
+<li><a href="/wiki/Unilever" title="Unilever">Unilever</a></li>
+<li><a href="/wiki/Vinci_SA" title="Vinci SA">Vinci SA</a></li>
+<li><a href="/wiki/Vivendi" title="Vivendi">Vivendi</a></li>
+<li><a href="/wiki/Volkswagen_Group" title="Volkswagen Group">Volkswagen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:BEL20_companies" title="Template:BEL20 companies"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:BEL20_companies" title="Template talk:BEL20 companies"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:BEL20_companies&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/BEL20" title="BEL20">BEL20</a> companies of <a href="/wiki/Belgium" title="Belgium">Belgium</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ackermans_%26_van_Haaren" title="Ackermans &amp; van Haaren">Ackermans &amp; van Haaren</a></li>
+<li><a href="/wiki/Ageas" title="Ageas">Ageas</a></li>
+<li><strong class="selflink">Anheuser-Busch InBev</strong></li>
+<li><a href="/wiki/Befimmo" title="Befimmo">Befimmo-Sicafi</a></li>
+<li><a href="/wiki/Bekaert" title="Bekaert">Bekaert</a></li>
+<li><a href="/wiki/Bpost" title="Bpost">Bpost</a></li>
+<li><a href="/wiki/Cofinimmo" title="Cofinimmo">Cofinimmo</a></li>
+<li><a href="/wiki/Colruyt_Group" title="Colruyt Group">Colruyt Group</a></li>
+<li><a href="/wiki/Delhaize_Group" title="Delhaize Group">Delhaize Group</a></li>
+<li><a href="/wiki/Delta_Lloyd" title="Delta Lloyd" class="mw-redirect">Delta Lloyd</a></li>
+<li><a href="/wiki/D%27Ieteren" title="D'Ieteren">D'Ieteren</a></li>
+<li><a href="/wiki/Elia_System_Operator" title="Elia System Operator">Elia</a></li>
+<li><a href="/wiki/Engie" title="Engie">Engie</a></li>
+<li><a href="/wiki/Groupe_Bruxelles_Lambert" title="Groupe Bruxelles Lambert">GBL</a></li>
+<li><a href="/wiki/KBC_Bank" title="KBC Bank">KBC Groep</a></li>
+<li><a href="/wiki/Proximus_Group" title="Proximus Group">Proximus Group</a></li>
+<li><a href="/wiki/Solvay_(company)" title="Solvay (company)" class="mw-redirect">Solvay</a></li>
+<li><a href="/wiki/Telenet_(Belgium)" title="Telenet (Belgium)">Telenet Group</a></li>
+<li><a href="/wiki/UCB_(company)" title="UCB (company)">UCB</a></li>
+<li><a href="/wiki/Umicore" title="Umicore">Umicore</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks noprint navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li style="display:inline;white-space:nowrap"><span style="margin:auto 0.5em"><a href="/wiki/File:Factory_1b.svg" class="image"><img alt="Factory 1b.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Factory_1b.svg/24px-Factory_1b.svg.png" width="24" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Factory_1b.svg/36px-Factory_1b.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Factory_1b.svg/48px-Factory_1b.svg.png 2x" data-file-width="400" data-file-height="329" /></a></span><span style="font-weight:bold"><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li>
+<li style="display:inline;white-space:nowrap"><span style="margin:auto 0.5em"><a href="/wiki/File:Projet_bi%C3%A8re_logo_v2.png" class="image"><img alt="Projet bière logo v2.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Projet_bi%C3%A8re_logo_v2.png/21px-Projet_bi%C3%A8re_logo_v2.png" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Projet_bi%C3%A8re_logo_v2.png/32px-Projet_bi%C3%A8re_logo_v2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Projet_bi%C3%A8re_logo_v2.png/42px-Projet_bi%C3%A8re_logo_v2.png 2x" data-file-width="242" data-file-height="242" /></a></span><span style="font-weight:bold"><a href="/wiki/Portal:Beer" title="Portal:Beer">Beer portal</a></span></li>
+<li style="display:inline;white-space:nowrap"><span style="margin:auto 0.5em"><a href="/wiki/File:Goblet_Glass_(Banquet).svg" class="image"><img alt="Goblet Glass (Banquet).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Goblet_Glass_%28Banquet%29.svg/12px-Goblet_Glass_%28Banquet%29.svg.png" width="12" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Goblet_Glass_%28Banquet%29.svg/19px-Goblet_Glass_%28Banquet%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Goblet_Glass_%28Banquet%29.svg/24px-Goblet_Glass_%28Banquet%29.svg.png 2x" data-file-width="239" data-file-height="408" /></a></span><span style="font-weight:bold"><a href="/wiki/Portal:Drink" title="Portal:Drink">Drink portal</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1132
+Cached time: 20151019221914
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.405 seconds
+Real time usage: 0.533 seconds
+Preprocessor visited node count: 3605/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 144729/2097152 bytes
+Template argument size: 60280/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.123/10.000 seconds
+Lua memory usage: 3.62 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  434.939      1 - -total
+ 27.72%  120.576      1 - Template:Infobox_company
+ 26.04%  113.279      2 - Template:Reflist
+ 25.78%  112.131      1 - Template:Infobox
+ 24.33%  105.822     16 - Template:Clade
+ 16.18%   70.353     18 - Template:Cite_web
+  8.10%   35.219      3 - Template:Navbox
+  6.99%   30.422      1 - Template:Commons_category
+  5.97%   25.967      1 - Template:Commons
+  5.45%   23.697      1 - Template:Anheuser-Busch_InBev
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:19395099-0!*!0!!en!4!* and timestamp 20151019221918 and revision id 686564967
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Anheuser-Busch_InBev&amp;oldid=686564967">https://en.wikipedia.org/w/index.php?title=Anheuser-Busch_InBev&amp;oldid=686564967</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:BEL20_companies" title="Category:BEL20 companies">BEL20 companies</a></li><li><a href="/wiki/Category:2008_establishments_in_Belgium" title="Category:2008 establishments in Belgium">2008 establishments in Belgium</a></li><li><a href="/wiki/Category:Anheuser-Busch_InBev" title="Category:Anheuser-Busch InBev">Anheuser-Busch InBev</a></li><li><a href="/wiki/Category:Beer_and_breweries_in_Belgium" title="Category:Beer and breweries in Belgium">Beer and breweries in Belgium</a></li><li><a href="/wiki/Category:Beer_and_breweries_in_Brazil" title="Category:Beer and breweries in Brazil">Beer and breweries in Brazil</a></li><li><a href="/wiki/Category:Companies_established_in_2008" title="Category:Companies established in 2008">Companies established in 2008</a></li><li><a href="/wiki/Category:Companies_listed_on_the_New_York_Stock_Exchange" title="Category:Companies listed on the New York Stock Exchange">Companies listed on the New York Stock Exchange</a></li><li><a href="/wiki/Category:InBev_brands" title="Category:InBev brands">InBev brands</a></li><li><a href="/wiki/Category:Leuven" title="Category:Leuven">Leuven</a></li><li><a href="/wiki/Category:Multinational_breweries" title="Category:Multinational breweries">Multinational breweries</a></li><li><a href="/wiki/Category:Price_fixing_convictions" title="Category:Price fixing convictions">Price fixing convictions</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_with_page_title_different_than_on_Wikidata" title="Category:Commons category with page title different than on Wikidata">Commons category with page title different than on Wikidata</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_June_2013" title="Category:Use dmy dates from June 2013">Use dmy dates from June 2013</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Anheuser-Busch+InBev&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Anheuser-Busch+InBev" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Anheuser-Busch_InBev"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Anheuser-Busch_InBev"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Anheuser-Busch_InBev" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Anheuser-Busch_InBev" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Anheuser-Busch_InBev" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;oldid=686564967" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q128738" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Anheuser-Busch_InBev&amp;id=686564967" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Anheuser-Busch+InBev">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Anheuser-Busch+InBev&amp;returnto=Anheuser-Busch+InBev&amp;oldid=686564967&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Anheuser-Busch_InBev&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%98%D0%BD%D0%91%D0%B5%D0%B2" title="ИнБев – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Greek" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D9%86%D9%87%D8%A7%DB%8C%D8%B2%D8%B1-%D8%A8%D9%88%D8%B4_%D8%A7%DB%8C%D9%86%D8%A8%DB%8C%D9%81" title="انهایزر-بوش اینبیف – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%95%A4%ED%95%98%EC%9D%B4%EC%A0%80%EB%B6%80%EC%8B%9C_%EC%9D%B8%EB%B2%A0%EB%B8%8C" title="앤하이저부시 인베브 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/AB_InBev" title="AB InBev – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-lb"><a href="//lb.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Luxembourgish" lang="lb" hreflang="lb">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lmo"><a href="//lmo.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Lombard" lang="lmo" hreflang="lmo">Lumbaart</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%8F%E3%82%A4%E3%82%B6%E3%83%BC%E3%83%BB%E3%83%96%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%99%E3%83%96" title="アンハイザー・ブッシュ・インベブ – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/AB_InBev" title="AB InBev – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%AE%89%E6%B5%B7%E6%96%AF-%E5%B8%83%E5%B8%8C%E8%8B%B1%E5%8D%9A%E9%9B%86%E5%9C%98" title="安海斯-布希英博集團 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q128738#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 October 2015, at 22:19.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Anheuser-Busch_InBev&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1054"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

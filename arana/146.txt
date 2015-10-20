@@ -1,0 +1,957 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Shaoshan - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Shaoshan","wgTitle":"Shaoshan","wgCurRevisionId":669187379,"wgRevisionId":669187379,"wgArticleId":213296,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing simplified Chinese-language text","Coordinates on Wikidata","Articles containing Chinese-language text","Articles containing traditional Chinese-language text","Articles with Chinese-language external links","Cities in Hunan","Visitor attractions in Hunan","Xiangtan"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Shaoshan","wgRelevantArticleId":213296,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Shaoshan_01.JPG/100px-Shaoshan_01.JPG","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":27.9127,"lon":112.5281},"wgWikibaseItemId":"Q838542","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Shaoshan" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Shaoshan&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Shaoshan&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Shaoshan" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Shaoshan skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Shaoshan</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><span style="position:relative; bottom:0.2em;">Shaoshan</span></span><br />
+<span class="nickname"><span style="position: relative; top: 0.1em;"><span style="font-weight:normal;"><span lang="zh-hans" xml:lang="zh-hans">韶山市</span></span></span></span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><span class="category"><a href="/wiki/County-level_city" title="County-level city">County-level city</a></span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding:0.7em 0.8em"><a href="/wiki/File:Shaoshan_01.JPG" class="image" title="Mao Zedong's birthplace"><img alt="Mao Zedong's birthplace" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Shaoshan_01.JPG/250px-Shaoshan_01.JPG" width="250" height="141" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Shaoshan_01.JPG/375px-Shaoshan_01.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Shaoshan_01.JPG/500px-Shaoshan_01.JPG 2x" data-file-width="3328" data-file-height="1872" /></a>
+<div><a href="/wiki/Mao_Zedong%27s_Former_Residence" title="Mao Zedong's Former Residence">Mao Zedong</a>'s birthplace</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:250px;padding:0">
+<div style="position:relative;width:250px"><a href="/wiki/File:Location_map_China_Hunan_EN.svg" class="image" title="Shaoshan is located in Hunan"><img alt="Shaoshan is located in Hunan" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Location_map_China_Hunan_EN.svg/250px-Location_map_China_Hunan_EN.svg.png" width="250" height="270" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Location_map_China_Hunan_EN.svg/375px-Location_map_China_Hunan_EN.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Location_map_China_Hunan_EN.svg/500px-Location_map_China_Hunan_EN.svg.png 2x" data-file-width="664" data-file-height="716" /></a>
+<div style="position:absolute;top:38.376%;left:66.941%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Shaoshan" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Shaoshan" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left"><span style="position:relative; bottom:0.2em;">Shaoshan</span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<small>Location in Hunan</small></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span style="white-space:nowrap"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Shaoshan&amp;params=27.9127_N_112.5281_E_type:adm3rd_region:CN-43_source:kolossus-dewiki"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">27°54′46″N</span> <span class="longitude">112°31′41″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">27.9127°N 112.5281°E</span><span style="display:none">﻿ / <span class="geo">27.9127; 112.5281</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Shaoshan&amp;params=27.9127_N_112.5281_E_type:adm3rd_region:CN-43_source:kolossus-dewiki"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">27°54′46″N</span> <span class="longitude">112°31′41″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">27.9127°N 112.5281°E</span><span style="display:none">﻿ / <span class="geo">27.9127; 112.5281</span></span></span></a></span></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td>People's Republic of China</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Provinces_of_the_People%27s_Republic_of_China" title="Provinces of the People's Republic of China" class="mw-redirect">Province</a></th>
+<td><a href="/wiki/Hunan" title="Hunan">Hunan</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Prefecture-level_city" title="Prefecture-level city">Prefecture-level city</a></th>
+<td><a href="/wiki/Xiangtan" title="Xiangtan">Xiangtan</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/China_Standard_Time" title="China Standard Time" class="mw-redirect">China Standard</a> (<a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC+8</a>)</td>
+</tr>
+</table>
+<p><b>Shaoshan</b> (<a href="/wiki/Chinese_language" title="Chinese language">Chinese</a>: <span lang="zh" xml:lang="zh">韶山</span>; <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>: <i><span lang="zh-Latn-pinyin" xml:lang="zh-Latn-pinyin">Sháoshān</span></i>) is a <a href="/wiki/County-level_city" title="County-level city">county-level city</a> in <a href="/wiki/Xiangtan" title="Xiangtan">Xiangtan</a>, <a href="/wiki/Hunan_Province" title="Hunan Province" class="mw-redirect">Hunan Province</a>, noted as the birthplace of <a href="/wiki/Mao_Zedong" title="Mao Zedong">Mao Zedong</a>, founder of the <a href="/wiki/People%27s_Republic_of_China" title="People's Republic of China" class="mw-redirect">People's Republic of China</a>. Shaoshan was an important base during the <a href="/wiki/Chinese_Revolution_(1946%E2%88%921952)" title="Chinese Revolution (1946−1952)" class="mw-redirect">Chinese Communist Revolution</a>.</p>
+<p>Shaoshan residents have capitalised on their most well-known resident such that the city is also the birthplace of Mao's Family Restaurant, a restaurant chain that has spread to many other cities. On the one hand, driven economy in many rural areas. On the other hand, spreading the Chinese nation's traditional culture and let people know more about Chinese nation's traditional culture.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:TroyParfitt3.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/TroyParfitt3.JPG/220px-TroyParfitt3.JPG" width="220" height="123" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/TroyParfitt3.JPG/330px-TroyParfitt3.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/TroyParfitt3.JPG/440px-TroyParfitt3.JPG 2x" data-file-width="645" data-file-height="361" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:TroyParfitt3.JPG" class="internal" title="Enlarge"></a></div>
+Shaoshan train station</div>
+</div>
+</div>
+<p>Mao remains a popular figure in the area.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Administrative_division"><span class="tocnumber">1</span> <span class="toctext">Administrative division</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Notable_people"><span class="tocnumber">3</span> <span class="toctext">Notable people</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Sister_cities"><span class="tocnumber">4</span> <span class="toctext">Sister cities</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Administration"><span class="tocnumber">5</span> <span class="toctext">Administration</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Administrative_history"><span class="tocnumber">6</span> <span class="toctext">Administrative history</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Administrative_division">Administrative division</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shaoshan&amp;action=edit&amp;section=1" title="Edit section: Administrative division">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Name</th>
+<th>Hanzi</th>
+<th>Population (2005)</th>
+<th>Area (Km2)</th>
+<th>Note</th>
+</tr>
+<tr>
+<td><a href="/wiki/Qingxi,_Shaoshan" title="Qingxi, Shaoshan">Qingxi</a></td>
+<td><span lang="zh-Hans" xml:lang="zh-Hans">清溪镇</span></td>
+<td>20,000</td>
+<td>2.9</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ruyi,_Shaoshan" title="Ruyi, Shaoshan">Ruyi</a></td>
+<td><span lang="zh-Hans" xml:lang="zh-Hans">如意镇</span></td>
+<td>15,100</td>
+<td>33.85</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Yintian,_Shaoshan" title="Yintian, Shaoshan">Yintian</a></td>
+<td><span lang="zh-Hans" xml:lang="zh-Hans">银田镇</span></td>
+<td>19,500</td>
+<td>28</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Daping,_Shaoshan" title="Daping, Shaoshan">Daping</a></td>
+<td><span lang="zh-Hans" xml:lang="zh-Hans">大坪乡</span></td>
+<td>14,300</td>
+<td>32</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Yongyi,_Shaoshan" title="Yongyi, Shaoshan">Yongyi</a></td>
+<td><span lang="zh-Hans" xml:lang="zh-Hans">永义乡</span></td>
+<td>10,600</td>
+<td>24</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Shaoshan,_Shaoshan" title="Shaoshan, Shaoshan">Shaoshan</a></td>
+<td><span lang="zh-Hans" xml:lang="zh-Hans">韶山乡</span></td>
+<td>14,700</td>
+<td>37.62</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Yanglin,_Shaoshan" title="Yanglin, Shaoshan">Yanglin</a></td>
+<td><span lang="zh-Hans" xml:lang="zh-Hans">杨林乡</span></td>
+<td>20,600</td>
+<td>58.8</td>
+<td></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shaoshan&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Population: city consists of 100,000 residents of which 16,000 are non-farmers. The total land area is 210 square kilometres (81&#160;sq&#160;mi).</p>
+<p>Geography: in the Hunan province of Hunan in the east-central hilly region, the geographical coordinates of longitude 112 ° 23'52 "-112 ° 38'13", latitude 27 ° 51'40 "-28 ° 1'53".</p>
+<p>Topography: hilly areas. The city's development over the whole territory of the formation, geological structure is complicated. Hills, gurgling streams, red soil segment is connected.</p>
+<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shaoshan&amp;action=edit&amp;section=3" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Mao_Zedong" title="Mao Zedong">Mao Zedong</a> (1893-1976)</li>
+</ul>
+<h2><span class="mw-headline" id="Sister_cities">Sister cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shaoshan&amp;action=edit&amp;section=4" title="Edit section: Sister cities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Vidnoye" title="Vidnoye" class="mw-redirect">Vidnoye</a></b>, <a href="/wiki/Russia" title="Russia">Russia</a></li>
+</ul>
+<h2><span class="mw-headline" id="Administration">Administration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shaoshan&amp;action=edit&amp;section=5" title="Edit section: Administration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Shaoshan_City_06.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Shaoshan_City_06.jpg/250px-Shaoshan_City_06.jpg" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Shaoshan_City_06.jpg/375px-Shaoshan_City_06.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Shaoshan_City_06.jpg/500px-Shaoshan_City_06.jpg 2x" data-file-width="2592" data-file-height="1944" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Shaoshan_City_06.jpg" class="internal" title="Enlarge"></a></div>
+Shaoshan City.</div>
+</div>
+</div>
+<p>Shaoshan City administers two towns (<span lang="zh-Hans" xml:lang="zh-Hans">镇</span>; <span lang="zh-Hant" xml:lang="zh-Hant">鎮</span>) and six rural towns (<span lang="zh-Hans" xml:lang="zh-Hans">乡</span>; <span lang="zh-Hant" xml:lang="zh-Hant">鄉</span>) including:</p>
+<ul>
+<li>Qingxi (<span lang="zh-Hans" xml:lang="zh-Hans">清溪镇</span>; <span lang="zh-Hant" xml:lang="zh-Hant">清溪鎮</span>)</li>
+<li>Yintian (<span lang="zh-Hans" xml:lang="zh-Hans">银田镇</span>; <span lang="zh-Hant" xml:lang="zh-Hant">銀田鎮</span>)</li>
+<li>Ruyi (<span lang="zh-Hans" xml:lang="zh-Hans">如意乡</span>; <span lang="zh-Hant" xml:lang="zh-Hant">如意鄉</span>)</li>
+<li>Shaoshan (<span lang="zh-Hans" xml:lang="zh-Hans">韶山乡</span>; <span lang="zh-Hant" xml:lang="zh-Hant">韶山鄉</span>)</li>
+<li>Yanglin (<span lang="zh-Hans" xml:lang="zh-Hans">杨林镇</span>; <span lang="zh-Hant" xml:lang="zh-Hant">楊林鄉</span>)</li>
+<li>Daping (<span lang="zh-Hans" xml:lang="zh-Hans">大坪镇</span>; <span lang="zh-Hant" xml:lang="zh-Hant">大坪鄉</span>)</li>
+<li>Yongyi (<span lang="zh-Hans" xml:lang="zh-Hans">永义乡</span>; <span lang="zh-Hant" xml:lang="zh-Hant">永義鄉</span>)</li>
+</ul>
+<h2><span class="mw-headline" id="Administrative_history">Administrative history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shaoshan&amp;action=edit&amp;section=6" title="Edit section: Administrative history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Names and administrative levels of Shaoshan:</p>
+<ul>
+<li>1652 (<a href="/wiki/Qing_Dynasty" title="Qing Dynasty" class="mw-redirect">Qing Dynasty</a>): Qidu (<span lang="zh-hans" xml:lang="zh-hans">七都</span>), Xiangtan District (<span lang="zh-hans" xml:lang="zh-hans">縣</span>)</li>
+<li>1912 (<a href="/wiki/Republic_of_China" title="Republic of China" class="mw-redirect">Republic of China</a>): The Second District (<span lang="zh-hans" xml:lang="zh-hans">第二區</span>), Xi Township (<span lang="zh-hans" xml:lang="zh-hans">西鄉</span>), Xiangtan <a href="/wiki/County" title="County">County</a></li>
+<li>December 1932: The Ninth District, Xiangtan County</li>
+<li>1947: Qingtian Township, Xiangtan County</li>
+<li>January 1950 (<a href="/wiki/People%27s_Republic_of_China" title="People's Republic of China" class="mw-redirect">People's Republic of China</a>): The Third District, Xiangtan County</li>
+<li>1951: The Fourth District, Xiangtan County</li>
+<li>August 1, 1955: Yintian District, Xiangtan County</li>
+<li>1956: Yintian Town, Xiangtan County</li>
+<li>September 1, 1958: Shaoshan <a href="/wiki/People%27s_commune" title="People's commune">People's Commune</a>, Xiangtan County</li>
+<li>May 12, 1961: Shaoshan District, Xiangtan County</li>
+<li>December 1968: county-controlled district status upgraded to regional district (<span lang="zh-hans" xml:lang="zh-hans">地級區</span>), controlled directly by the province</li>
+<li>December 1981: reverted to be county-controlled</li>
+<li>December 1984: upgraded to county-class district (<span lang="zh-hans" xml:lang="zh-hans">縣級區</span>), controlled by Xiangtan City</li>
+<li>December 26, 1990: Upgraded to county-class city, controlled by Xiangtan City on behalf of the province.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shaoshan&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.cnn.com/2009/WORLD/asiapcf/09/13/mao.china/index.html">In his hometown, Mao a source of pride</a>." <i><a href="/wiki/CNN" title="CNN">CNN</a></i>. Tuesday September 29, 2009. Retrieved on September 30, 2009.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Shaoshan&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.china-shaoshan.com">Official site</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Chinese)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=quSJWrpnv3E">Early Pictures of Mao ZeDong in Shaoshan</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hunan_Shaoshan_divisions" title="Template:Hunan Shaoshan divisions"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Hunan_Shaoshan_divisions&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Hunan Shaoshan divisions (page does not exist)"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hunan_Shaoshan_divisions&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%">Cities and townships of <b><strong class="selflink">Shaoshan</strong></b></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/County_seat" title="County seat">County seat</a>: <b><a href="/wiki/Qingxi,_Shaoshan" title="Qingxi, Shaoshan">Qingxi Town</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Town" title="Town">Town</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Qingxi,_Shaoshan" title="Qingxi, Shaoshan">Qingxi</a></li>
+<li><a href="/wiki/Yintian,_Shaoshan" title="Yintian, Shaoshan">Yintian</a></li>
+<li><a href="/wiki/Ruyi,_Shaoshan" title="Ruyi, Shaoshan">Ruyi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Township" title="Township">Township</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Shaoshan,_Shaoshan" title="Shaoshan, Shaoshan">Shaoshan</a></li>
+<li><a href="/wiki/Yongyi,_Shaoshan" title="Yongyi, Shaoshan">Yongyi</a></li>
+<li><a href="/wiki/Yanglin,_Shaoshan" title="Yanglin, Shaoshan">Yanglin</a></li>
+<li><a href="/wiki/Daping,_Shaoshan" title="Daping, Shaoshan">Daping</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hunan_topics" title="Template:Hunan topics"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hunan_topics" title="Template talk:Hunan topics"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hunan_topics&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Hunan" title="Hunan">Hunan</a> topics</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/Changsha" title="Changsha">Changsha</a> (<a href="/wiki/List_of_current_and_former_capitals_of_subnational_entities_of_China" title="List of current and former capitals of subnational entities of China" class="mw-redirect">capital</a>)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Hunan" title="Category:Hunan">General</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hunan#History" title="Hunan">History</a></li>
+<li><a href="/wiki/Hunan#Politics" title="Hunan">Politics</a></li>
+<li><a href="/wiki/Hunan#Economy" title="Hunan">Economy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Geography_of_Hunan" title="Category:Geography of Hunan">Geography</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#F4F0EC">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_cities_in_the_People%27s_Republic_of_China#Hunan" title="List of cities in the People's Republic of China" class="mw-redirect">Cities</a></li>
+<li><a href="/wiki/Yangtze" title="Yangtze">Yangtze River</a></li>
+<li><a href="/wiki/Xiang_River" title="Xiang River">Xiang River</a></li>
+<li><a href="/wiki/Zijiang_River" title="Zijiang River" class="mw-redirect">Zijiang River</a></li>
+<li><a href="/wiki/Yuanjiang_River" title="Yuanjiang River" class="mw-redirect">Yuanjiang River</a></li>
+<li><a href="/wiki/Lishui_River" title="Lishui River">Lishui River</a></li>
+<li><a href="/wiki/Wuling_Mountains" title="Wuling Mountains">Wuling Mountains</a></li>
+<li><a href="/wiki/Xuefeng_Mountains" title="Xuefeng Mountains">Xuefeng Mountains</a></li>
+<li><a href="/wiki/Nanling_Mountains" title="Nanling Mountains" class="mw-redirect">Nanling Mountains</a></li>
+<li><a href="/wiki/Luoxiao_Mountains" title="Luoxiao Mountains">Luoxiao Mountains</a></li>
+<li><a href="/wiki/Lake_Dongting" title="Lake Dongting" class="mw-redirect">Lake Dongting</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_universities_and_colleges_in_Hunan" title="List of universities and colleges in Hunan">Education</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hunan_University" title="Hunan University">Hunan University</a></li>
+<li><a href="/wiki/Hunan_University_of_Arts_and_Science" title="Hunan University of Arts and Science">Hunan University of Arts and Science</a></li>
+<li><a href="/wiki/Hunan_Normal_University" title="Hunan Normal University">Hunan Normal University</a></li>
+<li><a href="/wiki/Hunan_Agricultural_University" title="Hunan Agricultural University">Hunan Agricultural University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hunan#Culture" title="Hunan">Culture</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#F4F0EC">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Han_Chinese" title="Han Chinese">Han people</a></li>
+<li><a href="/wiki/Xiang_Chinese" title="Xiang Chinese">Xiang dialect</a></li>
+<li><a href="/wiki/N%C3%BC_shu" title="Nü shu" class="mw-redirect">Nü shu writing system</a></li>
+<li><a href="/wiki/Super_Girl_(contest)" title="Super Girl (contest)" class="mw-redirect">Super Girl contest</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hunan_cuisine" title="Hunan cuisine">Cuisine</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Stinky_tofu" title="Stinky tofu">Stinky tofu</a></li>
+<li><a href="/wiki/Dong%27an_chicken" title="Dong'an chicken">Dong'an chicken</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Visitor attractions</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;background:#F4F0EC">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Shaoshan Village</strong></li>
+<li><a href="/wiki/Wulingyuan" title="Wulingyuan">Wulingyuan</a></li>
+<li><a href="/wiki/Avatar_Hallelujah_Mountain" title="Avatar Hallelujah Mountain">Avatar Hallelujah Mountain</a></li>
+<li><a href="/wiki/Mount_Heng_(Hunan)" title="Mount Heng (Hunan)">Mount Heng</a></li>
+<li><a href="/wiki/Zhangjiajie" title="Zhangjiajie">Zhangjiajie</a></li>
+<li><a href="/wiki/Fenghuang_County" title="Fenghuang County">Fenghuang County</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Hunan" title="Category:Hunan">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="//commons.wikimedia.org/wiki/Category:Hunan" class="extiw" title="commons:Category:Hunan">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hunan" title="Template:Hunan"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Hunan" title="Template talk:Hunan"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hunan&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/List_of_administrative_divisions_of_Hunan" title="List of administrative divisions of Hunan">County-level divisions</a> of <a href="/wiki/Hunan" title="Hunan">Hunan</a> <a href="/wiki/Provinces_of_China" title="Provinces of China">Province</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/Changsha" title="Changsha">Changsha</a> <small>(<a href="/wiki/List_of_current_and_former_capitals_of_subnational_entities_of_China" title="List of current and former capitals of subnational entities of China" class="mw-redirect">capital</a>)</small></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Prefecture-level_city" title="Prefecture-level city">Prefecture-level cities</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width: 7em;"><a href="/wiki/Changsha" title="Changsha">Changsha</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Yuelu_District" title="Yuelu District">Yuelu District</a></li>
+<li><a href="/wiki/Furong_District" title="Furong District">Furong District</a></li>
+<li><a href="/wiki/Tianxin_District" title="Tianxin District">Tianxin District</a></li>
+<li><a href="/wiki/Kaifu_District,_Changsha" title="Kaifu District, Changsha">Kaifu District</a></li>
+<li><a href="/wiki/Wangcheng_District" title="Wangcheng District">Wangcheng District</a></li>
+<li><a href="/wiki/Yuhua_District,_Changsha" title="Yuhua District, Changsha">Yuhua District</a></li>
+<li><a href="/wiki/Liuyang" title="Liuyang">Liuyang</a> City</li>
+<li><a href="/wiki/Changsha_County" title="Changsha County">Changsha County</a></li>
+<li><a href="/wiki/Ningxiang_County" title="Ningxiang County">Ningxiang County</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width: 7em;"><a href="/wiki/Zhuzhou" title="Zhuzhou">Zhuzhou</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tianyuan_District" title="Tianyuan District">Tianyuan District</a></li>
+<li><a href="/wiki/Hetang_District" title="Hetang District">Hetang District</a></li>
+<li><a href="/wiki/Lusong_District" title="Lusong District">Lusong District</a></li>
+<li><a href="/wiki/Shifeng_District" title="Shifeng District">Shifeng District</a></li>
+<li><a href="/wiki/Liling" title="Liling">Liling</a> City</li>
+<li><a href="/wiki/Zhuzhou_County" title="Zhuzhou County">Zhuzhou County</a></li>
+<li><a href="/wiki/You_County" title="You County">You County</a></li>
+<li><a href="/wiki/Chaling_County" title="Chaling County">Chaling County</a></li>
+<li><a href="/wiki/Yanling_County,_Hunan" title="Yanling County, Hunan">Yanling County</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width: 7em;"><a href="/wiki/Xiangtan" title="Xiangtan">Xiangtan</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Yuetang_District" title="Yuetang District">Yuetang District</a></li>
+<li><a href="/wiki/Yuhu_District" title="Yuhu District">Yuhu District</a></li>
+<li><a href="/wiki/Xiangxiang" title="Xiangxiang">Xiangxiang</a> City</li>
+<li><strong class="selflink">Shaoshan</strong> City</li>
+<li><a href="/wiki/Xiangtan_County" title="Xiangtan County">Xiangtan County</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width: 7em;"><a href="/wiki/Hengyang" title="Hengyang">Hengyang</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Yanfeng_District" title="Yanfeng District">Yanfeng District</a></li>
+<li><a href="/wiki/Zhuhui_District" title="Zhuhui District">Zhuhui District</a></li>
+<li><a href="/wiki/Shigu_District" title="Shigu District">Shigu District</a></li>
+<li><a href="/wiki/Zhengxiang_District" title="Zhengxiang District">Zhengxiang District</a></li>
+<li><a href="/wiki/Nanyue_District" title="Nanyue District">Nanyue District</a></li>
+<li><a href="/wiki/Changning,_Hunan" title="Changning, Hunan">Changning City</a></li>
+<li><a href="/wiki/Leiyang" title="Leiyang">Leiyang</a> City</li>
+<li><a href="/wiki/Hengyang_County" title="Hengyang County">Hengyang County</a></li>
+<li><a href="/wiki/Hengnan_County" title="Hengnan County">Hengnan County</a></li>
+<li><a href="/wiki/Hengshan_County,_Hunan" title="Hengshan County, Hunan">Hengshan County</a></li>
+<li><a href="/wiki/Hengdong_County" title="Hengdong County">Hengdong County</a></li>
+<li><a href="/wiki/Qidong_County,_Hunan" title="Qidong County, Hunan">Qidong County</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width: 7em;"><a href="/wiki/Shaoyang" title="Shaoyang">Shaoyang</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Shuangqing_District" title="Shuangqing District">Shuangqing District</a></li>
+<li><a href="/wiki/Daxiang_District" title="Daxiang District">Daxiang District</a></li>
+<li><a href="/wiki/Beita_District" title="Beita District">Beita District</a></li>
+<li><a href="/wiki/Wugang,_Hunan" title="Wugang, Hunan">Wugang City</a></li>
+<li><a href="/wiki/Shaodong_County" title="Shaodong County">Shaodong County</a></li>
+<li><a href="/wiki/Shaoyang_County" title="Shaoyang County">Shaoyang County</a></li>
+<li><a href="/wiki/Xinshao_County" title="Xinshao County">Xinshao County</a></li>
+<li><a href="/wiki/Longhui_County" title="Longhui County">Longhui County</a></li>
+<li><a href="/wiki/Dongkou_County" title="Dongkou County">Dongkou County</a></li>
+<li><a href="/wiki/Suining_County,_Hunan" title="Suining County, Hunan">Suining County</a></li>
+<li><a href="/wiki/Xinning_County" title="Xinning County">Xinning County</a></li>
+<li><a href="/wiki/Chengbu_Miao_Autonomous_County" title="Chengbu Miao Autonomous County">Chengbu Autonomous County</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width: 7em;"><a href="/wiki/Yueyang" title="Yueyang">Yueyang</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Yueyanglou_District" title="Yueyanglou District">Yueyanglou District</a></li>
+<li><a href="/wiki/Junshan_District" title="Junshan District">Junshan District</a></li>
+<li><a href="/wiki/Yunxi_District" title="Yunxi District">Yunxi District</a></li>
+<li><a href="/wiki/Miluo_City" title="Miluo City">Miluo City</a></li>
+<li><a href="/wiki/Linxiang,_Hunan" title="Linxiang, Hunan">Linxiang City</a></li>
+<li><a href="/wiki/Yueyang_County" title="Yueyang County">Yueyang County</a></li>
+<li><a href="/wiki/Huarong_County" title="Huarong County">Huarong County</a></li>
+<li><a href="/wiki/Xiangyin_County" title="Xiangyin County">Xiangyin County</a></li>
+<li><a href="/wiki/Pingjiang_County" title="Pingjiang County">Pingjiang County</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width: 7em;"><a href="/wiki/Changde" title="Changde">Changde</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wuling_District" title="Wuling District">Wuling District</a></li>
+<li><a href="/wiki/Dingcheng_District" title="Dingcheng District">Dingcheng District</a></li>
+<li><a href="/wiki/Jinshi,_Hunan" title="Jinshi, Hunan">Jinshi City</a></li>
+<li><a href="/wiki/Anxiang_County" title="Anxiang County">Anxiang County</a></li>
+<li><a href="/wiki/Hanshou_County" title="Hanshou County">Hanshou County</a></li>
+<li><a href="/wiki/Li_County,_Hunan" title="Li County, Hunan">Li County</a></li>
+<li><a href="/wiki/Linli_County" title="Linli County">Linli County</a></li>
+<li><a href="/wiki/Taoyuan_County,_Hunan" title="Taoyuan County, Hunan" class="mw-redirect">Taoyuan County</a></li>
+<li><a href="/wiki/Shimen_County" title="Shimen County">Shimen County</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width: 7em;"><a href="/wiki/Zhangjiajie" title="Zhangjiajie">Zhangjiajie</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Yongding_District" title="Yongding District">Yongding District</a></li>
+<li><a href="/wiki/Wulingyuan_District" title="Wulingyuan District">Wulingyuan District</a></li>
+<li><a href="/wiki/Cili_County" title="Cili County">Cili County</a></li>
+<li><a href="/wiki/Sangzhi_County" title="Sangzhi County">Sangzhi County</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width: 7em;"><a href="/wiki/Yiyang" title="Yiyang">Yiyang</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Heshan_District,_Yiyang" title="Heshan District, Yiyang">Heshan District</a></li>
+<li><a href="/wiki/Ziyang_District" title="Ziyang District">Ziyang District</a></li>
+<li><a href="/wiki/Yuanjiang" title="Yuanjiang">Yuanjiang</a> City</li>
+<li><a href="/wiki/Nan_County" title="Nan County">Nan County</a></li>
+<li><a href="/wiki/Taojiang_County" title="Taojiang County">Taojiang County</a></li>
+<li><a href="/wiki/Anhua_County" title="Anhua County">Anhua County</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width: 7em;"><a href="/wiki/Chenzhou" title="Chenzhou">Chenzhou</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beihu_District" title="Beihu District">Beihu District</a></li>
+<li><a href="/wiki/Suxian_District" title="Suxian District">Suxian District</a></li>
+<li><a href="/wiki/Zixing" title="Zixing">Zixing</a> City</li>
+<li><a href="/wiki/Guiyang_County" title="Guiyang County">Guiyang County</a></li>
+<li><a href="/wiki/Yongxing_County" title="Yongxing County">Yongxing County</a></li>
+<li><a href="/wiki/Yizhang_County" title="Yizhang County">Yizhang County</a></li>
+<li><a href="/wiki/Jiahe_County" title="Jiahe County">Jiahe County</a></li>
+<li><a href="/wiki/Linwu_County" title="Linwu County">Linwu County</a></li>
+<li><a href="/wiki/Rucheng_County" title="Rucheng County">Rucheng County</a></li>
+<li><a href="/wiki/Guidong_County" title="Guidong County">Guidong County</a></li>
+<li><a href="/wiki/Anren_County" title="Anren County">Anren County</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width: 7em;"><a href="/wiki/Yongzhou" title="Yongzhou">Yongzhou</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lengshuitan_District" title="Lengshuitan District">Lengshuitan District</a></li>
+<li><a href="/wiki/Lingling_District" title="Lingling District">Lingling District</a></li>
+<li><a href="/wiki/Dong%27an_County" title="Dong'an County">Dong'an County</a></li>
+<li><a href="/wiki/Dao_County" title="Dao County">Dao County</a></li>
+<li><a href="/wiki/Ningyuan_County" title="Ningyuan County">Ningyuan County</a></li>
+<li><a href="/wiki/Jiangyong_County" title="Jiangyong County">Jiangyong County</a></li>
+<li><a href="/wiki/Lanshan_County" title="Lanshan County">Lanshan County</a></li>
+<li><a href="/wiki/Xintian_County" title="Xintian County">Xintian County</a></li>
+<li><a href="/wiki/Shuangpai_County" title="Shuangpai County">Shuangpai County</a></li>
+<li><a href="/wiki/Qiyang_County" title="Qiyang County">Qiyang County</a></li>
+<li><a href="/wiki/Jianghua_Yao_Autonomous_County" title="Jianghua Yao Autonomous County">Jianghua Autonomous County</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width: 7em;"><a href="/wiki/Huaihua" title="Huaihua">Huaihua</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hecheng_District" title="Hecheng District">Hecheng District</a></li>
+<li><a href="/wiki/Hongjiang" title="Hongjiang">Hongjiang</a> City
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/Hongjiang_District" title="Hongjiang District">Hongjiang District</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Yuanling_County" title="Yuanling County">Yuanling County</a></li>
+<li><a href="/wiki/Chenxi_County" title="Chenxi County">Chenxi County</a></li>
+<li><a href="/wiki/Xupu_County" title="Xupu County">Xupu County</a></li>
+<li><a href="/wiki/Zhongfang_County" title="Zhongfang County">Zhongfang County</a></li>
+<li><a href="/wiki/Huitong_County" title="Huitong County">Huitong County</a></li>
+<li><a href="/wiki/Mayang_Miao_Autonomous_County" title="Mayang Miao Autonomous County">Mayang Autonomous County</a></li>
+<li><a href="/wiki/Xinhuang_Dong_Autonomous_County" title="Xinhuang Dong Autonomous County">Xinhuang Autonomous County</a></li>
+<li><a href="/wiki/Zhijiang_Dong_Autonomous_County" title="Zhijiang Dong Autonomous County">Zhijiang Autonomous County</a></li>
+<li><a href="/wiki/Jingzhou_Miao_and_Dong_Autonomous_County" title="Jingzhou Miao and Dong Autonomous County">Jingzhou Autonomous County</a></li>
+<li><a href="/wiki/Tongdao_Dong_Autonomous_County" title="Tongdao Dong Autonomous County">Tongdao Autonomous County</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width: 7em;"><a href="/wiki/Loudi" title="Loudi">Loudi</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Louxing_District" title="Louxing District">Louxing District</a></li>
+<li><a href="/wiki/Lengshuijiang" title="Lengshuijiang">Lengshuijiang</a></li>
+<li><a href="/wiki/Lianyuan" title="Lianyuan">Lianyuan</a> City</li>
+<li><a href="/wiki/Shuangfeng_County" title="Shuangfeng County">Shuangfeng County</a></li>
+<li><a href="/wiki/Xinhua_County" title="Xinhua County">Xinhua County</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Autonomous_prefectures_of_the_People%27s_Republic_of_China" title="Autonomous prefectures of the People's Republic of China" class="mw-redirect">Autonomous prefecture</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width: 7em;"><a href="/wiki/Xiangxi_Tujia_and_Miao_Autonomous_Prefecture" title="Xiangxi Tujia and Miao Autonomous Prefecture">Xiangxi</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width: auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jishou" title="Jishou">Jishou</a> City</li>
+<li><a href="/wiki/Luxi_County,_Hunan" title="Luxi County, Hunan">Luxi County</a></li>
+<li><a href="/wiki/Fenghuang_County" title="Fenghuang County">Fenghuang County</a></li>
+<li><a href="/wiki/Huayuan_County" title="Huayuan County">Huayuan County</a></li>
+<li><a href="/wiki/Baojing_County" title="Baojing County">Baojing County</a></li>
+<li><a href="/wiki/Guzhang_County" title="Guzhang County">Guzhang County</a></li>
+<li><a href="/wiki/Yongshun_County" title="Yongshun County">Yongshun County</a></li>
+<li><a href="/wiki/Longshan_County" title="Longshan County">Longshan County</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1149
+Cached time: 20151014115203
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.596 seconds
+Real time usage: 0.694 seconds
+Preprocessor visited node count: 3195/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 96837/2097152 bytes
+Template argument size: 2869/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 3/500
+Lua time usage: 0.238/10.000 seconds
+Lua memory usage: 4.62 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  551.165      1 - -total
+ 60.87%  335.519      1 - Template:Infobox_settlement
+ 43.35%  238.947      2 - Template:Infobox
+ 14.24%   78.498      5 - Template:Navbox
+ 10.42%   57.418      7 - Template:Lang
+  9.81%   54.096      8 - Template:Category_handler
+  8.37%   46.117      1 - Template:Convert
+  8.00%   44.068     17 - Template:Zh
+  7.82%   43.109      1 - Template:Lower
+  7.42%   40.879      1 - Template:Nobold
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:213296-0!*!0!!en!4!* and timestamp 20151014115202 and revision id 669187379
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Shaoshan&amp;oldid=669187379">https://en.wikipedia.org/w/index.php?title=Shaoshan&amp;oldid=669187379</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cities_in_Hunan" title="Category:Cities in Hunan">Cities in Hunan</a></li><li><a href="/wiki/Category:Visitor_attractions_in_Hunan" title="Category:Visitor attractions in Hunan">Visitor attractions in Hunan</a></li><li><a href="/wiki/Category:Xiangtan" title="Category:Xiangtan">Xiangtan</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_simplified_Chinese-language_text" title="Category:Articles containing simplified Chinese-language text">Articles containing simplified Chinese-language text</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_Chinese-language_text" title="Category:Articles containing Chinese-language text">Articles containing Chinese-language text</a></li><li><a href="/wiki/Category:Articles_containing_traditional_Chinese-language_text" title="Category:Articles containing traditional Chinese-language text">Articles containing traditional Chinese-language text</a></li><li><a href="/wiki/Category:Articles_with_Chinese-language_external_links" title="Category:Articles with Chinese-language external links">Articles with Chinese-language external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Shaoshan&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Shaoshan" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Shaoshan"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Shaoshan"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Shaoshan" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Shaoshan&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Shaoshan&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Shaoshan" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Shaoshan" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Shaoshan&amp;oldid=669187379" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Shaoshan&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q838542" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Shaoshan&amp;id=669187379" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Shaoshan">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Shaoshan&amp;returnto=Shaoshan&amp;oldid=669187379&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Shaoshan&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Shaoshan" title="Shaoshan – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Shaoshan" title="Shaoshan – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Shaoshan" title="Shaoshan – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Shaoshan" title="Shaoshan – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-hak"><a href="//hak.wikipedia.org/wiki/Sh%C3%A2u-s%C3%A2n-s%E1%B9%B3" title="Shâu-sân-sṳ – Hakka Chinese" lang="hak" hreflang="hak">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%82%AC%EC%98%A4%EC%82%B0_%EC%8B%9C" title="사오산 시 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%B6%E0%A4%BE%E0%A4%93%E0%A4%B6%E0%A4%BE%E0%A4%A8" title="शाओशान – Hindi" lang="hi" hreflang="hi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Shaoshan" title="Shaoshan – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Shaoshan" title="Shaoshan – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-pam"><a href="//pam.wikipedia.org/wiki/Shaoshan" title="Shaoshan – Pampanga" lang="pam" hreflang="pam">Kapampangan</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Saosan" title="Saosan – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Shaoshan" title="Shaoshan – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-my"><a href="//my.wikipedia.org/wiki/%E1%80%9B%E1%80%BE%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%85%E1%80%94%E1%80%BA%E1%80%B8%E1%80%99%E1%80%BC%E1%80%AD%E1%80%AF%E1%80%B7" title="ရှောက်စန်းမြို့ – Burmese" lang="my" hreflang="my">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Shaoshan" title="Shaoshan – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E9%9F%B6%E5%B1%B1%E5%B8%82" title="韶山市 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Shaoshan" title="Shaoshan – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Shaoshan" title="Shaoshan – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BE%D1%88%D0%B0%D0%BD%D1%8C" title="Шаошань – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="//sco.wikipedia.org/wiki/Shaoshan" title="Shaoshan – Scots" lang="sco" hreflang="sco">Scots</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Shaoshan" title="Shaoshan – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Thi%E1%BB%81u_S%C6%A1n" title="Thiều Sơn – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wuu"><a href="//wuu.wikipedia.org/wiki/%E9%9F%B6%E5%B1%B1%E5%B8%82" title="韶山市 – Wu Chinese" lang="wuu" hreflang="wuu">吴语</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%9F%B6%E5%B1%B1%E5%B8%82" title="韶山市 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q838542#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 29 June 2015, at 14:04.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Shaoshan&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1162"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

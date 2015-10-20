@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Portal:Featured content - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":100,"wgPageName":"Portal:Featured_content","wgTitle":"Featured content","wgCurRevisionId":685261480,"wgRevisionId":685261480,"wgArticleId":10515459,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Semi-protected portals","Wikipedia featured content","Portals"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Portal:Featured_content","wgRelevantArticleId":10515459,"wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4387047","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Portal:Featured_content" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-100 ns-subject page-Portal_Featured_content skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This page is semi-protected."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/30px-Padlock-silver.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/40px-Padlock-silver.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Portal:Featured content</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">"WP:FC" redirects here. For the essay on fancrufts, see <a href="/wiki/Wikipedia:Fancruft" title="Wikipedia:Fancruft">Wikipedia:Fancruft</a>.</div>
+<div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+<p><span class="plainlinks"><a href="/wiki/Portal:Contents" title="Portal:Contents"><span class="mw-ui-button mw-ui-constructive" style="padding:0 0.5em;">Contents</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Overviews" title="Portal:Contents/Overviews"><span class="mw-ui-button mw-ui-constructive" style="padding:0 0.5em;">Overview</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Outlines" title="Portal:Contents/Outlines"><span class="mw-ui-button mw-ui-constructive" style="padding:0 0.5em;">Outlines</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Lists" title="Portal:Contents/Lists"><span class="mw-ui-button mw-ui-constructive" style="padding:0 0.5em;">Lists</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals"><span class="mw-ui-button mw-ui-constructive" style="padding:0 0.5em;">Portals</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Glossaries" title="Portal:Contents/Glossaries"><span class="mw-ui-button mw-ui-constructive" style="padding:0 0.5em;">Glossaries</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Categories" title="Portal:Contents/Categories"><span class="mw-ui-button mw-ui-constructive" style="padding:0 0.5em;">Categories</span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Indices" title="Portal:Contents/Indices"><span class="mw-ui-button mw-ui-constructive" style="padding:0 0.5em;">Indices</span></a></span></p>
+</div>
+<table style="border-spacing:8px;margin:-8px -8px -2px; background-color:transparent; width=100%">
+<tr>
+<td class="MainPageBG" style="padding:0.5em 1em 0em 1em; border:1px solid #A3B1BF;background-color:#E6F2FF;vertical-align:top;color:#000; vertical-align:top;">
+<h2><span class="mw-headline" id="Featured_content_in_Wikipedia">Featured content in Wikipedia</span></h2>
+<div class="floatright"><a href="/wiki/File:Cscr-featured.svg" class="image" title="The featured content star"><img alt="The featured content star" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/40px-Cscr-featured.svg.png" width="40" height="38" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/60px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/80px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /></a></div>
+<p>Featured content represents the best that Wikipedia can offer. This includes the articles, pictures, and other contributions that showcase the polished result of the collaborative efforts that drive Wikipedia.</p>
+<p>All featured content undergoes a thorough review process to ensure that it meets the highest standards, and can serve as the best example of our end goals.</p>
+<p>A small bronze star (<a href="/wiki/File:Cscr-featured.svg" class="image" title="The featured content star"><img alt="The featured content star" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/14px-Cscr-featured.svg.png" width="14" height="13" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/21px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/28px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /></a>) in the top right corner of a page indicates that the content is featured. This page gives links to all of Wikipedia's featured content.</p>
+</td>
+<td width="300px" style="vertical-align:top;padding:0.5em 1em 0em 1em; border:1px solid #A3B1BF; background-color:#E6F2FF">
+<div style="position:relative;top:-3em"><span id="P:FC"></span><span id="WP:FX"></span><span id="WP:FC"></span><span id="WP:FEAT"></span><span id="WP:FEATURE"></span></div>
+<table class="shortcutbox noprint" style="float:right;border:1px solid #aaa;background:#fff;margin:.3em .3em .3em 1em;padding:3px;text-align:center">
+<tr>
+<th class="plainlist" style="border:none;background:transparent"><small><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcuts</a>:</small>
+<ul>
+<li><small><a href="/wiki/P:FC" title="P:FC" class="mw-redirect">P:FC</a></small></li>
+<li><small><a href="/wiki/Wikipedia:FX" title="Wikipedia:FX" class="mw-redirect">WP:FX</a></small></li>
+<li><small><a href="/wiki/Wikipedia:FC" title="Wikipedia:FC" class="mw-redirect">WP:FC</a></small></li>
+<li><small><a href="/wiki/Wikipedia:FEAT" title="Wikipedia:FEAT" class="mw-redirect">WP:FEAT</a></small></li>
+<li><small><a href="/wiki/Wikipedia:FEATURE" title="Wikipedia:FEATURE" class="mw-redirect">WP:FEATURE</a></small></li>
+</ul>
+</th>
+</tr>
+</table>
+<p><b><strong class="selflink">Featured content:</strong></b> ←</p>
+<ul>
+<li><a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">Featured articles</a></li>
+<li><a href="/wiki/Wikipedia:Featured_lists" title="Wikipedia:Featured lists">Featured lists</a></li>
+<li><a href="/wiki/Wikipedia:Featured_pictures" title="Wikipedia:Featured pictures">Featured pictures</a></li>
+<li><a href="/wiki/Portal:Featured_sounds" title="Portal:Featured sounds">Featured sounds</a></li>
+<li><a href="/wiki/Portal:Featured_portals" title="Portal:Featured portals">Featured portals</a></li>
+<li><a href="/wiki/Wikipedia:Featured_topics" title="Wikipedia:Featured topics">Featured topics</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table cellpadding="2" cellspacing="5" style="width:100%; border:1px solid #A3B1BF; vertical-align:top;background-color:#F5FAFF;color:#000; margin:15px 0 15px 0">
+<tr>
+<th>
+<h2><span class="mw-headline" id="Lists_of_featured_content">Lists of featured content</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000">
+<div align="center">
+<table class="wikitable" style="text-align: center; border: none; margin-top: 1ex" cellpadding="4">
+<tr>
+<td style="border-top: none; border-left: none; background: transparent"></td>
+<th>Articles</th>
+<th>Pictures</th>
+<th>Lists</th>
+<th>Portals</th>
+<th>Topics</th>
+</tr>
+<tr>
+<th>Featured:</th>
+<td><a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">4638</a> / <a href="/wiki/Wikipedia_talk:Featured_articles" title="Wikipedia talk:Featured articles">T</a></td>
+<td><a href="/wiki/Wikipedia:Featured_pictures" title="Wikipedia:Featured pictures">5,659</a> / <a href="/wiki/Wikipedia_talk:Featured_pictures" title="Wikipedia talk:Featured pictures">T</a></td>
+<td><a href="/wiki/Wikipedia:Featured_lists" title="Wikipedia:Featured lists">2902</a> / <a href="/wiki/Wikipedia_talk:Featured_lists" title="Wikipedia talk:Featured lists">T</a></td>
+<td><a href="/wiki/Portal:Featured_portals" title="Portal:Featured portals">169</a> / <a href="/wiki/Portal_talk:Featured_portals" title="Portal talk:Featured portals">T</a></td>
+<td><a href="/wiki/Wikipedia:Featured_topics" title="Wikipedia:Featured topics">143</a> / <a href="/wiki/Wikipedia_talk:Featured_topics" title="Wikipedia talk:Featured topics">T</a></td>
+</tr>
+<tr>
+<th>Criteria:</th>
+<td><a href="/wiki/Wikipedia:Featured_article_criteria" title="Wikipedia:Featured article criteria">FA?</a> / <a href="/wiki/Wikipedia_talk:Featured_article_criteria" title="Wikipedia talk:Featured article criteria">T</a></td>
+<td><a href="/wiki/Wikipedia:Featured_picture_criteria" title="Wikipedia:Featured picture criteria">FP?</a> / <a href="/wiki/Wikipedia_talk:Featured_picture_criteria" title="Wikipedia talk:Featured picture criteria">T</a></td>
+<td><a href="/wiki/Wikipedia:Featured_list_criteria" title="Wikipedia:Featured list criteria">FL?</a> / <a href="/wiki/Wikipedia_talk:Featured_list_criteria" title="Wikipedia talk:Featured list criteria">T</a></td>
+<td><a href="/wiki/Wikipedia:Featured_portal_criteria" title="Wikipedia:Featured portal criteria">FPO?</a> / <a href="/wiki/Wikipedia_talk:Featured_portal_criteria" title="Wikipedia talk:Featured portal criteria">T</a></td>
+<td><a href="/wiki/Wikipedia:Featured_topic_criteria" title="Wikipedia:Featured topic criteria">FT?</a> / <a href="/wiki/Wikipedia_talk:Featured_topic_criteria" title="Wikipedia talk:Featured topic criteria">T</a></td>
+</tr>
+<tr>
+<th>Candidates:</th>
+<td><a href="/wiki/Wikipedia:Featured_article_candidates" title="Wikipedia:Featured article candidates">FAC</a> / <a href="/wiki/Wikipedia_talk:Featured_article_candidates" title="Wikipedia talk:Featured article candidates">T</a></td>
+<td><a href="/wiki/Wikipedia:Featured_picture_candidates" title="Wikipedia:Featured picture candidates">FPC</a> / <a href="/wiki/Wikipedia_talk:Featured_picture_candidates" title="Wikipedia talk:Featured picture candidates">T</a></td>
+<td><a href="/wiki/Wikipedia:Featured_list_candidates" title="Wikipedia:Featured list candidates">FLC</a> / <a href="/wiki/Wikipedia_talk:Featured_list_candidates" title="Wikipedia talk:Featured list candidates">T</a></td>
+<td><a href="/wiki/Wikipedia:Featured_portal_candidates" title="Wikipedia:Featured portal candidates">FPOC</a> / <a href="/wiki/Wikipedia_talk:Featured_portal_candidates" title="Wikipedia talk:Featured portal candidates">T</a></td>
+<td><a href="/wiki/Wikipedia:Featured_topic_candidates" title="Wikipedia:Featured topic candidates">FTC</a> / <a href="/wiki/Wikipedia_talk:Featured_topic_candidates" title="Wikipedia talk:Featured topic candidates">T</a></td>
+</tr>
+<tr>
+<th>Removal:</th>
+<td><a href="/wiki/Wikipedia:Featured_article_review" title="Wikipedia:Featured article review">FARC</a> / <a href="/wiki/Wikipedia_talk:Featured_article_review" title="Wikipedia talk:Featured article review">T</a></td>
+<td><a href="/wiki/Wikipedia:Featured_picture_candidates#Nominations_for_delisting" title="Wikipedia:Featured picture candidates">FPR</a> / <a href="/wiki/Wikipedia_talk:Featured_picture_candidates" title="Wikipedia talk:Featured picture candidates">T</a></td>
+<td><a href="/wiki/Wikipedia:Featured_list_removal_candidates" title="Wikipedia:Featured list removal candidates">FLRC</a> / <a href="/wiki/Wikipedia_talk:Featured_list_removal_candidates" title="Wikipedia talk:Featured list removal candidates">T</a></td>
+<td><a href="/wiki/Wikipedia:Featured_portal_review" title="Wikipedia:Featured portal review">FPR</a> / <a href="/wiki/Wikipedia_talk:Featured_portal_review" title="Wikipedia talk:Featured portal review">T</a></td>
+<td><a href="/wiki/Wikipedia:Featured_topic_removal_candidates" title="Wikipedia:Featured topic removal candidates">FTRC</a> / <a href="/wiki/Wikipedia_talk:Featured_topic_removal_candidates" title="Wikipedia talk:Featured topic removal candidates" class="mw-redirect">T</a></td>
+</tr>
+<tr>
+<th>Former:</th>
+<td><a href="/wiki/Wikipedia:Former_featured_articles" title="Wikipedia:Former featured articles">1,094</a> / <a href="/wiki/Wikipedia_talk:Former_featured_articles" title="Wikipedia talk:Former featured articles">T</a></td>
+<td><a href="/wiki/Wikipedia:Former_featured_pictures" title="Wikipedia:Former featured pictures">FFP</a></td>
+<td><a href="/wiki/Wikipedia:Former_featured_lists" title="Wikipedia:Former featured lists">237</a> / <a href="/wiki/Wikipedia_talk:Former_featured_lists" title="Wikipedia talk:Former featured lists">T</a></td>
+<td><a href="/wiki/Wikipedia:Former_featured_portals" title="Wikipedia:Former featured portals">FFPO</a></td>
+<td><a href="/wiki/Wikipedia:Former_featured_topics" title="Wikipedia:Former featured topics">FFT</a></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<th>
+<h2><span class="mw-headline" id="Newest_featured_content_edit">Newest featured content <small><span class="editlink noprint plainlinks navbar"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Announcements/New_featured_content&amp;action=edit">edit</a></span></small></span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000">
+<table style="width:100%">
+<tr>
+<th style="width:33%;background-color:#E6FFF2"><a href="/wiki/Wikipedia:Featured_articles" title="Wikipedia:Featured articles">Articles</a></th>
+<th style="width:33%;background-color:#E0F2CE"><a href="/wiki/Wikipedia:Featured_topics" title="Wikipedia:Featured topics">Topics</a></th>
+<th style="width:33%;background-color:#FFE6F2"><a href="/wiki/Portal:Featured_portals" title="Portal:Featured portals">Portals</a></th>
+</tr>
+<tr style="vertical-align:top;">
+<td style="background-color:#F5FFFA">
+<ul>
+<li>"<a href="/wiki/R_U_Professional" title="R U Professional">R U Professional</a>"</li>
+<li><a href="/wiki/Boroughitis" title="Boroughitis">Boroughitis</a></li>
+<li><a href="/wiki/Apatosaurus" title="Apatosaurus">Apatosaurus</a></li>
+<li><a href="/wiki/Trout_Creek_Mountains" title="Trout Creek Mountains">Trout Creek Mountains</a></li>
+<li><a href="/wiki/SMS_Prinz_Adalbert_(1901)" title="SMS Prinz Adalbert (1901)">SMS <i>Prinz Adalbert</i> (1901)</a></li>
+<li><a href="/wiki/St_Denys%27_Church,_Sleaford" title="St Denys' Church, Sleaford">St Denys' Church, Sleaford</a></li>
+<li><a href="/wiki/Oviri_(Gauguin)" title="Oviri (Gauguin)"><i>Oviri</i> (Gauguin)</a></li>
+<li><a href="/wiki/Ununseptium" title="Ununseptium">Ununseptium</a></li>
+<li><i><a href="/wiki/Vampire:_The_Masquerade_%E2%80%93_Redemption" title="Vampire: The Masquerade – Redemption">Vampire: The Masquerade – Redemption</a></i></li>
+<li><a href="/wiki/In_Our_Time_(short_story_collection)" title="In Our Time (short story collection)"><i>In Our Time</i> (short story collection)</a></li>
+<li><a href="/wiki/The_Turn_of_the_Screw_(2009_film)" title="The Turn of the Screw (2009 film)"><i>The Turn of the Screw</i>&#160;(2009 film)</a></li>
+<li><a href="/wiki/Pyxis" title="Pyxis">Pyxis</a></li>
+<li><a href="/wiki/Satoru_Iwata" title="Satoru Iwata">Satoru Iwata</a></li>
+<li><a href="/wiki/Bootham_Crescent" title="Bootham Crescent">Bootham Crescent</a></li>
+<li><a href="/wiki/United_States_presidential_election,_1880" title="United States presidential election, 1880">United States presidential election, 1880</a></li>
+</ul>
+</td>
+<td style="background-color:#F2FFE6">
+<ul>
+<li><a href="/wiki/Wikipedia:Featured_topics/Overview_of_Leonardo_DiCaprio" title="Wikipedia:Featured topics/Overview of Leonardo DiCaprio">Overview of Leonardo DiCaprio</a></li>
+<li><a href="/wiki/Wikipedia:Featured_topics/Liverpool_F.C." title="Wikipedia:Featured topics/Liverpool F.C.">Liverpool F.C.</a></li>
+<li><a href="/wiki/Wikipedia:Featured_topics/Almirante_Latorre-class_battleships" title="Wikipedia:Featured topics/Almirante Latorre-class battleships"><i>Almirante Latorre</i>-class battleships</a></li>
+<li><a href="/wiki/Wikipedia:Featured_topics/Scheduled_monuments_in_Somerset" title="Wikipedia:Featured topics/Scheduled monuments in Somerset">Scheduled monuments in Somerset</a></li>
+<li><a href="/wiki/Wikipedia:Featured_topics/Overview_of_Lorde" title="Wikipedia:Featured topics/Overview of Lorde">Overview of Lorde</a></li>
+<li><a href="/wiki/Wikipedia:Featured_topics/Sega_video_game_consoles" title="Wikipedia:Featured topics/Sega video game consoles">Sega video game consoles</a></li>
+<li><a href="/wiki/Wikipedia:Featured_topics/Vidya_Balan" title="Wikipedia:Featured topics/Vidya Balan">Vidya Balan</a></li>
+<li><a href="/wiki/Wikipedia:Featured_topics/No._90_(Composite)_Wing_RAAF" title="Wikipedia:Featured topics/No. 90 (Composite) Wing RAAF">No. 90 (Composite) Wing RAAF</a></li>
+<li><a href="/wiki/Wikipedia:Featured_topics/Council_of_Lithuania" title="Wikipedia:Featured topics/Council of Lithuania">Council of Lithuania</a></li>
+<li><a href="/wiki/Wikipedia:Featured_topics/Cruisers_of_Germany" title="Wikipedia:Featured topics/Cruisers of Germany">Cruisers of Germany</a></li>
+<li><a href="/wiki/Wikipedia:Featured_topics/Looking_Glass_Studios_video_games" title="Wikipedia:Featured topics/Looking Glass Studios video games">Looking Glass Studios video games</a></li>
+<li><a href="/wiki/Wikipedia:Featured_topics/Four_Freedoms" title="Wikipedia:Featured topics/Four Freedoms">Four Freedoms</a></li>
+<li><a href="/wiki/Wikipedia:Featured_topics/Union_Films" title="Wikipedia:Featured topics/Union Films">Union Films</a></li>
+<li><a href="/wiki/Wikipedia:Featured_topics/Raphinae" title="Wikipedia:Featured topics/Raphinae">Raphinae</a></li>
+<li><a href="/wiki/Wikipedia:Featured_topics/Audie_Murphy" title="Wikipedia:Featured topics/Audie Murphy">Audie Murphy</a></li>
+</ul>
+</td>
+<td style="background-color:#FFF5FA">
+<ul>
+<li><a href="/wiki/Portal:Children%27s_literature" title="Portal:Children's literature">Children's literature</a></li>
+<li><a href="/wiki/Portal:New_York_City" title="Portal:New York City">New York City</a></li>
+<li><a href="/wiki/Portal:Literature" title="Portal:Literature">Literature</a></li>
+<li><a href="/wiki/Portal:Freedom_of_speech" title="Portal:Freedom of speech">Freedom of speech</a></li>
+<li><a href="/wiki/Portal:Star_Trek" title="Portal:Star Trek">Star Trek</a></li>
+<li><a href="/wiki/Portal:Technology" title="Portal:Technology">Technology</a></li>
+<li><a href="/wiki/Portal:Sports" title="Portal:Sports">Sports</a></li>
+<li><a href="/wiki/Portal:Geography" title="Portal:Geography">Geography</a></li>
+<li><a href="/wiki/Portal:Massachusetts" title="Portal:Massachusetts">Massachusetts</a></li>
+<li><a href="/wiki/Portal:Cheshire" title="Portal:Cheshire">Cheshire</a></li>
+<li><a href="/wiki/Portal:Bollywood" title="Portal:Bollywood">Bollywood</a></li>
+<li><a href="/wiki/Portal:Society" title="Portal:Society">Society</a></li>
+<li><a href="/wiki/Portal:Indonesia" title="Portal:Indonesia">Indonesia</a></li>
+<li><a href="/wiki/Portal:New_England" title="Portal:New England">New England</a></li>
+<li><a href="/wiki/Portal:Maryland_Roads" title="Portal:Maryland Roads">Maryland Roads</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<table style="width:100%">
+<tr>
+<th style="width:33%;background-color:#FFF2E6"><a href="/wiki/Wikipedia:Featured_lists" title="Wikipedia:Featured lists">Lists</a></th>
+<th style="width:34%;background-color:#F2E6FF"><a href="/wiki/Wikipedia:Featured_pictures" title="Wikipedia:Featured pictures">Pictures</a></th>
+</tr>
+<tr style="vertical-align:top;">
+<td style="background-color:#FFFAF5">
+<ul>
+<li><a href="/wiki/Agatha_Christie_bibliography" title="Agatha Christie bibliography">Agatha Christie bibliography</a></li>
+<li><a href="/wiki/List_of_Square_Enix_video_game_franchises" title="List of Square Enix video game franchises">Square Enix video game franchises</a></li>
+<li><a href="/wiki/List_of_Millennium_characters" title="List of Millennium characters"><i>Millennium</i> characters</a></li>
+<li><a href="/wiki/List_of_accolades_received_by_Brokeback_Mountain" title="List of accolades received by Brokeback Mountain">Accolades received by <i>Brokeback Mountain</i></a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_American_Horror_Story" title="List of awards and nominations received by American Horror Story">Awards and nominations received by <i>American Horror Story</i></a></li>
+<li><a href="/wiki/List_of_accolades_received_by_The_Artist_(film)" title="List of accolades received by The Artist (film)">Accolades received by <i>The Artist</i> (film)</a></li>
+<li><a href="/wiki/List_of_tributaries_of_Shamokin_Creek" title="List of tributaries of Shamokin Creek">List of tributaries of Shamokin Creek</a></li>
+<li><a href="/wiki/List_of_accolades_received_by_Dookudu" title="List of accolades received by Dookudu">Accolades received by <i>Dookudu</i></a></li>
+<li><a href="/wiki/List_of_cities_and_towns_in_Alabama" title="List of cities and towns in Alabama">Cities and towns in Alabama</a></li>
+<li><a href="/wiki/Nicole_Kidman_filmography" title="Nicole Kidman filmography">Nicole Kidman filmography</a></li>
+<li><a href="/wiki/List_of_players_who_have_scored_10,000_or_more_runs_in_One_Day_International_cricket" title="List of players who have scored 10,000 or more runs in One Day International cricket">Players who have scored 10,000 or more runs in One Day International cricket</a></li>
+<li><a href="/wiki/Poet_Laureate_of_the_United_Kingdom" title="Poet Laureate of the United Kingdom">Poet Laureate of the United Kingdom</a></li>
+<li><a href="/wiki/2014_Winter_Olympics_medal_table" title="2014 Winter Olympics medal table">2014 Winter Olympics medal table</a></li>
+<li><a href="/wiki/Katrina_Kaif_filmography" title="Katrina Kaif filmography">Katrina Kaif filmography</a></li>
+<li><a href="/wiki/List_of_teams_and_cyclists_in_the_2015_Tour_de_France" title="List of teams and cyclists in the 2015 Tour de France">Teams and cyclists in the 2015 Tour de France</a></li>
+</ul>
+</td>
+<td style="background-color:#FAF5FF">
+<ul>
+<li><a href="/wiki/File:ROM-69-Emergency_WWI-10_Bani_(1917).jpg" title="File:ROM-69-Emergency WWI-10 Bani (1917).jpg">Ten Romanian bani</a></li>
+<li><a href="/wiki/File:ROM-70-Emergency_WWI-25_Bani_(1917).jpg" title="File:ROM-70-Emergency WWI-25 Bani (1917).jpg">Twenty-five Romanian bani</a></li>
+<li><a href="/wiki/File:ROM-71-Emergency_WWI-50_Bani_(1917).jpg" title="File:ROM-71-Emergency WWI-50 Bani (1917).jpg">Fifty Romanian bani</a></li>
+<li><a href="/wiki/File:Atractomorpha_crenulata_at_Sambisari_Temple_Complex,_2014-09-28_04.jpg" title="File:Atractomorpha crenulata at Sambisari Temple Complex, 2014-09-28 04.jpg"><i>Atractomorpha crenulata</i></a></li>
+<li><a href="/wiki/File:HUN-19-Provisional-10_Korona_(1920).jpg" title="File:HUN-19-Provisional-10 Korona (1920).jpg">Ten Hungarian korona</a></li>
+<li><a href="/wiki/File:HUN-20-Provisional-20_Korona_(1920).jpg" title="File:HUN-20-Provisional-20 Korona (1920).jpg">Twenty Hungarian korona</a></li>
+<li><a href="/wiki/File:HUN-23-Provisional-25_Korona_(1920).jpg" title="File:HUN-23-Provisional-25 Korona (1920).jpg">Twenty-five Hungarian korona</a></li>
+<li><a href="/wiki/File:HUN-25-Provisional-50_Korona_(1920).jpg" title="File:HUN-25-Provisional-50 Korona (1920).jpg">Fifty Hungarian korona</a></li>
+<li><a href="/wiki/File:HUN-27-Provisional-100_Korona_(1920).jpg" title="File:HUN-27-Provisional-100 Korona (1920).jpg">One-hundred Hungarian korona</a></li>
+<li><a href="/wiki/File:HUN-29-Provisional-200_Korona_(1920).jpg" title="File:HUN-29-Provisional-200 Korona (1920).jpg">Two-hundred Hungarian korona</a></li>
+<li><a href="/wiki/File:HUN-31-Provisional-1000_Korona_(1920).jpg" title="File:HUN-31-Provisional-1000 Korona (1920).jpg">One-thousand Hungarian korona</a></li>
+<li><a href="/wiki/File:HUN-32-Provisional-10000_Korona_(1920).jpg" title="File:HUN-32-Provisional-10000 Korona (1920).jpg">Ten-thousand Hungarian korona</a></li>
+<li><a href="/wiki/File:Antonello_da_Messina_-_Portrait_of_a_Man_-_National_Gallery_London.jpg" title="File:Antonello da Messina - Portrait of a Man - National Gallery London.jpg"><i>Portrait of a Man</i></a></li>
+<li><a href="/wiki/File:GER-COL-S-1451-Prussia-Siege_of_Kolberg-2_groschen-1807.jpg" title="File:GER-COL-S-1451-Prussia-Siege of Kolberg-2 groschen-1807.jpg">Two groschen, issued during the Siege of Kolberg</a></li>
+<li><a href="/wiki/File:GER-COL-S-1452-Prussia-Siege_of_Kolberg-4_groschen-1807.jpg" title="File:GER-COL-S-1452-Prussia-Siege of Kolberg-4 groschen-1807.jpg">Four groschen, issued during the Siege of Kolberg</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th>
+<h2><span class="mw-headline" id="Featured_content_procedures">Featured content procedures</span></h2>
+</th>
+</tr>
+<tr>
+<td style="color:#000">
+<div align="center">
+<ul>
+<li><a href="/wiki/Special:RecentChangesLinked/Portal:Featured_content/Pages" title="Special:RecentChangesLinked/Portal:Featured content/Pages">Recent changes impacting this page</a></li>
+<li><a href="/wiki/Special:RecentChangesLinked/Portal:Featured_content/Updates" title="Special:RecentChangesLinked/Portal:Featured content/Updates">Recent updates to the featured status pages</a></li>
+<li><a href="/wiki/Wikipedia:Today%27s_featured_article/requests" title="Wikipedia:Today's featured article/requests">Wikipedia:Today's featured article/requests</a></li>
+<li><a href="/wiki/Category:Wikipedia_featured_content" title="Category:Wikipedia featured content">Category:Wikipedia featured content</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;"></div>
+<div id="contents-footer" class="hlist plainlinks selfreference" style="font-size:88%; margin-top:5px; border:1px solid #B8C7D9; background-color:#E6F2FF; padding:1em; text-align:center">
+<div style="font-size:140%"><a href="/wiki/Portal:Contents" title="Portal:Contents">Content listings</a></div>
+<div style="font-size:105%; font-weight:bold">Types</div>
+<div>
+<ul>
+<li><a href="/wiki/Portal:Contents/Overviews" title="Portal:Contents/Overviews">Overviews</a></li>
+<li><strong class="selflink">Featured content</strong></li>
+<li><a href="/wiki/Portal:Contents/Outlines" title="Portal:Contents/Outlines">Outlines</a></li>
+<li><a href="/wiki/Portal:Contents/Lists" title="Portal:Contents/Lists">Lists</a></li>
+<li><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">Portals</a></li>
+<li><a href="/wiki/Portal:Contents/Glossaries" title="Portal:Contents/Glossaries">Glossaries</a></li>
+<li><a href="/wiki/Portal:Contents/Categories" title="Portal:Contents/Categories">Categories</a></li>
+<li><a href="/wiki/Portal:Contents/Indices" title="Portal:Contents/Indices">Indices</a></li>
+</ul>
+</div>
+<div>
+<div style="font-size:105%; font-weight:bold">Topics</div>
+<ul>
+<li><a href="/wiki/Portal:Current_events" title="Portal:Current events">Current events</a></li>
+<li><a href="/wiki/Portal:Contents/Reference" title="Portal:Contents/Reference">Reference</a></li>
+<li><a href="/wiki/Portal:Contents/Culture_and_the_arts" title="Portal:Contents/Culture and the arts">Culture</a></li>
+<li><a href="/wiki/Portal:Contents/Geography_and_places" title="Portal:Contents/Geography and places">Geography</a></li>
+<li><a href="/wiki/Portal:Contents/Health_and_fitness" title="Portal:Contents/Health and fitness">Health</a></li>
+<li><a href="/wiki/Portal:Contents/History_and_events" title="Portal:Contents/History and events">History</a></li>
+<li><a href="/wiki/Portal:Contents/Mathematics_and_logic" title="Portal:Contents/Mathematics and logic">Mathematics</a></li>
+<li><a href="/wiki/Portal:Contents/Natural_and_physical_sciences" title="Portal:Contents/Natural and physical sciences">Nature</a></li>
+<li><a href="/wiki/Portal:Contents/People_and_self" title="Portal:Contents/People and self">People</a></li>
+<li><a href="/wiki/Portal:Contents/Philosophy_and_thinking" title="Portal:Contents/Philosophy and thinking">Philosophy</a></li>
+<li><a href="/wiki/Portal:Contents/Religion_and_belief_systems" title="Portal:Contents/Religion and belief systems">Religion</a></li>
+<li><a href="/wiki/Portal:Contents/Society_and_social_sciences" title="Portal:Contents/Society and social sciences">Society</a></li>
+<li><a href="/wiki/Portal:Contents/Technology_and_applied_sciences" title="Portal:Contents/Technology and applied sciences">Technology</a></li>
+</ul>
+</div>
+<div>
+<div style="font-size:105%; font-weight:bold">Places, people and times</div>
+<ul>
+<li><a href="/wiki/Outline_of_academic_disciplines" title="Outline of academic disciplines">Academic disciplines</a></li>
+<li><a href="/wiki/List_of_historical_anniversaries" title="List of historical anniversaries">Anniversaries</a>
+<ul>
+<li><span style="font-size:90%"><a href="/wiki/October_20" title="October 20">today</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Lists_of_countries_and_territories" title="Lists of countries and territories">Countries and territories</a></li>
+<li><a href="/wiki/Lists_of_people" title="Lists of people">People</a>
+<ul>
+<li><span style="font-size:90%"><a href="/wiki/Deaths_in_2015" title="Deaths in 2015">deaths this year</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_timelines" title="List of timelines">Timelines</a>
+<ul>
+<li><span style="font-size:90%"><a href="/wiki/List_of_centuries" title="List of centuries">centuries</a></span></li>
+<li><span style="font-size:90%"><a href="/wiki/List_of_decades" title="List of decades">decades</a></span></li>
+</ul>
+</li>
+</ul>
+</div>
+<div style="font-size:105%; font-weight:bold">Indices</div>
+<div>
+<ul>
+<li><a href="/wiki/Portal:Contents/A%E2%80%93Z_index" title="Portal:Contents/A–Z index">A–Z index</a></li>
+<li><a href="/wiki/Portal:Contents/Categories" title="Portal:Contents/Categories">Categories</a></li>
+<li><a href="/wiki/List_of_Dewey_Decimal_classes" title="List of Dewey Decimal classes">Dewey Decimal classes</a></li>
+<li><a href="/wiki/Library_of_Congress_Classification" title="Library of Congress Classification">Library of Congress Classification</a></li>
+<li><a href="/wiki/Wikipedia:Outline_of_Roget%27s_Thesaurus" title="Wikipedia:Outline of Roget's Thesaurus">Roget's Thesaurus</a></li>
+<li><a href="/wiki/Wikipedia:Spoken_articles" title="Wikipedia:Spoken articles">Spoken articles</a></li>
+<li><a href="/wiki/Wikipedia:Books" title="Wikipedia:Books">Wikipedia books</a></li>
+</ul>
+</div>
+</div>
+<div align="right"><small><span class="noprint plainlinks purgelink"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Featured_content&amp;action=purge"><span title="Purge this page">Purge page cache</span></a></span></small></div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1220
+Cached time: 20151020031048
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.195 seconds
+Real time usage: 0.302 seconds
+Preprocessor visited node count: 375/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19722/2097152 bytes
+Template argument size: 3096/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 8/500
+Lua time usage: 0.054/10.000 seconds
+Lua memory usage: 1.42 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  213.049      1 - -total
+ 31.25%   66.586      1 - Portal:Featured_content/Info
+ 29.89%   63.691      1 - Template:Pp-protected
+ 12.90%   27.483      1 - Template:Contents_pages_(header_bar)
+ 11.52%   24.550      1 - Template:Center
+  9.72%   20.710      8 - Template:Clickable_button_2
+  6.96%   14.838      1 - Template:FP_number
+  6.93%   14.767      1 - Template:FL_number
+  5.73%   12.205      1 - Wikipedia:Featured_lists
+  5.72%   12.189      1 - Template:FA_number
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10515459-0!*!0!!*!4!* and timestamp 20151020031048 and revision id 685261480
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Portal:Featured_content&amp;oldid=685261480">https://en.wikipedia.org/w/index.php?title=Portal:Featured_content&amp;oldid=685261480</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_featured_content" title="Category:Wikipedia featured content">Wikipedia featured content</a></li><li><a href="/wiki/Category:Portals" title="Category:Portals">Portals</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Semi-protected_portals" title="Category:Semi-protected portals">Semi-protected portals</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Portal%3AFeatured+content&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Portal%3AFeatured+content" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-portal" class="selected"><span><a href="/wiki/Portal:Featured_content" >Portal</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Portal_talk:Featured_content"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Portal:Featured_content" >Read</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=Portal:Featured_content&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Portal:Featured_content&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Portal:Featured_content" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Portal:Featured_content" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Portal:Featured_content&amp;oldid=685261480" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Portal:Featured_content&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q4387047" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Portal%3AFeatured+content">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Portal%3AFeatured+content&amp;returnto=Portal%3AFeatured+content&amp;oldid=685261480&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Portal:Featured_content&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%89_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1" title="بوابة:محتوى مختار – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Wikipedia:Bewertungen" title="Wikipedia:Bewertungen – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Wikip%C3%A9dia:Contenus_de_qualit%C3%A9" title="Wikipédia:Contenus de qualité – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%9A%E0%A4%BF%E0%A4%A4_%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A4%AF_%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%81" title="विकिपीडिया:निर्वाचित विषय वस्तु – Hindi" lang="hi" hreflang="hi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Wikipedia:Isi_pilihan" title="Wikipedia:Isi pilihan – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Wikipedia:Proiecte_de_evaluare" title="Wikipedia:Proiecte de evaluare – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-tt"><a href="//tt.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A1%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D0%B3%D0%B0%D0%BD_%D1%8D%D1%87%D1%82%D3%99%D0%BB%D0%B5%D0%BA" title="Портал:Сайланган эчтәлек – Tatar" lang="tt" hreflang="tt">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Vikipedi:Se%C3%A7kin_i%C3%A7erik" title="Vikipedi:Seçkin içerik – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Ch%E1%BB%A7_%C4%91%E1%BB%81:N%E1%BB%99i_dung_ch%E1%BB%8Dn_l%E1%BB%8Dc" title="Chủ đề:Nội dung chọn lọc – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-ts"><a href="//ts.wikipedia.org/wiki/Portal:Featured_content" title="Portal:Featured content – Tsonga" lang="ts" hreflang="ts">Xitsonga</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/Portal:%E6%AD%A3%E5%98%A2" title="Portal:正嘢 – Cantonese" lang="zh-yue" hreflang="zh-yue">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/Portal:%E7%89%B9%E8%89%B2%E5%85%A7%E5%AE%B9" title="Portal:特色內容 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q4387047#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 11 October 2015, at 20:55.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Portal:Featured_content&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":62,"wgHostname":"mw1257"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

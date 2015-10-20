@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Golf-class submarine - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Golf-class_submarine","wgTitle":"Golf-class submarine","wgCurRevisionId":685204127,"wgRevisionId":685204127,"wgArticleId":909648,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","Golf-class submarines","Russian and Soviet navy submarine classes","Submarine classes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Golf-class_submarine","wgRelevantArticleId":909648,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Golf_class_submarine","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Image_Submarine_Golf_II_class.jpg/100px-Image_Submarine_Golf_II_class.jpg","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Golf-class_submarine","wgWikibaseItemId":"Q1068329","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Golf-class_submarine" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Golf-class_submarine&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Golf-class_submarine&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Golf-class_submarine" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Golf-class_submarine skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Golf-class submarine</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Golf_class_submarine&amp;redirect=no" title="Golf class submarine">Golf class submarine</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:315px;border-spacing:2px;">
+<tr>
+<td colspan="2" style="text-align:center;line-height:1.5em;"><a href="/wiki/File:Image_Submarine_Golf_II_class.jpg" class="image" title="Golf II-class submarine"><img alt="Golf II-class submarine" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Image_Submarine_Golf_II_class.jpg/300px-Image_Submarine_Golf_II_class.jpg" width="300" height="169" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Image_Submarine_Golf_II_class.jpg/450px-Image_Submarine_Golf_II_class.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Image_Submarine_Golf_II_class.jpg/600px-Image_Submarine_Golf_II_class.jpg 2x" data-file-width="3000" data-file-height="1694" /></a>
+<div>
+<center>Golf II class submarine</center>
+</div>
+</td>
+</tr>
+<tr style="vertical-align:top;">
+<th colspan="2" height="30pt" style="background-color:#B0C4DE;text-align:center;vertical-align:middle;font-size:110%;">Class overview</th>
+</tr>
+<tr style="vertical-align:top;">
+<td>Operators:</td>
+<td>
+<ul style="list-style:none none; margin:0;">
+<li style="padding-left: .8em; text-indent: -.8em;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Naval_Ensign_of_the_Soviet_Union.svg/22px-Naval_Ensign_of_the_Soviet_Union.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Naval_Ensign_of_the_Soviet_Union.svg/33px-Naval_Ensign_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Naval_Ensign_of_the_Soviet_Union.svg/44px-Naval_Ensign_of_the_Soviet_Union.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Soviet_Navy" title="Soviet Navy">Soviet Navy</a></li>
+<li style="padding-left: .8em; text-indent: -.8em;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_the_Korean_People%27s_Navy.svg/22px-Flag_of_the_Korean_People%27s_Navy.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_the_Korean_People%27s_Navy.svg/33px-Flag_of_the_Korean_People%27s_Navy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_the_Korean_People%27s_Navy.svg/44px-Flag_of_the_Korean_People%27s_Navy.svg.png 2x" data-file-width="900" data-file-height="450" />&#160;</span><a href="/wiki/Korean_People%27s_Navy" title="Korean People's Navy">Korean People's Navy</a></li>
+</ul>
+</td>
+</tr>
+<tr style="vertical-align:top;">
+<td>Preceded by:</td>
+<td><a href="/wiki/Zulu-class_submarine" title="Zulu-class submarine">Zulu V class</a></td>
+</tr>
+<tr style="vertical-align:top;">
+<td>Succeeded&#160;by:</td>
+<td><a href="/wiki/Hotel-class_submarine" title="Hotel-class submarine">Hotel class</a></td>
+</tr>
+<tr style="vertical-align:top;">
+<td>In service:</td>
+<td>1958–1990</td>
+</tr>
+<tr style="vertical-align:top;">
+<td>Completed:</td>
+<td>23</td>
+</tr>
+<tr>
+<th colspan="2" height="30" style="background-color:#B0C4DE;text-align:center;vertical-align:middle;font-size:110%;">General characteristics</th>
+</tr>
+<tr style="vertical-align:top;">
+<td>Displacement:</td>
+<td>
+<ul style="list-style:none none; margin:0;">
+<li style="padding-left: .8em; text-indent: -.8em;">2,794 <a href="/wiki/Ton" title="Ton">tons</a> surfaced/3,553 tons submerged (629)</li>
+<li style="padding-left: .8em; text-indent: -.8em;">2,300-2,820 tons surfaced/2,700-3,553 tons submerged (629A)</li>
+</ul>
+</td>
+</tr>
+<tr style="vertical-align:top;">
+<td>Length:</td>
+<td>
+<ul style="list-style:none none; margin:0;">
+<li style="padding-left: .8em; text-indent: -.8em;">98.4&#160;m (323&#160;ft) (629)</li>
+<li style="padding-left: .8em; text-indent: -.8em;">98.9 m (629A)</li>
+</ul>
+</td>
+</tr>
+<tr style="vertical-align:top;">
+<td>Beam:</td>
+<td>8.2&#160;m (27&#160;ft)</td>
+</tr>
+<tr style="vertical-align:top;">
+<td>Draught:</td>
+<td>
+<ul style="list-style:none none; margin:0;">
+<li style="padding-left: .8em; text-indent: -.8em;">7.85&#160;m (25.8&#160;ft) (629)</li>
+<li style="padding-left: .8em; text-indent: -.8em;">8.5 m (629A)</li>
+</ul>
+</td>
+</tr>
+<tr style="vertical-align:top;">
+<td>Propulsion:</td>
+<td>3 × diesel engines, each 2,000&#160;bhp (1,500&#160;kW); 3 × electric motors, 5,200&#160;shp (3,880&#160;kW); 3 shafts.</td>
+</tr>
+<tr style="vertical-align:top;">
+<td>Speed:</td>
+<td>surface - 17 <a href="/wiki/Knot_(unit)" title="Knot (unit)">kn</a>, 9.500 <a href="/wiki/Nautical_mile" title="Nautical mile">nmi</a>/5 kn; submerged - 12kn</td>
+</tr>
+<tr style="vertical-align:top;">
+<td>Range:</td>
+<td>70 days endurance</td>
+</tr>
+<tr style="vertical-align:top;">
+<td>Test depth:</td>
+<td>
+<ul style="list-style:none none; margin:0;">
+<li style="padding-left: .8em; text-indent: -.8em;">260 m (design)</li>
+<li style="padding-left: .8em; text-indent: -.8em;">300 m (maximum)</li>
+</ul>
+</td>
+</tr>
+<tr style="vertical-align:top;">
+<td>Complement:</td>
+<td>
+<ul style="list-style:none none; margin:0;">
+<li style="padding-left: .8em; text-indent: -.8em;">80 (629)</li>
+<li style="padding-left: .8em; text-indent: -.8em;">83 (629A)</li>
+</ul>
+</td>
+</tr>
+<tr style="vertical-align:top;">
+<td>Armament:</td>
+<td>
+<ul style="list-style:none none; margin:0;">
+<li style="padding-left: .8em; text-indent: -.8em;">3 × missile tubes</li>
+<li style="padding-left: .8em; text-indent: -.8em;">3 × Project 629 boats D-1 launch system with <a href="/wiki/Scud" title="Scud">R-11FM</a> missiles</li>
+<li style="padding-left: .8em; text-indent: -.8em;">Remaining boats D-2 launch system with R-13 missiles</li>
+<li style="padding-left: .8em; text-indent: -.8em;">1966 onwards 629A upgrade D-4 launch system with <a href="/wiki/R-21_(missile)" title="R-21 (missile)">R-21</a> missiles</li>
+<li style="padding-left: .8em; text-indent: -.8em;">6 × 533 mm torpedo tubes</li>
+</ul>
+</td>
+</tr>
+</table>
+<p><b>Project 629</b>, also known by the <a href="/wiki/NATO_reporting_name" title="NATO reporting name">NATO reporting name</a> of <b>Golf class</b>, were diesel electric <a href="/wiki/Ballistic_missile_submarine" title="Ballistic missile submarine">ballistic missile submarines</a> of the <a href="/wiki/Soviet_Navy" title="Soviet Navy">Soviet Navy</a>. They were designed after six <a href="/wiki/Zulu_class_submarine" title="Zulu class submarine" class="mw-redirect">Zulu class submarines</a> and were successfully modified to carry and launch <a href="/wiki/Scud_missile" title="Scud missile" class="mw-redirect">Scud missiles</a>. All Golf boats had left Soviet service by 1990. All have been since disposed of.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> According to some sources at least one single Golf-class submarine is operated by <a href="/wiki/China" title="China">China</a>, to test new SLBMs.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Class_history"><span class="tocnumber">1</span> <span class="toctext">Class history</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Project_Azorian"><span class="tocnumber">2</span> <span class="toctext">Project Azorian</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Variants"><span class="tocnumber">3</span> <span class="toctext">Variants</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Class_history">Class history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Golf-class_submarine&amp;action=edit&amp;section=1" title="Edit section: Class history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Project 629 was started in the mid-1950s along with the D-2 missile system which it was to carry, and was based on the <a href="/wiki/Foxtrot_class_submarine" title="Foxtrot class submarine" class="mw-redirect">Foxtrot</a>. Design task was assigned to OKB-16, one of the two predecessors (the other being SKB-143) of the famous <a rel="nofollow" class="external text" href="http://www.malachite-spb.ru/">Malachite Central Design Bureau</a>, which would eventually become one of the three Soviet/Russian submarine design centers, along with <a href="/wiki/Rubin_Design_Bureau" title="Rubin Design Bureau">Rubin Design Bureau</a> and <a rel="nofollow" class="external text" href="http://cdb-lazurit.ru/indexe.php?0">Lazurit Central Design Bureau</a> ("Lazurit" is the Russian word for <a href="/wiki/Lazurite" title="Lazurite">lazurite</a>). The submarine was originally designed to carry three <a href="/wiki/Scud" title="Scud">R-11FM</a> ballistic missiles with a range of around 150&#160;km. These were carried in three silos fitted in the rear of the large sail behind the bridge. They could only be fired with the submarine surfaced and the missile raised above the sail but the submarine could be underway at the time. Only the first three boats were equipped with these—the remaining ones were equipped with the longer range <a href="/wiki/R-13_(missile)" title="R-13 (missile)">R-13</a> missiles.</p>
+<p>The first boats were commissioned in 1958 and the last in 1962.</p>
+<p>The boats were built at two shipyards — 16 in <a href="/wiki/Severodvinsk" title="Severodvinsk">Severodvinsk</a> and 7 in <a href="/wiki/Komsomolsk-na-Amure" title="Komsomolsk-na-Amure" class="mw-redirect">Komsomolsk-na-Amure</a> in the Far East. Fourteen were extensively modified in 1966–1972 and became known as 629A's by the <a href="/wiki/Soviet_Navy" title="Soviet Navy">Soviet Navy</a> and Golf IIs by <a href="/wiki/NATO" title="NATO">NATO</a> (the original version having been designated Golf I). The major change was the upgrade of the missile system to carry <a href="/wiki/R-21_(missile)" title="R-21 (missile)">R-21</a> missiles which could be launched from inside their tubes with the submarine submerged and increased speed. In later years a few were converted to test new missiles and others had different conversions.</p>
+<p>All boats had left <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet</a> service by 1990. In 1993, ten were sold to <a href="/wiki/North_Korea" title="North Korea">North Korea</a> for scrap.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> However, they have since then focused on getting these boats back into service.<sup id="cite_ref-giz_6-0" class="reference"><a href="#cite_note-giz-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>In 1959 the project technology were also sold to <a href="/wiki/People%27s_Republic_of_China" title="People's Republic of China" class="mw-redirect">China</a> which built a single modified example in 1966 which is apparently still in service.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ssb_golfii.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ssb_golfii.png/220px-Ssb_golfii.png" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ssb_golfii.png/330px-Ssb_golfii.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ssb_golfii.png/440px-Ssb_golfii.png 2x" data-file-width="1580" data-file-height="1056" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ssb_golfii.png" class="internal" title="Enlarge"></a></div>
+Several views of a Project 629A (Golf II) ballistic missile submarine</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Project_Azorian">Project Azorian</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Golf-class_submarine&amp;action=edit&amp;section=2" title="Edit section: Project Azorian">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Project_Azorian" title="Project Azorian">Project Azorian</a></div>
+<p>On March 8, 1968, 1,560 nautical miles (2,890&#160;km) northwest of <a href="/wiki/Oahu" title="Oahu">Oahu</a> in the <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a> the Golf II class submarine <a href="/wiki/Soviet_submarine_K-129_(1960)" title="Soviet submarine K-129 (1960)">K-129</a> exceeded its crush depth for unknown reasons and imploded, the accident being registered by the <a href="/wiki/SOSUS" title="SOSUS">SOSUS</a> network. The entire crew of 98 was lost and the vessel sank with three ballistic nuclear missiles as well as two nuclear torpedoes. The <a href="/wiki/United_States" title="United States">United States</a> recovered parts of the submarine in July 1974 from a depth of around 5&#160;km, in an operation named <a href="/wiki/Project_Azorian" title="Project Azorian">Project Azorian</a>.<sup id="cite_ref-StudiesIntell85_7-0" class="reference"><a href="#cite_note-StudiesIntell85-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>Two nuclear submarines that had been facing retirement, <a href="/wiki/USS_Halibut_(SSGN-587)" title="USS Halibut (SSGN-587)">USS&#160;<i>Halibut</i>&#160;(SSGN-587)</a> and <a href="/wiki/USS_Seawolf_(SSN-575)" title="USS Seawolf (SSN-575)">USS&#160;<i>Seawolf</i>&#160;(SSN-575)</a>, were rebuilt and pressed into service as deep sea search vehicles. After <i>Halibut</i> discovered a sunken Soviet submarine containing at least one intact ballistic missile complete with nuclear warhead, <a href="/wiki/Melvin_Laird" title="Melvin Laird">Melvin Laird</a>, <a href="/wiki/United_States_Secretary_of_Defense" title="United States Secretary of Defense">United States Secretary of Defense</a> under President <a href="/wiki/Richard_Nixon" title="Richard Nixon">Richard Nixon</a>, approved Azorian. Six years later, 350 nautical miles (648&#160;km) north of the <a href="/wiki/Hawaii" title="Hawaii">Hawaiian</a> <a href="/wiki/Northwestern_Hawaiian_Islands" title="Northwestern Hawaiian Islands">Leeward Islands</a>, a mechanical claw descended 17,000 feet (5,200&#160;m) to the bottom of the Pacific and, guided by computers on board the <a href="/wiki/Glomar_Explorer" title="Glomar Explorer" class="mw-redirect">Glomar Explorer</a>, clamped onto the mass of twisted, rusting steel and began slowly raising it to the surface. It is unknown for sure how successful the effort was, but the United States has admitted to recovering a portion of K-129, which included six bodies of Soviet sailors that were buried at sea with full honors.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Variants">Variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Golf-class_submarine&amp;action=edit&amp;section=3" title="Edit section: Variants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b>Project 629</b>: Original design received <a href="/wiki/NATO_reporting_name" title="NATO reporting name">NATO reporting name</a>: <b>Golf I</b>, with a total of 22 boats built between 1958 through 1962. Dimension are 98.4 m for length, 8.2 m for beam and 7.85 m for draft. Surfaced/submerged displacement are 2794 / 3553 <a href="/wiki/Ton" title="Ton">tons</a> respectively. Surfaced/submerged speed are 15 / 12.5 kn respectively. Project 629 is crewed by 80 men, and is equipped by either D-1 launching system for <a href="/wiki/R-11_Zemlya" title="R-11 Zemlya">SS-N-1</a> or D-2 launching systems for <a href="/wiki/R-13_(missile)" title="R-13 (missile)">SS-N-4</a> <a href="/wiki/Submarine-launched_ballistic_missile" title="Submarine-launched ballistic missile">SLBMs</a>.<sup id="cite_ref-Golf_SSB_9-0" class="reference"><a href="#cite_note-Golf_SSB-9"><span>[</span>9<span>]</span></a></sup></li>
+<li><b>Project 629B</b>: K-229 was converted in 1958 in <a href="/wiki/Severodvinsk" title="Severodvinsk">Severodvinsk</a>, under Project 629B to test newly designed on board missile control system, which was the first generation design fully based on semiconductors.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></li>
+<li><b>Project 629A</b>: 14 Project 629/Golf I class submarines were converted to Project 629A between 1966 thru 1972, and received NATO reporting name <b>Golf II</b>. Changes include the increase of dimension, with length and draft increased to 98.9 / 8.5 m respectively, the surfaced/submerged displaced increased to 2300-2820 / 2700-3553 <a href="/wiki/T" title="T">t</a> respectively, surfaced/submerged speed increased to 17 / 14 kn respectively. Crew is increased to 83, and the launching system is D-4 for <a href="/wiki/R-21_(missile)" title="R-21 (missile)">SS-N-5</a> SLBMs.<sup id="cite_ref-Golf_SSB_9-1" class="reference"><a href="#cite_note-Golf_SSB-9"><span>[</span>9<span>]</span></a></sup></li>
+<li><b>Project 601</b>: K-118 was converted from 1969 thru 1974 and received NATO reporting name <b>Golf III</b>, with displacement increased to 4000 tons and number of SLBMs increased to 6, and the missile is <a href="/wiki/R-29_Vysota" title="R-29 Vysota">SS-N-8</a>.<sup id="cite_ref-Golf_SSB_9-2" class="reference"><a href="#cite_note-Golf_SSB-9"><span>[</span>9<span>]</span></a></sup></li>
+<li><b>Project 605</b>: K-102 was converted from 1969 thru 1973 and received NATO reporting name <b>Golf IV</b>, lengthened 18.3 m with 4 SLBMs to test <a href="/wiki/R-27_Zyb#Variants" title="R-27 Zyb">R-27K (SS-N-13)</a> SLBM.<sup id="cite_ref-Golf_SSB_9-3" class="reference"><a href="#cite_note-Golf_SSB-9"><span>[</span>9<span>]</span></a></sup></li>
+<li><b>Project 619</b>: K-153 was converted in 1976 to test <a href="/wiki/R-39_Rif" title="R-39 Rif">SS-N-20</a> SLBM, and received NATO reporting name <b>Golf V</b>.<sup id="cite_ref-Golf_SSB_9-4" class="reference"><a href="#cite_note-Golf_SSB-9"><span>[</span>9<span>]</span></a></sup></li>
+<li><b>Project 629R</b>: "K-61", "B-42" and "K-107" were converted in <a href="/wiki/Vladivostok" title="Vladivostok">Vladivostok</a> into command posts between 1973 - 1979, with the missile and torpedo tubes removed, received NATO reporting name <b>Golf SSQ</b>.<sup id="cite_ref-Golf_SSB_9-5" class="reference"><a href="#cite_note-Golf_SSB-9"><span>[</span>9<span>]</span></a></sup></li>
+<li><b>Type 6631</b>: Chinese built Golf-class submarine built in <a href="/wiki/Dalian" title="Dalian">Dalian</a> between 1960 thru 1966, after receiving technical data from USSR in 1959. China did not purchase SLBM, and thus Type 6631 was equipped with simulation systems and mainly used for training. Originally with <a href="/wiki/Pennant_number" title="Pennant number">pennant number</a> 1101, it was subsequently changed to 200 in 1967. The second unit was supposed to be built and delivered by USSR (pennant number K-208), but due to <a href="/wiki/Sino-Soviet_split" title="Sino-Soviet split">Sino-Soviet split</a>, most on board equipment was not delivered, and the boat was used as sample for reverse engineering to complete the first unit, which entered Chinese service in August 1966. In June 1968, Type 6631 went through a major refit because China decided to adopt solid fueled SLBM instead of liquid fueled SLBM Soviet used, so the simulation equipment was replaced by support equipments of solid fueled SLBM. In addition, the planned Chinese SLBM had different dimension than the original Russian SLBM equipped Golf class submarine, so the number of missile tubes were reduced to two from the original three.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></li>
+<li><b>Type 031</b>: Type 6631 went through a second major refit which was completed in November 1978. The most important improvement is the ability to launch SLBM underwater. In addition to changing to Type 031 from the original Type 6631, the unit also received the name <a href="/wiki/Great_Wall" title="Great Wall" class="mw-redirect">Great Wall</a>, when China begun to restored the practice to name its warships in the 1980s. The unit is hence usually referred as Great Wall 200.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Golf-class_submarine&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.deepstorm.ru/DeepStorm.files/45-92/dbrs/629(629a)/list.html">"629 (629)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGolf-class+submarine&amp;rft.btitle=629+%28629%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.deepstorm.ru%2FDeepStorm.files%2F45-92%2Fdbrs%2F629%28629a%29%2Flist.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.deepstorm.ru/DeepStorm.files/45-92/dss/629R/list.html">"629"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGolf-class+submarine&amp;rft.btitle=629&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.deepstorm.ru%2FDeepStorm.files%2F45-92%2Fdss%2F629R%2Flist.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.deepstorm.ru/DeepStorm.files/45-92/dbrs/mod629/629b/list.html">"629"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGolf-class+submarine&amp;rft.btitle=629&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.deepstorm.ru%2FDeepStorm.files%2F45-92%2Fdbrs%2Fmod629%2F629b%2Flist.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.strategycenter.net/research/pubID.3/pub_detail.asp">http://www.strategycenter.net/research/pubID.3/pub_detail.asp</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://cns.miis.edu/archive/country_north_korea/chr9495.htm">"CNS - Chronology of North Korea's Missile Trade and Developments: 1994-1995"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGolf-class+submarine&amp;rft.btitle=CNS+-+Chronology+of+North+Korea%27s+Missile+Trade+and+Developments%3A+1994-1995&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcns.miis.edu%2Farchive%2Fcountry_north_korea%2Fchr9495.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-giz-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-giz_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://gizmodo.com/north-koreas-brand-new-ballistic-sub-was-discontinued-b-1654011065">"North Korea's Brand New Ballistic Sub Discontinued by Soviets in 1990"</a>. 2014-11-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-11-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGolf-class+submarine&amp;rft.btitle=North+Korea%27s+Brand+New+Ballistic+Sub+Discontinued+by+Soviets+in+1990&amp;rft.date=2014-11-04&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fgizmodo.com%2Fnorth-koreas-brand-new-ballistic-sub-was-discontinued-b-1654011065&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-StudiesIntell85-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-StudiesIntell85_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gwu.edu/~nsarchiv/nukevault/ebb305/doc01.pdf">"Project Azorian: The Story of the Hughes Glomar Explorer"</a> <span style="font-size:85%;">(PDF)</span>. Studies in Intelligence, <a href="/wiki/CIA" title="CIA" class="mw-redirect">CIA</a>. Fall 1985<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-02-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGolf-class+submarine&amp;rft.btitle=Project+Azorian%3A+The+Story+of+the+Hughes+Glomar+Explorer&amp;rft.date=Fall+1985&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.gwu.edu%2F~nsarchiv%2Fnukevault%2Febb305%2Fdoc01.pdf&amp;rft.pub=Studies+in+Intelligence%2C+CIA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.boston.com/news/nation/washington/articles/2010/02/14/decades_later_details_emerge_about_cias_hunt_for_soviet_sub?mode=PF">Decades Later Details Emerge About CIA Hunt for Soviet Sub</a></span></li>
+<li id="cite_note-Golf_SSB-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Golf_SSB_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Golf_SSB_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Golf_SSB_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Golf_SSB_9-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Golf_SSB_9-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Golf_SSB_9-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fas.org/nuke/guide/russia/slbm/629.htm">"Soviet Golf class submarine"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2000-09-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGolf-class+submarine&amp;rft.btitle=Soviet+Golf+class+submarine&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fas.org%2Fnuke%2Fguide%2Frussia%2Fslbm%2F629.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://russian-ships.info/eng/submarines/project_629.htm">"Ballistic missile submarines - Project 629"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGolf-class+submarine&amp;rft.btitle=Ballistic+missile+submarines+-+Project+629&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Frussian-ships.info%2Feng%2Fsubmarines%2Fproject_629.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://blog.sina.com.cn/s/blog_752fd35701013rtp.html">"6631型G级常规动力弹道导弹潜艇_舰船档案_新浪博客"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGolf-class+submarine&amp;rft.btitle=6631%E5%9E%8BG%E7%BA%A7%E5%B8%B8%E8%A7%84%E5%8A%A8%E5%8A%9B%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E6%BD%9C%E8%89%87_%E8%88%B0%E8%88%B9%E6%A1%A3%E6%A1%88_%E6%96%B0%E6%B5%AA%E5%8D%9A%E5%AE%A2&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fblog.sina.com.cn%2Fs%2Fblog_752fd35701013rtp.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.haijun360.com/news/CGQT000/2011/521/11521180221EJDCFKDJ1AEK5IIFBF9.html">Type 031 SSN</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Golf-class_submarine&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.fas.org/nuke/guide/russia/slbm/629.htm">Golf submarine details on FAS website</a></li>
+<li><a rel="nofollow" class="external text" href="http://russian-ships.info/eng/submarines/project_629.htm">Russian Golf I/II submarines - Complete Ship List (English)</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Golf_class_submarine" title="Template:Golf class submarine"><span title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Golf_class_submarine" title="Template talk:Golf class submarine"><span title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Golf_class_submarine&amp;action=edit"><span title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><strong class="selflink">Golf-class&#160;submarines</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Soviet_submarine_K-36&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-36 (page does not exist)"><i>K-36</i> ⁄ <i>B-106</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-61&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-61 (page does not exist)"><i>K-61</i> ⁄ <i>BS-167</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-72&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-72 (page does not exist)"><i>B-40</i> ⁄ <i>K-72</i> ⁄ <i>K-372</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-75&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-75 (page does not exist)"><i>K-75</i> ⁄ <i>B-575</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-79&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-79 (page does not exist)"><i>B-41</i> ⁄ <i>K-79</i> ⁄ <i>B-79</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-83&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-83 (page does not exist)"><i>B-42</i> ⁄ <i>K-83</i> ⁄ <i>BS-83</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-88&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-88 (page does not exist)"><i>K-88</i> ⁄ <i>B-183</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-91&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-91 (page does not exist)"><i>K-91</i> ⁄ <i>B-91</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-93&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-93 (page does not exist)"><i>K-93</i> ⁄ <i>B-93</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-96&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-96 (page does not exist)"><i>B-92</i> ⁄ <i>K-96</i> ⁄ <i>BS-167</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-99&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-99 (page does not exist)"><i>K-99</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-102&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-102 (page does not exist)"><i>B-121</i> ⁄ <i>K-102</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-107&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-107 (page does not exist)"><i>K-125</i> ⁄ <i>B-107</i> ⁄ <i>BS-107</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-110&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-110 (page does not exist)"><i>K-110</i> ⁄ <i>B-110</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-113&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-113 (page does not exist)"><i>K-113</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-118&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-118 (page does not exist)"><i>K-118</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-126&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-126 (page does not exist)"><i>B-93</i> ⁄ <i>K-126</i></a></li>
+<li><a href="/wiki/Soviet_submarine_K-129_(1960)" title="Soviet submarine K-129 (1960)"><i>K-129</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-136&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-136 (page does not exist)"><i>K-136</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-139&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-139 (page does not exist)"><i>K-139</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-142&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-142 (page does not exist)"><i>K-142</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-153&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-153 (page does not exist)"><i>K-153</i> ⁄ <i>BS-153</i></a></li>
+<li><a href="/w/index.php?title=Soviet_submarine_K-163&amp;action=edit&amp;redlink=1" class="new" title="Soviet submarine K-163 (page does not exist)"><i>K-163</i></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background-color:#DCDCDC;">
+<div>
+<ul>
+<li><a href="/wiki/Category:Submarines_of_the_Soviet_Navy" title="Category:Submarines of the Soviet Navy">List of Soviet and Russian submarines</a></li>
+<li><a href="/wiki/List_of_Soviet_and_Russian_submarine_classes" title="List of Soviet and Russian submarine classes">List of Soviet and Russian submarine classes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Soviet_and_Russian_submarines_after_1945" title="Template:Soviet and Russian submarines after 1945"><span title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Soviet_and_Russian_submarines_after_1945" title="Template talk:Soviet and Russian submarines after 1945"><span title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Soviet_and_Russian_submarines_after_1945&amp;action=edit"><span title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Soviet_Navy" title="Soviet Navy">Soviet</a> and Russian submarines after 1945</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Ballistic missile nuclear submarines – <a href="/wiki/Ballistic_missile_submarine" title="Ballistic missile submarine">SSBN</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hotel-class_submarine" title="Hotel-class submarine">658 Hotel</a></li>
+<li><a href="/wiki/Yankee-class_submarine" title="Yankee-class submarine">667A Yankee</a></li>
+<li><a href="/wiki/Delta-class_submarine#Delta_I_.28Project_667B.2C_Murena.29_18_boats" title="Delta-class submarine">667B Delta I</a></li>
+<li><a href="/wiki/Delta-class_submarine#Delta_II_.28Project_667BD.2C_Murena-M.29_4_boats" title="Delta-class submarine">667BD Delta II</a></li>
+<li><a href="/wiki/Delta_III-class_submarine" title="Delta III-class submarine">667BDR Delta III</a></li>
+<li><a href="/wiki/Typhoon-class_submarine" title="Typhoon-class submarine">941 Typhoon</a></li>
+<li><a href="/wiki/Delta-class_submarine#Delta_IV_.28Project_667BDRM.2C_Delfin.29_7_boats" title="Delta-class submarine">667BDRM Delta IV</a></li>
+<li><a href="/wiki/Borei-class_submarine" title="Borei-class submarine">955 Borei</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Cruise missile nuclear submarines – <a href="/wiki/Cruise_missile_submarine" title="Cruise missile submarine">SSGN</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Echo-class_submarine" title="Echo-class submarine">659 Echo I</a></li>
+<li><a href="/wiki/Echo-class_submarine" title="Echo-class submarine">675 Echo II</a></li>
+<li><a href="/wiki/Charlie-class_submarine" title="Charlie-class submarine">670 Charlie I</a></li>
+<li><a href="/wiki/Charlie-class_submarine" title="Charlie-class submarine">670M Charlie II</a></li>
+<li><a href="/wiki/Soviet_submarine_K-222" title="Soviet submarine K-222">661 Papa</a><span style="padding-left:0.2em;"><sup>S</sup></span></li>
+<li><a href="/wiki/Oscar-class_submarine" title="Oscar-class submarine">949 Oscar I</a></li>
+<li><a href="/wiki/Oscar-class_submarine" title="Oscar-class submarine">949A Oscar II</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Nuclear attack submarines – <a href="/wiki/SSN_(hull_classification_symbol)" title="SSN (hull classification symbol)">SSN</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/November-class_submarine" title="November-class submarine">627A November</a></li>
+<li><a href="/wiki/Victor-class_submarine" title="Victor-class submarine">671 Victor I</a></li>
+<li><a href="/wiki/Victor-class_submarine" title="Victor-class submarine">671RT Victor II</a></li>
+<li><a href="/wiki/Victor-class_submarine" title="Victor-class submarine">671RTM Victor III</a></li>
+<li><a href="/wiki/Alfa-class_submarine" title="Alfa-class submarine">705/705K Alfa</a></li>
+<li><a href="/wiki/Sierra-class_submarine" title="Sierra-class submarine">945 Sierra I</a></li>
+<li><a href="/wiki/Sierra-class_submarine" title="Sierra-class submarine">945A Sierra II</a></li>
+<li><a href="/wiki/Soviet_submarine_K-278_Komsomolets" title="Soviet submarine K-278 Komsomolets">685 Mike</a><span style="padding-left:0.2em;"><sup>S</sup></span></li>
+<li><a href="/wiki/Akula-class_submarine" title="Akula-class submarine">971 Akula</a></li>
+<li><a href="/wiki/Yasen-class_submarine" title="Yasen-class submarine">885 Yasen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Conventional ballistic missile submarines – <a href="/wiki/SSB_(hull_classification_symbol)" title="SSB (hull classification symbol)" class="mw-redirect">SSB</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zulu-class_submarine" title="Zulu-class submarine">AV611 Zulu IV</a></li>
+<li><strong class="selflink">629 Golf</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Conventional cruise missile submarines – <a href="/wiki/SSG_(hull_classification_symbol)" title="SSG (hull classification symbol)" class="mw-redirect">SSG</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Whiskey-class_submarine" title="Whiskey-class submarine">644/665 Whiskey (missile)</a></li>
+<li><a href="/wiki/Juliett-class_submarine" title="Juliett-class submarine">651 Juliett</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Conventional attack submarines – <a href="/w/index.php?title=SS_(hull_classification_symbol)&amp;action=edit&amp;redlink=1" class="new" title="SS (hull classification symbol) (page does not exist)">SS</a> or <a href="/wiki/SSK_(hull_classification_symbol)" title="SSK (hull classification symbol)">SSK</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zulu-class_submarine" title="Zulu-class submarine">611 Zulu</a></li>
+<li><a href="/wiki/Whiskey-class_submarine" title="Whiskey-class submarine">613 Whiskey</a></li>
+<li><a href="/wiki/Quebec-class_submarine" title="Quebec-class submarine">615 Quebec</a></li>
+<li><a href="/wiki/Soviet_submarine_S-99" title="Soviet submarine S-99">617 Whale</a><span style="padding-left:0.2em;"><sup>S</sup></span></li>
+<li><a href="/wiki/Romeo-class_submarine" title="Romeo-class submarine">633 Romeo</a></li>
+<li><a href="/wiki/Foxtrot-class_submarine" title="Foxtrot-class submarine">641 Foxtrot</a></li>
+<li><a href="/wiki/Tango-class_submarine" title="Tango-class submarine">641B Tango</a></li>
+<li><a href="/wiki/Kilo-class_submarine" title="Kilo-class submarine">877 Kilo</a></li>
+<li><a href="/wiki/Kilo-class_submarine" title="Kilo-class submarine">636 Improved Kilo</a></li>
+<li><a href="/wiki/Lada-class_submarine" title="Lada-class submarine">677 Lada</a></li>
+<li><a href="/wiki/Project_Kalina" title="Project Kalina">Kalina</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Auxiliary submarines – <a href="/w/index.php?title=SSA_(hull_classification_symbol)&amp;action=edit&amp;redlink=1" class="new" title="SSA (hull classification symbol) (page does not exist)">SSA</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bravo-class_submarine" title="Bravo-class submarine">690 Bravo</a></li>
+<li><a href="/wiki/India-class_submarine" title="India-class submarine">940 India</a></li>
+<li><a href="/wiki/Beluga-class_submarine" title="Beluga-class submarine">1710 Beluga</a><span style="padding-left:0.2em;"><sup>S</sup></span></li>
+<li><a href="/wiki/Lima-class_submarine" title="Lima-class submarine">1840 Lima</a><span style="padding-left:0.2em;"><sup>S</sup></span></li>
+<li><a href="/wiki/Uniform_class_submarine" title="Uniform class submarine" class="mw-redirect">1910 Uniform</a></li>
+<li><a href="/wiki/Losos-class_submarine" title="Losos-class submarine">865 Losos</a></li>
+<li><a href="/wiki/Sarov-class_submarine" title="Sarov-class submarine"><i>Sarov</i></a><span style="padding-left:0.2em;"><sup>S</sup></span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background-color:#DCDCDC;">
+<div>
+<dl>
+<dt>S</dt>
+<dd>Single ship of class</dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1103
+Cached time: 20151017182817
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.384 seconds
+Real time usage: 0.459 seconds
+Preprocessor visited node count: 2560/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 63349/2097152 bytes
+Template argument size: 8142/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/500
+Lua time usage: 0.152/10.000 seconds
+Lua memory usage: 5.09 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  375.833      1 - -total
+ 24.92%   93.657      1 - Template:Reflist
+ 21.71%   81.609      1 - Template:Infobox_ship_characteristics
+ 19.31%   72.576      2 - Template:Military_navigation
+ 18.24%   68.546      9 - Template:Cite_web
+ 17.38%   65.303      2 - Template:Navbox
+ 15.88%   59.677      8 - Template:Convert
+ 12.94%   48.638      1 - Template:Golf_class_submarine
+ 11.78%   44.256     14 - Template:WPMILHIST_Infobox_style
+  9.41%   35.361      1 - Template:Infobox_ship_begin
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:909648-0!*!0!!en!4!* and timestamp 20151017182816 and revision id 685204127
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Golf-class_submarine&amp;oldid=685204127">https://en.wikipedia.org/w/index.php?title=Golf-class_submarine&amp;oldid=685204127</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Golf-class_submarines" title="Category:Golf-class submarines">Golf-class submarines</a></li><li><a href="/wiki/Category:Russian_and_Soviet_navy_submarine_classes" title="Category:Russian and Soviet navy submarine classes">Russian and Soviet navy submarine classes</a></li><li><a href="/wiki/Category:Submarine_classes" title="Category:Submarine classes">Submarine classes</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Golf-class+submarine&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Golf-class+submarine" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Golf-class_submarine"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Golf-class_submarine"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Golf-class_submarine" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Golf-class_submarine&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Golf-class_submarine&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Golf-class_submarine" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Golf-class_submarine" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Golf-class_submarine&amp;oldid=685204127" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Golf-class_submarine&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1068329" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Golf-class_submarine&amp;id=685204127" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Golf-class+submarine">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Golf-class+submarine&amp;returnto=Golf-class+submarine&amp;oldid=685204127&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Golf-class_submarine&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D1%86%D0%B0_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82_629" title="Подводница проект 629 – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Projekt_629" title="Projekt 629 – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Projekt_629" title="Projekt 629 – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Clase_Golf" title="Clase Golf – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B2%DB%8C%D8%B1%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C_%DA%A9%D9%84%D8%A7%D8%B3_%DA%AF%D9%84%D9%81" title="زیردریایی کلاس گلف – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EA%B3%A8%ED%94%84%EA%B8%89_%EC%9E%A0%EC%88%98%ED%95%A8" title="골프급 잠수함 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Classe_Golf" title="Classe Golf – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B4%E3%83%AB%E3%83%95%E5%9E%8B%E6%BD%9C%E6%B0%B4%E8%89%A6" title="ゴルフ型潜水艦 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Okr%C4%99ty_podwodne_projektu_629" title="Okręty podwodne projektu 629 – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D0%BB%D0%BE%D0%B4%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0_629" title="Подводные лодки проекта 629 – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Projekti_629" title="Projekti 629 – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Projekt_629" title="Projekt 629 – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/629%D0%90,_629%D0%A0,_605,_601,_619,_(%D1%82%D0%B8%D0%BF_%D0%BF%D1%96%D0%B4%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D1%85_%D1%87%D0%BE%D0%B2%D0%BD%D1%96%D0%B2_%D0%A1%D0%A0%D0%A1%D0%A0)" title="629А, 629Р, 605, 601, 619, (тип підводних човнів СРСР) – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/T%C3%A0u_ng%E1%BA%A7m_Proyekta_629" title="Tàu ngầm Proyekta 629 – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/629%E5%9E%8B%E6%BD%9C%E8%89%87" title="629型潜艇 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1068329#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 11 October 2015, at 14:06.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Golf-class_submarine&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1238"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

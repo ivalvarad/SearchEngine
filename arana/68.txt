@@ -1,0 +1,1045 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>R-13 (missile) - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"R-13_(missile)","wgTitle":"R-13 (missile)","wgCurRevisionId":683853190,"wgRevisionId":683853190,"wgArticleId":529522,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from December 2014","All articles lacking in-text citations","Submarine-launched ballistic missiles of the Soviet Union","Cold War missiles of the Soviet Union"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"R-13_(missile)","wgRelevantArticleId":529522,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Severomorsk_R-13_monument.jpg/67px-Severomorsk_R-13_monument.jpg","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1415406","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/R-13_(missile)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=R-13_(missile)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=R-13_(missile)&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/R-13_(missile)" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-R-13_missile skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">R-13 (missile)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Severomorsk_R-13_monument.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Severomorsk_R-13_monument.jpg/220px-Severomorsk_R-13_monument.jpg" width="220" height="328" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Severomorsk_R-13_monument.jpg/330px-Severomorsk_R-13_monument.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Severomorsk_R-13_monument.jpg/440px-Severomorsk_R-13_monument.jpg 2x" data-file-width="1205" data-file-height="1795" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Severomorsk_R-13_monument.jpg" class="internal" title="Enlarge"></a></div>
+R-13 monument at <a href="/wiki/Severomorsk" title="Severomorsk">Severomorsk</a> naval base</div>
+</div>
+</div>
+<p>The <b>R-13</b> was a <a href="/wiki/Submarine-launched_ballistic_missile" title="Submarine-launched ballistic missile">submarine-launched ballistic missile</a> (SLBM) developed by the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a> starting around 1955. It was assigned the <a href="/wiki/NATO_reporting_name" title="NATO reporting name">NATO reporting name</a> <b>SS-N-4 Sark</b> and carried the <a href="/wiki/GRAU" title="GRAU">GRAU</a> index <b>4K50</b>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Operators"><span class="tocnumber">2</span> <span class="toctext">Operators</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Specifications"><span class="tocnumber">3</span> <span class="toctext">Specifications</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R-13_(missile)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Development of the R-13 was authorised by the Soviet Supreme Council on 25 July 1955 for use on the <a href="/wiki/Golf-class_submarine" title="Golf-class submarine">Project 629</a> and <a href="/wiki/Hotel-class_submarine" title="Hotel-class submarine">Project 658</a> submarines. The design work was started by <a href="/wiki/S.P._Korolev_Rocket_and_Space_Corporation_Energia" title="S.P. Korolev Rocket and Space Corporation Energia">OKB-1</a> under <a href="/wiki/Sergey_Korolyov" title="Sergey Korolyov" class="mw-redirect">Sergei Korolev</a> before being transferred to CB Miasskoe engineering / <a href="/wiki/Makeyev_Rocket_Design_Bureau" title="Makeyev Rocket Design Bureau">Makeyev Rocket Design Bureau</a> (chief designer - <a href="/wiki/Viktor_Makeyev" title="Viktor Makeyev">Viktor Makeyev</a>). Final technical specifications was approved by 11 January 1956. Serial production was undertaken at Zlatoust Machinery Plant in 1959. The R-13 was a single-stage <a href="/wiki/Liquid-fuel_rocket" title="Liquid-fuel rocket" class="mw-redirect">liquid-fuel rocket</a> and entered service in 1961. This missile was somewhat similar in design to the <a href="/wiki/Scud" title="Scud">R-11FM</a> missile, which caused some confusion in Western <a href="/wiki/Intelligence_service" title="Intelligence service" class="mw-redirect">intelligence services</a> during the <a href="/wiki/Cold_War" title="Cold War">Cold War</a>. The missiles were phased out from 1965 to 1975.</p>
+<p>This missile was the first Soviet design to use a small set of <a href="/wiki/Rocket_engine" title="Rocket engine">rocket engines</a> (<a href="/wiki/Vernier_thruster" title="Vernier thruster">Vernier thrusters</a>) to perform course and trajectory alterations instead of <a href="/wiki/Aerodynamic" title="Aerodynamic" class="mw-redirect">aerodynamic</a> <a href="/wiki/Flight_control_surfaces" title="Flight control surfaces">control surfaces</a>, although a set of four <a href="/wiki/Stabilizer_(aircraft)" title="Stabilizer (aircraft)" class="mw-redirect">stabilizers</a> were used to keep the missile on-course during initial flight.</p>
+<p>During initial testing before the missiles were deployed, 26 of 32 missiles (81%) were successfully launched. While the systems were deployed from 1961 to 1975, 225 of 311 launches (72%) were successful.</p>
+<h2><span class="mw-headline" id="Operators">Operators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R-13_(missile)&amp;action=edit&amp;section=2" title="Edit section: Operators">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/35px-Flag_of_North_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/46px-Flag_of_North_Korea.svg.png 2x" data-file-width="1600" data-file-height="800" />&#160;</span><a href="/wiki/North_Korea" title="North Korea">North Korea</a></dt>
+</dl>
+<ul>
+<li><a href="/wiki/North_Korean_Navy" title="North Korean Navy" class="mw-redirect">North Korean Navy</a></li>
+</ul>
+<dl>
+<dt><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/23px-Flag_of_the_Soviet_Union.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/35px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/46px-Flag_of_the_Soviet_Union.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a></dt>
+</dl>
+<ul>
+<li><a href="/wiki/Soviet_Navy" title="Soviet Navy">Soviet Navy</a></li>
+</ul>
+<h2><span class="mw-headline" id="Specifications">Specifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R-13_(missile)&amp;action=edit&amp;section=3" title="Edit section: Specifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Length: 11.8 m (38&#160;ft 9 in)</li>
+<li>Diameter: 1.3 m (4&#160;ft 3 in)</li>
+<li>Diameter (to stabilizers): 1.9 m (6&#160;ft 3 in)</li>
+<li>Launch weight: 13.7 t</li>
+<li>Warhead: single nuclear: 1.2 to 2.0 Mt (perhaps as low as 1.0 Mt)</li>
+<li>Propulsion: liquid-fuel rocket, single stage
+<ul>
+<li>Oxidizer: <a href="/wiki/Red_fuming_nitric_acid" title="Red fuming nitric acid">AK-271</a></li>
+<li>Fuel: <a href="/wiki/Tonka_(fuel)" title="Tonka (fuel)">TG-02</a></li>
+</ul>
+</li>
+<li>Range: about 600&#160;km (370&#160;mi)</li>
+<li>Launching technique: surfaced</li>
+<li><a href="/wiki/Circular_error_probable" title="Circular error probable">CEP</a>: 1.8 to 4&#160;km (1.1 to 2.5 miles)</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R-13_(missile)&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_missiles" title="List of missiles">List of missiles</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R-13_(missile)&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-style ambox-No_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, related reading or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, <b>but its sources remain unclear because it lacks <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by introducing more precise citations.</span> <small><i>(December 2014)</i></small></span></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.fas.org/nuke/guide/russia/slbm/r-13.htm">FAS.org: R-13 / SS-N-4 Sark</a></li>
+<li><a rel="nofollow" class="external text" href="http://rbase.new-factoria.ru/missile/wobb/r13/r13.shtml">Ракетный комплекс Д-2 С БРПЛ Р-13(35-М-4)</a> In russian - inc diagrams</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Russian_and_Soviet_military_designation_sequences" title="Template:Russian and Soviet military designation sequences"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Russian_and_Soviet_military_designation_sequences" title="Template talk:Russian and Soviet military designation sequences"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Russian_and_Soviet_military_designation_sequences&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Russia" title="Russia">Russian</a> and former <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet</a> military designation sequences for radar, missile and rocket systems</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><small>Radars</small></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><small>Land based radar systems</small></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/P-3_radar" title="P-3 radar">P-3</a></li>
+<li><a href="/wiki/P-8_radar" title="P-8 radar">P-8</a></li>
+<li><a href="/wiki/P-10_radar" title="P-10 radar">P-10</a></li>
+<li><a href="/wiki/P-12_radar" title="P-12 radar">P-12</a></li>
+<li><a href="/wiki/P-14_radar" title="P-14 radar">P-14</a></li>
+<li><a href="/wiki/P-15_radar" title="P-15 radar">P-15</a></li>
+<li><a href="/wiki/P-18_radar" title="P-18 radar">P-18</a></li>
+<li><a href="/wiki/P-19_radar" title="P-19 radar">P-19</a></li>
+<li><a href="/wiki/P-20_radar" title="P-20 radar">P-20</a></li>
+<li><a href="/wiki/P-30_radar" title="P-30 radar">P-30</a></li>
+<li><a href="/wiki/P-35_radar" title="P-35 radar">P-35</a></li>
+<li><a href="/wiki/P-40_radar" title="P-40 radar">P-40</a></li>
+<li><a href="/wiki/P-70_radar" title="P-70 radar">P-70</a></li>
+<li><a href="/w/index.php?title=P-80_Zubr&amp;action=edit&amp;redlink=1" class="new" title="P-80 Zubr (page does not exist)">P-80</a></li>
+<li><a href="/w/index.php?title=P-100_Oniks&amp;action=edit&amp;redlink=1" class="new" title="P-100 Oniks (page does not exist)">P-100</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><small>Ship-borne radar systems</small></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><small>Airborne radar systems</small></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Myech_radar" title="Myech radar" class="mw-redirect">N001</a></li>
+<li><a href="/w/index.php?title=Ametist_radar&amp;action=edit&amp;redlink=1" class="new" title="Ametist radar (page does not exist)">N002</a></li>
+<li><a href="/w/index.php?title=Ametist_radar&amp;action=edit&amp;redlink=1" class="new" title="Ametist radar (page does not exist)">N006</a></li>
+<li><a href="/w/index.php?title=Ametist_radar&amp;action=edit&amp;redlink=1" class="new" title="Ametist radar (page does not exist)">N008</a></li>
+<li><a href="/wiki/Smerch_(radar)" title="Smerch (radar)" class="mw-redirect">N005/RP-25</a></li>
+<li><a href="/wiki/Zaslon" title="Zaslon">N007/RP-31</a></li>
+<li><a href="/wiki/Zhuk_(radar)" title="Zhuk (radar)">N010</a></li>
+<li><a href="/wiki/Bars_radar" title="Bars radar">N011</a></li>
+<li><a href="/w/index.php?title=N012&amp;action=edit&amp;redlink=1" class="new" title="N012 (page does not exist)">N012</a></li>
+<li><a href="/w/index.php?title=N014&amp;action=edit&amp;redlink=1" class="new" title="N014 (page does not exist)">N014</a></li>
+<li><a href="/wiki/Rubin_(radar)" title="Rubin (radar)" class="mw-redirect">N019</a></li>
+<li><a href="/w/index.php?title=N025&amp;action=edit&amp;redlink=1" class="new" title="N025 (page does not exist)">N025</a></li>
+<li><a href="/wiki/Irbis-E" title="Irbis-E">N035</a></li>
+<li><a href="/wiki/Byelka_(radar)" title="Byelka (radar)">N036</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><small>Missiles</small></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><small>ICBM</small></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Global_Rocket_1" title="Global Rocket 1">GR-1</a></li>
+<li><a href="/wiki/R-2_(missile)" title="R-2 (missile)" class="mw-redirect">R-2</a></li>
+<li><a href="/wiki/R-7_Semyorka" title="R-7 Semyorka">R-7</a></li>
+<li><a href="/wiki/R-9_Desna" title="R-9 Desna" class="mw-redirect">R-9</a></li>
+<li><a href="/wiki/R-12_Dvina" title="R-12 Dvina" class="mw-redirect">R-12</a></li>
+<li><strong class="selflink">R-13</strong></li>
+<li><a href="/wiki/R-16_(missile)" title="R-16 (missile)" class="mw-redirect">R-16</a></li>
+<li><a href="/wiki/R-31_(missile)" title="R-31 (missile)">RS-16</a></li>
+<li><a href="/wiki/RS-24" title="RS-24" class="mw-redirect">RS-24</a></li>
+<li><a href="/wiki/RS-26" title="RS-26" class="mw-redirect">RS-26</a></li>
+<li><a href="/wiki/RSS-40_Buran" title="RSS-40 Buran">RSS-40</a></li>
+<li><a href="/wiki/R-26_(missile)" title="R-26 (missile)">R-26</a></li>
+<li><a href="/wiki/R-36_(missile)" title="R-36 (missile)">R-36</a></li>
+<li><a href="/wiki/R-36_(missile)" title="R-36 (missile)">R-36M</a></li>
+<li><a href="/wiki/R-46_(missile)" title="R-46 (missile)">R-46</a></li>
+<li><a href="/wiki/RT-2" title="RT-2" class="mw-redirect">RT-2</a></li>
+<li><a href="/wiki/RT-2PM_Topol" title="RT-2PM Topol">RT-2PM</a></li>
+<li><a href="/wiki/RT-2UTTKh_Topol_M" title="RT-2UTTKh Topol M" class="mw-redirect">RT-2PM2</a></li>
+<li><a href="/wiki/RT-20_(missile)" title="RT-20 (missile)" class="mw-redirect">RT-20</a></li>
+<li><a href="/wiki/RT-21_Temp_2S" title="RT-21 Temp 2S" class="mw-redirect">RT-21</a></li>
+<li><a href="/wiki/RT-23_Molodets" title="RT-23 Molodets">RT-23</a></li>
+<li><a href="/wiki/Sarmat" title="Sarmat" class="mw-redirect">Sarmat</a></li>
+<li><a href="/wiki/UR-100" title="UR-100">UR-100</a></li>
+<li><a href="/wiki/MR-UR-100_Sotka" title="MR-UR-100 Sotka" class="mw-redirect">UR-100MR</a></li>
+<li><a href="/wiki/UR-100N" title="UR-100N">UR-100N</a></li>
+<li><a href="/wiki/UR-200" title="UR-200">UR-200</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><small>Tactical Surface to Surface</small></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/9K720_Iskander" title="9K720 Iskander">9K720</a></li>
+<li><a href="/wiki/R-1_(missile)" title="R-1 (missile)">R-1</a></li>
+<li><a href="/wiki/R-2_(missile)" title="R-2 (missile)" class="mw-redirect">R-2</a></li>
+<li><a href="/wiki/R-5_Pobeda" title="R-5 Pobeda" class="mw-redirect">R-5</a></li>
+<li><a href="/wiki/Scud" title="Scud">R-11</a></li>
+<li><a href="/wiki/R-11_Zemlya" title="R-11 Zemlya">R-11A</a></li>
+<li><a href="/wiki/R-12_Dvina" title="R-12 Dvina" class="mw-redirect">R-12</a></li>
+<li><a href="/wiki/R-14_Chusovaya_(Template)" title="R-14 Chusovaya (Template)" class="mw-redirect">R-14</a></li>
+<li><a href="/wiki/RT-15" title="RT-15" class="mw-redirect">RT-15</a></li>
+<li><a href="/wiki/R-17_Elbrus" title="R-17 Elbrus">R-17</a></li>
+<li><a href="/wiki/RT-23_Molodets" title="RT-23 Molodets">RT-23</a></li>
+<li><a href="/wiki/RT-25" title="RT-25" class="mw-redirect">RT-25</a></li>
+<li><a href="/wiki/TR-1_Temp" title="TR-1 Temp">TR-1</a></li>
+<li><a href="/wiki/OTR-21_Tochka" title="OTR-21 Tochka">OTR-21</a></li>
+<li><a href="/wiki/OTR-23_Oka" title="OTR-23 Oka">OTR-23</a></li>
+<li><a href="/wiki/RK-55" title="RK-55">P-1000</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><small>Sub-surface to Surface</small></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/P-5_Pyatyorka" title="P-5 Pyatyorka" class="mw-redirect">P-5</a></li>
+<li><a href="/wiki/P-70_Ametist" title="P-70 Ametist">P-20M/P-70</a></li>
+<li><a href="/wiki/R-15_(missile)" title="R-15 (missile)">R-15</a></li>
+<li><a href="/wiki/R-17_Elbrus" title="R-17 Elbrus">R-17</a></li>
+<li><a href="/wiki/R-21_(missile)" title="R-21 (missile)">R-21</a></li>
+<li><a href="/wiki/R-27_(missile)" title="R-27 (missile)" class="mw-redirect">R-27</a></li>
+<li><a href="/wiki/R-29_(missile)" title="R-29 (missile)" class="mw-redirect">R-29</a></li>
+<li><a href="/wiki/R-39_(missile)" title="R-39 (missile)" class="mw-redirect">R-39</a></li>
+<li><a href="/wiki/RPK-2_Viyuga" title="RPK-2 Viyuga" class="mw-redirect">R-81</a></li>
+<li><a href="/wiki/RSM-56_Bulava" title="RSM-56 Bulava">RSM-56</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><small>Surface to Surface (Naval)</small></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/KSShch" title="KSShch" class="mw-redirect">P-1</a></li>
+<li><a href="/wiki/P-15_Termit" title="P-15 Termit">P-15</a></li>
+<li><a href="/wiki/P-70_Ametist" title="P-70 Ametist">P-70</a></li>
+<li><a href="/wiki/P-120_Malakhit" title="P-120 Malakhit">P-120</a></li>
+<li><a href="/wiki/P-270_Moskit" title="P-270 Moskit">P-270</a></li>
+<li><a href="/wiki/P-500_Bazalt" title="P-500 Bazalt">P-500K Kliver radar</a></li>
+<li><a href="/wiki/P-500_Bazalt" title="P-500 Bazalt">P-500B</a></li>
+<li><a href="/wiki/P-700_Granit" title="P-700 Granit">P-700</a></li>
+<li><a href="/wiki/Kh-80" title="Kh-80">P-750 Grom</a></li>
+<li><a href="/wiki/P-800_Oniks" title="P-800 Oniks">P-800</a></li>
+<li><a href="/wiki/3M-54_Klub" title="3M-54 Klub">P-900</a></li>
+<li><a href="/wiki/3M-51_Alfa" title="3M-51 Alfa">P-900A</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><small>Air to surface</small></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Raduga_KSR-5" title="Raduga KSR-5" class="mw-redirect">KSR-5</a></li>
+<li><a href="/wiki/Raduga_Kh-55" title="Raduga Kh-55" class="mw-redirect">RKV-500A / RK-55</a></li>
+<li><a href="/wiki/AS-1_Kennel" title="AS-1 Kennel" class="mw-redirect">KS-1</a></li>
+<li><a href="/wiki/AS-2_Kipper" title="AS-2 Kipper" class="mw-redirect">K-10S</a></li>
+<li><a href="/wiki/AS-5_Kelt" title="AS-5 Kelt" class="mw-redirect">Kh-11</a></li>
+<li><a href="/wiki/AS-16_Kickback" title="AS-16 Kickback" class="mw-redirect">Kh-15</a></li>
+<li><a href="/wiki/AS-3_Kangaroo" title="AS-3 Kangaroo" class="mw-redirect">Kh-20</a></li>
+<li><a href="/wiki/AS-4_Kitchen" title="AS-4 Kitchen" class="mw-redirect">Kh-22</a></li>
+<li><a href="/wiki/AS-7_Kerry" title="AS-7 Kerry" class="mw-redirect">Kh-23</a></li>
+<li><a href="/wiki/AS-10_Karen" title="AS-10 Karen" class="mw-redirect">Kh-25</a></li>
+<li><a href="/wiki/AS-12_Kegler" title="AS-12 Kegler" class="mw-redirect">Kh-25MP</a></li>
+<li><a href="/wiki/AS-6_Kingfish" title="AS-6 Kingfish" class="mw-redirect">Kh-26</a></li>
+<li><a href="/wiki/AS-9_Kyle" title="AS-9 Kyle" class="mw-redirect">Kh-28</a></li>
+<li><a href="/wiki/Kh-29" title="Kh-29">Kh-29</a></li>
+<li><a href="/wiki/AS-17_Krypton" title="AS-17 Krypton" class="mw-redirect">Kh-31</a></li>
+<li><a href="/wiki/AS-20_Kayak" title="AS-20 Kayak" class="mw-redirect">Kh-35</a></li>
+<li><a href="/wiki/AS-11_Kilter" title="AS-11 Kilter" class="mw-redirect">Kh-58</a></li>
+<li><a href="/wiki/AS-15_Kent" title="AS-15 Kent" class="mw-redirect">Kh-55</a></li>
+<li><a href="/wiki/Kh-59" title="Kh-59">Kh-59</a></li>
+<li><a href="/wiki/AS-18_Kazoo" title="AS-18 Kazoo" class="mw-redirect">Kh-59M</a></li>
+<li><a href="/wiki/Kh-90" title="Kh-90">Kh-90</a></li>
+<li><a href="/wiki/Kh-80" title="Kh-80">P-750</a></li>
+<li><a href="/wiki/AS-8" title="AS-8" class="mw-redirect">9M114V</a></li>
+<li><a href="/wiki/Kh-80" title="Kh-80">3M25A</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><small>Air to air</small></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vympel_K-13" title="Vympel K-13" class="mw-redirect">R-3</a></li>
+<li><a href="/wiki/Bisnovat_R-4" title="Bisnovat R-4" class="mw-redirect">R-4</a></li>
+<li><a href="/wiki/Kaliningrad_K-8" title="Kaliningrad K-8" class="mw-redirect">R-8</a></li>
+<li><a href="/wiki/Vympel_R-23" title="Vympel R-23" class="mw-redirect">R-23</a></li>
+<li><a href="/wiki/R-27_(air-to-air_missile)" title="R-27 (air-to-air missile)">R-27</a></li>
+<li><a href="/wiki/Vympel_R-33" title="Vympel R-33" class="mw-redirect">R-33</a></li>
+<li><a href="/wiki/Vympel_R-37" title="Vympel R-37" class="mw-redirect">R-37</a></li>
+<li><a href="/wiki/Bisnovat_R-40" title="Bisnovat R-40" class="mw-redirect">R-40</a></li>
+<li><a href="/wiki/Molniya_R-60" title="Molniya R-60" class="mw-redirect">R-60</a></li>
+<li><a href="/wiki/Vympel_R-73" title="Vympel R-73" class="mw-redirect">R-73</a></li>
+<li><a href="/wiki/Vympel_R-77" title="Vympel R-77" class="mw-redirect">R-77</a></li>
+<li><a href="/wiki/K-100_(missile)" title="K-100 (missile)">R-172</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><small>Anti-Tank</small></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Taifun" title="Taifun">R-103</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><small>Unguided Rockets</small></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><small>Air launched Rockets</small></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=RP-1_Izumrud&amp;action=edit&amp;redlink=1" class="new" title="RP-1 Izumrud (page does not exist)">RP-1</a></li>
+<li><a href="/w/index.php?title=RP-5_Izumrud-5&amp;action=edit&amp;redlink=1" class="new" title="RP-5 Izumrud-5 (page does not exist)">RP-5</a></li>
+<li><a href="/w/index.php?title=RP-6_Sokol&amp;action=edit&amp;redlink=1" class="new" title="RP-6 Sokol (page does not exist)">RP-6</a></li>
+<li><a href="/w/index.php?title=RP-9&amp;action=edit&amp;redlink=1" class="new" title="RP-9 (page does not exist)">RP-9</a></li>
+<li><a href="/w/index.php?title=RP-15_Orel&amp;action=edit&amp;redlink=1" class="new" title="RP-15 Orel (page does not exist)">RP-15</a></li>
+<li><a href="/w/index.php?title=RP-21_Saphir-21&amp;action=edit&amp;redlink=1" class="new" title="RP-21 Saphir-21 (page does not exist)">RP-21</a></li>
+<li><a href="/wiki/RS-82_(rocket_family)" title="RS-82 (rocket family)">RS-82</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><small>Surface launched rockets</small></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><small>Engines</small></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/RD-8_(rocket_engine)" title="RD-8 (rocket engine)" class="mw-redirect">RD-8</a></li>
+<li><a href="/wiki/Tumansky_RD-9" title="Tumansky RD-9">RD-9</a></li>
+<li><a href="/wiki/Tumansky_R-11" title="Tumansky R-11">R-11</a></li>
+<li><a href="/wiki/Tumansky_R-13" title="Tumansky R-13">R-13</a></li>
+<li><a href="/wiki/Tumansky_R-15" title="Tumansky R-15">R-15</a></li>
+<li><a href="/wiki/Tumansky_R-25" title="Tumansky R-25">R-25</a></li>
+<li><a href="/wiki/Tumansky_R-29" title="Tumansky R-29">R-29</a></li>
+<li><a href="/wiki/RK-55" title="RK-55">RK-55 Granat</a></li>
+<li><a href="/wiki/Klimov_RD-33" title="Klimov RD-33">RD-33</a></li>
+<li><a href="/wiki/Klimov_VK-1" title="Klimov VK-1">RD-45</a></li>
+<li><a href="/wiki/RD-58" title="RD-58">RD-58</a></li>
+<li><a href="/wiki/RD-107" title="RD-107">RD-107</a></li>
+<li><a href="/wiki/RD-117" title="RD-117">RD-117</a></li>
+<li><a href="/wiki/RD-0120_(rocket_engine)" title="RD-0120 (rocket engine)" class="mw-redirect">RD-120</a></li>
+<li><a href="/wiki/RD-0124" title="RD-0124">RD-124</a></li>
+<li><a href="/wiki/RD-0146" title="RD-0146">RD-146</a></li>
+<li><a href="/wiki/RD-170_(rocket_engine)" title="RD-170 (rocket engine)" class="mw-redirect">RD-170</a></li>
+<li><a href="/wiki/RD-180" title="RD-180">RD-180</a></li>
+<li><a href="/wiki/RD-191" title="RD-191">RD-191</a></li>
+<li><a href="/wiki/Klimov_RD-500" title="Klimov RD-500">RD-500</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Russian_and_Soviet_missiles" title="Template:Russian and Soviet missiles"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Russian_and_Soviet_missiles" title="Template talk:Russian and Soviet missiles"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Russian_and_Soviet_missiles&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/NATO_reporting_name" title="NATO reporting name">NATO designation</a> for <a href="/wiki/Russia" title="Russia">Russian</a> and former <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a> <a href="/wiki/Missile" title="Missile">missiles</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:114%">
+<ul>
+<li><a href="/wiki/Air-to-air_missile" title="Air-to-air missile">Air-to-air missiles</a></li>
+<li><a href="/wiki/List_of_NATO_reporting_names_for_air-to-air_missiles" title="List of NATO reporting names for air-to-air missiles">complete list</a></li>
+</ul>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AA-1_Alkali" title="AA-1 Alkali" class="mw-redirect">AA-1 Alkali</a></li>
+<li><a href="/wiki/AA-2_Atoll" title="AA-2 Atoll" class="mw-redirect">AA-2 Atoll</a></li>
+<li><a href="/wiki/AA-3_Anab" title="AA-3 Anab" class="mw-redirect">AA-3 Anab</a></li>
+<li><a href="/wiki/AA-4_Awl" title="AA-4 Awl" class="mw-redirect">AA-4 Awl</a></li>
+<li><a href="/wiki/AA-5_Ash" title="AA-5 Ash" class="mw-redirect">AA-5 Ash</a></li>
+<li><a href="/wiki/AA-6_Acrid" title="AA-6 Acrid" class="mw-redirect">AA-6 Acrid</a></li>
+<li><a href="/wiki/AA-7_Apex" title="AA-7 Apex" class="mw-redirect">AA-7 Apex</a></li>
+<li><a href="/wiki/AA-8_Aphid" title="AA-8 Aphid" class="mw-redirect">AA-8 Aphid</a></li>
+<li><a href="/wiki/AA-9_Amos" title="AA-9 Amos" class="mw-redirect">AA-9 Amos</a></li>
+<li><a href="/wiki/AA-10_Alamo" title="AA-10 Alamo" class="mw-redirect">AA-10 Alamo</a></li>
+<li><a href="/wiki/AA-11_Archer" title="AA-11 Archer" class="mw-redirect">AA-11 Archer</a></li>
+<li><a href="/wiki/AA-12_Adder" title="AA-12 Adder" class="mw-redirect">AA-12 Adder</a></li>
+<li><a href="/wiki/AA-13_Arrow" title="AA-13 Arrow" class="mw-redirect">AA-13 Arrow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:114%">
+<ul>
+<li><a href="/wiki/Air-to-surface_missile" title="Air-to-surface missile">Air-to-surface missiles</a></li>
+<li><a href="/wiki/List_of_NATO_reporting_names_for_air-to-surface_missiles" title="List of NATO reporting names for air-to-surface missiles">complete list</a></li>
+</ul>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AS-1_Kennel" title="AS-1 Kennel" class="mw-redirect">AS-1 Kennel</a></li>
+<li><a href="/wiki/AS-2_Kipper" title="AS-2 Kipper" class="mw-redirect">AS-2 Kipper</a></li>
+<li><a href="/wiki/AS-3_Kangaroo" title="AS-3 Kangaroo" class="mw-redirect">AS-3 Kangaroo</a></li>
+<li><a href="/wiki/AS-4_Kitchen" title="AS-4 Kitchen" class="mw-redirect">AS-4 Kitchen</a></li>
+<li><a href="/wiki/AS-5_Kelt" title="AS-5 Kelt" class="mw-redirect">AS-5 Kelt</a></li>
+<li><a href="/wiki/AS-6_Kingfish" title="AS-6 Kingfish" class="mw-redirect">AS-6 Kingfish</a></li>
+<li><a href="/wiki/AS-7_Kerry" title="AS-7 Kerry" class="mw-redirect">AS-7 Kerry</a></li>
+<li><a href="/wiki/AT-6_Spiral" title="AT-6 Spiral" class="mw-redirect">AS-8 Kokon AT-6</a></li>
+<li><a href="/wiki/AS-9_Kyle" title="AS-9 Kyle" class="mw-redirect">AS-9 Kyle</a></li>
+<li><a href="/wiki/AS-10_Karen" title="AS-10 Karen" class="mw-redirect">AS-10 Karen</a></li>
+<li><a href="/wiki/AS-11_Kilter" title="AS-11 Kilter" class="mw-redirect">AS-11 Kilter</a></li>
+<li><a href="/wiki/AS-10_Karen" title="AS-10 Karen" class="mw-redirect">AS-12 Kegler</a></li>
+<li><a href="/wiki/Kh-59" title="Kh-59">AS-13 Kingbolt</a></li>
+<li><a href="/wiki/AS-14_Kedge" title="AS-14 Kedge" class="mw-redirect">AS-14 Kedge</a></li>
+<li><a href="/wiki/AS-15_Kent" title="AS-15 Kent" class="mw-redirect">AS-15 Kent</a></li>
+<li><a href="/wiki/AS-16_Kickback" title="AS-16 Kickback" class="mw-redirect">AS-16 Kickback</a></li>
+<li><a href="/wiki/AS-17_Krypton" title="AS-17 Krypton" class="mw-redirect">AS-17 Krypton</a></li>
+<li><a href="/wiki/Kh-59" title="Kh-59">AS-18 Kazoo</a></li>
+<li><a href="/wiki/Kh-80" title="Kh-80">AS-X-19 Koala</a></li>
+<li><a href="/wiki/Kh-35" title="Kh-35">AS-20 Kayak</a></li>
+<li><a href="/wiki/Kh-90" title="Kh-90">AS-X-21</a></li>
+<li><a href="/wiki/Kh-59" title="Kh-59">AS-22</a></li>
+<li><a href="/wiki/Kh-38" title="Kh-38">AS-23</a></li>
+<li><a href="/wiki/Kh-38" title="Kh-38">AS-24</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:114%">
+<ul>
+<li><a href="/wiki/Anti-tank_missile" title="Anti-tank missile">Anti-tank missiles</a></li>
+<li><a href="/wiki/List_of_NATO_reporting_names_for_anti-tank_missiles" title="List of NATO reporting names for anti-tank missiles">complete list</a></li>
+</ul>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/3M6_Shmel" title="3M6 Shmel">AT-1 Snapper</a></li>
+<li><a href="/wiki/9M17" title="9M17" class="mw-redirect">AT-2 Swatter</a></li>
+<li><a href="/wiki/9M14_Malyutka" title="9M14 Malyutka">AT-3 Sagger</a></li>
+<li><a href="/wiki/9K111_Fagot" title="9K111 Fagot">AT-4 Spigot</a></li>
+<li><a href="/wiki/9M113_Konkurs" title="9M113 Konkurs">AT-5 Spandrel</a></li>
+<li><a href="/wiki/9K114_Shturm" title="9K114 Shturm">AT-6 Spiral</a></li>
+<li><a href="/wiki/9K115_Metis" title="9K115 Metis">AT-7 Saxhorn</a></li>
+<li><a href="/wiki/9K112_Kobra" title="9K112 Kobra">AT-8 Songster</a></li>
+<li><a href="/wiki/9M120_Ataka" title="9M120 Ataka">AT-9 Spiral-2</a></li>
+<li><a href="/wiki/9M117_Bastion" title="9M117 Bastion">AT-10 Stabber</a></li>
+<li><a href="/wiki/AT-11_Sniper" title="AT-11 Sniper" class="mw-redirect">AT-11 Sniper</a></li>
+<li><a href="/wiki/9M117_Bastion" title="9M117 Bastion">AT-12 Swinger</a></li>
+<li><a href="/wiki/9K115-2_Metis-M" title="9K115-2 Metis-M">AT-13 Saxhorn-2</a></li>
+<li><a href="/wiki/9M133_Kornet" title="9M133 Kornet">АТ-14 Spriggan</a></li>
+<li><a href="/wiki/9M123_Khrizantema" title="9M123 Khrizantema">АТ-15 Springer</a></li>
+<li><a href="/wiki/9K121_Vikhr" title="9K121 Vikhr">AT-16 Scallion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:114%">
+<ul>
+<li><a href="/wiki/Surface-to-air_missile" title="Surface-to-air missile">Surface-to-air missiles</a></li>
+<li><a href="/wiki/List_of_NATO_reporting_names_for_surface-to-air_missiles" title="List of NATO reporting names for surface-to-air missiles">complete list</a></li>
+</ul>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Ground based</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/SA-1_Guild" title="SA-1 Guild" class="mw-redirect">SA-1 Guild</a></li>
+<li><a href="/wiki/SA-2_Guideline" title="SA-2 Guideline" class="mw-redirect">SA-2 Guideline</a></li>
+<li><a href="/wiki/SA-3_Goa" title="SA-3 Goa" class="mw-redirect">SA-3 Goa</a></li>
+<li><a href="/wiki/SA-4_Ganef" title="SA-4 Ganef" class="mw-redirect">SA-4 Ganef</a></li>
+<li><a href="/wiki/SA-5_Gammon" title="SA-5 Gammon" class="mw-redirect">SA-5 Gammon</a></li>
+<li><a href="/wiki/SA-6_Gainful" title="SA-6 Gainful" class="mw-redirect">SA-6 Gainful</a></li>
+<li><a href="/wiki/SA-7_Grail" title="SA-7 Grail" class="mw-redirect">SA-7 Grail</a></li>
+<li><a href="/wiki/SA-8_Gecko" title="SA-8 Gecko" class="mw-redirect">SA-8 Gecko</a></li>
+<li><a href="/wiki/SA-9_Gaskin" title="SA-9 Gaskin" class="mw-redirect">SA-9 Gaskin</a></li>
+<li><a href="/wiki/S-300_(missile)" title="S-300 (missile)">SA-10 Grumble</a></li>
+<li><a href="/wiki/Buk_missile_system" title="Buk missile system">SA-11 Gadfly</a></li>
+<li><a href="/wiki/S-300_(missile)" title="S-300 (missile)">SA-12 Gladiator/Giant</a></li>
+<li><a href="/wiki/SA-13_Gopher" title="SA-13 Gopher" class="mw-redirect">SA-13 Gopher</a></li>
+<li><a href="/wiki/SA-14_Gremlin" title="SA-14 Gremlin" class="mw-redirect">SA-14 Gremlin</a></li>
+<li><a href="/wiki/Tor_missile_system" title="Tor missile system">SA-15 Gauntlet</a></li>
+<li><a href="/wiki/9K38_Igla" title="9K38 Igla">SA-16 Gimlet</a></li>
+<li><a href="/wiki/Buk_missile_system" title="Buk missile system">SA-17 Grizzly</a></li>
+<li><a href="/wiki/9K38_Igla" title="9K38 Igla">SA-18 Grouse</a></li>
+<li><a href="/wiki/9K22_Tunguska" title="9K22 Tunguska" class="mw-redirect">SA-19 Grison</a></li>
+<li><a href="/wiki/S-300_(missile)" title="S-300 (missile)">SA-20 Gargoyle</a></li>
+<li><a href="/wiki/S-400_(missile)" title="S-400 (missile)">SA-21 Growler</a></li>
+<li><a href="/wiki/Pantsir-S1" title="Pantsir-S1">SA-22 Greyhound</a></li>
+<li><a href="/wiki/S-300VM" title="S-300VM">SA-23 Gladiator/Giant</a></li>
+<li><a href="/wiki/9K38_Igla" title="9K38 Igla">SA-24 Grinch</a></li>
+<li><a href="/wiki/Morfey" title="Morfey">Morfey</a></li>
+<li><a href="/wiki/Vityaz_missile_system" title="Vityaz missile system">S-350E</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Navy" title="Navy">Naval based</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/SA-3_Goa" title="SA-3 Goa" class="mw-redirect">SA-N-1 Goa</a></li>
+<li><a href="/wiki/SA-2_Guideline" title="SA-2 Guideline" class="mw-redirect">SA-N-2 Guideline</a></li>
+<li><a href="/wiki/SA-N-3_Goblet" title="SA-N-3 Goblet" class="mw-redirect">SA-N-3 Goblet</a></li>
+<li><a href="/wiki/SA-8_Gecko" title="SA-8 Gecko" class="mw-redirect">SA-N-4 Gecko</a></li>
+<li><a href="/wiki/SA-7_Grail" title="SA-7 Grail" class="mw-redirect">SA-N-5 Grail</a></li>
+<li><a href="/wiki/S-300_(missile)" title="S-300 (missile)">SA-N-6 Grumble</a></li>
+<li><a href="/wiki/Buk_missile_system" title="Buk missile system">SA-N-7 Gadfly</a></li>
+<li><a href="/wiki/SA-14_Gremlin" title="SA-14 Gremlin" class="mw-redirect">SA-N-8 Gremlin</a></li>
+<li><a href="/wiki/Tor_missile_system" title="Tor missile system">SA-N-9 Gauntlet</a></li>
+<li><a href="/wiki/9K38_Igla" title="9K38 Igla">SA-N-10 Grouse</a></li>
+<li><a href="/wiki/9K22_Tunguska" title="9K22 Tunguska" class="mw-redirect">SA-N-11 Grison</a></li>
+<li><a href="/wiki/Buk_missile_system" title="Buk missile system">SA-N-12 Grizzly</a></li>
+<li><a href="/wiki/9K38_Igla" title="9K38 Igla">SA-N-14 Grouse</a></li>
+<li><a href="/wiki/S-300_(missile)" title="S-300 (missile)">SA-N-20 Gargoyle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Anti-ballistic_missiles" title="Anti-ballistic missiles" class="mw-redirect">ABMs</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ABM-1_Galosh" title="ABM-1 Galosh">ABM-1 Galosh</a></li>
+<li><a href="/wiki/A-135_anti-ballistic_missile_system" title="A-135 anti-ballistic missile system">ABM-3</a>/<a href="/wiki/53T6" title="53T6">53T6 Gazelle</a></li>
+<li><a href="/wiki/S-500_(missile)" title="S-500 (missile)">S-500</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:114%">
+<ul>
+<li><a href="/wiki/Surface-to-surface_missile" title="Surface-to-surface missile">Surface-to-surface missiles</a></li>
+<li><a href="/wiki/List_of_NATO_reporting_names_for_surface-to-surface_missiles" title="List of NATO reporting names for surface-to-surface missiles">complete list</a></li>
+</ul>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Ground based</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Scud" title="Scud">SS-1 Scud</a></li>
+<li><a href="/wiki/SS-2_Sibling" title="SS-2 Sibling">SS-2 Sibling</a></li>
+<li><a href="/wiki/SS-3_Shyster" title="SS-3 Shyster">SS-3 Shyster</a></li>
+<li><a href="/wiki/SS-4_Sandal" title="SS-4 Sandal">SS-4 Sandal</a></li>
+<li><a href="/wiki/R-14_Chusovaya_(Template)" title="R-14 Chusovaya (Template)" class="mw-redirect">SS-5 Skean</a></li>
+<li><a href="/wiki/R-7_Semyorka" title="R-7 Semyorka">SS-6 Sapwood</a></li>
+<li><a href="/wiki/SS-7_Saddler" title="SS-7 Saddler">SS-7 Saddler</a></li>
+<li><a href="/wiki/SS-8_Sasin" title="SS-8 Sasin">SS-8 Sasin</a></li>
+<li><a href="/wiki/R-36_(missile)" title="R-36 (missile)">SS-9 Scarp</a></li>
+<li><a href="/wiki/SS-10_Scrag" title="SS-10 Scrag" class="mw-redirect">SS-10 Scrag</a></li>
+<li><a href="/wiki/SS-11_Sego" title="SS-11 Sego" class="mw-redirect">SS-11 Sego</a></li>
+<li><a href="/wiki/SS-12_Scaleboard" title="SS-12 Scaleboard" class="mw-redirect">SS-12 Scaleboard</a></li>
+<li><a href="/wiki/SS-13_Savage" title="SS-13 Savage">SS-13 Savage</a></li>
+<li><a href="/wiki/SS-14_Scapegoat" title="SS-14 Scapegoat">SS-14 Scamp/Scapegoat</a></li>
+<li><a href="/wiki/SS-15_Scrooge" title="SS-15 Scrooge">SS-15 Scrooge</a></li>
+<li><a href="/wiki/SS-16_Sinner" title="SS-16 Sinner">SS-16 Sinner</a></li>
+<li><a href="/wiki/SS-17_Spanker" title="SS-17 Spanker">SS-17 Spanker</a></li>
+<li><a href="/wiki/R-36_(missile)" title="R-36 (missile)">SS-18 Satan</a></li>
+<li><a href="/wiki/SS-19_Stiletto" title="SS-19 Stiletto" class="mw-redirect">SS-19 Stiletto</a></li>
+<li><a href="/wiki/SS-20_Saber" title="SS-20 Saber">SS-20 Saber</a></li>
+<li><a href="/wiki/SS-21_Scarab" title="SS-21 Scarab" class="mw-redirect">SS-21 Scarab</a></li>
+<li><a href="/wiki/SS-12_Scaleboard" title="SS-12 Scaleboard" class="mw-redirect">SS-22 Scaleboard</a></li>
+<li><a href="/wiki/OTR-23_Oka" title="OTR-23 Oka">SS-23 Spider</a></li>
+<li><a href="/wiki/RT-23_Molodets" title="RT-23 Molodets">SS-24 Scalpel</a></li>
+<li><a href="/wiki/RT-2PM_Topol" title="RT-2PM Topol">SS-25 Sickle</a></li>
+<li><a href="/wiki/9K720_Iskander" title="9K720 Iskander">SS-26 Stone</a></li>
+<li><a href="/wiki/RT-2PM2_Topol-M" title="RT-2PM2 Topol-M">SS-27 Sickle B</a></li>
+<li><a href="/wiki/SS-20_Saber" title="SS-20 Saber">SS-28 Saber 2</a></li>
+<li><a href="/wiki/RS-24_Yars" title="RS-24 Yars">SS-29 Yars</a></li>
+<li><a href="/wiki/RS-26_Rubezh" title="RS-26 Rubezh">SS-X-31 Rubezh</a></li>
+<li><a href="/wiki/BZhRK_Barguzin" title="BZhRK Barguzin">SS-X-32Zh Barguzin</a></li>
+<li><a href="/wiki/RS-28_Sarmat" title="RS-28 Sarmat">SS-X-30 Sarmat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Navy" title="Navy">Naval based</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/SS-N-1_Scrubber" title="SS-N-1 Scrubber">SS-N-1 Scrubber</a></li>
+<li><a href="/wiki/SS-N-2_Styx" title="SS-N-2 Styx" class="mw-redirect">SS-N-2 Styx</a></li>
+<li><a href="/wiki/SS-N-3_Shaddock" title="SS-N-3 Shaddock">SS-N-3c Shaddock</a></li>
+<li><a href="/wiki/SS-N-3_Shaddock" title="SS-N-3 Shaddock">SS-N-3a Shaddock 3b Sepal</a></li>
+<li><strong class="selflink">SS-N-4 Sark</strong></li>
+<li><a href="/wiki/R-21_(missile)" title="R-21 (missile)">SS-N-5 Sark/Serb</a></li>
+<li><a href="/wiki/R-27_Zyb" title="R-27 Zyb">SS-N-6 Serb</a></li>
+<li><a href="/wiki/P-70_Ametist" title="P-70 Ametist">SS-N-7 Starbright</a></li>
+<li><a href="/wiki/R-29_Vysota" title="R-29 Vysota">SS-N-8 Sawfly</a></li>
+<li><a href="/wiki/P-120_Malakhit" title="P-120 Malakhit">SS-N-9 Siren</a></li>
+<li><a href="/wiki/P-500_Bazalt" title="P-500 Bazalt">SS-N-12 Sandbox</a></li>
+<li><a href="/wiki/R-27_Zyb" title="R-27 Zyb">SS-NX-13</a></li>
+<li><a href="/wiki/Metel_Anti-Ship_Complex" title="Metel Anti-Ship Complex">SS-N-14 Silex</a></li>
+<li><a href="/wiki/RPK-2_Viyuga" title="RPK-2 Viyuga" class="mw-redirect">SS-N-15 Starfish</a></li>
+<li><a href="/wiki/RPK-6_Vodopad/RPK-7_Veter" title="RPK-6 Vodopad/RPK-7 Veter">SS-N-16 Stallion</a></li>
+<li><a href="/wiki/R-31_(missile)" title="R-31 (missile)">SS-N-17 Snipe</a></li>
+<li><a href="/wiki/R-29_Vysota" title="R-29 Vysota">SS-N-18 Stingray</a></li>
+<li><a href="/wiki/P-700_Granit" title="P-700 Granit">SS-N-19 Shipwreck</a></li>
+<li><a href="/wiki/R-39_Rif" title="R-39 Rif">SS-NX-20 Sturgeon</a></li>
+<li><a href="/wiki/RK-55" title="RK-55">SS-N-21 Sampson</a></li>
+<li><a href="/wiki/P-270_Moskit" title="P-270 Moskit">SS-N-22 Sunburn</a></li>
+<li><a href="/wiki/R-29RM_Shtil" title="R-29RM Shtil">SS-N-23 Skiff R29RM</a></li>
+<li><a href="/wiki/R-29RMU_Sineva" title="R-29RMU Sineva">SS-N-23A Skiff</a></li>
+<li><a href="/wiki/R-29RMU2_Layner" title="R-29RMU2 Layner">SS-N-23B Skiff</a></li>
+<li><a href="/wiki/Kh-80" title="Kh-80">SS-NX-24 Scorpion</a></li>
+<li><a href="/wiki/Kh-35" title="Kh-35">SS-N-25 Switchblade</a></li>
+<li><a href="/wiki/P-800_Oniks" title="P-800 Oniks">SS-N-26 Strobile</a></li>
+<li><a href="/wiki/3M-54_Klub" title="3M-54 Klub">SS-N-27 Sizzler</a></li>
+<li><a href="/wiki/3M-54_Klub" title="3M-54 Klub">SS-N-30A 3M-14</a></li>
+<li><a href="/wiki/R-39M" title="R-39M">SS-NX-28</a></li>
+<li><a href="/wiki/RPK-9_Medvedka" title="RPK-9 Medvedka">SS-N-29</a></li>
+<li><a href="/wiki/RSM-56_Bulava" title="RSM-56 Bulava">SS-N-32 SS-NX-30?</a></li>
+<li><a href="/wiki/3M-51_Alfa" title="3M-51 Alfa">SS-NX-34</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1117
+Cached time: 20151002230610
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.329 seconds
+Real time usage: 0.389 seconds
+Preprocessor visited node count: 1849/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 115607/2097152 bytes
+Template argument size: 11374/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.117/10.000 seconds
+Lua memory usage: 3.37 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  256.782      1 - -total
+ 33.04%   84.840      1 - Template:Russian_and_Soviet_missiles
+ 31.29%   80.347      1 - Template:Navbox_with_collapsible_groups
+ 27.76%   71.280      6 - Template:Navbox
+ 24.55%   63.051      1 - Template:Convert
+ 20.07%   51.530      1 - Template:No_footnotes
+ 16.88%   43.341      1 - Template:Ambox
+ 15.18%   38.984      1 - Template:Russian_and_Soviet_military_designation_sequences
+ 11.13%   28.584      2 - Template:Navbox_subgroup
+  4.42%   11.338      2 - Template:Flag
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:529522-0!*!0!!en!4!* and timestamp 20151002230610 and revision id 683853190
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=R-13_(missile)&amp;oldid=683853190">https://en.wikipedia.org/w/index.php?title=R-13_(missile)&amp;oldid=683853190</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Submarine-launched_ballistic_missiles_of_the_Soviet_Union" title="Category:Submarine-launched ballistic missiles of the Soviet Union">Submarine-launched ballistic missiles of the Soviet Union</a></li><li><a href="/wiki/Category:Cold_War_missiles_of_the_Soviet_Union" title="Category:Cold War missiles of the Soviet Union">Cold War missiles of the Soviet Union</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_December_2014" title="Category:Articles lacking in-text citations from December 2014">Articles lacking in-text citations from December 2014</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=R-13+%28missile%29&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=R-13+%28missile%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/R-13_(missile)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:R-13_(missile)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/R-13_(missile)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=R-13_(missile)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=R-13_(missile)&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/R-13_(missile)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/R-13_(missile)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=R-13_(missile)&amp;oldid=683853190" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=R-13_(missile)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1415406" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=R-13_%28missile%29&amp;id=683853190" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=R-13+%28missile%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=R-13+%28missile%29&amp;returnto=R-13+%28missile%29&amp;oldid=683853190&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=R-13_(missile)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/R-13_(Rakete)" title="R-13 (Rakete) – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/R-13_(misil)" title="R-13 (misil) – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/R-13_(peluru_kendali)" title="R-13 (peluru kendali) – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/R-13_(missile)" title="R-13 (missile) – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/R-13" title="R-13 – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-ru badge-Q17437798 badge-goodarticle" title="good article"><a href="//ru.wikipedia.org/wiki/%D0%A0-13" title="Р-13 – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/R-13_(robot)" title="R-13 (robot) – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1415406#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 October 2015, at 23:06.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=R-13_(missile)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1071"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

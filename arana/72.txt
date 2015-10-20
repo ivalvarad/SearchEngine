@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Lake of the Woods - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lake_of_the_Woods","wgTitle":"Lake of the Woods","wgCurRevisionId":679380205,"wgRevisionId":679380205,"wgArticleId":238703,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Articles containing French-language text","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Canada–United States border","Landforms of Lake of the Woods County, Minnesota","International lakes of North America","Lakes of Kenora District","Lakes of Manitoba","Lakes of Minnesota","Lakes of Ontario","Lakes of Rainy River District"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lake_of_the_Woods","wgRelevantArticleId":238703,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lake_of_the_woods.jpg/100px-Lake_of_the_woods.jpg","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":49.249722222222,"lon":-94.750833333333},"wgWikibaseItemId":"Q845876","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lake_of_the_Woods" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Lake_of_the_Woods" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Lake_of_the_Woods skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Lake of the Woods</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other uses, see <a href="/wiki/Lake_of_the_Woods_(disambiguation)" title="Lake of the Woods (disambiguation)" class="mw-disambig">Lake of the Woods (disambiguation)</a>.</div>
+<div class="hatnote">"Lac des bois" redirects here. For the lake in the Northwest Territories, see <a href="/wiki/Lac_des_bois_(Northwest_Territories)" title="Lac des bois (Northwest Territories)" class="mw-redirect">Lac des bois (Northwest Territories)</a>.</div>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;background-color: #cedeff; font-size: 125%;">Lake of the Woods</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;line-height: 1.2; border-bottom: 1px solid #cedeff;"><a href="/wiki/File:Lake_of_the_woods.jpg" class="image"><img alt="Lake of the woods.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lake_of_the_woods.jpg/240px-Lake_of_the_woods.jpg" width="240" height="240" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lake_of_the_woods.jpg/360px-Lake_of_the_woods.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lake_of_the_woods.jpg/480px-Lake_of_the_woods.jpg 2x" data-file-width="640" data-file-height="640" /></a>
+<div>Lake of the Woods from space, May 1998</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;line-height: 1.2; border-bottom: 1px solid #cedeff;"><a href="/wiki/File:Lake-of-the-woods.png" class="image"><img alt="Lake-of-the-woods.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Lake-of-the-woods.png/240px-Lake-of-the-woods.png" width="240" height="252" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/c/cd/Lake-of-the-woods.png 1.5x, //upload.wikimedia.org/wikipedia/commons/c/cd/Lake-of-the-woods.png 2x" data-file-width="305" data-file-height="320" /></a></td>
+</tr>
+<tr class="adr">
+<th scope="row">Location</th>
+<td class="region"><a href="/wiki/North_America" title="North America">North America</a></td>
+</tr>
+<tr>
+<th scope="row"><span title="Geographical coordinates">Coordinates</span></th>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Lake_of_the_Woods&amp;params=49_14_59_N_94_45_03_W_type:waterbody_scale:1000000"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°14′59″N</span> <span class="longitude">94°45′03″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.24972°N 94.75083°W</span><span style="display:none">﻿ / <span class="geo">49.24972; -94.75083</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Lake_of_the_Woods&amp;params=49_14_59_N_94_45_03_W_type:waterbody_scale:1000000"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°14′59″N</span> <span class="longitude">94°45′03″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.24972°N 94.75083°W</span><span style="display:none">﻿ / <span class="geo">49.24972; -94.75083</span></span></span></a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Body_of_water#Types" title="Body of water">Type</a></th>
+<td class="category">remnant of former glacial <a href="/wiki/Lake_Agassiz" title="Lake Agassiz">Lake Agassiz</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Inflow_(hydrology)" title="Inflow (hydrology)"><span title="Primary inflows: rivers, streams, precipitation">Primary inflows</span></a></th>
+<td><a href="/wiki/Rainy_River_(Minnesota%E2%80%93Ontario)" title="Rainy River (Minnesota–Ontario)">Rainy River</a><br />
+<a href="/wiki/Shoal_Lake_(Ontario)" title="Shoal Lake (Ontario)">Shoal Lake</a><br />
+<a href="/wiki/Kakagi_Lake" title="Kakagi Lake">Kakagi Lake</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Discharge_(hydrology)" title="Discharge (hydrology)"><span title="Primary outflows: rivers, streams, evaporation">Primary outflows</span></a></th>
+<td><a href="/wiki/Winnipeg_River" title="Winnipeg River">Winnipeg River</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Drainage_basin" title="Drainage basin">Basin</a>&#160;countries</th>
+<td><a href="/wiki/Canada" title="Canada">Canada</a>, <a href="/wiki/United_States" title="United States">United States</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;border-bottom: #cedeff 1px solid"></th>
+</tr>
+<tr class="note">
+<th scope="row">Max. length</th>
+<td>68&#160;mi (109&#160;km)</td>
+</tr>
+<tr class="note">
+<th scope="row">Max. width</th>
+<td>59&#160;mi (95&#160;km)</td>
+</tr>
+<tr class="note">
+<th scope="row">Surface area</th>
+<td>1,679&#160;sq&#160;mi (4,348.6&#160;km<sup>2</sup>)</td>
+</tr>
+<tr class="note">
+<th scope="row">Max. depth</th>
+<td>210&#160;ft (64&#160;m)</td>
+</tr>
+<tr class="note">
+<th scope="row">Shore length<sup>1</sup></th>
+<td>25,000&#160;mi (40,000&#160;km) (65,000&#160;mi (105,000&#160;km) with islands)</td>
+</tr>
+<tr class="note">
+<th scope="row">Surface elevation</th>
+<td>1,056&#160;ft (322&#160;m)</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;border-bottom: #cedeff 1px solid"></th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Category:Islands_by_body_of_water" title="Category:Islands by body of water">Islands</a></th>
+<td>14,552</td>
+</tr>
+<tr>
+<th scope="row">Settlements</th>
+<td><a href="/wiki/Angle_Inlet" title="Angle Inlet" class="mw-redirect">Angle Inlet</a>, Minnesota<br />
+<a href="/wiki/Warroad" title="Warroad" class="mw-redirect">Warroad</a>, Minnesota<br />
+<a href="/wiki/Lake_of_the_Woods,_Ontario" title="Lake of the Woods, Ontario">Lake of the Woods</a>, Ontario</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;font-size: smaller; border-bottom: 1px solid #cedeff; border-top: 1px solid #cedeff"><sup>1</sup> Shore length is <a href="/wiki/Coastline_paradox" title="Coastline paradox">not a well-defined measure</a>.</td>
+</tr>
+</table>
+<p><b>Lake of the Woods</b> (<a href="/wiki/French_language" title="French language">French</a>: <span lang="fr" xml:lang="fr"><i>lac des Bois</i></span>) is a <a href="/wiki/Lake" title="Lake">lake</a> occupying parts of the Canadian provinces of <a href="/wiki/Ontario" title="Ontario">Ontario</a> and <a href="/wiki/Manitoba" title="Manitoba">Manitoba</a> and the <a href="/wiki/U.S._state" title="U.S. state">U.S. state</a> of <a href="/wiki/Minnesota" title="Minnesota">Minnesota</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> It separates a small land area of Minnesota from the rest of the <a href="/wiki/United_States" title="United States">United States</a>. The <a href="/wiki/Northwest_Angle" title="Northwest Angle">Northwest Angle</a> and the town of <a href="/wiki/Angle_Township,_Lake_of_the_Woods_County,_Minnesota" title="Angle Township, Lake of the Woods County, Minnesota">Angle Township</a> can only be reached from the rest of Minnesota by crossing the lake or by traveling through <a href="/wiki/Canada" title="Canada">Canada</a>. The Northwest Angle is the northernmost part of the <a href="/wiki/Contiguous_United_States" title="Contiguous United States">contiguous United States</a>. Its "<a href="/wiki/Northwestern_point_of_the_Lake_of_the_Woods" title="Northwestern point of the Lake of the Woods">northwesternmost point</a>" served as a problematic landmark in treaties defining the international border.</p>
+<p>Lake of the Woods is fed by the <a href="/wiki/Rainy_River_(Minnesota%E2%80%93Ontario)" title="Rainy River (Minnesota–Ontario)">Rainy River</a>, <a href="/wiki/Shoal_Lake_(Ontario)" title="Shoal Lake (Ontario)">Shoal Lake</a>, <a href="/wiki/Kakagi_Lake" title="Kakagi Lake">Kakagi Lake</a> and other smaller rivers. The lake drains into the <a href="/wiki/Winnipeg_River" title="Winnipeg River">Winnipeg River</a> and then into <a href="/wiki/Lake_Winnipeg" title="Lake Winnipeg">Lake Winnipeg</a>. Ultimately, its outflow goes north through the <a href="/wiki/Nelson_River" title="Nelson River">Nelson River</a> to <a href="/wiki/Hudson_Bay" title="Hudson Bay">Hudson Bay</a>.</p>
+<p>Lake of the Woods is over 70 miles (110&#160;km) long and wide, and contains more than 14,552 islands and 65,000 miles (105,000&#160;km) of shoreline. It would amount to the longest coastline of any Canadian lake, except that the lake is not entirely within Canada. Lake of the Woods is also the <a href="/wiki/List_of_largest_lakes_of_the_United_States_by_area" title="List of largest lakes of the United States by area">sixth largest</a> <a href="/wiki/Fresh_water" title="Fresh water">freshwater</a> lake located (at least partially) in the United States, after the five <a href="/wiki/Great_Lakes" title="Great Lakes">Great Lakes</a>.</p>
+<p>The lake's islands provide nesting habitat for the <a href="/wiki/Piping_plover" title="Piping plover">piping plover</a> and large numbers of <a href="/wiki/American_white_pelican" title="American white pelican">American white pelicans</a>. There are also several hundred nesting pairs of <a href="/wiki/Bald_eagle" title="Bald eagle">bald eagles</a> in this area.</p>
+<p>Lake of the Woods, a translation of the original French name <span lang="fr" xml:lang="fr"><i>lac des Bois</i></span>, was so named from its wooded setting.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> However, it may have been a mistranslation of the Indian name. "The earliest name we find the lake known by is that given by Verandrye in his journey in 1731. He says it was called Lake Minitie (Cree Ministik) or Des Bois. (1) The former of these names, Minitie, seems to be Ojibway, and to mean Lake of the Islands, probably referring to the large number of islands found in the northern half of the lake. The other name (2) Lac des Bois, or Lake of the Woods, seems to have been a mis-translation of the Indian name (ojibway) by which the Lake was known." <sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Governance"><span class="tocnumber">1</span> <span class="toctext">Governance</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Communities_near_Lake_of_the_Woods"><span class="tocnumber">2</span> <span class="toctext">Communities near Lake of the Woods</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Ontario"><span class="tocnumber">2.1</span> <span class="toctext">Ontario</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Manitoba"><span class="tocnumber">2.2</span> <span class="toctext">Manitoba</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Minnesota"><span class="tocnumber">2.3</span> <span class="toctext">Minnesota</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Lands_within_Lake_of_the_Woods"><span class="tocnumber">3</span> <span class="toctext">Lands within Lake of the Woods</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Aulneau_Peninsula"><span class="tocnumber">3.1</span> <span class="toctext">Aulneau Peninsula</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Other_islands"><span class="tocnumber">3.2</span> <span class="toctext">Other islands</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Recreation_on_Lake_of_the_Woods"><span class="tocnumber">4</span> <span class="toctext">Recreation on Lake of the Woods</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Camping"><span class="tocnumber">4.1</span> <span class="toctext">Camping</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Fishing"><span class="tocnumber">4.2</span> <span class="toctext">Fishing</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Royal_Lake_of_the_Woods_Yacht_Club"><span class="tocnumber">4.3</span> <span class="toctext">Royal Lake of the Woods Yacht Club</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Governance">Governance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit&amp;section=1" title="Edit section: Governance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The construction of dams at the Lake of the Woods outlets in present-day Kenora in the late 19th century led to concerns over high and low water levels on the lake early in the 20th century. The federal governments of Canada and the United States referred the matter to the <a href="/wiki/International_Joint_Commission" title="International Joint Commission">International Joint Commission</a> (IJC) in 1912. In 1917 the IJC recommended the creation of control boards and the operating conditions they would apply to lake level management. The first of these boards, the Lake of the Woods Control Board (LWCB), was established by Canadian Order-in-Council in 1919. Two additional acts provided statutory establishment of the LWCB, defined its jurisdiction and powers, and provided for board members appointed by Canada and Ontario: the Lake of the Woods Control Board Act, Canada, 1921, the Lake of the Woods Control Board Act, Ontario, 1922. In 1922 the Canada-Ontario-Manitoba Tripartite Agreement was signed by the respective governments. Initially only Canada and Ontario appointed members to the board as, at that time, natural resources in Manitoba were administered by Canada. In 1958, having gained control over its natural resources, Manitoba passed its own Lake of the Woods Control Board Act. That same year, Canada and Ontario amended their original versions of the acts. As a result of these legislative changes, the LWCB now has one member appointed by Canada, two appointed by Ontario, and one appointed by Manitoba.</p>
+<p>Following the IJC recommendations of 1917, discussions between the federal governments of Canada and the United States resulted in the 1925 Canada/USA Convention and Protocol regarding Lake of the Woods. This treaty established the water level operating range on Lake of the Woods, defined the purpose and general mode of operation, and provided for two boards to control regulation. The previously established Canadian LWCB was to regulate the lake on an ongoing basis, but its decisions were to be subject to approval by an International Lake of the Woods Control Board (ILWCB) whenever lake levels rose above or fell below certain limits. In cases where agreement could not be reached between Canadian and American members of the international board, the disputed matter would be referred to the IJC for final decision. The International Lake of the Woods Control Board, however, is not a board created by the IJC. The board's members (one American and one Canadian) are appointed by the respective federal governments.</p>
+<p><a href="/wiki/Shoal_Lake_(Kenora_District,_Ontario)" title="Shoal Lake (Kenora District, Ontario)">Shoal Lake</a> is adjacent to the Lake of the Woods and is the source for the City of <a href="/wiki/Winnipeg,_Manitoba" title="Winnipeg, Manitoba" class="mw-redirect">Winnipeg</a> drinking water via the <a href="/wiki/Greater_Winnipeg_Water_District_aqueduct" title="Greater Winnipeg Water District aqueduct">Greater Winnipeg Water District aqueduct</a>, so the administration of the lake is a continuing interest of the governments of Winnipeg and Manitoba.</p>
+<h2><span class="mw-headline" id="Communities_near_Lake_of_the_Woods">Communities near Lake of the Woods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit&amp;section=2" title="Edit section: Communities near Lake of the Woods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Ontario">Ontario</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit&amp;section=3" title="Edit section: Ontario">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Northwest_Angle_33_First_Nation" title="Northwest Angle 33 First Nation">Northwest Angle 33 First Nation</a></li>
+<li><a href="/wiki/Big_Grassy_First_Nation" title="Big Grassy First Nation">Big Grassy First Nation</a></li>
+<li>French Portage Narrows</li>
+<li><a href="/wiki/Kenora" title="Kenora">Kenora</a></li>
+<li><a href="/wiki/Minaki" title="Minaki">Minaki</a></li>
+<li><a href="/wiki/Lake_of_the_Woods,_Ontario" title="Lake of the Woods, Ontario">Lake of the Woods</a></li>
+<li><a href="/w/index.php?title=Anishnaabeg_of_Naongashiing_First_Nation&amp;action=edit&amp;redlink=1" class="new" title="Anishnaabeg of Naongashiing First Nation (page does not exist)">Anishnaabeg of Naongashiing First Nation</a></li>
+<li><a href="/wiki/Naotkamegwanning_First_Nation" title="Naotkamegwanning First Nation">Naotkamegwanning First Nation</a></li>
+<li><a href="/wiki/Sioux_Narrows-Nestor_Falls" title="Sioux Narrows-Nestor Falls">Sioux Narrows-Nestor Falls</a></li>
+<li><a href="/wiki/Obashkaandagaang_Bay_First_Nation" title="Obashkaandagaang Bay First Nation">Obashkaandagaang Bay First Nation</a></li>
+<li><a href="/wiki/Ochiichagwe%27Babigo%27Ining_Ojibway_Nation" title="Ochiichagwe'Babigo'Ining Ojibway Nation">Ochiichagwe'Babigo'Ining Ojibway Nation</a></li>
+<li><a href="/wiki/Ojibways_of_Onigaming_First_Nation" title="Ojibways of Onigaming First Nation">Ojibways of Onigaming First Nation</a></li>
+<li><a href="/wiki/Rainy_River,_Ontario" title="Rainy River, Ontario">Rainy River</a></li>
+<li><a href="/wiki/Northwest_Angle_37_First_Nation" title="Northwest Angle 37 First Nation">Northwest Angle 37 First Nation</a></li>
+<li><a href="/w/index.php?title=Anishinabe_of_Wauzhushk_Onigum_First_Nation&amp;action=edit&amp;redlink=1" class="new" title="Anishinabe of Wauzhushk Onigum First Nation (page does not exist)">Anishinabe of Wauzhushk Onigum First Nation</a></li>
+</ul>
+<h3><span class="mw-headline" id="Manitoba">Manitoba</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit&amp;section=4" title="Edit section: Manitoba">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Middlebro</li>
+<li><a href="/wiki/Buffalo_Point_First_Nation" title="Buffalo Point First Nation">Buffalo Point First Nation</a></li>
+</ul>
+<h3><span class="mw-headline" id="Minnesota">Minnesota</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit&amp;section=5" title="Edit section: Minnesota">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Angle_Township,_Lake_of_the_Woods_County,_Minnesota" title="Angle Township, Lake of the Woods County, Minnesota">Angle Township</a></li>
+<li><a href="/wiki/Baudette,_Minnesota" title="Baudette, Minnesota">Baudette</a></li>
+<li><a href="/wiki/Hackett,_Minnesota" title="Hackett, Minnesota">Hackett</a></li>
+<li><a href="/wiki/Roseau,_Minnesota" title="Roseau, Minnesota">Roseau</a></li>
+<li><a href="/wiki/Warroad,_Minnesota" title="Warroad, Minnesota">Warroad</a></li>
+<li><a href="/wiki/Wheeler%27s_Point,_Minnesota" title="Wheeler's Point, Minnesota">Wheeler's Point</a></li>
+</ul>
+<h2><span class="mw-headline" id="Lands_within_Lake_of_the_Woods">Lands within Lake of the Woods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit&amp;section=6" title="Edit section: Lands within Lake of the Woods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Aulneau_Peninsula">Aulneau Peninsula</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit&amp;section=7" title="Edit section: Aulneau Peninsula">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The largest land feature in Lake of the Woods is the Aulneau Peninsula. It is connected to the mainland with a tiny neck of land at its southeast corner, but a canal (Turtle Portage) was cut through at this point, effectively making the Aulneau an island. The canal has now been filled back in. A manually run portage for small- to medium-sized boats is in its place. The Aulneau is approximately twenty miles long (32&#160;km) and ten miles (16&#160;km) wide. It contains within it over eighty lakes, the largest of which is Arrow Lake, with thirteen islands in it.</p>
+<p>The Aulneau Peninsula was named after the <a href="/wiki/Society_of_Jesus" title="Society of Jesus">Jesuit</a> Father <a href="/wiki/Jean-Pierre_Aulneau" title="Jean-Pierre Aulneau">Jean-Pierre Aulneau</a>, a <a href="/wiki/French_people" title="French people">French</a> <a href="/wiki/Priesthood_(Catholic_Church)" title="Priesthood (Catholic Church)">Catholic priest</a>, who was killed by natives on 8 June 1736 on Lake of the Woods. The Catholic Church in <a href="/wiki/Warroad,_Minnesota" title="Warroad, Minnesota">Warroad, Minnesota</a>, is named Father Aulneau Memorial Church in his honor.</p>
+<h3><span class="mw-headline" id="Other_islands">Other islands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit&amp;section=8" title="Edit section: Other islands">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/w/index.php?title=Big_Island_(Lake_of_the_Woods)&amp;action=edit&amp;redlink=1" class="new" title="Big Island (Lake of the Woods) (page does not exist)">Big Island</a></li>
+<li><a href="/w/index.php?title=Bigsby_Island_(Lake_of_the_Woods)&amp;action=edit&amp;redlink=1" class="new" title="Bigsby Island (Lake of the Woods) (page does not exist)">Bigsby Island</a></li>
+<li><a href="/w/index.php?title=Brush_Island,_Minnesota&amp;action=edit&amp;redlink=1" class="new" title="Brush Island, Minnesota (page does not exist)">Brush Island, Minnesota</a></li>
+<li>Chapel Island An island about 15&#160;km out from Kenora, where a chapel once stood. When the natives would canoe from end to end for purposes of trading. Chapel Island was a rest stop where the white man would try and convert the Native population, and offered a salvation in case of bad weather. The chapel has since burnt down, and very few remains remain.</li>
+<li>Copeland Island, otherwise known as <a href="/w/index.php?title=Camp_Stephens&amp;action=edit&amp;redlink=1" class="new" title="Camp Stephens (page does not exist)">Camp Stephens</a>. A <a href="/wiki/Winnipeg" title="Winnipeg">Winnipeg</a> <a href="/w/index.php?title=YM-YWCA&amp;action=edit&amp;redlink=1" class="new" title="YM-YWCA (page does not exist)">YM-YWCA</a> <a href="/wiki/Summer_camp" title="Summer camp">summer camp</a>.</li>
+<li><a href="/w/index.php?title=Flag_Island,_Minnesota&amp;action=edit&amp;redlink=1" class="new" title="Flag Island, Minnesota (page does not exist)">Flag Island, Minnesota</a></li>
+<li><a href="/w/index.php?title=Garden_Island,_Minnesota&amp;action=edit&amp;redlink=1" class="new" title="Garden Island, Minnesota (page does not exist)">Garden Island, Minnesota</a></li>
+<li><a href="/w/index.php?title=Little_Oak_Island,_Minnesota&amp;action=edit&amp;redlink=1" class="new" title="Little Oak Island, Minnesota (page does not exist)">Little Oak Island, Minnesota</a></li>
+<li><a href="/w/index.php?title=Magnuson%27s_Island&amp;action=edit&amp;redlink=1" class="new" title="Magnuson's Island (page does not exist)">Magnuson's Island</a>, site of the restored <a href="/wiki/Fort_Saint_Charles" title="Fort Saint Charles">Fort St. Charles</a></li>
+<li><a href="/wiki/Massacre_Island,_Ontario" title="Massacre Island, Ontario">Massacre Island, Ontario</a> a small island in the middle of the lake, the possible site where twenty French men as well as a group of Cree traders were beheaded in the mid 18th century by Sioux. The site is marked by a large wooden cross in the middle of the island. This incident sparked decades of war between the Sioux and the Ojibway, allies of both the French and the Cree.</li>
+<li><a href="/wiki/Oak_Island_(Minnesota)" title="Oak Island (Minnesota)">Oak Island, Minnesota</a></li>
+<li><a href="/w/index.php?title=Penasse_Island&amp;action=edit&amp;redlink=1" class="new" title="Penasse Island (page does not exist)">Penasse Island</a>, site of American Point, formerly the most northern post office in the contiguous United States</li>
+<li><a href="/w/index.php?title=Sultana_Mine&amp;action=edit&amp;redlink=1" class="new" title="Sultana Mine (page does not exist)">Sultana Mine</a> A mine located on an island in the northern area of the lake. Mine in the late 1800s, before an accident shut down the mine. Lore Stories about it being haunted by miners exist to this day.</li>
+</ul>
+<h2><span class="mw-headline" id="Recreation_on_Lake_of_the_Woods">Recreation on Lake of the Woods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit&amp;section=9" title="Edit section: Recreation on Lake of the Woods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tourism is a large part of the local economy of Lake of the Woods, and there are many recreational opportunities available on the lake and in the surrounding countryside. Much of the lake is fairly remote, but resorts and equipment outfitters offer options for those who do not have access to their own boats and equipment.</p>
+<h3><span class="mw-headline" id="Camping">Camping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit&amp;section=10" title="Edit section: Camping">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Minnesota's <a href="/wiki/Zippel_Bay_State_Park" title="Zippel Bay State Park">Zippel Bay State Park</a> offers a wide variety of services including campsites, toilet facilities, a marina with access to the Zippel River, and a beach. Minnesota and Ontario both offer state sanctioned parks and campsites, which can be located through the respective governments. Backcountry campers can locate a prospective campsite on Lake of the Woods by boat, landing and examining the site in person. There is abundant wildlife even on the small islands on the lake.</p>
+<p>Numerous marinas and resorts on the lake provide accommodation and dining, houseboat rentals, nautical charts, camping and fishing advice, and knowledge on how to most enjoy the lake.</p>
+<h3><span class="mw-headline" id="Fishing">Fishing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit&amp;section=11" title="Edit section: Fishing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Lake of the Woods is home to <a href="/wiki/Walleye" title="Walleye">walleye</a>, <a href="/wiki/Northern_pike" title="Northern pike">northern pike</a>, <a href="/wiki/Perch" title="Perch">perch</a>, <a href="/wiki/Sauger" title="Sauger">sauger</a>, <a href="/wiki/Crappie" title="Crappie">crappie</a>, panfish, <a href="/wiki/Smallmouth_bass" title="Smallmouth bass">smallmouth bass</a>, <a href="/wiki/Largemouth_bass" title="Largemouth bass">largemouth bass</a>, <a href="/wiki/Lake_trout" title="Lake trout">lake trout</a>, <a href="/wiki/Lake_sturgeon" title="Lake sturgeon">lake sturgeon</a>, and <a href="/wiki/Muskellunge" title="Muskellunge">muskellunge</a>.</p>
+<h3><span class="mw-headline" id="Royal_Lake_of_the_Woods_Yacht_Club">Royal Lake of the Woods Yacht Club</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit&amp;section=12" title="Edit section: Royal Lake of the Woods Yacht Club">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Lake of the Woods is also home to the <a href="/wiki/Royal_Lake_of_the_Woods_Yacht_Club" title="Royal Lake of the Woods Yacht Club">Royal Lake of the Woods Yacht Club</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_lakes_in_Minnesota" title="List of lakes in Minnesota">List of lakes in Minnesota</a></li>
+<li><a href="/wiki/List_of_lakes_of_Ontario" title="List of lakes of Ontario">List of lakes in Ontario</a></li>
+<li><a href="/wiki/Canada%E2%80%93United_States_border" title="Canada–United States border">Canada–United States border</a></li>
+<li><a href="/wiki/Northwestern_point_of_the_Lake_of_the_Woods" title="Northwestern point of the Lake of the Woods">Northwestern point of the Lake of the Woods</a></li>
+<li><a href="/wiki/List_of_areas_disputed_by_Canada_and_the_United_States" title="List of areas disputed by Canada and the United States">List of areas disputed by Canada and the United States</a></li>
+<li><a href="/wiki/Lake_Agassiz" title="Lake Agassiz">Lake Agassiz</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&amp;Params=A1ARTA0004474">The Canadian Encyclopedia</a></li>
+</ul>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Priddle, George B. "Lake of the Woods." World Book Online Reference Center. 2008. 12 Jan. 2008 &lt;<a rel="nofollow" class="external free" href="http://www.worldbookonline.com/wb/Article?id=ar309580">http://www.worldbookonline.com/wb/Article?id=ar309580</a>&gt;</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Gannett, Henry (1905). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=9V1IAAAAMAAJ&amp;pg=PA179#v=onepage&amp;q&amp;f=false"><i>The Origin of Certain Place Names in the United States</i></a>. <a href="/wiki/United_States_Government_Publishing_Office" title="United States Government Publishing Office">Government Printing Office</a>. p.&#160;179.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALake+of+the+Woods&amp;rft.au=Gannett%2C+Henry&amp;rft.btitle=The+Origin+of+Certain+Place+Names+in+the+United+States&amp;rft.date=1905&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D9V1IAAAAMAAJ%26pg%3DPA179%23v%3Donepage%26q%26f%3Dfalse&amp;rft.pages=179&amp;rft.pub=Government+Printing+Office&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">The Manitoba Historical Soceity - The Lake of the Woods: Its History, Geology, Mining and Manufacturing by George Bryce. MHS Transactions, Series 1, No. 49, Read 23 February 1897</span></li>
+</ol>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/157284006">157284006</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4385885-5">4385885-5</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1079
+Cached time: 20151014121129
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.295 seconds
+Real time usage: 0.391 seconds
+Preprocessor visited node count: 1312/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 24866/2097152 bytes
+Template argument size: 5061/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 2/500
+Lua time usage: 0.138/10.000 seconds
+Lua memory usage: 3.72 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  325.348      1 - -total
+ 49.82%  162.082      1 - Template:Infobox_lake
+ 43.38%  141.124      1 - Template:Infobox
+ 18.25%   59.365      9 - Template:Convert
+ 12.20%   39.704      1 - Template:Lang-fr
+ 11.61%   37.776      2 - Template:Lang
+ 11.52%   37.486      1 - Template:Language_with_name
+ 10.55%   34.325      2 - Template:Category_handler
+ 10.01%   32.575      1 - Template:Other_uses
+  9.77%   31.778      1 - Template:Cite_book
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:238703-0!*!0!!en!4!* and timestamp 20151014121128 and revision id 679380205
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lake_of_the_Woods&amp;oldid=679380205">https://en.wikipedia.org/w/index.php?title=Lake_of_the_Woods&amp;oldid=679380205</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Canada%E2%80%93United_States_border" title="Category:Canada–United States border">Canada–United States border</a></li><li><a href="/wiki/Category:Landforms_of_Lake_of_the_Woods_County,_Minnesota" title="Category:Landforms of Lake of the Woods County, Minnesota">Landforms of Lake of the Woods County, Minnesota</a></li><li><a href="/wiki/Category:International_lakes_of_North_America" title="Category:International lakes of North America">International lakes of North America</a></li><li><a href="/wiki/Category:Lakes_of_Kenora_District" title="Category:Lakes of Kenora District">Lakes of Kenora District</a></li><li><a href="/wiki/Category:Lakes_of_Manitoba" title="Category:Lakes of Manitoba">Lakes of Manitoba</a></li><li><a href="/wiki/Category:Lakes_of_Minnesota" title="Category:Lakes of Minnesota">Lakes of Minnesota</a></li><li><a href="/wiki/Category:Lakes_of_Ontario" title="Category:Lakes of Ontario">Lakes of Ontario</a></li><li><a href="/wiki/Category:Lakes_of_Rainy_River_District" title="Category:Lakes of Rainy River District">Lakes of Rainy River District</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lake+of+the+Woods&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lake+of+the+Woods" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Lake_of_the_Woods"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Lake_of_the_Woods"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Lake_of_the_Woods" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Lake_of_the_Woods" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Lake_of_the_Woods" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Lake_of_the_Woods&amp;oldid=679380205" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Lake_of_the_Woods&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q845876" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lake_of_the_Woods&amp;id=679380205" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lake+of+the+Woods">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Lake+of+the+Woods&amp;returnto=Lake+of+the+Woods&amp;oldid=679380205&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Lake_of_the_Woods&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D1%81%D0%BA%D0%BE_%D0%B5%D0%B7%D0%B5%D1%80%D0%BE" title="Горско езеро – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-cv"><a href="//cv.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B5_(%D0%BA%D3%B3%D0%BB%C4%95,_%C3%87%D1%83%D1%80%C3%A7%C4%95%D1%80_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0)" title="Лесное (кӳлĕ, Çурçĕр Америка) – Chuvash" lang="cv" hreflang="cv">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Lesn%C3%AD_jezero" title="Lesní jezero – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Lake_of_the_Woods" title="Lake of the Woods – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Lake_of_the_Woods" title="Lake of the Woods – Estonian" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Lago_de_los_Bosques" title="Lago de los Bosques – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Lago_de_la_Arbaroj" title="Lago de la Arbaroj – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Oihanetako_aintzira" title="Oihanetako aintzira – Basque" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Lac_des_Bois" title="Lac des Bois – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="//fy.wikipedia.org/wiki/Mar_fan_de_W%C3%A2lden" title="Mar fan de Wâlden – Western Frisian" lang="fy" hreflang="fy">Frysk</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%9A%B0%EC%A6%88_%ED%98%B8" title="우즈 호 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Lago_dei_Boschi" title="Lago dei Boschi – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%A2%E1%83%A7%E1%83%98%E1%83%A1_%E1%83%A2%E1%83%91%E1%83%90" title="ტყის ტბა – Georgian" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Vudsu_ezers" title="Vudsu ezers – Latvian" lang="lv" hreflang="lv">Latviešu</a></li><li class="interlanguage-link interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%A8%D1%83%D0%BC%D1%81%D0%BA%D0%BE_%D0%95%D0%B7%D0%B5%D1%80%D0%BE" title="Шумско Езеро – Macedonian" lang="mk" hreflang="mk">Македонски</a></li><li class="interlanguage-link interwiki-xmf"><a href="//xmf.wikipedia.org/wiki/%E1%83%A2%E1%83%A7%E1%83%90%E1%83%A8_%E1%83%A2%E1%83%9D%E1%83%91%E1%83%90" title="ტყაშ ტობა – Mingrelian" lang="xmf" hreflang="xmf">მარგალური</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Lake_of_the_Woods_(meer)" title="Lake of the Woods (meer) – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A6%E3%83%83%E3%82%BA%E6%B9%96" title="ウッズ湖 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Skogsj%C3%B8en" title="Skogsjøen – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Jezioro_Le%C5%9Bne_(Kanada_i_USA)" title="Jezioro Leśne (Kanada i USA) – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Lago_dos_Bosques" title="Lago dos Bosques – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B5_(%D0%BE%D0%B7%D0%B5%D1%80%D0%BE,_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0)" title="Лесное (озеро, Северная Америка) – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A8%D1%83%D0%BC%D1%81%D0%BA%D0%BE_%D1%98%D0%B5%D0%B7%D0%B5%D1%80%D0%BE" title="Шумско језеро – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Lake_of_the_Woods" title="Lake of the Woods – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Lake_of_the_Woods" title="Lake of the Woods – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9B%D1%96%D1%81%D0%BE%D0%B2%D0%B5_%D0%BE%D0%B7%D0%B5%D1%80%D0%BE" title="Лісове озеро – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E4%BC%8D%E8%8C%B2%E6%B9%96" title="伍茲湖 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q845876#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 September 2015, at 06:09.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Lake_of_the_Woods&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1186"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

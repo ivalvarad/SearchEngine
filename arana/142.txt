@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Edgar Snow - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Edgar_Snow","wgTitle":"Edgar Snow","wgCurRevisionId":680707095,"wgRevisionId":680707095,"wgArticleId":624662,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","American reporters and correspondents","American political writers","American male writers","Writers about China","American expatriates in China","University of Missouri alumni","Writers about communism","Writers from Missouri","1905 births","1972 deaths","Yenching University faculty","20th-century American writers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Edgar_Snow","wgRelevantArticleId":624662,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/5/57/WHU-Zhou.jpg/75px-WHU-Zhou.jpg","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q557081","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Edgar_Snow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Edgar_Snow&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Edgar_Snow&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Edgar_Snow" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Edgar_Snow skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Edgar Snow</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:WHU-Zhou.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/WHU-Zhou.jpg/300px-WHU-Zhou.jpg" width="300" height="398" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/5/57/WHU-Zhou.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/5/57/WHU-Zhou.jpg 2x" data-file-width="347" data-file-height="460" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:WHU-Zhou.jpg" class="internal" title="Enlarge"></a></div>
+Edgar Snow (left) with <a href="/wiki/Zhou_Enlai" title="Zhou Enlai">Zhou Enlai</a> and his wife <a href="/wiki/Deng_Yingchao" title="Deng Yingchao">Deng Yingchao</a>, circa 1938.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Edgar_snow_tomb.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Edgar_snow_tomb.jpg/220px-Edgar_snow_tomb.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Edgar_snow_tomb.jpg/330px-Edgar_snow_tomb.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Edgar_snow_tomb.jpg/440px-Edgar_snow_tomb.jpg 2x" data-file-width="448" data-file-height="336" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Edgar_snow_tomb.jpg" class="internal" title="Enlarge"></a></div>
+Half of Edgar Snow's ashes are buried on the campus of <a href="/wiki/Peking_University" title="Peking University">Peking University</a>, <a href="/wiki/Beijing" title="Beijing">Beijing</a>, alongside Weiming Lake.</div>
+</div>
+</div>
+<p><b>Edgar Parks Snow</b> (17 July 1905 – 15 February 1972) was an <a href="/wiki/United_States" title="United States">American</a> <a href="/wiki/Journalist" title="Journalist">journalist</a> known for his books and articles on <a href="/wiki/Communism" title="Communism">Communism</a> in <a href="/wiki/China" title="China">China</a> and the Chinese Communist revolution. He was the first Western journalist to give a full account of the history of the <a href="/wiki/Chinese_Communist_Party" title="Chinese Communist Party" class="mw-redirect">Chinese Communist Party</a> following the <a href="/wiki/Long_March" title="Long March">Long March</a>, and was the first to interview many of its leaders, including <a href="/wiki/Mao_Zedong" title="Mao Zedong">Mao Zedong</a>. He is best known for his book, <i><a href="/wiki/Red_Star_Over_China" title="Red Star Over China">Red Star Over China</a></i> (1937), an account of the Chinese Communist movement from its foundation until the late 1930s.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_career"><span class="tocnumber">1.1</span> <span class="toctext">Early career</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Writing_Red_Star_Over_China"><span class="tocnumber">1.2</span> <span class="toctext">Writing <i>Red Star Over China</i></span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Activities_in_China_during_World_War_II"><span class="tocnumber">1.3</span> <span class="toctext">Activities in China during World War II</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Later_journalism"><span class="tocnumber">1.4</span> <span class="toctext">Later journalism</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Return_to_China"><span class="tocnumber">1.5</span> <span class="toctext">Return to China</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Evaluation_by_China_scholars"><span class="tocnumber">2</span> <span class="toctext">Evaluation by China scholars</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Works"><span class="tocnumber">3</span> <span class="toctext">Works</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Further_reading"><span class="tocnumber">5</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edgar_Snow&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_career">Early career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edgar_Snow&amp;action=edit&amp;section=2" title="Edit section: Early career">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Edgar was born in <a href="/wiki/Kansas_City,_Missouri" title="Kansas City, Missouri">Kansas City, Missouri</a>. Before settling in Missouri, his ancestors had moved to the state from <a href="/wiki/North_Carolina" title="North Carolina">North Carolina</a>, <a href="/wiki/Kentucky" title="Kentucky">Kentucky</a>, and <a href="/wiki/Kansas" title="Kansas">Kansas</a>.<sup id="cite_ref-Fairbank_1-0" class="reference"><a href="#cite_note-Fairbank-1"><span>[</span>1<span>]</span></a></sup> He briefly studied journalism at the <a href="/wiki/University_of_Missouri" title="University of Missouri">University of Missouri</a>,<sup id="cite_ref-Archives_2-0" class="reference"><a href="#cite_note-Archives-2"><span>[</span>2<span>]</span></a></sup> and joined the <a href="/wiki/Zeta_Phi" title="Zeta Phi">Zeta Phi</a> chapter of the <a href="/wiki/Beta_Theta_Pi" title="Beta Theta Pi">Beta Theta Pi</a> fraternity,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> but moved to <a href="/wiki/New_York_City" title="New York City">New York City</a> to pursue a career in advertising before graduating. He made a little money in the stock market shortly before the <a href="/wiki/Wall_Street_Crash_of_1929" title="Wall Street Crash of 1929">Wall Street Crash of 1929</a>. In 1928 he used the money to travel around the world, intending to write about his travels. He made it to Shanghai that summer, and stayed in China for thirteen years.<sup id="cite_ref-Archives_2-1" class="reference"><a href="#cite_note-Archives-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>He quickly found work with the <i>China Weekly Review</i>, edited by J.B. Powell, a graduate of the Missouri School of Journalism.<sup id="cite_ref-Thomas_4-0" class="reference"><a href="#cite_note-Thomas-4"><span>[</span>4<span>]</span></a></sup> He became friends with numerous prominent Chinese writers and intellectuals, including <a href="/wiki/Soong_Ching-ling" title="Soong Ching-ling">Soong Ching-ling</a>.<sup id="cite_ref-Fairbank_1-1" class="reference"><a href="#cite_note-Fairbank-1"><span>[</span>1<span>]</span></a></sup> In his early years in China he supported <a href="/wiki/Chiang_Kai-shek" title="Chiang Kai-shek">Chiang Kai-shek</a>, noting that Chiang had more Harvard graduates in his cabinet than there were in Franklin Roosevelt's. In 1932 he married <a href="/wiki/Helen_Foster_Snow" title="Helen Foster Snow">Helen Foster</a>, who was working in the American Consulate until she could begin her own career in journalism, writing under the pen-name "Nym Wales."<sup id="cite_ref-Thomas_4-1" class="reference"><a href="#cite_note-Thomas-4"><span>[</span>4<span>]</span></a></sup> Through much of the 1930s, while living in Shanghai, Snow traveled widely through China, often on assignment for the Chinese Railway Ministry.<sup id="cite_ref-Archives_2-2" class="reference"><a href="#cite_note-Archives-2"><span>[</span>2<span>]</span></a></sup> While working in Shanghai he toured <a href="/wiki/Chinese_famine_of_1928%E2%80%9330" title="Chinese famine of 1928–30">famine districts in Northwest China</a>, visited what would later become the <a href="/wiki/Burma_Road" title="Burma Road">Burma Road</a>, reported on the <a href="/wiki/Japanese_invasion_of_Manchuria" title="Japanese invasion of Manchuria">undeclared war with Japan</a>, and became a correspondent for the <i><a href="/wiki/Saturday_Evening_Post" title="Saturday Evening Post" class="mw-redirect">Saturday Evening Post</a></i>.<sup id="cite_ref-Fairbank_1-2" class="reference"><a href="#cite_note-Fairbank-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>In 1933, after a honeymoon in Japan, Snow and his wife moved to <a href="/wiki/Beiping" title="Beiping">Beiping</a>, as Beijing was called at that time. They taught journalism part-time at <a href="/wiki/Yenching_University" title="Yenching University">Yenching University</a>,<sup id="cite_ref-Thomas_4-2" class="reference"><a href="#cite_note-Thomas-4"><span>[</span>4<span>]</span></a></sup> one of the most prominent Christian universities in China. He and his wife studied Chinese and became modestly fluent. In addition to writing a book on Japanese aggression in China, <i>Far Eastern Front</i>, he also edited a collection of modern Chinese short stories (translated into English), <i>Living China</i>.<sup id="cite_ref-Fairbank2_5-0" class="reference"><a href="#cite_note-Fairbank2-5"><span>[</span>5<span>]</span></a></sup> They borrowed works on current affairs from the Yenching library and read the principal texts of Marxism. The couple became acquainted with student leaders of the anti-Japanese <a href="/wiki/December_9th_Movement" title="December 9th Movement" class="mw-redirect">December 9th Movement</a>. Through their contacts with the underground communist network, Snow was invited to visit <a href="/wiki/Mao_Zedong" title="Mao Zedong">Mao Zedong</a>'s headquarters.<sup id="cite_ref-Thomas_4-3" class="reference"><a href="#cite_note-Thomas-4"><span>[</span>4<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Writing_Red_Star_Over_China">Writing <i>Red Star Over China</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edgar_Snow&amp;action=edit&amp;section=3" title="Edit section: Writing Red Star Over China">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Red_Star_Over_China" title="Red Star Over China">Red Star Over China</a></div>
+<p>In June 1936, Snow left Beiping with a letter of introduction from Soong Qing-ling (who was a politically important supporter of the Communists) and arrived at <a href="/wiki/Xi%27an" title="Xi'an">Xi'an</a>. The <a href="/wiki/Guominjun" title="Guominjun">Nationalist army</a> was formally blockading areas controlled by the Communists, but the <a href="/wiki/Zhang_Xueliang" title="Zhang Xueliang">Manchurian army</a> soldiers stationed in Xi'an wanted to work with the Communists to oppose the Japanese, and allowed Snow to enter. Snow was accompanied on the journey by <a href="/wiki/George_Hatem" title="George Hatem" class="mw-redirect">George Hatem</a> (a friend of <a href="/wiki/Agnes_Smedley" title="Agnes Smedley">Agnes Smedley</a>), who had written of the Chinese communists, but whose presence was kept secret for many years. Snow had been preparing to write a book on the Communist movement in China for several years, and had even signed a contract at one point. However, his most important contribution was the interviews he conducted with the top leaders of the party. When Snow wrote, there were no reliable reports reaching the West of what was going on in the <a href="/wiki/Communist-controlled_China_(1927%E2%80%9349)#History" title="Communist-controlled China (1927–49)">Communist-controlled areas</a>. Other writers, such as <a href="/wiki/Agnes_Smedley" title="Agnes Smedley">Agnes Smedley</a>, had written in some detail of the Chinese Communists before the Long March, but none had visited them or had first hand interviews with the new leadership which had emerged during the <a href="/wiki/Long_March" title="Long March">Long March</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>Snow was taken through the military quarantine lines to the Communist headquarters at <a href="/wiki/Bao%27an_(Shaanxi)" title="Bao'an (Shaanxi)" class="mw-redirect">Bao'an</a>, where he spent four months (until October 1936) interviewing Mao and other Communist leaders. He was greeted with crowds of cadets and troops who shouted slogans of welcome, and Snow later recalled "the effect pronounced upon me was highly emotional." Over a period of ten days, Mao met with Snow and narrated his autobiography. Although Snow did not know it at the time, Mao was quite cautious in these interviews, and although claimed that he had been under no constraint, Snow made a number of revisions at the request of Mao or Zhou.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>After he returned to Beiping in the fall, he wrote frantically. First he published a short account in <i>China Weekly Review</i>, then a series of publications in Chinese. <i>Red Star Over China</i>, published first in London in 1937, was given credit for introducing both Chinese and foreign readers not so much to the Communist Party, which was reasonably well known, but to <a href="/wiki/Mao_Zedong" title="Mao Zedong">Mao Zedong</a>. Mao was not, as had been reported, dead, and Snow reported that Mao was a political reformer, not the purely military or radical revolutionary he had been during the 1920s.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>In the first four weeks after its publication, <i>Red Star over China</i> sold over 12,000 copies,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> and effectively made Snow world famous. The book quickly became a "standard" introduction to the early Communist movement in China.<sup id="cite_ref-Archives_2-3" class="reference"><a href="#cite_note-Archives-2"><span>[</span>2<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Activities_in_China_during_World_War_II">Activities in China during World War II</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edgar_Snow&amp;action=edit&amp;section=4" title="Edit section: Activities in China during World War II">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After the <a href="/wiki/Second_Sino-Japanese_War" title="Second Sino-Japanese War">Japanese invasion of China</a> in 1937, the Snows became founding members of the <a href="/wiki/Chinese_Industrial_Cooperatives" title="Chinese Industrial Cooperatives">Chinese Industrial Cooperative Association</a> (Indusco). The goal of Indusco was to establish workers' cooperatives in areas not controlled by the Japanese, through which Chinese workers would be provided with steady employment, education, consumer and industrial goods, and the opportunity to manage their own farms and factories. Snow's work in Indusco mainly involved his chairmanship of the Membership and Propaganda Committee, which managed public and financial support.<sup id="cite_ref-Archives_2-4" class="reference"><a href="#cite_note-Archives-2"><span>[</span>2<span>]</span></a></sup> Indusco was eventually successful in creating 1,850 workers' cooperatives.<sup id="cite_ref-Hamilton1988_10-0" class="reference"><a href="#cite_note-Hamilton1988-10"><span>[</span>10<span>]</span></a></sup> Snow again visited Mao in <a href="/wiki/Yan%27an" title="Yan'an">Yan'an</a> in 1939.</p>
+<p>Edgar Snow recorded the <a href="/wiki/Nanjing_Massacre" title="Nanjing Massacre" class="mw-redirect">Japanese atrocities in Nanking</a>, and even recorded Japanese reactions to the massacre, stating:</p>
+<p>"In Shanghai a few Japanese deeply felt the shame and the humiliation. I remember, for example, talking one evening to a Japanese friend, a liberal-minded newspaper man who survived by keeping his views to himself, and whose name I withhold for his own protection. 'Yes, they are all true,' he unexpectedly admitted when I asked him about some atrocity reports, 'only the facts are actually worse than any story yet published.' There were tears in his eyes and I took his sorrow to be genuine.".</p>
+<p>His records on the Nanking Massacre appeared in his 1941 book Scorched Earth.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>Snow met <a href="/wiki/Japanese_resistance_to_the_Empire_of_Japan_in_World_War_II" title="Japanese resistance to the Empire of Japan in World War II" class="mw-redirect">Japanese resistance</a> fighters <a href="/wiki/Kaji_Wataru" title="Kaji Wataru" class="mw-redirect">Kaji Wataru</a>, and his wife, <a href="/wiki/Yuki_Ikeda" title="Yuki Ikeda">Yuki Ikeda</a>. Both Kaji and Yuki survived a Japanese bombing attack on <a href="/wiki/Wuchang_District" title="Wuchang District">Wuchang</a> and met him at the <a href="/wiki/Hankow" title="Hankow" class="mw-redirect">Hankow</a> Navy YMCA. Snow met them again a year later in <a href="/wiki/Chongqing" title="Chongqing">Chongqing</a> and was reminded that "Japan was full of decent people like them who, if they had not had their craniums stuffed full of Sun goddess myths and other imperialist filth, and been forbidden access to 'dangerous thoughts,' and been armed by American and British hypocrites, could easily live in a civilized co-operative world if any of us could provide one."<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Later_journalism">Later journalism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edgar_Snow&amp;action=edit&amp;section=5" title="Edit section: Later journalism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Shortly before the United States entered World War II, in 1941, Snow toured Japanese-occupied areas of Asia and wrote his second major book, <i>Battle for Asia</i>, about his observations.<sup id="cite_ref-Archives_2-5" class="reference"><a href="#cite_note-Archives-2"><span>[</span>2<span>]</span></a></sup> After writing the book, Snow and his wife returned to the United States, where they separated. <sup id="cite_ref-FOOTNOTEHamilton2003153_13-0" class="reference"><a href="#cite_note-FOOTNOTEHamilton2003153-13"><span>[</span>13<span>]</span></a></sup> In April 1942 the <i>Saturday Evening Post</i> sent him abroad as a war correspondent. Snow traveled to India, China, and Russia to report on <a href="/wiki/World_War_II" title="World War II">World War II</a> from the perspective of those countries. In Russia he shared his observations on the <a href="/wiki/Battle_of_Stalingrad" title="Battle of Stalingrad">Battle of Stalingrad</a> with the American Embassy. At times, Snow's defense of various undemocratic Allied governments were attacked as blatant war propaganda, not neutral journalistic observation, but Snow defended his reporting, stating:</p>
+<blockquote>
+<p>In this international cataclysm brought on by fascists it is no more possible for any people to remain neutral than it is for a man surrounded by bubonic plague to remain 'neutral' toward the rat population. Whether you like it or not, your life as a force is bound either to help the rats or hinder them. Nobody can be immunized against the germs of history.<sup id="cite_ref-Hamilton.2C_John_M._2003_p._167_14-0" class="reference"><a href="#cite_note-Hamilton.2C_John_M._2003_p._167-14"><span>[</span>14<span>]</span></a></sup></p>
+</blockquote>
+<p>By 1944, Snow was wavering on the question of whether Mao and the Chinese Communists were actually "agrarian democrats," rather than dedicated communists bent on totalitarian rule.<sup id="cite_ref-Hamilton.2C_John_M._2003_p._167_14-1" class="reference"><a href="#cite_note-Hamilton.2C_John_M._2003_p._167-14"><span>[</span>14<span>]</span></a></sup> His 1944 book, <i>People On Our Side</i>, emphasized their role in the fight against fascism. In a speech, he described Mao and the Communist Chinese as a progressive force who desired a democratic, free China. Writing for <i><a href="/wiki/The_Nation" title="The Nation">The Nation</a></i>, Snow stated that the Chinese Communists "happen to have renounced, years ago now, any intention of establishing communism [in China] in the near future."<sup id="cite_ref-Hamilton.2C_John_M._2003_p._167_14-2" class="reference"><a href="#cite_note-Hamilton.2C_John_M._2003_p._167-14"><span>[</span>14<span>]</span></a></sup> After the war, Snow retreated from this view of the Chinese communists as a democratic movement.</p>
+<p>While working as a correspondent in Russia, he wrote three short books about Russia's role in World War II and in world affairs: <i>People on Our Side</i> (1944); <i>The Pattern of Soviet Power</i> (1945); and, <i>Stalin Must Have Peace</i> (1947). In 1949 Snow divorced Helen Foster and married his second wife, Lois Wheeler.<sup id="cite_ref-Archives_2-6" class="reference"><a href="#cite_note-Archives-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>Because of his relationships with communists and his highly favorable treatment of them as a war correspondent, Snow became an object of suspicion following World War II. During the <a href="/wiki/McCarthyism" title="McCarthyism">McCarthy period</a>, he was questioned by the FBI and asked to disclose the extent of his relationship with the Communist Party. In published articles, Snow lamented what he saw as the one-sided, conservative, and anti-communist mood of the United States. Later in the 1950s, he published two more books about China: <i>Random Notes on Red China</i> (1957), a collection of previously unused China material of interest to China scholars; and, <i>Journey to the Beginning</i> (1958), an autobiographical account of his experiences in China before 1949. During the 1950s, Snow found it difficult to make a living through his writing, and he decided to leave the United States. He moved with his wife to <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> in 1959, but remained an American citizen.<sup id="cite_ref-Archives_2-7" class="reference"><a href="#cite_note-Archives-2"><span>[</span>2<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Return_to_China">Return to China</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edgar_Snow&amp;action=edit&amp;section=6" title="Edit section: Return to China">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>He returned to China in 1960 and 1964, interviewed <a href="/wiki/Mao_Zedong" title="Mao Zedong">Mao Zedong</a> and <a href="/wiki/Zhou_Enlai" title="Zhou Enlai">Zhou Enlai</a>, traveled extensively, and talked with many people. His 1963 book, <i>The Other Side of the River</i>, details his experience, including his reasons for denying that China's <a href="/wiki/Great_Leap_Forward" title="Great Leap Forward">1959-1961 crisis</a> was actually a famine.</p>
+<p>In 1970, he made a final trip to China and was told by Chinese officials that President <a href="/wiki/Richard_Nixon" title="Richard Nixon">Richard Nixon</a> would be welcome to visit, either officially or as a private citizen.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> The White House followed this visit with interest but distrusted Snow and his pro-communist reputation.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> When Snow came down with pancreatic cancer, Zhou Enlai dispatched a team of Chinese doctors to Switzerland, including <a href="/wiki/George_Hatem" title="George Hatem" class="mw-redirect">George Hatem</a>. Snow died on February 15, 1972, the week President Nixon was traveling to China, and did not live to see the normalization of relations.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<p>Snow died of cancer, aged 66, in <a href="/wiki/Geneva" title="Geneva">Geneva</a>. After his death, his ashes were divided into two parts at his request. One half was buried at <a href="/wiki/Palisades,_New_York" title="Palisades, New York">Sneden's Landing</a>, near the <a href="/wiki/Hudson_River" title="Hudson River">Hudson River</a>. The other half was buried on the grounds of <a href="/wiki/Peking_University" title="Peking University">Peking University</a>, which had taken over the campus of Yenching University, where he had taught in the 1930s. His final book, <i>The Long Revolution</i>, was published posthumously by Lois Wheeler Snow.<sup id="cite_ref-Archives_2-8" class="reference"><a href="#cite_note-Archives-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Evaluation_by_China_scholars">Evaluation by China scholars</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edgar_Snow&amp;action=edit&amp;section=7" title="Edit section: Evaluation by China scholars">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Snow's reporting from China in the 1930s has been both praised as prescient and blamed for the rise of Mao's communism. Some China historians have judged Snow's writing very positively. <a href="/wiki/John_K._Fairbank" title="John K. Fairbank">John K. Fairbank</a> praised Snow's reporting for giving the West the first articulate account of the Chinese Communist Party and its leadership, which he called "disastrously prophetic". Writing thirty years after the first publication of <i>Red Star Over China</i>, Fairbank stated that the book had "stood the test of time... both as a historical record and as an indication of a trend."<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></p>
+<p>Other historians have been more critical of Snow. <a href="/wiki/Jung_Chang" title="Jung Chang">Jung Chang</a> and <a href="/wiki/Jon_Halliday" title="Jon Halliday">Jon Halliday</a>'s biography, <i><a href="/wiki/Mao:_The_Unknown_Story" title="Mao: The Unknown Story">Mao: The Unknown Story</a></i>, describes Snow as a Mao spokesman and accuses him of supplying myths, asserting that he lost his objectivity to such an extent that he presented a romanticized view of communist China.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<p>Jonathan Mirsky, a critical voice, stated that what Snow did in the 1930s was "to describe the Chinese Communists before anyone else, and thus score a world-class scoop." Of his reporting in 1960, however, he says that Snow "went much further than those who reckoned that Mao and his comrades would take power." He contented himself with assurances from Zhou Enlai and Mao Zedong that while there was a food problem, it was being dealt with successfully," which was not true, and "had Snow still been the reporter he had been in the 1930s he would have discovered it." <sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> In <i><a href="/wiki/Mao:_A_Reinterpretation" title="Mao: A Reinterpretation">Mao: A Reinterpretation</a></i>, a work sympathetic to Mao, Lee Feigon criticizes Snow's account for its inaccuracies, but praises <i>Red Star</i> for being "[the] seminal portrait of Mao" and relies on Snow's work as a critical reference throughout the book.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Works">Works</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edgar_Snow&amp;action=edit&amp;section=8" title="Edit section: Works">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i>Living China: Modern Chinese Short Stories</i></li>
+<li><i><a href="/wiki/Red_Star_Over_China" title="Red Star Over China">Red Star Over China</a></i> (various editions, London, New York, 1937–1944). Reprinted Read Books, 2006, <a href="/wiki/Special:BookSources/9781406798210" class="internal mw-magiclink-isbn">ISBN 978-1-4067-9821-0</a>; Hesperides Press, 2008, <a href="/wiki/Special:BookSources/9781443736732" class="internal mw-magiclink-isbn">ISBN 978-1-4437-3673-2</a>.</li>
+<li><i>The Battle for Asia</i></li>
+<li><i>Far Eastern Front</i></li>
+<li><i>People On Our Side</i>. Random House, 1944.</li>
+<li><i>Stalin Must Have Peace</i>. Random House, 1947.</li>
+<li><i>China, Russia, and the USA</i></li>
+<li><i>Red China Today: The Other Side of the River</i>. Gollancz, 1963. New edition, Penguin Books, 1970. <a href="/wiki/Special:BookSources/0140211594" class="internal mw-magiclink-isbn">ISBN 0-14-021159-4</a>.</li>
+<li><i>The Long Revolution</i></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edgar_Snow&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Fairbank-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fairbank_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fairbank_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Fairbank_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Fairbank, John D. "Introduction". In Snow, Edgar. <a rel="nofollow" class="external text" href="http://books.google.com/books?id=amXicbM6BCkC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=#v=onepage&amp;q&amp;f=false"><i>Red Star Over China: The Classic Account of the Birth of Chinese Communism</i></a>. New York, NY: Edgar Snow. 1968. <a href="/wiki/Special:BookSources/0802150934" class="internal mw-magiclink-isbn">ISBN 0-8021-5093-4</a>. p.11</span></li>
+<li id="cite_note-Archives-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Archives_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Archives_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Archives_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Archives_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Archives_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Archives_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Archives_2-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Archives_2-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Archives_2-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text">Curators of the University of Missouri. <a rel="nofollow" class="external text" href="http://www.umkc.edu/university_archives/INVTRY/EPS/EPS-INTRO.HTM">"Edgar Parks Snow (1905-1972) Papers"</a>. <i>University Archives:</i> University of Missouri-Kansas City<i>. July 08, 2010. Retrieved July 7, 2014.</i></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Curators of the University of Missouri. <a rel="nofollow" class="external text" href="http://www.edgarsnowfoundation.org/s/1236/subgroup.aspx?sid=1236&amp;gid=11&amp;pgid=876">"About Edgar Snow"</a>. <i>The Edgar Snow Foundation</i>. 2013. Retrieved July 7, 2014.</span></li>
+<li id="cite_note-Thomas-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Thomas_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Thomas_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Thomas_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Thomas_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Thomas, <i>Season of High Adventure</i>, 107-125.</span></li>
+<li id="cite_note-Fairbank2-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fairbank2_5-0">^</a></b></span> <span class="reference-text">Fairbank, John D. "Introduction". In Snow, Edgar. <a rel="nofollow" class="external text" href="http://books.google.com/books?id=amXicbM6BCkC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=#v=onepage&amp;q&amp;f=false"><i>Red Star Over China: The Classic Account of the Birth of Chinese Communism</i></a>. New York, NY: Edgar Snow. 1968. <a href="/wiki/Special:BookSources/0802150934" class="internal mw-magiclink-isbn">ISBN 0-8021-5093-4</a>. pp.11-12</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite id="Brady" class="citation book">Brady, Anne-Marie (2003). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=ZiZ7f0AZJXYC&amp;dq=Brady+Making+Foreign+Serve+China&amp;q=Red+Star+Over+China#v=snippet&amp;q=Red%20Star%20Over%20China&amp;f=false"><i>Making the Foreign Serve China: Managing Foreigners in the People's Republic</i></a>. Lanham: Rowman &amp; Littlefield Publishers. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0742518612" title="Special:BookSources/0742518612">0742518612</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdgar+Snow&amp;rft.au=Brady%2C+Anne-Marie&amp;rft.btitle=Making+the+Foreign+Serve+China%3A+Managing+Foreigners+in+the+People%27s+Republic&amp;rft.date=2003&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DZiZ7f0AZJXYC%26dq%3DBrady%2BMaking%2BForeign%2BServe%2BChina%26q%3DRed%2BStar%2BOver%2BChina%23v%3Dsnippet%26q%3DRed%2520Star%2520Over%2520China%26f%3Dfalse&amp;rft.isbn=0742518612&amp;rft.place=Lanham&amp;rft.pub=Rowman+%26+Littlefield+Publishers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> pp. 42-46.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Brady <a rel="nofollow" class="external text" href="http://books.google.com/books?id=ZiZ7f0AZJXYC&amp;dq=Brady+Making+Foreign+Serve+China&amp;q=Red+Star+Over+China#v=snippet&amp;q=Red%20Star%20Over%20China&amp;f=false">p. 46-47</a>.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Brady p. <a rel="nofollow" class="external text" href="http://books.google.com/books?id=ZiZ7f0AZJXYC&amp;dq=Brady+Making+Foreign+Serve+China&amp;q=Red+Star+Over+China#v=snippet&amp;q=Red%20Star%20Over%20China&amp;f=false">47</a>.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Israel, Jerry. <a rel="nofollow" class="external text" href="http://www.jstor.org/discover/10.2307/3637341?uid=2&amp;uid=4&amp;sid=21104260588227">"'Mao's Mr. America': Edgar Snow's Images of China"</a>. <i>Pacific Historical Review</i>. 47.1. (Feb. 1978): 107-122. p.107. Retrieved July 7, 2014.</span></li>
+<li id="cite_note-Hamilton1988-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hamilton1988_10-0">^</a></b></span> <span class="reference-text">Hamilton, John Maxwell. <i>Edgar Snow: A Biography</i>. United States of America: John Maxwell Hamilton. 1988. <a href="/wiki/Special:BookSources/0253319099" class="internal mw-magiclink-isbn">ISBN 0-253-31909-9</a>. p.2 Retrieved July 7, 2014.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.spartacus.schoolnet.co.uk/USAsnowE.htm">http://www.spartacus.schoolnet.co.uk/USAsnowE.htm</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><i>From Vagabond to Journalist: Edgar Snow in Asia, 1928-1941</i> By Robert M. Farnsworth Page 326-327</span></li>
+<li id="cite_note-FOOTNOTEHamilton2003153-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHamilton2003153_13-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHamilton2003">Hamilton (2003)</a>, p.&#160;153.</span></li>
+<li id="cite_note-Hamilton.2C_John_M._2003_p._167-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hamilton.2C_John_M._2003_p._167_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hamilton.2C_John_M._2003_p._167_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Hamilton.2C_John_M._2003_p._167_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Hamilton, John M., <i>Edgar Snow: A Biography</i>, LSU Press, (2003) <a href="/wiki/Special:BookSources/0807129127" class="internal mw-magiclink-isbn">ISBN 0-8071-2912-7</a>, <a href="/wiki/Special:BookSources/9780807129128" class="internal mw-magiclink-isbn">ISBN 978-0-8071-2912-8</a>, p. 167; Shewmaker, Kenneth E., <i>Americans and Chinese Communists, 1927-1945: A Persuading Encounter</i>, Ithaca, NY: Cornell University Press (1971) <a href="/wiki/Special:BookSources/080140617X" class="internal mw-magiclink-isbn">ISBN 0-8014-0617-X</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB145/index.htm">http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB145/index.htm</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Patrick_Tyler" title="Patrick Tyler">Tyler, Patrick</a> (2000). <i><a href="/wiki/A_Great_Wall:_Six_Presidents_and_China:_An_Investigative_History" title="A Great Wall: Six Presidents and China: An Investigative History" class="mw-redirect">A Great Wall: Six Presidents and China: An Investigative History</a></i>. New York: Public Affairs. pp.&#160;81–86.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdgar+Snow&amp;rft.au=Tyler%2C+Patrick&amp;rft.btitle=A+Great+Wall%3A+Six+Presidents+and+China%3A+An+Investigative+History&amp;rft.date=2000&amp;rft.genre=book&amp;rft.pages=81-86&amp;rft.pub=New+York%3A+Public+Affairs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Thomas, <i>Season of High Adventure</i> pp. 335-6.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Fairbank, John D. "Introduction". In Snow, Edgar. <a rel="nofollow" class="external text" href="http://books.google.com/books?id=amXicbM6BCkC&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;cad=#v=onepage&amp;q&amp;f=false"><i>Red Star Over China: The Classic Account of the Birth of Chinese Communism</i></a>. New York, NY: Edgar Snow. 1968. <a href="/wiki/Special:BookSources/0802150934" class="internal mw-magiclink-isbn">ISBN 0-8021-5093-4</a>. p.13</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Chang, Jung and Halliday, Jon, <i>Mao: The Unknown Story</i>, Jonathan Cape, London (2005), <a href="/wiki/Special:BookSources/0224071262" class="internal mw-magiclink-isbn">ISBN 0-224-07126-2</a>, p. 106.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Jonathan Mirsky, "Message from Mao" (review of Hamilton. <i>Edgar Snow: A Biography</i>) <i>New York Review</i> (February 16, 1985).</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Feigon, Lee, <i>Mao: A Reinterpretation</i>, Chicago: Ivan R. Dee, 2002,</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edgar_Snow&amp;action=edit&amp;section=10" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Dimond, E. Grey. <i>Ed Snow Before Paoan: The Shanghai Years.</i> Diastole Hospital Hill, Inc., University of Missouri-Kansas City, 1985.</li>
+<li>Farnsworth, Robert. <i>Edgar Snow's Journey South of the Clouds.</i> Columbia: University of Missouri Press, 1991.</li>
+<li>Farnsworth, Robert. <i>From Vagabond to Journalist: Edgar Snow in Asia 1928-1941</i>. Columbia: University of Missouri Press, 1996.</li>
+<li>French, Paul. <i>Through the Looking Glass: Foreign Journalists in China, from the Opium Wars to Mao</i>. Hong Kong University Press, 2009.</li>
+<li><cite id="CITEREFHamilton2003" class="citation book">Hamilton, John Maxwell (2003). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=8XChoXWam0wC&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false"><i>Edgar Snow: A Biography</i></a> (revised ed.). Baton Rouge: Louisiana State University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0807129127" title="Special:BookSources/0807129127">0807129127</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdgar+Snow&amp;rft.aufirst=John+Maxwell&amp;rft.aulast=Hamilton&amp;rft.btitle=Edgar+Snow%3A+A+Biography&amp;rft.date=2003&amp;rft.edition=revised&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D8XChoXWam0wC%26printsec%3Dfrontcover%23v%3Donepage%26q%26f%3Dfalse&amp;rft.isbn=0807129127&amp;rft.place=Baton+Rouge&amp;rft.pub=Louisiana+State+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>Mirsky, Jonathan. "Message from Mao", <i>New York Review</i> (February 16, 1985): 15-17. Review.</li>
+<li>Shewmaker, Kenneth E., <i>Americans and Chinese Communists, 1927-1945: A Persuading Encounter</i>, Ithaca, NY: Cornell University Press (1971) <a href="/wiki/Special:BookSources/080140617X" class="internal mw-magiclink-isbn">ISBN 0-8014-0617-X</a></li>
+<li>Snow, Edgar. <i>Journey to the Beginning</i>. New York: Random House, 1958. Memoir.</li>
+<li>Snow, Lois Wheeler. <i>Edgar Snow's China - A personal account of the Chinese Revolution complied from the writings of Edgar Snow</i>. Random House, New York, 1981. <a href="/wiki/Special:BookSources/0394509544" class="internal mw-magiclink-isbn">ISBN 0-394-50954-4</a></li>
+<li>Thomas, S. Bernard. <i>Season of High Adventure: Edgar Snow in China</i>, Berkeley: University of California Press, 1996.<a rel="nofollow" class="external autonumber" href="http://www.escholarship.org/editions/view?docId=ft9p30098q;query=;brand=ucpress">[1]</a></li>
+<li><cite class="citation web"><a href="/wiki/Peter_Entell" title="Peter Entell">Entell, Peter</a> (2012). <a rel="nofollow" class="external text" href="http://www.ahomefaraway.com/">"A Home Far Away"</a>. Show and Tell Films<span class="reference-accessdate">. Retrieved <span class="nowrap">16 November</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEdgar+Snow&amp;rft.aufirst=Peter&amp;rft.aulast=Entell&amp;rft.btitle=A+Home+Far+Away&amp;rft.date=2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ahomefaraway.com%2F&amp;rft.pub=Show+and+Tell+Films&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Edgar_Snow&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.edgarsnowfoundation.org">Edgar Snow Memorial Foundation website</a></li>
+<li><a rel="nofollow" class="external text" href="http://library.umkc.edu/university-archives/collections/snow">Edgar Snow Archives at the University of Missouri in Kansas City</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n50-014925">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/36951604">36951604</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n50014925">n50014925</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni-url.oclc.nl/isni/0000000110549716">0000 0001 1054 9716</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/118615130">118615130</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/029701279">029701279</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12126885w">cb12126885w</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12126885w">(data)</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00457062">00457062</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1069
+Cached time: 20151006000510
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.213 seconds
+Real time usage: 0.260 seconds
+Preprocessor visited node count: 918/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 10037/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Lua time usage: 0.064/10.000 seconds
+Lua memory usage: 2.15 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  190.314      1 - -total
+ 36.91%   70.253      1 - Template:Reflist
+ 22.30%   42.436      3 - Template:Cite_book
+ 22.20%   42.249      1 - Template:Authority_control
+ 16.32%   31.064      1 - Template:Main
+  5.05%    9.611      1 - Template:Sfnb
+  3.29%    6.254      1 - Template:Cite_web
+  1.14%    2.168      1 - Template:Persondata
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:624662-0!*!0!!en!4!* and timestamp 20151006000510 and revision id 680707095
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Edgar_Snow&amp;oldid=680707095">https://en.wikipedia.org/w/index.php?title=Edgar_Snow&amp;oldid=680707095</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_reporters_and_correspondents" title="Category:American reporters and correspondents">American reporters and correspondents</a></li><li><a href="/wiki/Category:American_political_writers" title="Category:American political writers">American political writers</a></li><li><a href="/wiki/Category:American_male_writers" title="Category:American male writers">American male writers</a></li><li><a href="/wiki/Category:Writers_about_China" title="Category:Writers about China">Writers about China</a></li><li><a href="/wiki/Category:American_expatriates_in_China" title="Category:American expatriates in China">American expatriates in China</a></li><li><a href="/wiki/Category:University_of_Missouri_alumni" title="Category:University of Missouri alumni">University of Missouri alumni</a></li><li><a href="/wiki/Category:Writers_about_communism" title="Category:Writers about communism">Writers about communism</a></li><li><a href="/wiki/Category:Writers_from_Missouri" title="Category:Writers from Missouri">Writers from Missouri</a></li><li><a href="/wiki/Category:1905_births" title="Category:1905 births">1905 births</a></li><li><a href="/wiki/Category:1972_deaths" title="Category:1972 deaths">1972 deaths</a></li><li><a href="/wiki/Category:Yenching_University_faculty" title="Category:Yenching University faculty">Yenching University faculty</a></li><li><a href="/wiki/Category:20th-century_American_writers" title="Category:20th-century American writers">20th-century American writers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Edgar+Snow&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Edgar+Snow" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Edgar_Snow"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Edgar_Snow"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Edgar_Snow" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Edgar_Snow&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Edgar_Snow&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Edgar_Snow" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Edgar_Snow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Edgar_Snow&amp;oldid=680707095" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Edgar_Snow&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q557081" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Edgar_Snow&amp;id=680707095" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Edgar+Snow">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Edgar+Snow&amp;returnto=Edgar+Snow&amp;oldid=680707095&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Edgar_Snow&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Edgar_Snow" title="Edgar Snow – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Edgar_Snow" title="Edgar Snow – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D8%AF%DA%AF%D8%A7%D8%B1_%D8%A7%D8%B3%D9%86%D9%88" title="ادگار اسنو – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Edgar_Snow" title="Edgar Snow – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%97%90%EB%93%9C%EA%B1%B0_%EC%8A%A4%EB%85%B8" title="에드거 스노 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Edgar_Snow" title="Edgar Snow – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Edgars_Snovs" title="Edgars Snovs – Latvian" lang="lv" hreflang="lv">Latviešu</a></li><li class="interlanguage-link interwiki-my"><a href="//my.wikipedia.org/wiki/%E1%80%85%E1%80%94%E1%80%AD%E1%80%AF%E1%80%B8_%E1%81%8A_%E1%80%A1%E1%80%82%E1%80%B9%E1%80%82%E1%80%AB%E1%80%95%E1%80%90%E1%80%BA" title="စနိုး ၊ အဂ္ဂါပတ် – Burmese" lang="my" hreflang="my">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Edgar_Snow" title="Edgar Snow – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%AC%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%8E%E3%83%BC" title="エドガー・スノー – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Edgar_Snow" title="Edgar Snow – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Edgar_Snow" title="Edgar Snow – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%BD%D0%BE%D1%83,_%D0%AD%D0%B4%D0%B3%D0%B0%D1%80" title="Сноу, Эдгар – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Edgar_Snow" title="Edgar Snow – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Edgar_Snow" title="Edgar Snow – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%9F%83%E5%BE%B7%E5%8A%A0%C2%B7%E6%96%AF%E8%AF%BA" title="埃德加·斯诺 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q557081#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 September 2015, at 17:25.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Edgar_Snow&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1166"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

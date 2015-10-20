@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Phellodon niger - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Phellodon_niger","wgTitle":"Phellodon niger","wgCurRevisionId":686599257,"wgRevisionId":686599257,"wgArticleId":47769600,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Latin-language sources (la)","Articles with 'species' microformats","Fungi described in 1815","Fungi of Europe","Fungi of North America","Inedible fungi","Phellodon"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Phellodon_niger","wgRelevantArticleId":47769600,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Phellodon_niger_496570.jpg/100px-Phellodon_niger_496570.jpg","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q10684413","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Phellodon_niger" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Phellodon_niger&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Phellodon_niger&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Phellodon_niger" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Phellodon_niger skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><i>Phellodon niger</i></h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(145,250,250)"><i>Phellodon niger</i></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Phellodon_niger_496570.jpg" class="image"><img alt="Phellodon niger 496570.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Phellodon_niger_496570.jpg/220px-Phellodon_niger_496570.jpg" width="220" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Phellodon_niger_496570.jpg/330px-Phellodon_niger_496570.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Phellodon_niger_496570.jpg/440px-Phellodon_niger_496570.jpg 2x" data-file-width="4246" data-file-height="3185" /></a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(145,250,250)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Fungi" title="Fungi" class="mw-redirect">Fungi</a></span></td>
+</tr>
+<tr>
+<td>Division:</td>
+<td><span class="division" style="white-space:nowrap;"><a href="/wiki/Basidiomycota" title="Basidiomycota">Basidiomycota</a></span></td>
+</tr>
+<tr>
+<td>Class:</td>
+<td><span class="class" style="white-space:nowrap;"><a href="/wiki/Agaricomycetes" title="Agaricomycetes">Agaricomycetes</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Thelephorales" title="Thelephorales">Thelephorales</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Bankeraceae" title="Bankeraceae">Bankeraceae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Phellodon" title="Phellodon">Phellodon</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>P. niger</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(145,250,250)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Phellodon niger</i></span></b><br />
+<small>(<a href="/wiki/Elias_Magnus_Fries" title="Elias Magnus Fries">Fr.</a>) <a href="/wiki/P.Karst." title="P.Karst." class="mw-redirect">P.Karst.</a> (1881)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(145,250,250)"><a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">Synonyms</a><sup id="cite_ref-urlFungorum:_Phellodon_niger_1-0" class="reference"><a href="#cite_note-urlFungorum:_Phellodon_niger-1"><span>[</span>1<span>]</span></a></sup></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: left">
+<ul>
+<li><i>Hydnum nigrum</i> <small>Fr. (1815)</small></li>
+<li><i>Hydnellum nigrum</i> <small>(Fr.) P.Karst. (1879)</small></li>
+<li><i>Calodon niger</i> <small>(Fr.) <a href="/wiki/Qu%C3%A9l." title="Quél." class="mw-redirect">Quél.</a> (1886)</small></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<p><i><b>Phellodon niger</b></i>, commonly known as the <b>black tooth</b>,<sup id="cite_ref-BMS_2-0" class="reference"><a href="#cite_note-BMS-2"><span>[</span>2<span>]</span></a></sup> is a species of <a href="/wiki/Tooth_fungus" title="Tooth fungus" class="mw-redirect">tooth fungus</a> in the family <a href="/wiki/Bankeraceae" title="Bankeraceae">Bankeraceae</a>, and the <a href="/wiki/Type_species" title="Type species">type species</a> of the genus <i><a href="/wiki/Phellodon" title="Phellodon">Phellodon</a></i>. It was originally <a href="/wiki/Species_description" title="Species description">described</a> by <a href="/wiki/Elias_Magnus_Fries" title="Elias Magnus Fries">Elias Magnus Fries</a> in 1815 as a species of <i><a href="/wiki/Hydnum" title="Hydnum">Hydnum</a></i>.<sup id="cite_ref-Fries_1815_3-0" class="reference"><a href="#cite_note-Fries_1815-3"><span>[</span>3<span>]</span></a></sup> <a href="/wiki/Petter_Karsten" title="Petter Karsten" class="mw-redirect">Petter Karsten</a> included it as one of the original three species when he <a href="/wiki/Circumscription_(taxonomy)" title="Circumscription (taxonomy)">circumscribed</a> <i>Phellodon</i> in 1881.<sup id="cite_ref-Karsten_1881_4-0" class="reference"><a href="#cite_note-Karsten_1881-4"><span>[</span>4<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Taxonomy"><span class="tocnumber">1</span> <span class="toctext">Taxonomy</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Habitat_and_distribution"><span class="tocnumber">3</span> <span class="toctext">Habitat and distribution</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Chemistry"><span class="tocnumber">4</span> <span class="toctext">Chemistry</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Taxonomy">Taxonomy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phellodon_niger&amp;action=edit&amp;section=1" title="Edit section: Taxonomy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>P.&#160;nigrum</i> was originally <a href="/wiki/Species_description" title="Species description">described</a> by Swedish mycologist <a href="/wiki/Elias_Fries" title="Elias Fries" class="mw-redirect">Elias Fries</a> in 1815 as a species of <i><a href="/wiki/Hydnum" title="Hydnum">Hydnum</a></i>.<sup id="cite_ref-Fries_1815_3-1" class="reference"><a href="#cite_note-Fries_1815-3"><span>[</span>3<span>]</span></a></sup> The genus <i><a href="/wiki/Phellodon" title="Phellodon">Phellodon</a></i> was <a href="/wiki/Circumscription_(taxonomy)" title="Circumscription (taxonomy)">circumscribed</a> in 1881 by Finnish mycologist <a href="/wiki/Petter_Karsten" title="Petter Karsten" class="mw-redirect">Petter Karsten</a> to contain white-toothed fungi. Karsten included three species: <i><a href="/w/index.php?title=Phellodon_cyathiformis&amp;action=edit&amp;redlink=1" class="new" title="Phellodon cyathiformis (page does not exist)">P.&#160;cyathiformis</a></i>, <i><a href="/wiki/Phellodon_melaleucus" title="Phellodon melaleucus">P.&#160;melaleucus</a></i>, and the <a href="/wiki/Type_species" title="Type species">type</a>, <i>P.&#160;niger</i> (originally published with the <a href="/wiki/Botanical_name" title="Botanical name">epithet</a> <i>nigrum</i>).<sup id="cite_ref-Karsten_1881_4-1" class="reference"><a href="#cite_note-Karsten_1881-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>The <a href="/wiki/Variety_(botany)" title="Variety (botany)">variety</a> <i>Phellodon niger</i> var. <i>alboniger</i>, published by <a href="/w/index.php?title=Kenneth_Harrison_(mycologist)&amp;action=edit&amp;redlink=1" class="new" title="Kenneth Harrison (mycologist) (page does not exist)">Kenneth Harrison</a> in 1961,<sup id="cite_ref-Harrison_1961_5-0" class="reference"><a href="#cite_note-Harrison_1961-5"><span>[</span>5<span>]</span></a></sup> is considered <a href="/wiki/Synonym_(biology)" title="Synonym (biology)" class="mw-redirect">synonymous</a> with <i><a href="/wiki/Phellodon_melaleucus" title="Phellodon melaleucus">Phellodon melaleucus</a></i>.<sup id="cite_ref-Index_Fungorum:_Phellodon_niger_var._alboniger_6-0" class="reference"><a href="#cite_note-Index_Fungorum:_Phellodon_niger_var._alboniger-6"><span>[</span>6<span>]</span></a></sup></p>
+<p><i>Phellodon niger</i> is <a href="/wiki/Common_name" title="Common name">commonly</a> known as the "black scented spine fungus",<sup id="cite_ref-Pegler_1997_7-0" class="reference"><a href="#cite_note-Pegler_1997-7"><span>[</span>7<span>]</span></a></sup> and the "black tooth".<sup id="cite_ref-BMS_2-1" class="reference"><a href="#cite_note-BMS-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phellodon_niger&amp;action=edit&amp;section=2" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:2011-07-09_Phellodon_niger_2_71274_cropped.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2011-07-09_Phellodon_niger_2_71274_cropped.jpg/220px-2011-07-09_Phellodon_niger_2_71274_cropped.jpg" width="220" height="171" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2011-07-09_Phellodon_niger_2_71274_cropped.jpg/330px-2011-07-09_Phellodon_niger_2_71274_cropped.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/2011-07-09_Phellodon_niger_2_71274_cropped.jpg/440px-2011-07-09_Phellodon_niger_2_71274_cropped.jpg 2x" data-file-width="2000" data-file-height="1550" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:2011-07-09_Phellodon_niger_2_71274_cropped.jpg" class="internal" title="Enlarge"></a></div>
+Underside of fruitbody, showing spines</div>
+</div>
+</div>
+<p>Fruitbodies of <i>Phellodon niger</i> have a <a href="/wiki/Pileus_(mycology)" title="Pileus (mycology)">cap</a> and a <a href="/wiki/Stipe_(mycology)" title="Stipe (mycology)">stipe</a>, and so fall into the general class of "stipitate hydnoid fungi". Individual caps are up to 5&#160;cm (2.0&#160;in) in diameter, but caps of neighboring fruitbodies often fuse together to create larger compound growths. Caps are flat to depressed to somewhat funnel-shaped, with a felt-like texture at first before developing concentric pits, wrinkles, and ridges. Initially whitish (sometimes with purplish tints), the cap later darkens in the center to grey, grey-brown, or black. The stipe, measuring up to 4&#160;cm (1.6&#160;in) long, is roughly the same color as the cap. On the underside of the caps are grey spines, up to 4&#160;mm long.<sup id="cite_ref-Pegler_1997_7-1" class="reference"><a href="#cite_note-Pegler_1997-7"><span>[</span>7<span>]</span></a></sup> The outer covering of the stipe is a thick felty layer of <a href="/wiki/Mycelium" title="Mycelium">mycelium</a> that absorbs water like a sponge. In conditions of high humidity, <i>P.&#160;niger</i> can form striking drops of black liquid on the actively growing caps.<sup id="cite_ref-Harrison_1961_5-1" class="reference"><a href="#cite_note-Harrison_1961-5"><span>[</span>5<span>]</span></a></sup> The <a href="/wiki/Trama_(mycology)" title="Trama (mycology)">flesh</a> has an odor of <a href="/wiki/Fenugreek" title="Fenugreek">fenugreek</a>] when it is dry.<sup id="cite_ref-Pegler_1997_7-2" class="reference"><a href="#cite_note-Pegler_1997-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>The <a href="/wiki/Ellipsoid" title="Ellipsoid">ellipsoid</a>, <a href="/wiki/Hyaline" title="Hyaline">hyaline</a> (translucent) spores measure 3.5–5 by 3–4&#160;<a href="/wiki/Micrometre" title="Micrometre">µm</a>. The <a href="/wiki/Basidia" title="Basidia" class="mw-redirect">basidia</a> (spore-bearing cells) are club-shaped, four-spored, and measure 2540 by 5–7&#160;µm. <i>Phellodon niger</i> has a monomitic <a href="/wiki/Hypha" title="Hypha">hyphal</a> system, producing generative hyphae with a diameter of 2.5–5&#160;µm.<sup id="cite_ref-Pegler_1997_7-3" class="reference"><a href="#cite_note-Pegler_1997-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Habitat_and_distribution">Habitat and distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phellodon_niger&amp;action=edit&amp;section=3" title="Edit section: Habitat and distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Ectomycorrhiza" title="Ectomycorrhiza">ectomycorrhizae</a> that <i>P.&#160;niger</i> forms with <a href="/wiki/Norway_spruce" title="Norway spruce" class="mw-redirect">Norway spruce</a> (<i>Picea abies</i>) has been comprehensively described. It is distinguished from the ectomycorrhizae of other Thelephorales species by the unique shape of its <a href="/wiki/Chlamydospore" title="Chlamydospore">chlamydospores</a>.<sup id="cite_ref-Agerer_1992_8-0" class="reference"><a href="#cite_note-Agerer_1992-8"><span>[</span>8<span>]</span></a></sup> <a href="/wiki/Stable_isotope_ratio" title="Stable isotope ratio">Stable isotope ratio</a> analysis of the abundance of the stable isotope <a href="/wiki/Carbon-13" title="Carbon-13">carbon-13</a> shows that <i>P.&#160;niger</i> has a metabolic signature close to that of <a href="/wiki/Saprotrophic" title="Saprotrophic" class="mw-redirect">saprotrophic</a> fungi, indicating that it may be able to obtain carbon from sources other than a tree host.<sup id="cite_ref-H.C3.B6gberg_1999_9-0" class="reference"><a href="#cite_note-H.C3.B6gberg_1999-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-Taylor_2003_10-0" class="reference"><a href="#cite_note-Taylor_2003-10"><span>[</span>10<span>]</span></a></sup></p>
+<p><i>Phellodon niger</i> is found in continental Europe, where it has a widespread distribution,<sup id="cite_ref-Pegler_1997_7-4" class="reference"><a href="#cite_note-Pegler_1997-7"><span>[</span>7<span>]</span></a></sup> and in North America. In a preliminary assessment for a <a href="/wiki/Regional_Red_List" title="Regional Red List">red list</a> of <a href="/wiki/Threatened_species" title="Threatened species">threatened</a> British Fungi, <i>P.&#160;niger</i> is considered <a href="/wiki/Rare_species" title="Rare species">rare</a>.<sup id="cite_ref-ENRR_2004_11-0" class="reference"><a href="#cite_note-ENRR_2004-11"><span>[</span>11<span>]</span></a></sup> <i>P.&#160;niger</i> was included in a Scottish study to develop species-specific <a href="/wiki/PCR" title="PCR" class="mw-redirect">PCR</a> primers that can be used to detect the mycelia of stipitate hydnoids in soil.<sup id="cite_ref-van_der_Linde_2008_12-0" class="reference"><a href="#cite_note-van_der_Linde_2008-12"><span>[</span>12<span>]</span></a></sup> DNA testing of collections labelled as <i>P.&#160;niger</i> from the United Kingdom revealed additional <a href="/wiki/Cryptic_species" title="Cryptic species" class="mw-redirect">cryptic species</a>.<sup id="cite_ref-Parfitt_2007_13-0" class="reference"><a href="#cite_note-Parfitt_2007-13"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-Ainsworth_2010_14-0" class="reference"><a href="#cite_note-Ainsworth_2010-14"><span>[</span>14<span>]</span></a></sup> PCR analysis can be used to determine the presence of a <i>Phellodon</i> species up to four years after the appearance of fruitbodies, allowing a more accurate determination of their possible decline and threat of extinction.<sup id="cite_ref-van_der_Linde_2012_15-0" class="reference"><a href="#cite_note-van_der_Linde_2012-15"><span>[</span>15<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Chemistry">Chemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phellodon_niger&amp;action=edit&amp;section=4" title="Edit section: Chemistry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>P.&#160;niger</i> has been a source for several bioactive compounds: the cyathane-type <a href="/wiki/Diterpenoid" title="Diterpenoid" class="mw-redirect">diterpenoids</a>, nigernin A and B; a nitrogenous terphenyl derivative, phellodonin; 2',3'-diacetoxy-3,4,5',6',4''-pentahydroxy-<i>p</i>-terphenyl; <a href="/wiki/Grifolin" title="Grifolin">grifolin</a>; and 4-<i>O</i>-methylgrifolic acid.<sup id="cite_ref-Fang_2010_16-0" class="reference"><a href="#cite_note-Fang_2010-16"><span>[</span>16<span>]</span></a></sup> Additional nigernins (C through F) were reported in 2011.<sup id="cite_ref-Fang_2011_17-0" class="reference"><a href="#cite_note-Fang_2011-17"><span>[</span>17<span>]</span></a></sup></p>
+<p>Fruiting bodies are used to <a href="/wiki/Mushroom_dye" title="Mushroom dye">make dye</a>, in which it produces gray-blue and green colors.<sup id="cite_ref-Roberts_2011_18-0" class="reference"><a href="#cite_note-Roberts_2011-18"><span>[</span>18<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phellodon_niger&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-urlFungorum:_Phellodon_niger-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-urlFungorum:_Phellodon_niger_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.speciesfungorum.org/GSD/GSDspecies.asp?RecordID=246562">"GSD Species Synonymy: <i>Phellodon niger</i> (Fr.) P. Karst."</a>. Species Fungorum. CAB International<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-09-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.btitle=GSD+Species+Synonymy%3A+Phellodon+niger+%28Fr.%29+P.+Karst.&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.speciesfungorum.org%2FGSD%2FGSDspecies.asp%3FRecordID%3D246562&amp;rft.pub=Species+Fungorum.+CAB+International&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BMS-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-BMS_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BMS_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fungi4schools.org/Reprints/ENGLISH_NAMES.pdf">"Recommended English Names for Fungi in the UK"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/British_Mycological_Society" title="British Mycological Society">British Mycological Society</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.btitle=Recommended+English+Names+for+Fungi+in+the+UK&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fungi4schools.org%2FReprints%2FENGLISH_NAMES.pdf&amp;rft.pub=British+Mycological+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Fries_1815-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fries_1815_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fries_1815_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Fries EM. (1815). <a rel="nofollow" class="external text" href="http://www.cybertruffle.org.uk/cyberliber/01532/0134.htm">"Observationes mycologicae"</a> (in Latin) <b>1</b>. Copenhagen: Gerhard Bonnier. p.&#160;134.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.atitle=Observationes+mycologicae&amp;rft.au=Fries+EM.&amp;rft.date=1815&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cybertruffle.org.uk%2Fcyberliber%2F01532%2F0134.htm&amp;rft.pages=134&amp;rft.place=Copenhagen&amp;rft.pub=Gerhard+Bonnier&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Karsten_1881-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Karsten_1881_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Karsten_1881_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Karsten PA. (1881). <a rel="nofollow" class="external text" href="http://biodiversitylibrary.org/page/11599314">"Enumeratio Hydnearum Fr. Fennicarum, systemate novo dispositarum"</a>. <i>Revue mycologique, Toulouse</i> (in Latin) <b>3</b> (9): 19.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.atitle=Enumeratio+Hydnearum+Fr.+Fennicarum%2C+systemate+novo+dispositarum&amp;rft.au=Karsten+PA.&amp;rft.date=1881&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbiodiversitylibrary.org%2Fpage%2F11599314&amp;rft.issue=9&amp;rft.jtitle=Revue+mycologique%2C+Toulouse&amp;rft.pages=19&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=3" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Harrison_1961-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Harrison_1961_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Harrison_1961_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation report">Harrison KA. (1961). <a rel="nofollow" class="external text" href="http://biodiversitylibrary.org/page/39011849">The Stipitate Hydnums of Nova Scotia</a>. <i>Publications of the Department of Agriculture Canada</i> (Report) <b>1099</b> (Ottawa, Canada: Research Branch, Canada Department of Agriculture): 1–60 (see p.&#160;15).</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.au=Harrison+KA.&amp;rft.btitle=The+Stipitate+Hydnums+of+Nova+Scotia&amp;rft.date=1961&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbiodiversitylibrary.org%2Fpage%2F39011849&amp;rft.pages=1-60+%28see+p.-15%29&amp;rft.place=Ottawa%2C+Canada&amp;rft.pub=Research+Branch%2C+Canada+Department+of+Agriculture&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=1099" class="Z3988"><span style="display:none;">&#160;</span></span> <a href="/wiki/Open_access" title="open access publication - free to read"><img alt="open access publication - free to read" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/8px-Open_Access_logo_PLoS_transparent.svg.png" width="8" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/12px-Open_Access_logo_PLoS_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/16px-Open_Access_logo_PLoS_transparent.svg.png 2x" data-file-width="640" data-file-height="1000" /></a></span></li>
+<li id="cite_note-Index_Fungorum:_Phellodon_niger_var._alboniger-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Index_Fungorum:_Phellodon_niger_var._alboniger_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=349973">"Record Details: <i>Phellodon niger</i> var. <i>alboniger</i> (Peck) K.A. Harrison"</a>. Index Fungorum. CAB International<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-09-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.btitle=Record+Details%3A+Phellodon+niger+var.+alboniger+%28Peck%29+K.A.+Harrison&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.indexfungorum.org%2FNames%2FNamesRecord.asp%3FRecordID%3D349973&amp;rft.pub=Index+Fungorum.+CAB+International&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Pegler_1997-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pegler_1997_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pegler_1997_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Pegler_1997_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Pegler_1997_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Pegler_1997_7-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Pegler DN, Roberts PJ, Spooner BM. (1997). <i>British Chanterelles and Tooth Fungi</i>. Kew, UK: Royal Botanic Gardens. p.&#160;45. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-900347-15-0" title="Special:BookSources/978-1-900347-15-0">978-1-900347-15-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.au=Pegler+DN%2C+Roberts+PJ%2C+Spooner+BM.&amp;rft.btitle=British+Chanterelles+and+Tooth+Fungi&amp;rft.date=1997&amp;rft.genre=book&amp;rft.isbn=978-1-900347-15-0&amp;rft.pages=45&amp;rft.place=Kew%2C+UK&amp;rft.pub=Royal+Botanic+Gardens&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Agerer_1992-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Agerer_1992_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Agerer R. (1992). "Ectomycorrhizae of <i>Phellodon niger</i> on Norway spruce and their chlamydospores". <i>Mycorrhiza</i> <b>2</b> (1): 47–52. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2FBF00206283">10.1007/BF00206283</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.atitle=Ectomycorrhizae+of+Phellodon+niger+on+Norway+spruce+and+their+chlamydospores&amp;rft.au=Agerer+R.&amp;rft.date=1992&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2FBF00206283&amp;rft.issue=1&amp;rft.jtitle=Mycorrhiza&amp;rft.pages=47-52&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-H.C3.B6gberg_1999-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-H.C3.B6gberg_1999_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Högberg P, Plamboeck AH, Taylor AFS, Fransson PMA. (1999). "Natural C-13 abundance reveals trophic status of fungi and host-origin of carbon in mycorrhizal fungi in mixed forests". <i>Proceedings of the National Academy of Sciences of the United States of America</i> <b>96</b> (15): 8534–8539. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1073%2Fpnas.96.15.8534">10.1073/pnas.96.15.8534</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.atitle=Natural+C-13+abundance+reveals+trophic+status+of+fungi+and+host-origin+of+carbon+in+mycorrhizal+fungi+in+mixed+forests&amp;rft.au=H%C3%B6gberg+P%2C+Plamboeck+AH%2C+Taylor+AFS%2C+Fransson+PMA.&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.96.15.8534&amp;rft.issue=15&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences+of+the+United+States+of+America&amp;rft.pages=8534-8539&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=96" class="Z3988"><span style="display:none;">&#160;</span></span> <a href="/wiki/Open_access" title="open access publication - free to read"><img alt="open access publication - free to read" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/8px-Open_Access_logo_PLoS_transparent.svg.png" width="8" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/12px-Open_Access_logo_PLoS_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/16px-Open_Access_logo_PLoS_transparent.svg.png 2x" data-file-width="640" data-file-height="1000" /></a></span></li>
+<li id="cite_note-Taylor_2003-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Taylor_2003_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Taylor AFS, Fransson PM, Högberg P, Högberg MN, Plamboeck AH. (2003). "Species level patterns in C-13 and N-15 abundance of ectomycorrhizal and saprotrophic fungal sporocarps". <i>New Phytologist</i> <b>159</b> (3): 757–774. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1046%2Fj.1469-8137.2003.00838.x">10.1046/j.1469-8137.2003.00838.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.atitle=Species+level+patterns+in+C-13+and+N-15+abundance+of+ectomycorrhizal+and+saprotrophic+fungal+sporocarps&amp;rft.au=Taylor+AFS%2C+Fransson+PM%2C+H%C3%B6gberg+P%2C+H%C3%B6gberg+MN%2C+Plamboeck+AH.&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1046%2Fj.1469-8137.2003.00838.x&amp;rft.issue=3&amp;rft.jtitle=New+Phytologist&amp;rft.pages=757-774&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=159" class="Z3988"><span style="display:none;">&#160;</span></span> <a href="/wiki/Open_access" title="open access publication - free to read"><img alt="open access publication - free to read" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/8px-Open_Access_logo_PLoS_transparent.svg.png" width="8" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/12px-Open_Access_logo_PLoS_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/16px-Open_Access_logo_PLoS_transparent.svg.png 2x" data-file-width="640" data-file-height="1000" /></a></span></li>
+<li id="cite_note-ENRR_2004-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-ENRR_2004_11-0">^</a></b></span> <span class="reference-text"><cite class="citation report">Bridge PD, Panchal G. (2004). <a rel="nofollow" class="external text" href="http://publications.naturalengland.org.uk/file/6167520566312960">Number 557. Population diversity and speciation in <i>Hydnellum</i> and <i>Phellodon</i> species</a> <span style="font-size:85%;">(PDF)</span> (Report). English Nature Research Reports. <a href="/wiki/English_Nature" title="English Nature">English Nature</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0967-876X">0967-876X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.au=Bridge+PD%2C+Panchal+G.&amp;rft.btitle=Number+557.+Population+diversity+and+speciation+in+Hydnellum+and+Phellodon+species&amp;rft.date=2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fpublications.naturalengland.org.uk%2Ffile%2F6167520566312960&amp;rft.issn=0967-876X&amp;rft.pub=English+Nature&amp;rft.series=English+Nature+Research+Reports&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-van_der_Linde_2008-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-van_der_Linde_2008_12-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Van der Linde S, Alexander I, Anderson IC. (2008). "A PCR-based method for detecting the mycelia of stipitate hydnoid fungi in soil". <i>Journal of Microbiological Methods</i> <b>75</b>: 40–46. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.mimet.2008.04.010">10.1016/j.mimet.2008.04.010</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18586344">18586344</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.atitle=A+PCR-based+method+for+detecting+the+mycelia+of+stipitate+hydnoid+fungi+in+soil&amp;rft.au=Van+der+Linde+S%2C+Alexander+I%2C+Anderson+IC.&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.mimet.2008.04.010&amp;rft_id=info%3Apmid%2F18586344&amp;rft.jtitle=Journal+of+Microbiological+Methods&amp;rft.pages=40-46&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=75" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Parfitt_2007-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Parfitt_2007_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Parfitt D, Ainsworth AM, Simpson D, Rogers HJ, Boddy L. (2007). "Molecular and morphological discrimination of stipitate hydnoids in the genera <i>Hydnellum</i> and <i>Phellodon</i>". <i>Mycological Research</i> <b>111</b> (7): 761–777. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.mycres.2007.05.003">10.1016/j.mycres.2007.05.003</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.atitle=Molecular+and+morphological+discrimination+of+stipitate+hydnoids+in+the+genera+Hydnellum+and+Phellodon&amp;rft.au=Parfitt+D%2C+Ainsworth+AM%2C+Simpson+D%2C+Rogers+HJ%2C+Boddy+L.&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.mycres.2007.05.003&amp;rft.issue=7&amp;rft.jtitle=Mycological+Research&amp;rft.pages=761-777&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=111" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Ainsworth_2010-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Ainsworth_2010_14-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ainsworth AM, Parfitt D, Rogers HJ, Boddy L. (2010). "Cryptic taxa within European species of <i>Hydnellum</i> and <i>Phellodon</i> revealed by combined molecular and morphological analysis". <i>Fungal Ecology</i> <b>3</b> (2): 65–80. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.funeco.2009.07.001">10.1016/j.funeco.2009.07.001</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.atitle=Cryptic+taxa+within+European+species+of+Hydnellum+and+Phellodon+revealed+by+combined+molecular+and+morphological+analysis&amp;rft.au=Ainsworth+AM%2C+Parfitt+D%2C+Rogers+HJ%2C+Boddy+L.&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.funeco.2009.07.001&amp;rft.issue=2&amp;rft.jtitle=Fungal+Ecology&amp;rft.pages=65-80&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=3" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-van_der_Linde_2012-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-van_der_Linde_2012_15-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">van der Linde S, Holden E, Parkin PI, Alexander IJ, Anderson IC. (2012). "Now you see it, now you don't: The challenge of detecting, monitoring and conserving ectomycorrhizal fungi". <i>Fungal Ecology</i> <b>5</b> (5): 633–640. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.funeco.2012.04.002">10.1016/j.funeco.2012.04.002</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.atitle=Now+you+see+it%2C+now+you+don%27t%3A+The+challenge+of+detecting%2C+monitoring+and+conserving+ectomycorrhizal+fungi&amp;rft.au=van+der+Linde+S%2C+Holden+E%2C+Parkin+PI%2C+Alexander+IJ%2C+Anderson+IC.&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.funeco.2012.04.002&amp;rft.issue=5&amp;rft.jtitle=Fungal+Ecology&amp;rft.pages=633-640&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=5" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Fang_2010-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fang_2010_16-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Fang ST, Zhang L, Li ZH, Li B, Liu JK. (2010). <a rel="nofollow" class="external text" href="http://www.mycochem.cn/Article/UploadFiles/201011/20101102135348394.pdf">"Cyathane diterpenoids and nitrogenous terphenyl derivative from the fruiting bodies of basidiomycete <i>Phellodon niger</i>"</a> <span style="font-size:85%;">(PDF)</span>. <i>Chemical and Pharmaceutical Bulletin</i> <b>58</b> (9): 1176–1179. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20823596">20823596</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.atitle=Cyathane+diterpenoids+and+nitrogenous+terphenyl+derivative+from+the+fruiting+bodies+of+basidiomycete+Phellodon+niger&amp;rft.au=Fang+ST%2C+Zhang+L%2C+Li+ZH%2C+Li+B%2C+Liu+JK.&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.mycochem.cn%2FArticle%2FUploadFiles%2F201011%2F20101102135348394.pdf&amp;rft_id=info%3Apmid%2F20823596&amp;rft.issue=9&amp;rft.jtitle=Chemical+and+Pharmaceutical+Bulletin&amp;rft.pages=1176-1179&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=58" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Fang_2011-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fang_2011_17-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Fang S-T, Feng T, Zhang L, Dong Z-J, Li Z-H, Liu J-K. (2011). "Cyathane diterpenoids from fruiting bodies of <i>Phellodon niger</i>". <i>Natural Products and Bioprospecting</i> <b>1</b> (1): 37–40. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs13659-011-0002-z">10.1007/s13659-011-0002-z</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.atitle=Cyathane+diterpenoids+from+fruiting+bodies+of+Phellodon+niger&amp;rft.au=Fang+S-T%2C+Feng+T%2C+Zhang+L%2C+Dong+Z-J%2C+Li+Z-H%2C+Liu+J-K.&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fs13659-011-0002-z&amp;rft.issue=1&amp;rft.jtitle=Natural+Products+and+Bioprospecting&amp;rft.pages=37-40&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span> <a href="/wiki/Open_access" title="open access publication - free to read"><img alt="open access publication - free to read" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/8px-Open_Access_logo_PLoS_transparent.svg.png" width="8" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/12px-Open_Access_logo_PLoS_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/16px-Open_Access_logo_PLoS_transparent.svg.png 2x" data-file-width="640" data-file-height="1000" /></a></span></li>
+<li id="cite_note-Roberts_2011-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Roberts_2011_18-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Roberts P, Evans S. (2011). <i>The Book of Fungi</i>. Chicago, Illinois: University of Chicago Press. p.&#160;474. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-226-72117-0" title="Special:BookSources/978-0-226-72117-0">978-0-226-72117-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APhellodon+niger&amp;rft.au=Roberts+P%2C+Evans+S.&amp;rft.btitle=The+Book+of+Fungi&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=978-0-226-72117-0&amp;rft.pages=474&amp;rft.place=Chicago%2C+Illinois&amp;rft.pub=University+of+Chicago+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Phellodon_niger&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=246562">Phellodon niger</a></i> in <a href="/wiki/Index_Fungorum" title="Index Fungorum">Index Fungorum</a>.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1131
+Cached time: 20151020025850
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.486 seconds
+Real time usage: 0.608 seconds
+Preprocessor visited node count: 4065/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 39893/2097152 bytes
+Template argument size: 3020/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.143/10.000 seconds
+Lua memory usage: 5.22 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  542.233      1 - -total
+ 54.97%  298.069      1 - Template:Reflist
+ 29.66%  160.838      1 - Template:Taxobox
+ 26.95%  146.152      1 - Template:Taxobox/core
+ 12.39%   67.173     11 - Template:Cite_journal
+  9.51%   51.547      2 - Template:Convert
+  8.41%   45.581      1 - Template:Taxobox_name
+  8.10%   43.896      3 - Template:Cite_web
+  7.68%   41.650      7 - Template:Taxonomy
+  5.79%   31.415     14 - Template:Anglicise_rank
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:47769600-0!*!0!!en!4!* and timestamp 20151020025901 and revision id 686599257
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Phellodon_niger&amp;oldid=686599257">https://en.wikipedia.org/w/index.php?title=Phellodon_niger&amp;oldid=686599257</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fungi_described_in_1815" title="Category:Fungi described in 1815">Fungi described in 1815</a></li><li><a href="/wiki/Category:Fungi_of_Europe" title="Category:Fungi of Europe">Fungi of Europe</a></li><li><a href="/wiki/Category:Fungi_of_North_America" title="Category:Fungi of North America">Fungi of North America</a></li><li><a href="/wiki/Category:Inedible_fungi" title="Category:Inedible fungi">Inedible fungi</a></li><li><a href="/wiki/Category:Phellodon" title="Category:Phellodon">Phellodon</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Latin-language_sources_(la)" title="Category:CS1 Latin-language sources (la)">CS1 Latin-language sources (la)</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Phellodon+niger&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Phellodon+niger" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Phellodon_niger"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Phellodon_niger"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Phellodon_niger" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Phellodon_niger&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Phellodon_niger&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Phellodon_niger" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Phellodon_niger" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Phellodon_niger&amp;oldid=686599257" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Phellodon_niger&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q10684413" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Phellodon_niger&amp;id=686599257" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Phellodon+niger">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Phellodon+niger&amp;returnto=Phellodon+niger&amp;oldid=686599257&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Phellodon_niger&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ceb"><a href="//ceb.wikipedia.org/wiki/Phellodon_niger" title="Phellodon niger – Cebuano" lang="ceb" hreflang="ceb">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Lo%C5%A1%C3%A1%C4%8Dek_%C4%8Dern%C3%BD" title="Lošáček černý – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Must_narmik" title="Must narmik – Estonian" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-pms"><a href="//pms.wikipedia.org/wiki/Phellodon_niger" title="Phellodon niger – Piedmontese" lang="pms" hreflang="pms">Piemontèis</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Svart_taggsvamp" title="Svart taggsvamp – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-war"><a href="//war.wikipedia.org/wiki/Phellodon_niger" title="Phellodon niger – Waray" lang="war" hreflang="war">Winaray</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q10684413#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 October 2015, at 02:59.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Phellodon_niger&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1151"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

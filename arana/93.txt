@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Angus Deaton - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Angus_Deaton","wgTitle":"Angus Deaton","wgCurRevisionId":686567528,"wgRevisionId":686567528,"wgArticleId":2061221,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Spanish-language sources (es)","Use dmy dates from October 2015","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","1945 births","Academics of the University of Bristol","Alumni of Fitzwilliam College, Cambridge","American economists","American Nobel laureates","British economists","British emigrants to the United States","British Nobel laureates","Fellows of Fitzwilliam College, Cambridge","Fellows of the Econometric Society","Living people","Microeconomists","Nobel laureates in Economics","People educated at Fettes College","Princeton University faculty","Scottish economists","Scottish emigrants to the United States","Scottish Nobel laureates","People from Edinburgh"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Angus_Deaton","wgRelevantArticleId":2061221,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q204078","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Angus_Deaton" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Angus_Deaton&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Angus_Deaton&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Angus_Deaton" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Angus_Deaton skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Angus Deaton</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the economist.  For the English comic actor and television presenter, see <a href="/wiki/Angus_Deayton" title="Angus Deayton">Angus Deayton</a>.</div>
+<table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Angus Deaton</span></th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>Angus Stewart Deaton<br />
+<span style="display:none">(<span class="bday">1945-10-19</span>)</span> 19 October 1945 <span class="noprint ForceAgeToShow">(age&#160;70)</span><br />
+<a href="/wiki/Edinburgh" title="Edinburgh">Edinburgh</a>, Scotland, United Kingdom</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td>British, American</td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a href="/wiki/Microeconomics" title="Microeconomics">Microeconomics</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a href="/wiki/University_of_Bristol" title="University of Bristol">University of Bristol</a>, <a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a></td>
+</tr>
+<tr>
+<th scope="row">Education</th>
+<td><a href="/wiki/Fettes_College" title="Fettes College">Fettes College</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></span></th>
+<td><a href="/wiki/Fitzwilliam_College,_Cambridge" title="Fitzwilliam College, Cambridge">Fitzwilliam College</a>, <a href="/wiki/University_of_Cambridge" title="University of Cambridge">Cambridge</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th>
+<td><i>Models of consumer demand and their application to the United Kingdom</i>&#160;<span style="font-size:90%;">(1975)</span></td>
+</tr>
+<tr>
+<th scope="row">Notable awards</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a href="/wiki/Frisch_Medal" title="Frisch Medal">Frisch Medal</a> (1978)</li>
+<li><a href="/wiki/Nobel_Memorial_Prize_in_Economic_Sciences" title="Nobel Memorial Prize in Economic Sciences">Nobel Memorial Prize in Economic Sciences</a> (2015)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Angus Stewart Deaton</b>, <a href="/wiki/British_Academy" title="British Academy">FBA</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> (born 19 October 1945) is a British economist. In 2015, he was awarded the <a href="/wiki/Nobel_Memorial_Prize_in_Economic_Sciences" title="Nobel Memorial Prize in Economic Sciences">Nobel Memorial Prize in Economic Sciences</a> for his analysis of <a href="/wiki/Consumption_(economics)" title="Consumption (economics)">consumption</a>, poverty, and <a href="/wiki/Economic_welfare" title="Economic welfare">welfare</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Scholarship"><span class="tocnumber">2</span> <span class="toctext">Scholarship</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Personal_life"><span class="tocnumber">3</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Books"><span class="tocnumber">4</span> <span class="toctext">Books</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angus_Deaton&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Deaton was born in Edinburgh, Scotland, and educated as a foundation scholar at <a href="/wiki/Fettes_College" title="Fettes College">Fettes College</a>. He earned his <a href="/wiki/Bachelor_of_Arts" title="Bachelor of Arts">B.A.</a>, <a href="/wiki/Master_of_Arts_(Oxbridge_and_Dublin)" title="Master of Arts (Oxbridge and Dublin)">M.A.</a> and <a href="/wiki/Doctor_of_Philosophy" title="Doctor of Philosophy">D.Phil.</a> degrees at the <a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a>, the last with a 1975 thesis entitled <i>Models of consumer demand and their application to the United Kingdom</i>, where he was later a fellow at <a href="/wiki/Fitzwilliam_College,_Cambridge" title="Fitzwilliam College, Cambridge">Fitzwilliam College</a> and a research officer working with <a href="/wiki/Richard_Stone" title="Richard Stone">Richard Stone</a> and <a href="/wiki/Terry_Barker" title="Terry Barker">Terry Barker</a> in the Department of Applied Economics.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>In 1976 Deaton took up post at the <a href="/wiki/University_of_Bristol" title="University of Bristol">University of Bristol</a> as Professor of Econometrics. During this period, he completed a significant portion of his most influential work. In 1978, he became the first ever recipient of the <a href="/wiki/Frisch_Medal" title="Frisch Medal">Frisch Medal</a>, an award given by the Econometric Society every two years. In 1980, his paper on how demand for various consumption goods depends on prices and income was published in <i><a href="/wiki/The_American_Economic_Review" title="The American Economic Review">The American Economic Review</a></i>. This paper has since been hailed as one of the twenty most influential articles published in the journal since 1970.<sup id="cite_ref-University_of_Bristol_news_website_5-0" class="reference"><a href="#cite_note-University_of_Bristol_news_website-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>In 1983, he left the <a href="/wiki/University_of_Bristol" title="University of Bristol">University of Bristol</a> for <a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a>, where his appointment was suggested by <a href="/wiki/John_P._Lewis" title="John P. Lewis">John P. Lewis</a>, former dean of the <a href="/wiki/Woodrow_Wilson_School_of_Public_and_International_Affairs" title="Woodrow Wilson School of Public and International Affairs">Woodrow Wilson School of Public and International Affairs</a> (WWS). He is the <a href="/wiki/Dwight_D._Eisenhower" title="Dwight D. Eisenhower">Dwight D. Eisenhower</a> Professor of International Affairs and Professor of Economics and International Affairs at WWS and the Economics Department at Princeton.<sup id="cite_ref-National_Bureau_of_Economic_Research_website_6-0" class="reference"><a href="#cite_note-National_Bureau_of_Economic_Research_website-6"><span>[</span>6<span>]</span></a></sup> He holds both British and American citizenship.<sup id="cite_ref-news_Scot_7-0" class="reference"><a href="#cite_note-news_Scot-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>In October 2015 it was announced that Deaton had won that year's <a href="/wiki/Nobel_Memorial_Prize_in_Economic_Sciences" title="Nobel Memorial Prize in Economic Sciences">Nobel Memorial Prize in Economic Sciences</a>. The BBC reported that Deaton was "delighted" and that he described himself as "someone who's concerned with the poor of the world and how people behave, and what gives them a good life". The <a href="/wiki/Royal_Swedish_Academy_of_Sciences" title="Royal Swedish Academy of Sciences">Royal Swedish Academy of Sciences</a> said that economic policy intended to reduce poverty could only be designed once individuals' consumption choices were understood, saying, "More than anyone else, Angus Deaton has enhanced this understanding. By linking detailed individual choices and aggregate outcomes, his research has helped transform the fields of microeconomics, macroeconomics, and development economics".<sup id="cite_ref-BBC_News_12_October_2015_8-0" class="reference"><a href="#cite_note-BBC_News_12_October_2015-8"><span>[</span>8<span>]</span></a></sup> New York University economist <a href="/wiki/William_Easterly" title="William Easterly">William Easterly</a> said, "What was impressive about this Nobel is how many different fields Angus has contributed to". Easterly noted Deaton’s bravery in the face of the political aspects of his research area and the "tortuous details" involved in his work, adding: "No one accuses him of having an agenda on these questions, and there are a lot of people in this field who do have an agenda".<sup id="cite_ref-Wall_Street_Journal_12_October_2015_9-0" class="reference"><a href="#cite_note-Wall_Street_Journal_12_October_2015-9"><span>[</span>9<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Scholarship">Scholarship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angus_Deaton&amp;action=edit&amp;section=2" title="Edit section: Scholarship">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Deaton's first work to become known was the <a href="/wiki/Almost_ideal_demand_system" title="Almost ideal demand system">almost ideal demand system</a> (AIDS), which he developed with <a href="/wiki/John_Muellbauer" title="John Muellbauer">John Muellbauer</a> and published in <i><a href="/wiki/The_American_Economic_Review" title="The American Economic Review">The American Economic Review</a></i> (AER) in 1980.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> As a consumer demand model it provides a first order approximation to any demand system which satisfies the <a href="/w/index.php?title=Axioms_of_order&amp;action=edit&amp;redlink=1" class="new" title="Axioms of order (page does not exist)">axioms of order</a>.</p>
+<p>In 1978 Deaton became the first recipient of the <a href="/wiki/Frisch_Medal" title="Frisch Medal">Frisch Medal</a>, an award given by the <a href="/wiki/Econometric_Society" title="Econometric Society">Econometric Society</a> every two years to an applied paper published within the past five years in <i><a href="/wiki/Econometrica" title="Econometrica">Econometrica</a></i>. Deaton is a <a href="/wiki/Econometric_Society" title="Econometric Society">Fellow of the Econometric Society</a>, a <a href="/wiki/British_Academy" title="British Academy">Corresponding Fellow of the British Academy</a> (FBA),<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> and a <a href="/wiki/American_Academy_of_Arts_and_Sciences" title="American Academy of Arts and Sciences">Fellow of the American Academy of Arts and Sciences</a>. In April 2014, he was elected to the <a href="/wiki/American_Philosophical_Society" title="American Philosophical Society">American Philosophical Society</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> He holds honorary degrees from the University of Rome, Tor Vergata, University College London, and the University of St. Andrews. In 2007, he was elected president of the <a href="/wiki/American_Economic_Association" title="American Economic Association">American Economic Association</a>. He won the 2011 <a href="/wiki/BBVA_Foundation_Frontiers_of_Knowledge_Award" title="BBVA Foundation Frontiers of Knowledge Award">BBVA Foundation Frontiers of Knowledge Award</a> of Economics, Finance and Management for his fundamental contributions to the theory of consumption and savings, and the measurement of economic wellbeing.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<p><br />
+He formulated the <i>Deaton Paradox</i> based on the observation of excess smoothness of consumption in the face of unanticipated permanent income shocks.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>Deaton is also the author of "Letters from America", a popular semi-annual feature in the <i><a href="/wiki/Royal_Economic_Society" title="Royal Economic Society">Royal Economic Society</a> Newsletter</i>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angus_Deaton&amp;action=edit&amp;section=3" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Deaton has two children, born in 1970 and 1971.<sup id="cite_ref-Angus_Deaton_CV_November_2014_16-0" class="reference"><a href="#cite_note-Angus_Deaton_CV_November_2014-16"><span>[</span>16<span>]</span></a></sup> He is married to Anne Case, a research associate at the <a href="/wiki/National_Bureau_of_Economic_Research" title="National Bureau of Economic Research">National Bureau of Economic Research</a>. The couple’s recreational activities include the opera and trout fishing.<sup id="cite_ref-National_Bureau_of_Economic_Research_website_6-1" class="reference"><a href="#cite_note-National_Bureau_of_Economic_Research_website-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angus_Deaton&amp;action=edit&amp;section=4" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Deaton, Angus; Muellbauer, John (1980). <i>Economics and Consumer Behavior</i>. New York: Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0521228506" title="Special:BookSources/0521228506">0521228506</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.aufirst=Angus&amp;rft.aulast=Deaton&amp;rft.au=Muellbauer%2C+John&amp;rft.btitle=Economics+and+Consumer+Behavior&amp;rft.date=1980&amp;rft.genre=book&amp;rft.isbn=0521228506&amp;rft.place=New+York&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Deaton, Angus (1992). <i>Understanding Consumption</i>. Clarendon Lectures in Economics. Oxford: Clarendon Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0198287593" title="Special:BookSources/0198287593">0198287593</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.aufirst=Angus&amp;rft.aulast=Deaton&amp;rft.btitle=Understanding+Consumption&amp;rft.date=1992&amp;rft.genre=book&amp;rft.isbn=0198287593&amp;rft.place=Oxford&amp;rft.pub=Clarendon+Press&amp;rft.series=Clarendon+Lectures+in+Economics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Deaton, Angus (1997). <i>The Analysis of Household Surveys: A Microeconometric Approach to Development Policy</i>. Baltimore: Johns Hopkins University Press for the World Bank. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0801852544" title="Special:BookSources/0801852544">0801852544</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.aufirst=Angus&amp;rft.aulast=Deaton&amp;rft.btitle=The+Analysis+of+Household+Surveys%3A+A+Microeconometric+Approach+to+Development+Policy&amp;rft.date=1997&amp;rft.genre=book&amp;rft.isbn=0801852544&amp;rft.place=Baltimore&amp;rft.pub=Johns+Hopkins+University+Press+for+the+World+Bank&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Deaton, Angus (2001). <i>Health, inequality and economic development</i>. Cambridge.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.aufirst=Angus&amp;rft.aulast=Deaton&amp;rft.btitle=Health%2C+inequality+and+economic+development&amp;rft.date=2001&amp;rft.genre=book&amp;rft.place=Cambridge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Deaton, Angus; Kozel, Valerie, eds. (2005). <i>The Great Indian Poverty Debate</i>. New Delhi: Macmillan India Ltd. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781403926449" title="Special:BookSources/9781403926449">9781403926449</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.btitle=The+Great+Indian+Poverty+Debate&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=9781403926449&amp;rft.place=New+Delhi&amp;rft.pub=Macmillan+India+Ltd.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Deaton, Angus (2013). <i>The Great Escape: Health, Wealth, and the Origins of Inequality</i>. Princeton: Princeton University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780691153544" title="Special:BookSources/9780691153544">9780691153544</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.aufirst=Angus&amp;rft.aulast=Deaton&amp;rft.btitle=The+Great+Escape%3A+Health%2C+Wealth%2C+and+the+Origins+of+Inequality&amp;rft.date=2013&amp;rft.genre=book&amp;rft.isbn=9780691153544&amp;rft.place=Princeton&amp;rft.pub=Princeton+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angus_Deaton&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.britac.ac.uk/events/2008/keynes.cfm">Instruments of Development</a> - website British Academy</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2015/">"The Prize in Economic Sciences 2015"</a>. <i>nobelprize.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.btitle=The+Prize+in+Economic+Sciences+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nobelprize.org%2Fnobel_prizes%2Feconomic-sciences%2Flaureates%2F2015%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Wearden, Graeme. <a rel="nofollow" class="external text" href="http://www.theguardian.com/business/live/2015/oct/12/nobel-prize-sveriges-riksbank-in-economic-sciences-announcement--live">"Nobel prize in economics won by Angus Deaton – live"</a>. <i>The Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.aufirst=Graeme&amp;rft.aulast=Wearden&amp;rft.btitle=Nobel+prize+in+economics+won+by+Angus+Deaton+%E2%80%93+live&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2015%2Foct%2F12%2Fnobel-prize-sveriges-riksbank-in-economic-sciences-announcement--live&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cam.ac.uk/news/cambridge-alumnus-awarded-nobel-economics-prize">"Cambridge alumnus awarded Nobel economics prize"</a>. <i>University of Cambridge</i>. 2015-10-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.btitle=Cambridge+alumnus+awarded+Nobel+economics+prize&amp;rft.date=2015-10-12&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cam.ac.uk%2Fnews%2Fcambridge-alumnus-awarded-nobel-economics-prize&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-University_of_Bristol_news_website-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-University_of_Bristol_news_website_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bristol.ac.uk/news/2015/october/nobel-prize-2015.html">"Former Bristol Economics professor wins Nobel Prize"</a>. <i><a href="/wiki/University_of_Bristol" title="University of Bristol">University of Bristol</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.btitle=Former+Bristol+Economics+professor+wins+Nobel+Prize&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bristol.ac.uk%2Fnews%2F2015%2Foctober%2Fnobel-prize-2015.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-National_Bureau_of_Economic_Research_website-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-National_Bureau_of_Economic_Research_website_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-National_Bureau_of_Economic_Research_website_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nber.org/aginghealth/summer07/deaton.html">"NBER Profile: Angus Deaton"</a>. <i><a href="/wiki/National_Bureau_of_Economic_Research" title="National Bureau of Economic Research">National Bureau of Economic Research</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.btitle=NBER+Profile%3A+Angus+Deaton&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nber.org%2Faginghealth%2Fsummer07%2Fdeaton.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-news_Scot-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-news_Scot_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Rising, Malin (12 October 2015). <a rel="nofollow" class="external text" href="http://news.yahoo.com/scottish-economist-angus-deaton-wins-112123414.html">"Scottish economist Angus Deaton wins Nobel economics prize"</a>. <i>Yahoo! News</i>. Associated Press<span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.aufirst=Malin&amp;rft.aulast=Rising&amp;rft.btitle=Scottish+economist+Angus+Deaton+wins+Nobel+economics+prize&amp;rft.date=12+October+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fnews.yahoo.com%2Fscottish-economist-angus-deaton-wins-112123414.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BBC_News_12_October_2015-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-BBC_News_12_October_2015_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/business-34505586">"British academic awarded Nobel economics prize"</a>. <i><a href="/wiki/BBC_News_Online" title="BBC News Online">BBC News Online</a></i>. 12 October 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.btitle=British+academic+awarded+Nobel+economics+prize&amp;rft.date=12+October+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-34505586&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Wall_Street_Journal_12_October_2015-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wall_Street_Journal_12_October_2015_9-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Timiraos, Nick; Duxbury, Charles (12 October 2015). <a rel="nofollow" class="external text" href="http://www.wsj.com/articles/angus-deaton-awarded-nobel-prize-in-economic-sciences-1444649456">"Angus Deaton Awarded Nobel Prize in Economic Sciences"</a>. <i><a href="/wiki/The_Wall_Street_Journal" title="The Wall Street Journal">The Wall Street Journal</a></i> (New York City)<span class="reference-accessdate">. Retrieved <span class="nowrap">13 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.atitle=Angus+Deaton+Awarded+Nobel+Prize+in+Economic+Sciences&amp;rft.au=Duxbury%2C+Charles&amp;rft.aufirst=Nick&amp;rft.aulast=Timiraos&amp;rft.date=12+October+2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fangus-deaton-awarded-nobel-prize-in-economic-sciences-1444649456&amp;rft.jtitle=The+Wall+Street+Journal&amp;rft.place=New+York+City&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Deaton, A; Muellbauer, J (1980). <a rel="nofollow" class="external text" href="http://links.jstor.org/sici?sici=0002-8282%28198006%2970%3A3%3C312%3AAAIDS%3E2.0.CO%3B2-Q">"An Almost Ideal Demand System"</a>. <i>American Economic Review</i> <b>70</b> (3): 312–326<span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.atitle=An+Almost+Ideal+Demand+System&amp;rft.aufirst=A&amp;rft.aulast=Deaton&amp;rft.au=Muellbauer%2C+J&amp;rft.date=1980&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flinks.jstor.org%2Fsici%3Fsici%3D0002-8282%2528198006%252970%253A3%253C312%253AAAIDS%253E2.0.CO%253B2-Q&amp;rft.issue=3&amp;rft.jtitle=American+Economic+Review&amp;rft.pages=312-326&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=70" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.britac.ac.uk/fellowship/directory/cor.cfm?member=3302">British Academy Fellows: DEATON, Professor Angus</a> - website of the British Academy</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.amphilsoc.org/members/electedApril2014">"Newly Elected - April 2014"</a>. <a href="/wiki/American_Philosophical_Society" title="American Philosophical Society">American Philosophical Society</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.btitle=Newly+Elected+-+April+2014&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fwww.amphilsoc.org%2Fmembers%2FelectedApril2014&amp;rft.pub=American+Philosophical+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Alonso, M. E. (21 February 2012). <a rel="nofollow" class="external text" href="http://www.abc.es/20120221/economia/rc-angus-deaton-teoria-consumo-201202211527.html">"Angus Deaton y su teoría del consumo, premio BBVA"</a>. <i><a href="/wiki/ABC_(newspaper)" title="ABC (newspaper)">ABC</a></i> (in Spanish)<span class="reference-accessdate">. Retrieved <span class="nowrap">13 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.atitle=Angus+Deaton+y+su+teor%C3%ADa+del+consumo%2C+premio+BBVA&amp;rft.aufirst=M.+E.&amp;rft.aulast=Alonso&amp;rft.date=21+February+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.abc.es%2F20120221%2Feconomia%2Frc-angus-deaton-teoria-consumo-201202211527.html&amp;rft.jtitle=ABC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Henderson, David. <a rel="nofollow" class="external text" href="http://econlog.econlib.org/archives/2015/10/the_deaton_para.html">"The Deaton Paradox"</a>. <i>Library of Economics and Liberty</i>. Liberty Fund<span class="reference-accessdate">. Retrieved <span class="nowrap">19 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.aufirst=David&amp;rft.aulast=Henderson&amp;rft.btitle=The+Deaton+Paradox&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Feconlog.econlib.org%2Farchives%2F2015%2F10%2Fthe_deaton_para.html&amp;rft.pub=Liberty+Fund&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.princeton.edu/~deaton/letters.html">"Letters from America"</a>. <i>princeton.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.btitle=Letters+from+America&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.princeton.edu%2F~deaton%2Fletters.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Angus_Deaton_CV_November_2014-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Angus_Deaton_CV_November_2014_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Deaton, Angus (November 2014). <a rel="nofollow" class="external text" href="http://scholar.princeton.edu/sites/default/files/deaton/files/deaton_cv_nov14_updated.pdf">"Curriculum Vitae"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/Princeton_University" title="Princeton University">Princeton University</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAngus+Deaton&amp;rft.aufirst=Angus&amp;rft.aulast=Deaton&amp;rft.btitle=Curriculum+Vitae&amp;rft.date=November+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fscholar.princeton.edu%2Fsites%2Fdefault%2Ffiles%2Fdeaton%2Ffiles%2Fdeaton_cv_nov14_updated.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angus_Deaton&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://scholar.princeton.edu/deaton">Angus Deaton's website home page</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:2015_Nobel_Prize_winners" title="Template:2015 Nobel Prize winners"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:2015_Nobel_Prize_winners" title="Template talk:2015 Nobel Prize winners"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:2015_Nobel_Prize_winners&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%">2015 <a href="/wiki/Nobel_Prize" title="Nobel Prize">Nobel Prize</a> laureates</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Nobel_Prize_in_Chemistry" title="Nobel Prize in Chemistry">Chemistry</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tomas_Lindahl" title="Tomas Lindahl">Tomas Lindahl</a> (Sweden, United Kingdom)</li>
+<li><a href="/wiki/Paul_L._Modrich" title="Paul L. Modrich">Paul L. Modrich</a> (United States)</li>
+<li><a href="/wiki/Aziz_Sancar" title="Aziz Sancar">Aziz Sancar</a> (Turkey, United States)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="11" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Nobel_Prize.png" class="image"><img alt="Nobel Prize.png" src="//upload.wikimedia.org/wikipedia/en/thumb/e/ed/Nobel_Prize.png/80px-Nobel_Prize.png" width="80" height="79" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/ed/Nobel_Prize.png/120px-Nobel_Prize.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/ed/Nobel_Prize.png/160px-Nobel_Prize.png 2x" data-file-width="500" data-file-height="492" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Nobel_Prize_in_Literature" title="Nobel Prize in Literature">Literature</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Svetlana_Alexievich" title="Svetlana Alexievich">Svetlana Alexievich</a> (Belarus)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Nobel_Peace_Prize" title="Nobel Peace Prize">Peace</a> (<a href="/wiki/2015_Nobel_Peace_Prize" title="2015 Nobel Peace Prize">2015</a>)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tunisian_National_Dialogue_Quartet" title="Tunisian National Dialogue Quartet">Tunisian National Dialogue Quartet</a> (Tunisia)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Physics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Takaaki_Kajita" title="Takaaki Kajita">Takaaki Kajita</a> (Japan)</li>
+<li><a href="/wiki/Arthur_B._McDonald" title="Arthur B. McDonald">Arthur B. McDonald</a> (Canada)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Nobel_Prize_in_Physiology_or_Medicine" title="Nobel Prize in Physiology or Medicine">Physiology or Medicine</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/William_C._Campbell_(scientist)" title="William C. Campbell (scientist)">William C. Campbell</a> (Ireland, United States)</li>
+<li><a href="/wiki/Satoshi_%C5%8Cmura" title="Satoshi Ōmura">Satoshi Ōmura</a> (Japan)</li>
+<li><a href="/wiki/Tu_Youyou" title="Tu Youyou">Tu Youyou</a> (China)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Nobel_Memorial_Prize_in_Economic_Sciences" title="Nobel Memorial Prize in Economic Sciences">Economic Sciences</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Angus Deaton</strong> (United Kingdom, United States)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<dl>
+<dt><span style="font-weight:normal;"><a href="/wiki/List_of_Nobel_laureates" title="List of Nobel laureates">Nobel Prize recipients</a></span></dt>
+<dd><a href="/wiki/Template:1990_Nobel_Prize_winners" title="Template:1990 Nobel Prize winners">1990</a></dd>
+<dd><a href="/wiki/Template:1991_Nobel_Prize_winners" title="Template:1991 Nobel Prize winners">91</a></dd>
+<dd><a href="/wiki/Template:1992_Nobel_Prize_winners" title="Template:1992 Nobel Prize winners">92</a></dd>
+<dd><a href="/wiki/Template:1993_Nobel_Prize_winners" title="Template:1993 Nobel Prize winners">93</a></dd>
+<dd><a href="/wiki/Template:1994_Nobel_Prize_winners" title="Template:1994 Nobel Prize winners">94</a></dd>
+<dd><a href="/wiki/Template:1995_Nobel_Prize_winners" title="Template:1995 Nobel Prize winners">95</a></dd>
+<dd><a href="/wiki/Template:1996_Nobel_Prize_winners" title="Template:1996 Nobel Prize winners">96</a></dd>
+<dd><a href="/wiki/Template:1997_Nobel_Prize_winners" title="Template:1997 Nobel Prize winners">97</a></dd>
+<dd><a href="/wiki/Template:1998_Nobel_Prize_winners" title="Template:1998 Nobel Prize winners">98</a></dd>
+<dd><a href="/wiki/Template:1999_Nobel_Prize_winners" title="Template:1999 Nobel Prize winners">99</a></dd>
+<dd><a href="/wiki/Template:2000_Nobel_Prize_winners" title="Template:2000 Nobel Prize winners">2000</a></dd>
+<dd><a href="/wiki/Template:2001_Nobel_Prize_winners" title="Template:2001 Nobel Prize winners">01</a></dd>
+<dd><a href="/wiki/Template:2002_Nobel_Prize_winners" title="Template:2002 Nobel Prize winners">02</a></dd>
+<dd><a href="/wiki/Template:2003_Nobel_Prize_winners" title="Template:2003 Nobel Prize winners">03</a></dd>
+<dd><a href="/wiki/Template:2004_Nobel_Prize_winners" title="Template:2004 Nobel Prize winners">04</a></dd>
+<dd><a href="/wiki/Template:2005_Nobel_Prize_winners" title="Template:2005 Nobel Prize winners">05</a></dd>
+<dd><a href="/wiki/Template:2006_Nobel_Prize_winners" title="Template:2006 Nobel Prize winners">06</a></dd>
+<dd><a href="/wiki/Template:2007_Nobel_Prize_winners" title="Template:2007 Nobel Prize winners">07</a></dd>
+<dd><a href="/wiki/Template:2008_Nobel_Prize_winners" title="Template:2008 Nobel Prize winners">08</a></dd>
+<dd><a href="/wiki/Template:2009_Nobel_Prize_winners" title="Template:2009 Nobel Prize winners">09</a></dd>
+<dd><a href="/wiki/Template:2010_Nobel_Prize_winners" title="Template:2010 Nobel Prize winners">10</a></dd>
+<dd><a href="/wiki/Template:2011_Nobel_Prize_winners" title="Template:2011 Nobel Prize winners">11</a></dd>
+<dd><a href="/wiki/Template:2012_Nobel_Prize_winners" title="Template:2012 Nobel Prize winners">12</a></dd>
+<dd><a href="/wiki/Template:2013_Nobel_Prize_winners" title="Template:2013 Nobel Prize winners">13</a></dd>
+<dd><a href="/wiki/Template:2014_Nobel_Prize_winners" title="Template:2014 Nobel Prize winners">14</a></dd>
+<dd><a href="/wiki/Template:2015_Nobel_Prize_winners" title="Template:2015 Nobel Prize winners">15</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Nobel_laureates_in_economics" title="Template:Nobel laureates in economics"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Nobel_laureates_in_economics" title="Template talk:Nobel laureates in economics"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nobel_laureates_in_economics&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/List_of_Nobel_Memorial_Prize_laureates_in_Economics" title="List of Nobel Memorial Prize laureates in Economics">Laureates</a> of the <a href="/wiki/Nobel_Memorial_Prize_in_Economic_Sciences" title="Nobel Memorial Prize in Economic Sciences">Nobel Memorial Prize in Economic Sciences</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1969–1975</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="font-size:90%;">1969</span> <a href="/wiki/Ragnar_Frisch" title="Ragnar Frisch">Ragnar Frisch</a> / <a href="/wiki/Jan_Tinbergen" title="Jan Tinbergen">Jan Tinbergen</a></li>
+<li><span style="font-size:90%;">1970</span> <a href="/wiki/Paul_Samuelson" title="Paul Samuelson">Paul Samuelson</a></li>
+<li><span style="font-size:90%;">1971</span> <a href="/wiki/Simon_Kuznets" title="Simon Kuznets">Simon Kuznets</a></li>
+<li><span style="font-size:90%;">1972</span> <a href="/wiki/John_Hicks" title="John Hicks">John Hicks</a> / <a href="/wiki/Kenneth_Arrow" title="Kenneth Arrow">Kenneth Arrow</a></li>
+<li><span style="font-size:90%;">1973</span> <a href="/wiki/Wassily_Leontief" title="Wassily Leontief">Wassily Leontief</a></li>
+<li><span style="font-size:90%;">1974</span> <a href="/wiki/Gunnar_Myrdal" title="Gunnar Myrdal">Gunnar Myrdal</a> / <a href="/wiki/Friedrich_Hayek" title="Friedrich Hayek">Friedrich Hayek</a></li>
+<li><span style="font-size:90%;">1975</span> <a href="/wiki/Leonid_Kantorovich" title="Leonid Kantorovich">Leonid Kantorovich</a> / <a href="/wiki/Tjalling_Koopmans" title="Tjalling Koopmans">Tjalling Koopmans</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="5" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Nobel_Prize.png" class="image"><img alt="Nobel Prize.png" src="//upload.wikimedia.org/wikipedia/en/thumb/e/ed/Nobel_Prize.png/80px-Nobel_Prize.png" width="80" height="79" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/ed/Nobel_Prize.png/120px-Nobel_Prize.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/ed/Nobel_Prize.png/160px-Nobel_Prize.png 2x" data-file-width="500" data-file-height="492" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1976–2000</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="font-size:90%;">1976</span> <a href="/wiki/Milton_Friedman" title="Milton Friedman">Milton Friedman</a></li>
+<li><span style="font-size:90%;">1977</span> <a href="/wiki/Bertil_Ohlin" title="Bertil Ohlin">Bertil Ohlin</a> / <a href="/wiki/James_Meade" title="James Meade">James Meade</a></li>
+<li><span style="font-size:90%;">1978</span> <a href="/wiki/Herbert_A._Simon" title="Herbert A. Simon">Herbert A. Simon</a></li>
+<li><span style="font-size:90%;">1979</span> <a href="/wiki/Theodore_Schultz" title="Theodore Schultz">Theodore Schultz</a> / <a href="/wiki/W._Arthur_Lewis" title="W. Arthur Lewis">Arthur Lewis</a></li>
+<li><span style="font-size:90%;">1980</span> <a href="/wiki/Lawrence_Klein" title="Lawrence Klein">Lawrence Klein</a></li>
+<li><span style="font-size:90%;">1981</span> <a href="/wiki/James_Tobin" title="James Tobin">James Tobin</a></li>
+<li><span style="font-size:90%;">1982</span> <a href="/wiki/George_Stigler" title="George Stigler">George Stigler</a></li>
+<li><span style="font-size:90%;">1983</span> <a href="/wiki/G%C3%A9rard_Debreu" title="Gérard Debreu">Gérard Debreu</a></li>
+<li><span style="font-size:90%;">1984</span> <a href="/wiki/Richard_Stone" title="Richard Stone">Richard Stone</a></li>
+<li><span style="font-size:90%;">1985</span> <a href="/wiki/Franco_Modigliani" title="Franco Modigliani">Franco Modigliani</a></li>
+<li><span style="font-size:90%;">1986</span> <a href="/wiki/James_M._Buchanan" title="James M. Buchanan">James M. Buchanan</a></li>
+<li><span style="font-size:90%;">1987</span> <a href="/wiki/Robert_Solow" title="Robert Solow">Robert Solow</a></li>
+<li><span style="font-size:90%;">1988</span> <a href="/wiki/Maurice_Allais" title="Maurice Allais">Maurice Allais</a></li>
+<li><span style="font-size:90%;">1989</span> <a href="/wiki/Trygve_Haavelmo" title="Trygve Haavelmo">Trygve Haavelmo</a></li>
+<li><span style="font-size:90%;">1990</span> <a href="/wiki/Harry_Markowitz" title="Harry Markowitz">Harry Markowitz</a> / <a href="/wiki/Merton_Miller" title="Merton Miller">Merton Miller</a> / <a href="/wiki/William_F._Sharpe" title="William F. Sharpe">William F. Sharpe</a></li>
+<li><span style="font-size:90%;">1991</span> <a href="/wiki/Ronald_Coase" title="Ronald Coase">Ronald Coase</a></li>
+<li><span style="font-size:90%;">1992</span> <a href="/wiki/Gary_Becker" title="Gary Becker">Gary Becker</a></li>
+<li><span style="font-size:90%;">1993</span> <a href="/wiki/Robert_Fogel" title="Robert Fogel">Robert Fogel</a> / <a href="/wiki/Douglass_North" title="Douglass North">Douglass North</a></li>
+<li><span style="font-size:90%;">1994</span> <a href="/wiki/John_Harsanyi" title="John Harsanyi">John Harsanyi</a> / <a href="/wiki/John_Forbes_Nash,_Jr." title="John Forbes Nash, Jr.">John Forbes Nash, Jr.</a> / <a href="/wiki/Reinhard_Selten" title="Reinhard Selten">Reinhard Selten</a></li>
+<li><span style="font-size:90%;">1995</span> <a href="/wiki/Robert_Lucas,_Jr." title="Robert Lucas, Jr.">Robert Lucas, Jr.</a></li>
+<li><span style="font-size:90%;">1996</span> <a href="/wiki/James_Mirrlees" title="James Mirrlees">James Mirrlees</a> / <a href="/wiki/William_Vickrey" title="William Vickrey">William Vickrey</a></li>
+<li><span style="font-size:90%;">1997</span> <a href="/wiki/Robert_C._Merton" title="Robert C. Merton">Robert C. Merton</a> / <a href="/wiki/Myron_Scholes" title="Myron Scholes">Myron Scholes</a></li>
+<li><span style="font-size:90%;">1998</span> <a href="/wiki/Amartya_Sen" title="Amartya Sen">Amartya Sen</a></li>
+<li><span style="font-size:90%;">1999</span> <a href="/wiki/Robert_Mundell" title="Robert Mundell">Robert Mundell</a></li>
+<li><span style="font-size:90%;">2000</span> <a href="/wiki/James_Heckman" title="James Heckman">James Heckman</a> / <a href="/wiki/Daniel_McFadden" title="Daniel McFadden">Daniel McFadden</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2001–present</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="font-size:90%;">2001</span> <a href="/wiki/George_Akerlof" title="George Akerlof">George Akerlof</a> / <a href="/wiki/Michael_Spence" title="Michael Spence">Michael Spence</a> / <a href="/wiki/Joseph_Stiglitz" title="Joseph Stiglitz">Joseph E. Stiglitz</a></li>
+<li><span style="font-size:90%;">2002</span> <a href="/wiki/Daniel_Kahneman" title="Daniel Kahneman">Daniel Kahneman</a> / <a href="/wiki/Vernon_L._Smith" title="Vernon L. Smith">Vernon L. Smith</a></li>
+<li><span style="font-size:90%;">2003</span> <a href="/wiki/Robert_F._Engle" title="Robert F. Engle">Robert F. Engle</a> / <a href="/wiki/Clive_Granger" title="Clive Granger">Clive Granger</a></li>
+<li><span style="font-size:90%;">2004</span> <a href="/wiki/Finn_E._Kydland" title="Finn E. Kydland">Finn E. Kydland</a> / <a href="/wiki/Edward_C._Prescott" title="Edward C. Prescott">Edward C. Prescott</a></li>
+<li><span style="font-size:90%;">2005</span> <a href="/wiki/Robert_Aumann" title="Robert Aumann">Robert Aumann</a> / <a href="/wiki/Thomas_Schelling" title="Thomas Schelling">Thomas Schelling</a></li>
+<li><span style="font-size:90%;">2006</span> <a href="/wiki/Edmund_Phelps" title="Edmund Phelps">Edmund Phelps</a></li>
+<li><span style="font-size:90%;">2007</span> <a href="/wiki/Leonid_Hurwicz" title="Leonid Hurwicz">Leonid Hurwicz</a> / <a href="/wiki/Eric_Maskin" title="Eric Maskin">Eric Maskin</a> / <a href="/wiki/Roger_Myerson" title="Roger Myerson">Roger Myerson</a></li>
+<li><span style="font-size:90%;">2008</span> <a href="/wiki/Paul_Krugman" title="Paul Krugman">Paul Krugman</a></li>
+<li><span style="font-size:90%;">2009</span> <a href="/wiki/Elinor_Ostrom" title="Elinor Ostrom">Elinor Ostrom</a> / <a href="/wiki/Oliver_E._Williamson" title="Oliver E. Williamson">Oliver E. Williamson</a></li>
+<li><span style="font-size:90%;">2010</span> <a href="/wiki/Peter_Diamond" title="Peter Diamond">Peter A. Diamond</a> / <a href="/wiki/Dale_T._Mortensen" title="Dale T. Mortensen">Dale T. Mortensen</a> / <a href="/wiki/Christopher_A._Pissarides" title="Christopher A. Pissarides">Christopher A. Pissarides</a></li>
+<li><span style="font-size:90%;">2011</span> <a href="/wiki/Thomas_J._Sargent" title="Thomas J. Sargent">Thomas J. Sargent</a> / <a href="/wiki/Christopher_A._Sims" title="Christopher A. Sims">Christopher A. Sims</a></li>
+<li><span style="font-size:90%;">2012</span> <a href="/wiki/Alvin_E._Roth" title="Alvin E. Roth">Alvin E. Roth</a> / <a href="/wiki/Lloyd_Shapley" title="Lloyd Shapley">Lloyd S. Shapley</a></li>
+<li><span style="font-size:90%;">2013</span> <a href="/wiki/Eugene_Fama" title="Eugene Fama">Eugene Fama</a> / <a href="/wiki/Lars_Peter_Hansen" title="Lars Peter Hansen">Lars Peter Hansen</a> / <a href="/wiki/Robert_J._Shiller" title="Robert J. Shiller">Robert J. Shiller</a></li>
+<li><span style="font-size:90%;">2014</span> <a href="/wiki/Jean_Tirole" title="Jean Tirole">Jean Tirole</a></li>
+<li><span style="font-size:90%;">2015</span> <strong class="selflink">Angus Deaton</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n79-074344">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/85162145">85162145</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n79074344">n79074344</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni-url.oclc.nl/isni/0000000109211072">0000 0001 0921 1072</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/122003020">122003020</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/031997651">031997651</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12311000d">cb12311000d</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12311000d">(data)</a></span></li>
+<li><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.genealogy.ams.org/id.php?id=118907">118907</a></span></li>
+<li><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=skuk0002216&amp;CON_LNG=ENG">skuk0002216</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1132
+Cached time: 20151020024453
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.455 seconds
+Real time usage: 0.538 seconds
+Preprocessor visited node count: 2406/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 80992/2097152 bytes
+Template argument size: 2621/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.189/10.000 seconds
+Lua memory usage: 3.52 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  441.247      1 - -total
+ 24.88%  109.789      1 - Template:Reflist
+ 20.18%   89.033      1 - Template:Infobox_scientist
+ 17.78%   78.449      1 - Template:Infobox
+ 12.62%   55.665      1 - Template:Authority_control
+ 12.36%   54.549      6 - Template:Cite_book
+ 11.16%   49.244     11 - Template:Cite_web
+ 10.32%   45.521      2 - Template:Navbox
+  7.85%   34.625      1 - Template:About
+  6.52%   28.756      1 - Template:Nobel_laureates_in_economics
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2061221-0!*!0!!en!4!* and timestamp 20151020024453 and revision id 686567528
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Angus_Deaton&amp;oldid=686567528">https://en.wikipedia.org/w/index.php?title=Angus_Deaton&amp;oldid=686567528</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1945_births" title="Category:1945 births">1945 births</a></li><li><a href="/wiki/Category:Academics_of_the_University_of_Bristol" title="Category:Academics of the University of Bristol">Academics of the University of Bristol</a></li><li><a href="/wiki/Category:Alumni_of_Fitzwilliam_College,_Cambridge" title="Category:Alumni of Fitzwilliam College, Cambridge">Alumni of Fitzwilliam College, Cambridge</a></li><li><a href="/wiki/Category:American_economists" title="Category:American economists">American economists</a></li><li><a href="/wiki/Category:American_Nobel_laureates" title="Category:American Nobel laureates">American Nobel laureates</a></li><li><a href="/wiki/Category:British_economists" title="Category:British economists">British economists</a></li><li><a href="/wiki/Category:British_emigrants_to_the_United_States" title="Category:British emigrants to the United States">British emigrants to the United States</a></li><li><a href="/wiki/Category:British_Nobel_laureates" title="Category:British Nobel laureates">British Nobel laureates</a></li><li><a href="/wiki/Category:Fellows_of_Fitzwilliam_College,_Cambridge" title="Category:Fellows of Fitzwilliam College, Cambridge">Fellows of Fitzwilliam College, Cambridge</a></li><li><a href="/wiki/Category:Fellows_of_the_Econometric_Society" title="Category:Fellows of the Econometric Society">Fellows of the Econometric Society</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Microeconomists" title="Category:Microeconomists">Microeconomists</a></li><li><a href="/wiki/Category:Nobel_laureates_in_Economics" title="Category:Nobel laureates in Economics">Nobel laureates in Economics</a></li><li><a href="/wiki/Category:People_educated_at_Fettes_College" title="Category:People educated at Fettes College">People educated at Fettes College</a></li><li><a href="/wiki/Category:Princeton_University_faculty" title="Category:Princeton University faculty">Princeton University faculty</a></li><li><a href="/wiki/Category:Scottish_economists" title="Category:Scottish economists">Scottish economists</a></li><li><a href="/wiki/Category:Scottish_emigrants_to_the_United_States" title="Category:Scottish emigrants to the United States">Scottish emigrants to the United States</a></li><li><a href="/wiki/Category:Scottish_Nobel_laureates" title="Category:Scottish Nobel laureates">Scottish Nobel laureates</a></li><li><a href="/wiki/Category:People_from_Edinburgh" title="Category:People from Edinburgh">People from Edinburgh</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Spanish-language_sources_(es)" title="Category:CS1 Spanish-language sources (es)">CS1 Spanish-language sources (es)</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_October_2015" title="Category:Use dmy dates from October 2015">Use dmy dates from October 2015</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Angus+Deaton&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Angus+Deaton" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Angus_Deaton"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Angus_Deaton"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Angus_Deaton" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Angus_Deaton&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Angus_Deaton&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Angus_Deaton" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Angus_Deaton" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Angus_Deaton&amp;oldid=686567528" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Angus_Deaton&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q204078" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Angus_Deaton&amp;id=686567528" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Angus+Deaton">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Angus+Deaton&amp;returnto=Angus+Deaton&amp;oldid=686567528&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Angus_Deaton&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A3%D9%86%D8%BA%D9%88%D8%B3_%D8%AF%D9%8A%D8%AA%D9%88%D9%86" title="أنغوس ديتون – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Basque" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D9%86%DA%AF%D8%B3_%D8%AF%DB%8C%D8%AA%D9%86" title="انگس دیتن – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%95%B5%EA%B1%B0%EC%8A%A4_%EB%94%94%ED%84%B4" title="앵거스 디턴 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D4%B7%D5%B6%D5%A3%D5%B8%D6%82%D5%BD_%D4%B4%D5%AB%D5%A9%D5%B8%D5%B6" title="Էնգուս Դիթոն – Armenian" lang="hy" hreflang="hy">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%82%E0%A4%97%E0%A4%B8_%E0%A4%A1%E0%A5%80%E0%A4%9F%E0%A4%A8" title="एंगस डीटन – Hindi" lang="hi" hreflang="hi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%94%E1%83%9C%E1%83%92%E1%83%A3%E1%83%A1_%E1%83%93%E1%83%98%E1%83%A2%E1%83%9D%E1%83%9C%E1%83%98" title="ენგუს დიტონი – Georgian" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Latin" lang="la" hreflang="la">Latina</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D1%83%D1%81_%D0%94%D0%B8%D1%82%D0%BE%D0%BD" title="Ангус Дитон – Macedonian" lang="mk" hreflang="mk">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%86%E0%B4%82%E0%B4%97%E0%B4%B8%E0%B5%8D_%E0%B4%A1%E0%B5%80%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%BA" title="ആംഗസ് ഡീറ്റൺ – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%AC%E3%82%B9%E3%83%BB%E3%83%87%E3%82%A3%E3%83%BC%E3%83%88%E3%83%B3" title="アンガス・ディートン – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pa"><a href="//pa.wikipedia.org/wiki/%E0%A8%8F%E0%A8%82%E0%A8%97%E0%A8%B8_%E0%A8%A1%E0%A9%80%E0%A8%9F%E0%A8%A8" title="ਏਂਗਸ ਡੀਟਨ – Punjabi" lang="pa" hreflang="pa">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%82%D0%BE%D0%BD,_%D0%AD%D0%BD%D0%B3%D1%83%D1%81" title="Дитон, Энгус – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-scn"><a href="//scn.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Sicilian" lang="scn" hreflang="scn">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%9A%E0%AF%81_%E0%AE%9F%E0%AF%80%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%A9%E0%AF%8D" title="ஆங்கசு டீட்டன் – Tamil" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D1%83%D1%81_%D0%94%D1%96%D1%82%D0%BE%D0%BD" title="Ангус Дітон – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="//ur.wikipedia.org/wiki/%D8%A7%D9%86%DA%AF%D8%B3_%DA%88%DB%8C%D9%B9%D9%86" title="انگس ڈیٹن – Urdu" lang="ur" hreflang="ur">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Angus_Deaton" title="Angus Deaton – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%AE%89%E6%A0%BC%E6%96%AF%C2%B7%E8%BF%AA%E9%A1%BF" title="安格斯·迪顿 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q204078#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 October 2015, at 22:40.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Angus_Deaton&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1085"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

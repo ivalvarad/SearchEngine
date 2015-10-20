@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Brotherly Leader and Guide of the Revolution - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Brotherly_Leader_and_Guide_of_the_Revolution","wgTitle":"Brotherly Leader and Guide of the Revolution","wgCurRevisionId":673281320,"wgRevisionId":673281320,"wgArticleId":32860582,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Arabic-language text","Muammar Gaddafi","Politics of Libya","Positions of authority"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Brotherly_Leader_and_Guide_of_the_Revolution","wgRelevantArticleId":32860582,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Coat_of_arms_of_Libya_1977-2011.svg/100px-Coat_of_arms_of_Libya_1977-2011.svg.png","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2070798","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Brotherly_Leader_and_Guide_of_the_Revolution" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Brotherly_Leader_and_Guide_of_the_Revolution&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Brotherly_Leader_and_Guide_of_the_Revolution&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Brotherly_Leader_and_Guide_of_the_Revolution" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Brotherly_Leader_and_Guide_of_the_Revolution skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Brotherly Leader and Guide of the Revolution</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Brotherly Leader and Guide of the Revolution</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.4em; border-bottom:solid 1px #ccd2d9;"><a href="/wiki/File:Coat_of_arms_of_Libya_1977-2011.svg" class="image"><img alt="Coat of arms of Libya 1977-2011.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Coat_of_arms_of_Libya_1977-2011.svg/120px-Coat_of_arms_of_Libya_1977-2011.svg.png" width="120" height="115" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Coat_of_arms_of_Libya_1977-2011.svg/180px-Coat_of_arms_of_Libya_1977-2011.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Coat_of_arms_of_Libya_1977-2011.svg/240px-Coat_of_arms_of_Libya_1977-2011.svg.png 2x" data-file-width="442" data-file-height="424" /></a>
+<div><b><a href="/wiki/Coat_of_arms_of_Libya" title="Coat of arms of Libya">Coat of arms</a></b></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="padding-bottom:0.4em; border-bottom:solid 1px #ccd2d9; line-height:1.4em;">
+<div style="padding-bottom:0.4em;"><a href="/wiki/File:Muammar_al-Gaddafi_at_the_AU_summit.jpg" class="image"><img alt="Muammar al-Gaddafi at the AU summit.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/120px-Muammar_al-Gaddafi_at_the_AU_summit.jpg" width="120" height="180" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/180px-Muammar_al-Gaddafi_at_the_AU_summit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/240px-Muammar_al-Gaddafi_at_the_AU_summit.jpg 2x" data-file-width="2832" data-file-height="4256" /></a></div>
+<b>Muammar Gaddafi</b></div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Style</a></th>
+<td><a href="/wiki/Excellency" title="Excellency">His Excellency</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Official_residence" title="Official residence">Residence</a></th>
+<td><a href="/wiki/Bab_al-Azizia" title="Bab al-Azizia">Bab al-Azizia</a></td>
+</tr>
+<tr>
+<th scope="row">Formation</th>
+<td>2 March 1979</td>
+</tr>
+<tr>
+<th scope="row">First holder</th>
+<td><a href="/wiki/Muammar_Gaddafi" title="Muammar Gaddafi">Muammar Gaddafi</a></td>
+</tr>
+<tr>
+<th scope="row">Final holder</th>
+<td><a href="/wiki/Muammar_Gaddafi" title="Muammar Gaddafi">Muammar Gaddafi</a></td>
+</tr>
+<tr>
+<th scope="row">Abolished</th>
+<td>20 October 2011</td>
+</tr>
+</table>
+<table class="vertical-navbox vcard" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:18.0em;">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">
+<div class="adr" style="font-size:smaller"><span class="fn org country-name"><a href="/wiki/Libyan_Arab_Jamahiriya" title="Libyan Arab Jamahiriya" class="mw-redirect">Libyan Arab Jamahiriya</a></span></div>
+</th>
+</tr>
+<tr>
+<td><a href="/wiki/File:Coat_of_arms_of_Libya_1977-2011.svg" class="image"><img alt="Coat of arms of Libya 1977-2011.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Coat_of_arms_of_Libya_1977-2011.svg/125px-Coat_of_arms_of_Libya_1977-2011.svg.png" width="125" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Coat_of_arms_of_Libya_1977-2011.svg/188px-Coat_of_arms_of_Libya_1977-2011.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Coat_of_arms_of_Libya_1977-2011.svg/250px-Coat_of_arms_of_Libya_1977-2011.svg.png 2x" data-file-width="442" data-file-height="424" /></a></td>
+</tr>
+<tr>
+<td style="border-bottom: #aaa 1px solid">This article is part of a series on the<br />
+<span style="font-weight:bold"><a href="/wiki/Politics_of_Libya_under_Muammar_Gaddafi" title="Politics of Libya under Muammar Gaddafi">politics and government of<br />
+Libya under Muammar Gaddafi</a></span></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Constitution</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul>
+<li><a href="/wiki/Politics_of_Libya_under_Muammar_Gaddafi#Jamahiriya_sector" title="Politics of Libya under Muammar Gaddafi">Jamahiriya</a></li>
+<li><a href="/wiki/Declaration_on_the_Establishment_of_the_Authority_of_the_People" title="Declaration on the Establishment of the Authority of the People">People's Authority</a></li>
+<li><a href="/wiki/The_Green_Book_(Muammar_Gaddafi)" title="The Green Book (Muammar Gaddafi)">The Green Book</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Executive</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul>
+<li><strong class="selflink">Brotherly Leader</strong>
+<ul>
+<li><a href="/wiki/Muammar_Gaddafi" title="Muammar Gaddafi">Muammar Gaddafi</a></li>
+</ul>
+</li>
+<li><a href="/wiki/General_People%27s_Committee" title="General People's Committee">General People's Committee</a>
+<ul>
+<li><a href="/wiki/List_of_heads_of_government_of_Libya" title="List of heads of government of Libya">Secretary-General</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Legislature</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul>
+<li><a href="/wiki/General_People%27s_Congress_(Libya)" title="General People's Congress (Libya)">General People's Congress</a>
+<ul>
+<li><a href="/wiki/List_of_heads_of_state_of_Libya" title="List of heads of state of Libya">Secretary-General</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Basic_People%27s_Congress_(political)" title="Basic People's Congress (political)">Basic People's Congress</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Judiciary</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul>
+<li>Supreme Court</li>
+<li>Courts of Appeal</li>
+<li>Courts of First Instance</li>
+<li>Summary Court</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Subdivisions_of_Libya" title="Subdivisions of Libya">Subdivisions</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul>
+<li><a href="/wiki/Districts_of_Libya" title="Districts of Libya">Districts</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Foreign Policy</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul>
+<li><a href="/wiki/Foreign_relations_of_Libya_under_Muammar_Gaddafi" title="Foreign relations of Libya under Muammar Gaddafi">Foreign Relations</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Related</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul>
+<li><a href="/wiki/History_of_Libya_under_Muammar_Gaddafi" title="History of Libya under Muammar Gaddafi">History of Libya</a></li>
+<li><a href="/wiki/Third_International_Theory" title="Third International Theory">Third International Theory</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;">
+<div class="hlist" style="text-align:center;font-size:90%;font-weight:normal;">
+<ul>
+<li><a href="/wiki/Outline_of_political_science#Politics_by_region" title="Outline of political science">Other countries</a></li>
+<li><a href="//commons.wikimedia.org/wiki/Atlas_of_Libya" class="extiw" title="commons:Atlas of Libya">Atlas</a></li>
+</ul>
+<p><span class="metadata"><a href="/wiki/File:A_coloured_voting_box.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/16px-A_coloured_voting_box.svg.png" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/24px-A_coloured_voting_box.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/32px-A_coloured_voting_box.svg.png 2x" data-file-width="160" data-file-height="160" /></a></span> <a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></p>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/w/index.php?title=Template:Politics_of_the_Libyan_Arab_Jamahiriya&amp;action=edit&amp;redlink=1" class="new" title="Template:Politics of the Libyan Arab Jamahiriya (page does not exist)"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Politics_of_the_Libyan_Arab_Jamahiriya&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Politics of the Libyan Arab Jamahiriya (page does not exist)"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Politics_of_the_Libyan_Arab_Jamahiriya&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><br />
+The <b>Brotherly Leader and Guide of the Revolution</b> (<a href="/wiki/Arabic_language" title="Arabic language" class="mw-redirect">Arabic</a>: <span lang="ar" dir="rtl" xml:lang="ar">الشقيق القائد ومرشد الثورة</span>‎) was an unofficial title held by former <a href="/wiki/Libya" title="Libya">Libyan</a> leader <a href="/wiki/Muammar_Gaddafi" title="Muammar Gaddafi">Muammar Gaddafi</a>, who claimed to be merely a symbolic figurehead of the country's official <a href="/wiki/General_People%27s_Committee" title="General People's Committee">governance structure</a>.<sup id="cite_ref-telegraph_gaddafi_1-0" class="reference"><a href="#cite_note-telegraph_gaddafi-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-jazeera_gaddafi_2-0" class="reference"><a href="#cite_note-jazeera_gaddafi-2"><span>[</span>2<span>]</span></a></sup> However, critics have long described him as a <a href="/wiki/Demagogue" title="Demagogue">demagogue</a>,<sup id="cite_ref-nytimes_green_3-0" class="reference"><a href="#cite_note-nytimes_green-3"><span>[</span>3<span>]</span></a></sup> referring to his position as the <i><a href="/wiki/De_jure" title="De jure">de jure</a></i> former <a href="/wiki/Political_office" title="Political office" class="mw-redirect">political office</a>, despite the Libyan state's denial of him holding any power.<sup id="cite_ref-telegraph_gaddafi_1-1" class="reference"><a href="#cite_note-telegraph_gaddafi-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-jazeera_gaddafi_2-1" class="reference"><a href="#cite_note-jazeera_gaddafi-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Political_system_of_Libya_under_Gaddafi"><span class="tocnumber">2</span> <span class="toctext">Political system of Libya under Gaddafi</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Brotherly_Leader_and_Guide_of_the_Revolution"><span class="tocnumber">3</span> <span class="toctext">Brotherly Leader and Guide of the Revolution</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brotherly_Leader_and_Guide_of_the_Revolution&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/History_of_Libya_under_Muammar_Gaddafi" title="History of Libya under Muammar Gaddafi">History of Libya under Muammar Gaddafi</a></div>
+<p>After the <a href="/wiki/History_of_Libya_under_Muammar_Gaddafi#Coup_d.27.C3.A9tat_of_1969" title="History of Libya under Muammar Gaddafi">coup d'état on 1 September 1969</a>, in which <a href="/wiki/Idris_of_Libya" title="Idris of Libya">King Idris I</a> was deposed, Libya was governed by the <a href="/wiki/Libyan_Revolutionary_Command_Council" title="Libyan Revolutionary Command Council">Revolutionary Command Council</a> (RCC) headed by Gaddafi. On 2 March 1977, after the adoption of the <i>Declaration on the Establishment of the Authority of the People</i>, the RCC was abolished and the supreme power passed into the hands of the <a href="/wiki/General_People%27s_Congress_(Libya)" title="General People's Congress (Libya)">General People's Congress</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> Gaddafi then became Secretary-General of the General People's Congress.</p>
+<p>On 2 March 1979, Gaddafi renounced all public functions and was designated the "Leader" (<i><span title="DIN 31635 Arabic" class="Unicode" style="white-space:normal; text-decoration: none">Qāʾid</span></i>) of the Libyan state and was accorded the honorifics "Guide of the First of September Great Revolution of the Socialist People's Libyan Arab Jamahiriya" or "Brotherly Leader and Guide of the Revolution" in government statements and the official press.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Although this title was officially used only from 1979, it is often applied for the <a href="/wiki/History_of_Libya_under_Muammar_Gaddafi" title="History of Libya under Muammar Gaddafi">whole period of Gaddafi's rule</a>. Although Gaddafi had no official government function from 1979, it was understood that he exercised near-absolute control over the government and the country. His 42 years in power prior to the <a href="/wiki/2011_Libyan_Civil_War" title="2011 Libyan Civil War" class="mw-redirect">civil war</a> in 2011 have made him the fourth <a href="/wiki/List_of_longest_ruling_non-royal_national_leaders_since_1870" title="List of longest ruling non-royal national leaders since 1870" class="mw-redirect">longest-ruling non-royal national leader</a> since 1870, as well as the longest-ruling Arab leader.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>Although <a href="/wiki/Battle_of_Tripoli_(2011)" title="Battle of Tripoli (2011)">ousted from Tripoli</a> at the end of August 2011, Gaddafi retained this <i>de facto</i> position as leader of the <a href="/wiki/Armed_Forces_of_the_Libyan_Arab_Jamahiriya" title="Armed Forces of the Libyan Arab Jamahiriya">Pro-Gaddafi forces</a>, until his defeat and <a href="/wiki/Death_of_Muammar_Gaddafi" title="Death of Muammar Gaddafi">murder</a> by the <a href="/wiki/National_Liberation_Army_(Libya)" title="National Liberation Army (Libya)">Anti-Gaddafi forces</a> in the <a href="/wiki/Battle_of_Sirte_(2011)" title="Battle of Sirte (2011)">Battle of Sirte</a> on 20 October 2011.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Political_system_of_Libya_under_Gaddafi">Political system of Libya under Gaddafi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brotherly_Leader_and_Guide_of_the_Revolution&amp;action=edit&amp;section=2" title="Edit section: Political system of Libya under Gaddafi">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Politics_of_Libya_under_Muammar_Gaddafi" title="Politics of Libya under Muammar Gaddafi">Politics of Libya under Muammar Gaddafi</a></div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:232px;"><a href="/wiki/File:Green_book.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Green_book.jpg/230px-Green_book.jpg" width="230" height="173" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Green_book.jpg/345px-Green_book.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Green_book.jpg/460px-Green_book.jpg 2x" data-file-width="2272" data-file-height="1704" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Green_book.jpg" class="internal" title="Enlarge"></a></div>
+The Green Book</div>
+</div>
+</div>
+<p>The Libyan Arab Jamahiriya was formally managed on the basis of political ideology set out in <a href="/wiki/The_Green_Book_(Muammar_Gaddafi)" title="The Green Book (Muammar Gaddafi)">The Green Book</a>. The ideology was based on the idea of <a href="/wiki/Direct_democracy" title="Direct democracy">direct democracy</a>, and direct decision-making of all citizens on all political matters. Across the country there were the basic people's congresses, which were considered the original holders of sovereignty. These included the composition of its adult citizens - both men and women. Of their managerial and executive bodies formed the municipal people's congresses and committees, and then the General People's Congress (legislative body) and the <a href="/wiki/General_People%27s_Committee" title="General People's Committee">General People's Committee</a> (executive body).</p>
+<p>Gaddafi rejected the parliamentary representation of the people or by elected representatives, as the General People's Congress was seen as a coordinating body that brought together all the popular congresses and committees, and not elected members who made decisions on behalf of the people. All laws were approved by the basic people's congresses, and then finally adopted by the General People's Congress.</p>
+<h2><span class="mw-headline" id="Brotherly_Leader_and_Guide_of_the_Revolution">Brotherly Leader and Guide of the Revolution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brotherly_Leader_and_Guide_of_the_Revolution&amp;action=edit&amp;section=3" title="Edit section: Brotherly Leader and Guide of the Revolution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><map name="timeline_ec4d174c34bbbd46dc293586e90be079" id="timeline_ec4d174c34bbbd46dc293586e90be079">
+<area shape="rect" href="/wiki/Muammar_Gaddafi" coords="8,5,146,29" title="Muammar Gaddafi" alt="Muammar Gaddafi" /></map><img usemap="#timeline_ec4d174c34bbbd46dc293586e90be079" src="//upload.wikimedia.org/wikipedia/en/timeline/ec4d174c34bbbd46dc293586e90be079.png" /></p>
+<table class="wikitable" border="1" style="font-size:90%">
+<tr>
+<th align="center" width="100">Picture</th>
+<th align="center" width="150">Name</th>
+<th align="left">Offices held</th>
+<th colspan="2">Period</th>
+<th align="center">Ideology</th>
+</tr>
+<tr>
+<td align="center" rowspan="5" bgcolor="#8DD49F"><a href="/wiki/File:Muammar_al-Gaddafi_at_the_AU_summit.jpg" class="image"><img alt="Muammar al-Gaddafi at the AU summit.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/100px-Muammar_al-Gaddafi_at_the_AU_summit.jpg" width="100" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/150px-Muammar_al-Gaddafi_at_the_AU_summit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/200px-Muammar_al-Gaddafi_at_the_AU_summit.jpg 2x" data-file-width="2832" data-file-height="4256" /></a></td>
+<td rowspan="5" bgcolor="#8DD49F"><a href="/wiki/Colonel" title="Colonel">Colonel</a><br />
+<b><a href="/wiki/Muammar_Gaddafi" title="Muammar Gaddafi">Muammar Gaddafi</a></b><br />
+<span style="font-size:125%;">مُعَمَّر القَذَّافِي</span><small><br />
+(1942–2011)<br />
+<a href="/wiki/File:Muammar_al-Gaddafi_Signature.svg" class="image"><img alt="Muammar al-Gaddafi Signature.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Muammar_al-Gaddafi_Signature.svg/100px-Muammar_al-Gaddafi_Signature.svg.png" width="100" height="95" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Muammar_al-Gaddafi_Signature.svg/150px-Muammar_al-Gaddafi_Signature.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Muammar_al-Gaddafi_Signature.svg/200px-Muammar_al-Gaddafi_Signature.svg.png 2x" data-file-width="171" data-file-height="163" /></a></small></td>
+</tr>
+<tr>
+<td><a href="/wiki/List_of_heads_of_state_of_Libya" title="List of heads of state of Libya">Chairman</a> of the <a href="/wiki/Libyan_Revolutionary_Command_Council" title="Libyan Revolutionary Command Council">Revolutionary Command Council</a></td>
+<td>September 1, 1969 – March 2, 1977</td>
+<td align="center" rowspan="4">September 1, 1969<br />
+↓<br />
+October 20, 2011<br />
+(<span style="display:none" class="sortkey">7009132965280000000♠</span>42&#160;years, 49&#160;days)</td>
+<td align="center" rowspan="4"><a href="/wiki/Third_International_Theory" title="Third International Theory">Third International Theory</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/List_of_heads_of_government_of_Libya" title="List of heads of government of Libya">Prime Minister of Libya</a></td>
+<td>January 16, 1970 – July 16, 1972</td>
+</tr>
+<tr>
+<td><a href="/wiki/List_of_heads_of_state_of_Libya" title="List of heads of state of Libya">Secretary-General</a> of the <a href="/wiki/General_People%27s_Congress_(Libya)" title="General People's Congress (Libya)">General People's Congress</a></td>
+<td>March 2, 1977 – March 2, 1979</td>
+</tr>
+<tr>
+<td>Brotherly Leader and Guide of the Revolution</td>
+<td>March 2, 1979 – October 20, 2011</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brotherly_Leader_and_Guide_of_the_Revolution&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_heads_of_state_of_Libya" title="List of heads of state of Libya">List of heads of state of Libya</a></li>
+<li><a href="/wiki/List_of_heads_of_government_of_Libya" title="List of heads of government of Libya">List of heads of government of Libya</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brotherly_Leader_and_Guide_of_the_Revolution&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-telegraph_gaddafi-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-telegraph_gaddafi_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-telegraph_gaddafi_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Wynne-Jones, Jonathan (19 March 2011). <a rel="nofollow" class="external text" href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8393285/Libyan-minister-claims-Gaddafi-is-powerless-and-the-ceasefire-is-solid.html">"Libyan minister claims Gaddafi is powerless and the ceasefire is 'solid<span style="padding-right:0.2em;">'</span>"</a>. <i>The Daily Telegraph</i> (London)<span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrotherly+Leader+and+Guide+of+the+Revolution&amp;rft.atitle=Libyan+minister+claims+Gaddafi+is+powerless+and+the+ceasefire+is+%27solid%27&amp;rft.aufirst=Jonathan&amp;rft.aulast=Wynne-Jones&amp;rft.date=19+March+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fworldnews%2Fafricaandindianocean%2Flibya%2F8393285%2FLibyan-minister-claims-Gaddafi-is-powerless-and-the-ceasefire-is-solid.html&amp;rft.jtitle=The+Daily+Telegraph&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-jazeera_gaddafi-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-jazeera_gaddafi_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-jazeera_gaddafi_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.aljazeera.com/news/africa/2011/03/201132113120236750.html">"Gaddafi: Libya dignity under attack"</a>. <i><a href="/wiki/Al_Jazeera" title="Al Jazeera">Al Jazeera</a></i>. 2 March 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrotherly+Leader+and+Guide+of+the+Revolution&amp;rft.btitle=Gaddafi%3A+Libya+dignity+under+attack&amp;rft.date=2+March+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.aljazeera.com%2Fnews%2Fafrica%2F2011%2F03%2F201132113120236750.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nytimes_green-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-nytimes_green_3-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Bazzi, Mohamad (27 May 2011). <a rel="nofollow" class="external text" href="http://www.nytimes.com/2011/05/29/books/review/what-did-qaddafis-green-book-really-say.html">"What Did Qaddafi’s Green Book Really Say?"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 October</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrotherly+Leader+and+Guide+of+the+Revolution&amp;rft.atitle=What+Did+Qaddafi%E2%80%99s+Green+Book+Really+Say%3F&amp;rft.aufirst=Mohamad&amp;rft.aulast=Bazzi&amp;rft.date=27+May+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2011%2F05%2F29%2Fbooks%2Freview%2Fwhat-did-qaddafis-green-book-really-say.html&amp;rft.jtitle=The+New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.servat.unibe.ch/icl/ly01000_.html">Text of the Declaration</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(English)</span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">US Department of State's Background Notes, (Nov. 2005) <a rel="nofollow" class="external text" href="http://www.state.gov/r/pa/ei/bgn/5425.htm"><u>"Libya - History"</u></a>, <i>U.S. Dept. of State</i>, Accessed July 14, 2006</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Charles Féraud, "Annales Tripolitaines", the Arabic version named "Al Hawliyat Al Libiya", translated to Arabic by Mohammed Abdel Karim El Wafi, Dar el Ferjani, Tripoli, Libya, vol. 3, p.797.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.aljazeera.com/news/africa/2011/10/20111020111520869621.html">"Muammar Gaddafi killed in Sirte"</a>. Al Jazeera English. 2011-10-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrotherly+Leader+and+Guide+of+the+Revolution&amp;rft.btitle=Muammar+Gaddafi+killed+in+Sirte&amp;rft.date=2011-10-20&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.aljazeera.com%2Fnews%2Fafrica%2F2011%2F10%2F20111020111520869621.html&amp;rft.pub=Al+Jazeera+English&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Muammar_Gaddafi" title="Template:Muammar Gaddafi"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Muammar_Gaddafi" title="Template talk:Muammar Gaddafi"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Muammar_Gaddafi&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Muammar_Gaddafi" title="Muammar Gaddafi">Muammar Gaddafi</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">History and politics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_Libya_under_Muammar_Gaddafi" title="History of Libya under Muammar Gaddafi">History of Libya under Muammar Gaddafi</a></li>
+<li><a href="/wiki/Politics_of_Libya_under_Muammar_Gaddafi" title="Politics of Libya under Muammar Gaddafi">Domestic politics</a></li>
+<li><a href="/wiki/Foreign_relations_of_Libya_under_Muammar_Gaddafi" title="Foreign relations of Libya under Muammar Gaddafi">Foreign relations</a></li>
+<li><a href="/wiki/Cultural_Revolution_(Libya)" title="Cultural Revolution (Libya)">Cultural Revolution</a></li>
+<li><a href="/wiki/Third_International_Theory" title="Third International Theory">Third International Theory</a></li>
+<li><i><a href="/wiki/Escape_to_Hell" title="Escape to Hell">Escape to Hell</a></i></li>
+<li><i><a href="/wiki/The_Green_Book_(Muammar_Gaddafi)" title="The Green Book (Muammar Gaddafi)">The Green Book</a></i></li>
+<li><a href="/wiki/Death_of_Muammar_Gaddafi" title="Death of Muammar Gaddafi">Death</a>
+<ul>
+<li><a href="/wiki/International_reactions_to_the_death_of_Muammar_Gaddafi" title="International reactions to the death of Muammar Gaddafi">international reactions</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Muammar_al-Gaddafi_at_the_AU_summit.jpg" class="image" title="Muammar Gaddafi"><img alt="Muammar Gaddafi" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/80px-Muammar_al-Gaddafi_at_the_AU_summit.jpg" width="80" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/120px-Muammar_al-Gaddafi_at_the_AU_summit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/160px-Muammar_al-Gaddafi_at_the_AU_summit.jpg 2x" data-file-width="2832" data-file-height="4256" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Spouses</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Fathia Khaled <small>(1969–1971 divorced)</small></li>
+<li><a href="/wiki/Safia_Farkash" title="Safia Farkash">Safia Farkash</a> <small>(1971–2011)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Family</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Muhammad_Gaddafi" title="Muhammad Gaddafi">Muhammad Gaddafi</a> <small>(first son)</small></li>
+<li><a href="/wiki/Saif_al-Islam_Gaddafi" title="Saif al-Islam Gaddafi">Saif al-Islam Gaddafi</a> <small>(second son)</small></li>
+<li><a href="/wiki/Al-Saadi_Gaddafi" title="Al-Saadi Gaddafi">Al-Saadi Gaddafi</a> <small>(third son)</small></li>
+<li><a href="/wiki/Mutassim_Gaddafi" title="Mutassim Gaddafi">Mutassim Gaddafi</a> <small>(fourth son)</small></li>
+<li><a href="/wiki/Hannibal_Muammar_Gaddafi" title="Hannibal Muammar Gaddafi">Hannibal Muammar Gaddafi</a> <small>(fifth son)</small></li>
+<li><a href="/wiki/Ayesha_Gaddafi" title="Ayesha Gaddafi">Ayesha Gaddafi</a> <small>(daughter)</small></li>
+<li><a href="/wiki/Saif_al-Arab_Gaddafi" title="Saif al-Arab Gaddafi">Saif al-Arab Gaddafi</a> <small>(sixth son)</small></li>
+<li><a href="/wiki/Khamis_Gaddafi" title="Khamis Gaddafi">Khamis Gaddafi</a> <small>(seventh son)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Al-Gaddafi_International_Prize_for_Human_Rights" title="Al-Gaddafi International Prize for Human Rights">Al-Gaddafi International Prize for Human Rights</a></li>
+<li><a href="/wiki/Amazonian_Guard" title="Amazonian Guard">Amazonian Guard</a></li>
+<li><a href="/wiki/Bab_al-Azizia" title="Bab al-Azizia">Bab al-Azizia</a></li>
+<li><strong class="selflink">Brotherly Leader and Guide of the Revolution</strong></li>
+<li><a href="/wiki/Gaddafi_International_Foundation_for_Charity_Associations" title="Gaddafi International Foundation for Charity Associations">GICDF</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Namesakes</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gaddafi_Mosque" title="Gaddafi Mosque">Gaddafi Mosque</a> (Tanzania)</li>
+<li><a href="/wiki/Gaddafi_National_Mosque" title="Gaddafi National Mosque">Gaddafi National Mosque</a> (Uganda)</li>
+<li><a href="/wiki/Gaddafi_Stadium" title="Gaddafi Stadium">Gaddafi Stadium</a> (Pakistan)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div><b><a href="/wiki/Portal:Libya" title="Portal:Libya">Libya portal</a></b></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1086
+Cached time: 20151015190559
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.289 seconds
+Real time usage: 0.631 seconds
+Preprocessor visited node count: 1256/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 41122/2097152 bytes
+Template argument size: 1144/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 2/500
+Lua time usage: 0.101/10.000 seconds
+Lua memory usage: 2.35 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  545.127      1 - -total
+ 10.99%   59.930      1 - Template:Infobox_official_post
+  9.99%   54.457      1 - Template:Infobox
+  8.04%   43.808      1 - Template:Politics_of_Libya_under_Muammar_Gaddafi
+  7.40%   40.337      1 - Template:Sidebar_with_collapsible_lists
+  6.69%   36.492      2 - Template:Cite_news
+  6.59%   35.920      1 - Template:Lang-ar
+  6.18%   33.696      1 - Template:Language_with_name
+  5.72%   31.168      1 - Template:Lang
+  5.59%   30.474      2 - Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:32860582-0!*!0!!en!4!* and timestamp 20151015190559 and revision id 673281320
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Brotherly_Leader_and_Guide_of_the_Revolution&amp;oldid=673281320">https://en.wikipedia.org/w/index.php?title=Brotherly_Leader_and_Guide_of_the_Revolution&amp;oldid=673281320</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Muammar_Gaddafi" title="Category:Muammar Gaddafi">Muammar Gaddafi</a></li><li><a href="/wiki/Category:Politics_of_Libya" title="Category:Politics of Libya">Politics of Libya</a></li><li><a href="/wiki/Category:Positions_of_authority" title="Category:Positions of authority">Positions of authority</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Brotherly+Leader+and+Guide+of+the+Revolution&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Brotherly+Leader+and+Guide+of+the+Revolution" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Brotherly_Leader_and_Guide_of_the_Revolution"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Brotherly_Leader_and_Guide_of_the_Revolution"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Brotherly_Leader_and_Guide_of_the_Revolution" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Brotherly_Leader_and_Guide_of_the_Revolution&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Brotherly_Leader_and_Guide_of_the_Revolution&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Brotherly_Leader_and_Guide_of_the_Revolution" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Brotherly_Leader_and_Guide_of_the_Revolution" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Brotherly_Leader_and_Guide_of_the_Revolution&amp;oldid=673281320" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Brotherly_Leader_and_Guide_of_the_Revolution&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2070798" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Brotherly_Leader_and_Guide_of_the_Revolution&amp;id=673281320" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Brotherly+Leader+and+Guide+of+the+Revolution">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Brotherly+Leader+and+Guide+of+the+Revolution&amp;returnto=Brotherly+Leader+and+Guide+of+the+Revolution&amp;oldid=673281320&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Brotherly_Leader_and_Guide_of_the_Revolution&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/L%C3%ADder_y_Gu%C3%ADa_de_la_Revoluci%C3%B3n" title="Líder y Guía de la Revolución – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B6%D0%B4%D1%8C_%D0%B8_%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%B8" title="Братский вождь и руководитель революции – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B1%D0%B8%D1%98%D1%81%D0%BA%D0%B8_%D0%B2%D0%BE%D1%92%D0%B0" title="Либијски вођа – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q2070798#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 July 2015, at 09:46.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Brotherly_Leader_and_Guide_of_the_Revolution&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1040"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Portal, California - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Portal,_California","wgTitle":"Portal, California","wgCurRevisionId":408031886,"wgRevisionId":408031886,"wgArticleId":22817748,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Fresno County, California articles missing geocoordinate data","All articles needing coordinates","Former settlements in Fresno County, California","Former populated places in California","All stub articles","Fresno County, California geography stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Portal,_California","wgRelevantArticleId":22817748,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7231466","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Portal,_California" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Portal,_California&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Portal,_California&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Portal,_California" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Portal_California skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Portal, California</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Portal</b> is a former settlement in <a href="/wiki/Fresno_County,_California" title="Fresno County, California">Fresno County</a>, <a href="/wiki/California" title="California">California</a>.<sup id="cite_ref-CGN_1-0" class="reference"><a href="#cite_note-CGN-1"><span>[</span>1<span>]</span></a></sup> It was located on the railroad between <a href="/wiki/Shaver,_California" title="Shaver, California">Shaver</a> and <a href="/wiki/Big_Creek,_California" title="Big Creek, California">Big Creek</a>.<sup id="cite_ref-CGN_1-1" class="reference"><a href="#cite_note-CGN-1"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Portal,_California&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-CGN-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-CGN_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CGN_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Durham, David L. (1998). <i>California's Geographic Names: A Gazetteer of Historic and Modern Names of the State</i>. Clovis, Calif.: Word Dancer Press. p.&#160;1002. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-884995-14-4" title="Special:BookSources/1-884995-14-4">1-884995-14-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APortal%2C+California&amp;rft.aufirst=David+L.&amp;rft.aulast=Durham&amp;rft.btitle=California%27s+Geographic+Names%3A+A+Gazetteer+of+Historic+and+Modern+Names+of+the+State&amp;rft.date=1998&amp;rft.genre=book&amp;rft.isbn=1-884995-14-4&amp;rft.pages=1002&amp;rft.place=Clovis%2C+Calif.&amp;rft.pub=Word+Dancer+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background:#ffc94b;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Fresno_County,_California" title="Template:Fresno County, California"><span title="View this template" style=";background:#ffc94b;;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Fresno_County,_California" title="Template talk:Fresno County, California"><span title="Discuss this template" style=";background:#ffc94b;;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Fresno_County,_California&amp;action=edit"><span title="Edit this template" style=";background:#ffc94b;;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="adr" style="font-size:114%">Municipalities and communities of <a href="/wiki/Fresno_County,_California" title="Fresno County, California"><span class="region">Fresno County, California</span></a>, <span class="country-name">United States</span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="background:#ffc94b;">
+<div><a href="/wiki/County_seat" title="County seat"><span>County seat</span></a>: <b><a href="/wiki/Fresno,_California" title="Fresno, California"><span>Fresno</span></a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#ffc94b;"><a href="/wiki/List_of_cities_and_towns_in_California" title="List of cities and towns in California">Cities</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Clovis,_California" title="Clovis, California">Clovis</a></li>
+<li><a href="/wiki/Coalinga,_California" title="Coalinga, California">Coalinga</a></li>
+<li><a href="/wiki/Firebaugh,_California" title="Firebaugh, California">Firebaugh</a></li>
+<li><a href="/wiki/Fowler,_California" title="Fowler, California">Fowler</a></li>
+<li><a href="/wiki/Fresno,_California" title="Fresno, California">Fresno</a></li>
+<li><a href="/wiki/Huron,_California" title="Huron, California">Huron</a></li>
+<li><a href="/wiki/Kerman,_California" title="Kerman, California">Kerman</a></li>
+<li><a href="/wiki/Kingsburg,_California" title="Kingsburg, California">Kingsburg</a></li>
+<li><a href="/wiki/Mendota,_California" title="Mendota, California">Mendota</a></li>
+<li><a href="/wiki/Orange_Cove,_California" title="Orange Cove, California">Orange Cove</a></li>
+<li><a href="/wiki/Parlier,_California" title="Parlier, California">Parlier</a></li>
+<li><a href="/wiki/Reedley,_California" title="Reedley, California">Reedley</a></li>
+<li><a href="/wiki/San_Joaquin,_California" title="San Joaquin, California">San Joaquin</a></li>
+<li><a href="/wiki/Sanger,_California" title="Sanger, California">Sanger</a></li>
+<li><a href="/wiki/Selma,_California" title="Selma, California">Selma</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div>
+<div class="center">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Map_of_California_highlighting_Fresno_County.svg/87px-Map_of_California_highlighting_Fresno_County.svg.png" title="Fresno County map" width="87" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Map_of_California_highlighting_Fresno_County.svg/130px-Map_of_California_highlighting_Fresno_County.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Map_of_California_highlighting_Fresno_County.svg/174px-Map_of_California_highlighting_Fresno_County.svg.png 2x" data-file-width="9164" data-file-height="10536" /></div>
+</div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#ffc94b;"><a href="/wiki/Census-designated_place" title="Census-designated place">CDPs</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Auberry,_California" title="Auberry, California">Auberry</a></li>
+<li><a href="/wiki/Big_Creek,_California" title="Big Creek, California">Big Creek</a></li>
+<li><a href="/wiki/Biola,_California" title="Biola, California">Biola</a></li>
+<li><a href="/wiki/Bowles,_California" title="Bowles, California">Bowles</a></li>
+<li><a href="/wiki/Calwa,_California" title="Calwa, California">Calwa</a></li>
+<li><a href="/wiki/Cantua_Creek,_California" title="Cantua Creek, California">Cantua Creek</a></li>
+<li><a href="/wiki/Caruthers,_California" title="Caruthers, California">Caruthers</a></li>
+<li><a href="/wiki/Centerville,_Fresno_County,_California" title="Centerville, Fresno County, California">Centerville</a></li>
+<li><a href="/wiki/Del_Rey,_California" title="Del Rey, California">Del Rey</a></li>
+<li><a href="/wiki/Easton,_California" title="Easton, California">Easton</a></li>
+<li><a href="/wiki/Fort_Washington,_California" title="Fort Washington, California">Fort Washington</a></li>
+<li><a href="/wiki/Friant,_California" title="Friant, California">Friant</a></li>
+<li><a href="/wiki/Lanare,_California" title="Lanare, California">Lanare</a></li>
+<li><a href="/wiki/Laton,_California" title="Laton, California">Laton</a></li>
+<li><a href="/wiki/Malaga,_California" title="Malaga, California">Malaga</a></li>
+<li><a href="/wiki/Mayfair,_Fresno_County,_California" title="Mayfair, Fresno County, California">Mayfair</a></li>
+<li><a href="/wiki/Minkler,_California" title="Minkler, California">Minkler</a></li>
+<li><a href="/wiki/Monmouth,_California" title="Monmouth, California">Monmouth</a></li>
+<li><a href="/wiki/Old_Fig_Garden,_California" title="Old Fig Garden, California">Old Fig Garden</a></li>
+<li><a href="/wiki/Raisin_City,_California" title="Raisin City, California">Raisin City</a></li>
+<li><a href="/wiki/Riverdale,_California" title="Riverdale, California">Riverdale</a></li>
+<li><a href="/wiki/Shaver_Lake,_California" title="Shaver Lake, California">Shaver Lake</a></li>
+<li><a href="/wiki/Squaw_Valley,_Fresno_County,_California" title="Squaw Valley, Fresno County, California">Squaw Valley</a></li>
+<li><a href="/wiki/Sunnyside,_Fresno_County,_California" title="Sunnyside, Fresno County, California">Sunnyside</a></li>
+<li><a href="/wiki/Tarpey_Village,_California" title="Tarpey Village, California">Tarpey Village</a></li>
+<li><a href="/wiki/Three_Rocks,_California" title="Three Rocks, California">Three Rocks</a></li>
+<li><a href="/wiki/Tranquillity,_California" title="Tranquillity, California">Tranquillity</a></li>
+<li><a href="/wiki/West_Park,_California" title="West Park, California">West Park</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#ffc94b;"><a href="/wiki/Unincorporated_area" title="Unincorporated area">Unincorporated<br />
+communities</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alder_Springs,_Fresno_County,_California" title="Alder Springs, Fresno County, California">Alder Springs</a></li>
+<li><a href="/wiki/Arbios,_California" title="Arbios, California">Arbios</a></li>
+<li><a href="/wiki/Avocado,_California" title="Avocado, California">Avocado</a></li>
+<li><a href="/wiki/Balch_Camp,_California" title="Balch Camp, California">Balch Camp</a></li>
+<li><a href="/wiki/Barstow,_Fresno_County,_California" title="Barstow, Fresno County, California">Barstow</a></li>
+<li><a href="/wiki/Benito,_California" title="Benito, California">Benito</a></li>
+<li><a href="/wiki/Big_Bunch,_California" title="Big Bunch, California">Big Bunch</a></li>
+<li><a href="/wiki/Biola_Junction,_California" title="Biola Junction, California">Biola Junction</a></li>
+<li><a href="/wiki/Bretz_Mill,_California" title="Bretz Mill, California">Bretz Mill</a></li>
+<li><a href="/wiki/Broadview_Farms,_California" title="Broadview Farms, California">Broadview Farms</a></li>
+<li><a href="/wiki/Burness,_California" title="Burness, California">Burness</a></li>
+<li><a href="/wiki/Burrel,_California" title="Burrel, California">Burrel</a></li>
+<li><a href="/wiki/Calflax,_California" title="Calflax, California">Calflax</a></li>
+<li><a href="/wiki/Camden,_Fresno_County,_California" title="Camden, Fresno County, California">Camden</a></li>
+<li><a href="/wiki/Cameo,_California" title="Cameo, California">Cameo</a></li>
+<li><a href="/wiki/Camp_Sierra,_California" title="Camp Sierra, California">Camp Sierra</a></li>
+<li><a href="/wiki/Cecile,_California" title="Cecile, California">Cecile</a></li>
+<li><a href="/wiki/Cedar_Crest,_Fresno_County,_California" title="Cedar Crest, Fresno County, California">Cedar Crest</a></li>
+<li><a href="/wiki/Cedar_Grove,_Fresno_County,_California" title="Cedar Grove, Fresno County, California">Cedar Grove</a></li>
+<li><a href="/wiki/Cedarbrook,_California" title="Cedarbrook, California">Cedarbrook</a></li>
+<li><a href="/wiki/Cella,_California" title="Cella, California">Cella</a></li>
+<li><a href="/wiki/Chaney_Ranch,_California" title="Chaney Ranch, California">Chaney Ranch</a></li>
+<li><a href="/wiki/Cincotta,_California" title="Cincotta, California">Cincotta</a></li>
+<li><a href="/wiki/Clint,_California" title="Clint, California">Clint</a></li>
+<li><a href="/wiki/Clotho,_California" title="Clotho, California">Clotho</a></li>
+<li><a href="/wiki/Conejo,_California" title="Conejo, California">Conejo</a></li>
+<li><a href="/wiki/Crabtree,_California" title="Crabtree, California">Crabtree</a></li>
+<li><a href="/wiki/Cromir,_California" title="Cromir, California">Cromir</a></li>
+<li><a href="/wiki/Deer_Crossing,_California" title="Deer Crossing, California">Deer Crossing</a></li>
+<li><a href="/wiki/Dinkey_Creek,_California" title="Dinkey Creek, California">Dinkey Creek</a></li>
+<li><a href="/wiki/Dora_Belle,_California" title="Dora Belle, California">Dora Belle</a></li>
+<li><a href="/wiki/Dunlap,_California" title="Dunlap, California">Dunlap</a></li>
+<li><a href="/wiki/Edmiston,_California" title="Edmiston, California">Edmiston</a></li>
+<li><a href="/wiki/Elk,_Fresno_County,_California" title="Elk, Fresno County, California">Elk</a></li>
+<li><a href="/wiki/Elm_View,_California" title="Elm View, California">Elm View</a></li>
+<li><a href="/wiki/Etheda_Springs,_California" title="Etheda Springs, California">Etheda Springs</a></li>
+<li><a href="/wiki/Figarden,_California" title="Figarden, California">Figarden</a></li>
+<li><a href="/wiki/Five_Points,_Fresno_County,_California" title="Five Points, Fresno County, California">Five Points</a></li>
+<li><a href="/wiki/Floyd,_Fresno_County,_California" title="Floyd, Fresno County, California">Floyd</a></li>
+<li><a href="/wiki/Giffen_Cantua_Ranch,_California" title="Giffen Cantua Ranch, California">Giffen Cantua Ranch</a></li>
+<li><a href="/wiki/Glorietta,_Fresno_County,_California" title="Glorietta, Fresno County, California">Glorietta</a></li>
+<li><a href="/wiki/Goldleaf,_California" title="Goldleaf, California">Goldleaf</a></li>
+<li><a href="/wiki/Goodmill,_California" title="Goodmill, California">Goodmill</a></li>
+<li><a href="/wiki/Gordon,_California" title="Gordon, California">Gordon</a></li>
+<li><a href="/wiki/Gravesboro,_California" title="Gravesboro, California">Gravesboro</a></li>
+<li><a href="/wiki/Helm,_California" title="Helm, California">Helm</a></li>
+<li><a href="/wiki/Herndon,_California" title="Herndon, California">Herndon</a></li>
+<li><a href="/wiki/Highway_City,_California" title="Highway City, California">Highway City</a></li>
+<li><a href="/wiki/Hoffman_Point,_California" title="Hoffman Point, California">Hoffman Point</a></li>
+<li><a href="/wiki/Hub,_California" title="Hub, California">Hub</a></li>
+<li><a href="/wiki/Hume,_Fresno_County,_California" title="Hume, Fresno County, California">Hume</a></li>
+<li><a href="/wiki/Hume_Station,_California" title="Hume Station, California">Hume Station</a></li>
+<li><a href="/wiki/Humphreys_Station,_California" title="Humphreys Station, California">Humphreys Station</a></li>
+<li><a href="/wiki/Huntington_Lake,_California" title="Huntington Lake, California">Huntington Lake</a></li>
+<li><a href="/wiki/Ingle,_California" title="Ingle, California">Ingle</a></li>
+<li><a href="/wiki/Ivesta,_California" title="Ivesta, California">Ivesta</a></li>
+<li><a href="/wiki/Jamesan,_California" title="Jamesan, California">Jamesan</a></li>
+<li><a href="/wiki/Kanawyers,_California" title="Kanawyers, California">Kanawyers</a></li>
+<li><a href="/wiki/La_Jolla_Ranch,_California" title="La Jolla Ranch, California">La Jolla Ranch</a></li>
+<li><a href="/wiki/Lacjac,_California" title="Lacjac, California">Lacjac</a></li>
+<li><a href="/wiki/Lakeshore,_Fresno_County,_California" title="Lakeshore, Fresno County, California">Lakeshore</a></li>
+<li><a href="/wiki/Lerona,_California" title="Lerona, California">Lerona</a></li>
+<li><a href="/wiki/Levis,_California" title="Levis, California">Levis</a></li>
+<li><a href="/wiki/Locans,_California" title="Locans, California">Locans</a></li>
+<li><a href="/wiki/Lone_Star,_Fresno_County,_California" title="Lone Star, Fresno County, California">Lone Star</a></li>
+<li><a href="/wiki/Marshall_Junction,_California" title="Marshall Junction, California">Marshall Junction</a></li>
+<li><a href="/wiki/Mathews_Mill,_California" title="Mathews Mill, California">Mathews Mill</a></li>
+<li><a href="/wiki/Mattei,_California" title="Mattei, California">Mattei</a></li>
+<li><a href="/wiki/Meadow_Lakes,_California" title="Meadow Lakes, California">Meadow Lakes</a></li>
+<li><a href="/wiki/Mercey_Hot_Springs,_California" title="Mercey Hot Springs, California">Mercey Hot Springs</a></li>
+<li><a href="/wiki/Miley,_California" title="Miley, California">Miley</a></li>
+<li><a href="/wiki/Miramonte,_California" title="Miramonte, California">Miramonte</a></li>
+<li><a href="/wiki/Mono_Hot_Springs,_California" title="Mono Hot Springs, California">Mono Hot Springs</a></li>
+<li><a href="/wiki/Murietta_Farm,_California" title="Murietta Farm, California">Murietta Farm</a></li>
+<li><a href="/wiki/Muscatel,_California" title="Muscatel, California">Muscatel</a></li>
+<li><a href="/wiki/Navelencia,_California" title="Navelencia, California">Navelencia</a></li>
+<li><a href="/wiki/New_Auberry,_California" title="New Auberry, California">New Auberry</a></li>
+<li><a href="/wiki/Ockenden,_California" title="Ockenden, California">Ockenden</a></li>
+<li><a href="/wiki/Old_Bretz_Mill,_California" title="Old Bretz Mill, California">Old Bretz Mill</a></li>
+<li><a href="/wiki/Oleander,_California" title="Oleander, California">Oleander</a></li>
+<li><a href="/wiki/Ora,_California" title="Ora, California">Ora</a></li>
+<li><a href="/wiki/Oro_Loma,_California" title="Oro Loma, California">Oro Loma</a></li>
+<li><a href="/wiki/Oxalis,_California" title="Oxalis, California">Oxalis</a></li>
+<li><a href="/wiki/Panoche_Junction,_California" title="Panoche Junction, California">Panoche Junction</a></li>
+<li><a href="/wiki/Parkfield_Junction,_California" title="Parkfield Junction, California">Parkfield Junction</a></li>
+<li><a href="/wiki/Piedra,_California" title="Piedra, California">Piedra</a></li>
+<li><a href="/wiki/Pilibos_Ranch,_California" title="Pilibos Ranch, California">Pilibos Ranch</a></li>
+<li><a href="/wiki/Pinehurst,_California" title="Pinehurst, California">Pinehurst</a></li>
+<li><a href="/wiki/Pineridge,_California" title="Pineridge, California">Pineridge</a></li>
+<li><a href="/wiki/Prather,_California" title="Prather, California">Prather</a></li>
+<li><a href="/wiki/Pratton,_California" title="Pratton, California">Pratton</a></li>
+<li><a href="/wiki/Raco,_California" title="Raco, California">Raco</a></li>
+<li><a href="/wiki/Riverbend,_California" title="Riverbend, California">Riverbend</a></li>
+<li><a href="/wiki/Rock_Haven,_California" title="Rock Haven, California">Rock Haven</a></li>
+<li><a href="/wiki/Rodgers_Crossing,_California" title="Rodgers Crossing, California">Rodgers Crossing</a></li>
+<li><a href="/wiki/Rolinda,_California" title="Rolinda, California">Rolinda</a></li>
+<li><a href="/wiki/Sawmill_Flat,_California" title="Sawmill Flat, California">Sawmill Flat</a></li>
+<li><a href="/wiki/Schilling,_California" title="Schilling, California">Schilling</a></li>
+<li><a href="/wiki/Shaver_Lake_Heights,_California" title="Shaver Lake Heights, California">Shaver Lake Heights</a></li>
+<li><a href="/wiki/Sierra_Cedars,_California" title="Sierra Cedars, California">Sierra Cedars</a></li>
+<li><a href="/wiki/Sierra_Sky_Park,_California" title="Sierra Sky Park, California">Sierra Sky Park</a></li>
+<li><a href="/wiki/Snow_Bend,_California" title="Snow Bend, California">Snow Bend</a></li>
+<li><a href="/wiki/Tarpey,_California" title="Tarpey, California">Tarpey</a></li>
+<li><a href="/wiki/Tollhouse,_California" title="Tollhouse, California">Tollhouse</a></li>
+<li><a href="/wiki/Trimmer,_California" title="Trimmer, California">Trimmer</a></li>
+<li><a href="/wiki/Turk,_California" title="Turk, California">Turk</a></li>
+<li><a href="/wiki/Uva,_California" title="Uva, California">Uva</a></li>
+<li><a href="/wiki/Vanguard,_California" title="Vanguard, California">Vanguard</a></li>
+<li><a href="/wiki/Wahtoke,_California" title="Wahtoke, California">Wahtoke</a></li>
+<li><a href="/wiki/Westhaven,_Fresno_County,_California" title="Westhaven, Fresno County, California">Westhaven</a></li>
+<li><a href="/wiki/Westside,_Fresno_County,_California" title="Westside, Fresno County, California">Westside</a></li>
+<li><a href="/wiki/Wildflower,_California" title="Wildflower, California">Wildflower</a></li>
+<li><a href="/wiki/Wineland,_California" title="Wineland, California">Wineland</a></li>
+<li><a href="/wiki/Wolf,_Fresno_County,_California" title="Wolf, Fresno County, California">Wolf</a></li>
+<li><a href="/wiki/Wood_Ranch,_California" title="Wood Ranch, California">Wood Ranch</a></li>
+<li><a href="/wiki/Zediker,_California" title="Zediker, California">Zediker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#ffc94b;"><a href="/wiki/Indian_reservation" title="Indian reservation">Indian<br />
+reservations</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Big_Sandy_Rancheria" title="Big Sandy Rancheria">Big Sandy Rancheria</a></li>
+<li><a href="/wiki/Cold_Springs_Rancheria_of_Mono_Indians_of_California" title="Cold Springs Rancheria of Mono Indians of California">Cold Springs Rancheria</a></li>
+<li><a href="/wiki/Table_Mountain_Rancheria" title="Table Mountain Rancheria">Table Mountain Rancheria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:#ffc94b;"><a href="/wiki/Ghost_town" title="Ghost town">Ghost towns</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Andrews,_California" title="Andrews, California">Andrews</a></li>
+<li><a href="/wiki/Barton,_Fresno_County,_California" title="Barton, Fresno County, California">Barton</a></li>
+<li><a href="/wiki/Bender,_California" title="Bender, California">Bender</a></li>
+<li><a href="/wiki/Bridge,_California" title="Bridge, California">Bridge</a></li>
+<li><a href="/wiki/Bronge,_California" title="Bronge, California">Bronge</a></li>
+<li><a href="/wiki/Butler,_California" title="Butler, California">Butler</a></li>
+<li><a href="/wiki/Cadogan,_California" title="Cadogan, California">Cadogan</a></li>
+<li><a href="/wiki/Caldwell,_California" title="Caldwell, California">Caldwell</a></li>
+<li><a href="/wiki/Carlile,_California" title="Carlile, California">Carlile</a></li>
+<li><a href="/wiki/Carmelita,_California" title="Carmelita, California">Carmelita</a></li>
+<li><a href="/wiki/Coalinga_Mineral_Springs,_California" title="Coalinga Mineral Springs, California">Coalinga Mineral Springs</a></li>
+<li><a href="/wiki/Collins,_Fresno_County,_California" title="Collins, Fresno County, California">Collins</a></li>
+<li><a href="/wiki/Darwin,_Fresno_County,_California" title="Darwin, Fresno County, California">Darwin</a></li>
+<li><a href="/wiki/Dathol,_California" title="Dathol, California">Dathol</a></li>
+<li><a href="/wiki/Deseret,_California" title="Deseret, California">Deseret</a></li>
+<li><a href="/wiki/Dickerson,_California" title="Dickerson, California">Dickerson</a></li>
+<li><a href="/wiki/El_Prado,_California" title="El Prado, California">El Prado</a></li>
+<li><a href="/wiki/Elkhorn_Station,_California" title="Elkhorn Station, California">Elkhorn Station</a></li>
+<li><a href="/wiki/Eshel,_California" title="Eshel, California">Eshel</a></li>
+<li><a href="/wiki/Everts,_California" title="Everts, California">Everts</a></li>
+<li><a href="/wiki/Fargo,_California" title="Fargo, California">Fargo</a></li>
+<li><a href="/wiki/Fort_Camp,_California" title="Fort Camp, California">Fort Camp</a></li>
+<li><a href="/wiki/Fresno_Beach,_California" title="Fresno Beach, California">Fresno Beach</a></li>
+<li><a href="/wiki/Fresno_City,_California" title="Fresno City, California">Fresno City</a></li>
+<li><a href="/wiki/Fruitvale,_Fresno_County,_California" title="Fruitvale, Fresno County, California">Fruitvale</a></li>
+<li><a href="/wiki/Garfield,_California" title="Garfield, California">Garfield</a></li>
+<li><a href="/wiki/Granz,_California" title="Granz, California">Granz</a></li>
+<li><a href="/wiki/Hawthorne%27s_Station,_California" title="Hawthorne's Station, California">Hawthorne's Station</a></li>
+<li><a href="/wiki/Hayes,_California" title="Hayes, California">Hayes</a></li>
+<li><a href="/wiki/Kelso,_Fresno_County,_California" title="Kelso, Fresno County, California">Kelso</a></li>
+<li><a href="/wiki/Kingriver,_California" title="Kingriver, California">Kingriver</a></li>
+<li><a href="/wiki/Kingston,_Fresno_County,_California" title="Kingston, Fresno County, California">Kingston</a></li>
+<li><a href="/wiki/La_Libertad,_California" title="La Libertad, California">La Libertad</a></li>
+<li><a href="/wiki/Last,_California" title="Last, California">Last</a></li>
+<li><a href="/wiki/Leroy,_California" title="Leroy, California">Leroy</a></li>
+<li><a href="/wiki/Letcher,_California" title="Letcher, California">Letcher</a></li>
+<li><a href="/wiki/Lillis,_California" title="Lillis, California">Lillis</a></li>
+<li><a href="/wiki/Marshall_Station,_California" title="Marshall Station, California">Marshall Station</a></li>
+<li><a href="/wiki/McKenzie_Spring,_California" title="McKenzie Spring, California">McKenzie Spring</a></li>
+<li><a href="/wiki/McMullin,_California" title="McMullin, California">McMullin</a></li>
+<li><a href="/wiki/Mendota_Station,_California" title="Mendota Station, California">Mendota Station</a></li>
+<li><a href="/wiki/Millerton,_Madera_County,_California" title="Millerton, Madera County, California">Millerton</a></li>
+<li><a href="/wiki/Mountain_Rest,_California" title="Mountain Rest, California">Mountain Rest</a></li>
+<li><a href="/wiki/Nares,_California" title="Nares, California">Nares</a></li>
+<li><a href="/wiki/Nevills,_California" title="Nevills, California">Nevills</a></li>
+<li><a href="/wiki/Oakhurst,_Fresno_County,_California" title="Oakhurst, Fresno County, California">Oakhurst</a></li>
+<li><a href="/wiki/Oleander_(former_town),_California" title="Oleander (former town), California">Oleander</a></li>
+<li><a href="/wiki/Peteras_Mill,_California" title="Peteras Mill, California">Peteras Mill</a></li>
+<li><a href="/wiki/Pinedale,_California" title="Pinedale, California">Pinedale</a></li>
+<li><a href="/wiki/Pool%27s_Ferry,_California" title="Pool's Ferry, California">Pool's Ferry</a></li>
+<li><a href="/wiki/Pool%27s_Fort,_California" title="Pool's Fort, California">Pool's Fort</a></li>
+<li><a href="/wiki/Poso_de_Chane,_California" title="Poso de Chane, California">Poso de Chane</a></li>
+<li><strong class="selflink">Portal</strong></li>
+<li><a href="/wiki/Pueblo_de_las_Juntas,_California" title="Pueblo de las Juntas, California">Pueblo de las Juntas</a></li>
+<li><a href="/wiki/Rancho_de_los_Californios,_California" title="Rancho de los Californios, California">Rancho de los Californios</a></li>
+<li><a href="/wiki/Reka,_California" title="Reka, California">Reka</a></li>
+<li><a href="/wiki/Riverview,_Fresno_County,_California" title="Riverview, Fresno County, California">Riverview</a></li>
+<li><a href="/wiki/Robinson,_California" title="Robinson, California">Robinson</a></li>
+<li><a href="/wiki/Rogers,_California" title="Rogers, California">Rogers</a></li>
+<li><a href="/wiki/Rugg,_California" title="Rugg, California">Rugg</a></li>
+<li><a href="/wiki/Sanders,_California" title="Sanders, California">Sanders</a></li>
+<li><a href="/wiki/Sentinel,_California" title="Sentinel, California">Sentinel</a></li>
+<li><a href="/wiki/Sharpville,_California" title="Sharpville, California">Sharpville</a></li>
+<li><a href="/wiki/Shaver,_California" title="Shaver, California">Shaver</a></li>
+<li><a href="/wiki/Shipp,_California" title="Shipp, California">Shipp</a></li>
+<li><a href="/wiki/Smith%27s_Ferry,_California" title="Smith's Ferry, California">Smith's Ferry</a></li>
+<li><a href="/wiki/Sparkville,_California" title="Sparkville, California">Sparkville</a></li>
+<li><a href="/wiki/Herndon,_California" title="Herndon, California">Sycamore Point</a></li>
+<li><a href="/wiki/Tarn,_California" title="Tarn, California">Tarn</a></li>
+<li><a href="/wiki/Temperance,_California" title="Temperance, California">Temperance</a></li>
+<li><a href="/wiki/Temple%27s_Ranch" title="Temple's Ranch">Temple's Ranch</a></li>
+<li><a href="/wiki/Thermal,_Fresno_County,_California" title="Thermal, Fresno County, California">Thermal</a></li>
+<li><a href="/wiki/Tisechu,_California" title="Tisechu, California">Tisechu</a></li>
+<li><a href="/wiki/Vanris,_California" title="Vanris, California">Vanris</a></li>
+<li><a href="/wiki/Vino,_California" title="Vino, California">Vino</a></li>
+<li><a href="/wiki/Warsaw,_California" title="Warsaw, California">Warsaw</a></li>
+<li><a href="/wiki/Watson%27s_Ferry" title="Watson's Ferry">Watson's Ferry</a></li>
+<li><a href="/wiki/Whites_Bridge_(Fresno_County)" title="Whites Bridge (Fresno County)">Whites Bridge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><span id="coordinates" class="metadata coord-missing"></span></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a href="/wiki/File:California_map_showing_Fresno_County.png" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/California_map_showing_Fresno_County.png/26px-California_map_showing_Fresno_County.png" width="26" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/California_map_showing_Fresno_County.png/39px-California_map_showing_Fresno_County.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/California_map_showing_Fresno_County.png/52px-California_map_showing_Fresno_County.png 2x" data-file-width="200" data-file-height="231" /></a></td>
+<td><i>This <a href="/wiki/Fresno_County,_California" title="Fresno County, California">Fresno County, California</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal,_California&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:FresnoCountyCA-geo-stub" title="Template:FresnoCountyCA-geo-stub"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:FresnoCountyCA-geo-stub" title="Template talk:FresnoCountyCA-geo-stub"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:FresnoCountyCA-geo-stub&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1033
+Cached time: 20151002035201
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.160 seconds
+Real time usage: 0.201 seconds
+Preprocessor visited node count: 400/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 58550/2097152 bytes
+Template argument size: 10285/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.038/10.000 seconds
+Lua memory usage: 1.58 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  124.978      1 - -total
+ 51.27%   64.076      1 - Template:Reflist
+ 42.09%   52.599      1 - Template:California's_Geographic_Names
+ 39.88%   49.844      1 - Template:Cite_book
+ 30.34%   37.917      1 - Template:Fresno_County,_California
+ 26.69%   33.360      1 - Template:US_county_navigation_box
+ 22.01%   27.510      1 - Template:Navbox
+ 13.68%   17.092      1 - Template:FresnoCountyCA-geo-stub
+ 11.85%   14.808      1 - Template:Asbox
+  4.43%    5.542      1 - Template:Coord_missing
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:22817748-0!*!0!*!*!4!* and timestamp 20151002035200 and revision id 408031886
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Portal,_California&amp;oldid=408031886">https://en.wikipedia.org/w/index.php?title=Portal,_California&amp;oldid=408031886</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Former_settlements_in_Fresno_County,_California" title="Category:Former settlements in Fresno County, California">Former settlements in Fresno County, California</a></li><li><a href="/wiki/Category:Former_populated_places_in_California" title="Category:Former populated places in California">Former populated places in California</a></li><li><a href="/wiki/Category:Fresno_County,_California_geography_stubs" title="Category:Fresno County, California geography stubs">Fresno County, California geography stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Fresno_County,_California_articles_missing_geocoordinate_data" title="Category:Fresno County, California articles missing geocoordinate data">Fresno County, California articles missing geocoordinate data</a></li><li><a href="/wiki/Category:All_articles_needing_coordinates" title="Category:All articles needing coordinates">All articles needing coordinates</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Portal%2C+California&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Portal%2C+California" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Portal,_California"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Portal,_California"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Portal,_California" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Portal,_California&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Portal,_California&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Portal,_California" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Portal,_California" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Portal,_California&amp;oldid=408031886" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Portal,_California&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q7231466" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Portal%2C_California&amp;id=408031886" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Portal%2C+California">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Portal%2C+California&amp;returnto=Portal%2C+California&amp;oldid=408031886&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Portal,_California&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-add wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q7231466#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 January 2011, at 15:45.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Portal,_California&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":72,"wgHostname":"mw1243"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

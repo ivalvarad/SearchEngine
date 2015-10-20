@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Banksia verticillata - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Banksia_verticillata","wgTitle":"Banksia verticillata","wgCurRevisionId":686575751,"wgRevisionId":686575751,"wgArticleId":5689900,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Latin-language sources (la)","EPBC Act vulnerable biota","Articles with 'species' microformats","Commons category template with no category set","Commons category without a link on Wikidata","Featured articles","Banksia taxa by scientific name","Eudicots of Western Australia","Plants and pollinators"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Banksia_verticillata","wgRelevantArticleId":5689900,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Banksia_verticillata_and_New_Holland_Honeyeater.JPG/100px-Banksia_verticillata_and_New_Holland_Honeyeater.JPG","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2160233","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Banksia_verticillata" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Banksia_verticillata&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Banksia_verticillata&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Banksia_verticillata" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Banksia_verticillata skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+<div id="mw-indicator-featured-star" class="mw-indicator"><a href="/wiki/Wikipedia:Featured_articles" title="This is a featured article. Click here for more information."><img alt="This is a featured article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/20px-Cscr-featured.svg.png" width="20" height="19" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/30px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/40px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><i>Banksia verticillata</i></h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(180,250,180)">Granite banksia</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Banksia_verticillata_and_New_Holland_Honeyeater.JPG" class="image" title="A New Holland Honeyeater feeds on one of several cylindrical golden flower spikes partly hidden by foliage."><img alt="A New Holland Honeyeater feeds on one of several cylindrical golden flower spikes partly hidden by foliage." src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Banksia_verticillata_and_New_Holland_Honeyeater.JPG/220px-Banksia_verticillata_and_New_Holland_Honeyeater.JPG" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Banksia_verticillata_and_New_Holland_Honeyeater.JPG/330px-Banksia_verticillata_and_New_Holland_Honeyeater.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Banksia_verticillata_and_New_Holland_Honeyeater.JPG/440px-Banksia_verticillata_and_New_Holland_Honeyeater.JPG 2x" data-file-width="1600" data-file-height="1067" /></a></td>
+</tr>
+<tr style="text-align: center; background-color: rgb(180,250,180)">
+<th colspan="2">
+<div style="text-align: center"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2">
+<div style="text-align: center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Status_EPBC_VU.svg/220px-Status_EPBC_VU.svg.png" width="220" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Status_EPBC_VU.svg/330px-Status_EPBC_VU.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Status_EPBC_VU.svg/440px-Status_EPBC_VU.svg.png 2x" data-file-width="240" data-file-height="64" /><br />
+<a href="/wiki/Vulnerable_species" title="Vulnerable species">Vulnerable</a><small>&#160;(<a href="/wiki/Environment_Protection_and_Biodiversity_Conservation_Act_1999" title="Environment Protection and Biodiversity Conservation Act 1999">EPBC Act</a>)<sup id="cite_ref-SPRAT_1-0" class="reference"><a href="#cite_note-SPRAT-1"><span>[</span>1<span>]</span></a></sup></small></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(180,250,180)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a></th>
+</tr>
+<tr>
+<td>Kingdom:</td>
+<td><span class="kingdom" style="white-space:nowrap;"><a href="/wiki/Plantae" title="Plantae" class="mw-redirect">Plantae</a></span></td>
+</tr>
+<tr>
+<td>(unranked):</td>
+<td><span class="(unranked)" style="white-space:nowrap;"><a href="/wiki/Angiosperms" title="Angiosperms" class="mw-redirect">Angiosperms</a></span></td>
+</tr>
+<tr>
+<td>(unranked):</td>
+<td><span class="(unranked)" style="white-space:nowrap;"><a href="/wiki/Eudicots" title="Eudicots">Eudicots</a></span></td>
+</tr>
+<tr>
+<td>Order:</td>
+<td><span class="order" style="white-space:nowrap;"><a href="/wiki/Proteales" title="Proteales">Proteales</a></span></td>
+</tr>
+<tr>
+<td>Family:</td>
+<td><span class="family" style="white-space:nowrap;"><a href="/wiki/Proteaceae" title="Proteaceae">Proteaceae</a></span></td>
+</tr>
+<tr>
+<td>Genus:</td>
+<td><span class="genus" style="white-space:nowrap;"><i><a href="/wiki/Banksia" title="Banksia">Banksia</a></i></span></td>
+</tr>
+<tr>
+<td>Species:</td>
+<td><span class="species" style="white-space:nowrap;"><i><b>B. verticillata</b></i></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align: center; background-color: rgb(180,250,180)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><i>Banksia verticillata</i></span></b><br />
+<small><a href="/wiki/Robert_Brown_(botanist)" title="Robert Brown (botanist)">R.Br.</a></small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Banksia_verticillata_map.png" class="image"><img alt="Banksia verticillata map.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Banksia_verticillata_map.png/220px-Banksia_verticillata_map.png" width="220" height="295" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Banksia_verticillata_map.png/330px-Banksia_verticillata_map.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Banksia_verticillata_map.png/440px-Banksia_verticillata_map.png 2x" data-file-width="448" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 88%">Distribution of <i>B.&#160;verticillata</i> in Western Australia.</td>
+</tr>
+</table>
+</div>
+<p><i><b>Banksia verticillata</b></i>, commonly known as <b>granite banksia</b> or <b>Albany banksia</b>, is a species of <a href="/wiki/Shrub" title="Shrub">shrub</a> or (rarely) tree of the genus <i><a href="/wiki/Banksia" title="Banksia">Banksia</a></i> in the family <a href="/wiki/Proteaceae" title="Proteaceae">Proteaceae</a>. It is native to the <a href="/wiki/Southwest_botanical_province" title="Southwest botanical province" class="mw-redirect">southwest</a> of <a href="/wiki/Western_Australia" title="Western Australia">Western Australia</a> and can reach up to 3&#160;m (10&#160;ft) in height. It can grow taller to 5&#160;m (16&#160;ft) in sheltered areas, and much smaller in more exposed areas. This species has elliptic green leaves and large, bright golden yellow <a href="/wiki/Inflorescence" title="Inflorescence">inflorescences</a> or flower spikes, appearing in summer and autumn. The <a href="/wiki/New_Holland_honeyeater" title="New Holland honeyeater">New Holland honeyeater</a> (<i>Phylidonyris novaehollandiae</i>) is the most prominent <a href="/wiki/Pollination" title="Pollination">pollinator</a>, although several other species of <a href="/wiki/Honeyeater" title="Honeyeater">honeyeater</a>, as well as bees, visit the flower spikes.</p>
+<p>A declared <i>Vulnerable</i> species, it occurs in two <a href="/wiki/Disjunct_distribution" title="Disjunct distribution">disjunct</a> populations on <a href="/wiki/Granite" title="Granite">granite</a> outcrops along the south coast of <a href="/wiki/Western_Australia" title="Western Australia">Western Australia</a>, with the main population near <a href="/wiki/Albany,_Western_Australia" title="Albany, Western Australia">Albany</a> and a smaller population near <a href="/wiki/Walpole,_Western_Australia" title="Walpole, Western Australia">Walpole</a>, and is threatened by dieback (<i><a href="/wiki/Phytophthora_cinnamomi" title="Phytophthora cinnamomi">Phytophthora cinnamomi</a></i>) and aerial canker (<i><a href="/wiki/Zythiostroma" title="Zythiostroma">Zythiostroma</a></i>). <i>B. verticillata</i> is killed by bushfire and new plants regenerate from seed afterwards. Populations take over a decade to produce seed and fire intervals of greater than twenty years are needed to allow the <a href="/wiki/Canopy_seed_bank" title="Canopy seed bank">canopy seed bank</a> to accumulate.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Taxonomy"><span class="tocnumber">2</span> <span class="toctext">Taxonomy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Discovery_and_naming"><span class="tocnumber">2.1</span> <span class="toctext">Discovery and naming</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Infrageneric_placement"><span class="tocnumber">2.2</span> <span class="toctext">Infrageneric placement</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Distribution_and_habitat"><span class="tocnumber">3</span> <span class="toctext">Distribution and habitat</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Ecology"><span class="tocnumber">4</span> <span class="toctext">Ecology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Conservation"><span class="tocnumber">5</span> <span class="toctext">Conservation</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Cultivation"><span class="tocnumber">6</span> <span class="toctext">Cultivation</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banksia_verticillata&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Banksia verticillata</i> grows as a spreading, bushy shrub with many branches up to 3&#160;m (10&#160;ft) high, but can reach 5&#160;m (16&#160;ft) high in sheltered locations.<sup id="cite_ref-Kelcoates_2-0" class="reference"><a href="#cite_note-Kelcoates-2"><span>[</span>2<span>]</span></a></sup> It may be much lower or even adopt a <a href="/wiki/Prostrate_shrub" title="Prostrate shrub">prostrate</a> habit in highly exposed areas which are blasted by high wind,<sup id="cite_ref-Kelcoates_2-1" class="reference"><a href="#cite_note-Kelcoates-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> or occasionally grow as a single-trunked tree. The rough grey bark has fissures, the stems and branches are finely hairy when young and become smooth with age. The leathery bright green leaves are <a href="/wiki/Leaf_arrangement#Pattern_structure" title="Leaf arrangement" class="mw-redirect">arranged</a> whorled, or alternately on branches, and are borne on 0.5–1.1&#160;mm long <a href="/wiki/Petiole_(botany)" title="Petiole (botany)">petioles</a>. They measure 3–9&#160;cm (1.4–3.8&#160;in) in length, and 0.7–1.2&#160;cm (0.3–0.5&#160;in) in width, and are <a href="/wiki/Leaf_shape" title="Leaf shape">elliptic</a> in shape with entire (straight) <a href="//en.wiktionary.org/wiki/recurved" class="extiw" title="wikt:recurved">recurved</a> margins. They are initially hairy and become smooth with maturity, although their undersides remain covered with white hair.<sup id="cite_ref-Kelcoates_2-2" class="reference"><a href="#cite_note-Kelcoates-2"><span>[</span>2<span>]</span></a></sup> The golden-yellow <a href="/wiki/Inflorescence" title="Inflorescence">inflorescences</a> appear in summer and autumn (January to April) and are 8–20&#160;cm (3–8&#160;in) high and 6.5&#160;cm (2.6&#160;in) wide. The smooth pistils are 3–3.5&#160;cm long and hooked at the end.<sup id="cite_ref-George_1999_4-0" class="reference"><a href="#cite_note-George_1999-4"><span>[</span>4<span>]</span></a></sup> Individual flowers open from the base of the flower spike, the wave of <a href="/wiki/Anthesis" title="Anthesis">anthesis</a> moving up the inflorescence. Occasionally, flowers on exposed parts may open early. It takes around 9.5 days for all flowers to open, and rates are similar during the day and night.<sup id="cite_ref-Rees_5-0" class="reference"><a href="#cite_note-Rees-5"><span>[</span>5<span>]</span></a></sup> The inflorescences age to grey and the individual old flowers linger for some time before falling. Up to 100 small woody <a href="/wiki/Follicle_(fruit)" title="Follicle (fruit)">follicles</a> may follow on old flower spikes. Measuring 1.1–1.5&#160;cm wide, 3–4&#160;mm wide, and jutting out 2–3&#160;mm from the spike, they open after several years, releasing the seed.<sup id="cite_ref-George_1999_4-1" class="reference"><a href="#cite_note-George_1999-4"><span>[</span>4<span>]</span></a></sup> Follicles more commonly appear in the middle third of the spike. The reasons for this are unknown, although timing of visits by pollinators or some anatomical factor may be relevant.<sup id="cite_ref-Kelcoates_2-3" class="reference"><a href="#cite_note-Kelcoates-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Taxonomy">Taxonomy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banksia_verticillata&amp;action=edit&amp;section=2" title="Edit section: Taxonomy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Discovery_and_naming">Discovery and naming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banksia_verticillata&amp;action=edit&amp;section=3" title="Edit section: Discovery and naming">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:King_George%27s_Sound,_looking_north_(Westall_collection).jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/King_George%27s_Sound%2C_looking_north_%28Westall_collection%29.jpeg/400px-King_George%27s_Sound%2C_looking_north_%28Westall_collection%29.jpeg" width="400" height="272" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/6/66/King_George%27s_Sound%2C_looking_north_%28Westall_collection%29.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/6/66/King_George%27s_Sound%2C_looking_north_%28Westall_collection%29.jpeg 2x" data-file-width="544" data-file-height="370" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:King_George%27s_Sound,_looking_north_(Westall_collection).jpeg" class="internal" title="Enlarge"></a></div>
+<i>King George's Sound, view on the peninsula to the north of Peak Head</i>, a field sketch executed by <a href="/wiki/William_Westall" title="William Westall">William Westall</a> in December 1801. The sprawling shrub in the foreground has been tentatively identified as <i>B.&#160;verticillata</i>, which would make this sketch, together with another Westall sketch thought to depict <i>B.&#160;verticillata</i>, the earliest known drawings of the species.<sup id="cite_ref-Stehn_2005_6-0" class="reference"><a href="#cite_note-Stehn_2005-6"><span>[</span>6<span>]</span></a></sup></div>
+</div>
+</div>
+<p>The earliest known botanical collection of <i>B.&#160;verticillata</i> was made by Scottish surgeon and naturalist <a href="/wiki/Archibald_Menzies" title="Archibald Menzies">Archibald Menzies</a> during the visit of the <a href="/wiki/Vancouver_Expedition" title="Vancouver Expedition">Vancouver Expedition</a> to <a href="/wiki/King_George_Sound" title="King George Sound">King George Sound</a> in September and October 1791. As a result of this collection the species was introduced into cultivation in England,<sup id="cite_ref-Hooker_1825_7-0" class="reference"><a href="#cite_note-Hooker_1825-7"><span>[</span>7<span>]</span></a></sup> yet it did not result in formal publication of the species.</p>
+<p>The next known collection was in December 1801, during the visit of <a href="/wiki/HMS_Investigator_(1798)" title="HMS Investigator (1798)" class="mw-redirect">HMS <i>Investigator</i></a> to King George Sound. Little is known of the circumstances of this collection, other than what is written on the specimen label: "King Georges Sound Dec[embe]r 1801".<sup id="cite_ref-FloraBase_Brown_8-0" class="reference"><a href="#cite_note-FloraBase_Brown-8"><span>[</span>8<span>]</span></a></sup> The specimen is credited to <a href="/wiki/Robert_Brown_(botanist)" title="Robert Brown (botanist)">Robert Brown</a>, but gardener <a href="/wiki/Peter_Good" title="Peter Good">Peter Good</a> and the botanical artist <a href="/wiki/Ferdinand_Bauer" title="Ferdinand Bauer">Ferdinand Bauer</a> also contributed to Brown's specimen collection, often without attribution.<sup id="cite_ref-Hopper_2003_9-0" class="reference"><a href="#cite_note-Hopper_2003-9"><span>[</span>9<span>]</span></a></sup> A more precise date and location cannot be given, as neither Brown nor Good mentions the collection in his diary.<sup id="cite_ref-Brown_2001_10-0" class="reference"><a href="#cite_note-Brown_2001-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-Good_1981_11-0" class="reference"><a href="#cite_note-Good_1981-11"><span>[</span>11<span>]</span></a></sup> Bauer did not publish an illustration of the species<sup id="cite_ref-Norst_1989_12-0" class="reference"><a href="#cite_note-Norst_1989-12"><span>[</span>12<span>]</span></a></sup> and his original field sketches are lost,<sup id="cite_ref-Pignatti-Wikus_2000_13-0" class="reference"><a href="#cite_note-Pignatti-Wikus_2000-13"><span>[</span>13<span>]</span></a></sup> but <a href="/wiki/William_Westall" title="William Westall">William Westall</a> appears to have incorporated it into two of his field sketches, and certainly included it in the foreground of one of the <a href="/wiki/Oil_painting" title="Oil painting">oil paintings</a> that he later worked up for the <a href="/wiki/Admiralty" title="Admiralty">Admiralty</a>.<sup id="cite_ref-Stehn_2005_6-1" class="reference"><a href="#cite_note-Stehn_2005-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>Brown formally described and named the species in his 1810 <i><a href="/wiki/On_the_Proteaceae_of_Jussieu" title="On the Proteaceae of Jussieu" class="mw-redirect">On the Proteaceae of Jussieu</a></i>.<sup id="cite_ref-Brown_1810_14-0" class="reference"><a href="#cite_note-Brown_1810-14"><span>[</span>14<span>]</span></a></sup> He did not identify a <a href="/wiki/Type_specimen" title="Type specimen" class="mw-redirect">type specimen</a>, but the one specimen in his collection has since been formally declared the <a href="/wiki/Lectotype" title="Lectotype" class="mw-redirect">lectotype</a> for the species.<sup id="cite_ref-George_1981_15-0" class="reference"><a href="#cite_note-George_1981-15"><span>[</span>15<span>]</span></a></sup> He also did not explicitly give an <a href="/wiki/Etymology" title="Etymology">etymology</a> for the <a href="/wiki/Specific_name_(botany)" title="Specific name (botany)" class="mw-redirect">specific epithet</a>, but it is accepted that the name derives from the <a href="/wiki/Latin" title="Latin">Latin</a> <i>verticillatus</i> ("whorled"), in reference to the whorled leaf arrangement.<sup id="cite_ref-Collins_2008_16-0" class="reference"><a href="#cite_note-Collins_2008-16"><span>[</span>16<span>]</span></a></sup></p>
+<p>No <a href="/wiki/Subspecies" title="Subspecies">subspecies</a> or <a href="/wiki/Variety_(botany)" title="Variety (botany)">varieties</a> of <i>Banksia verticillata</i> have been identified; it has no <a href="/wiki/Taxonomic_synonym#Botany" title="Taxonomic synonym" class="mw-redirect">taxonomic synonyms</a>; and its only <a href="/wiki/Taxonomic_synonym#Botany" title="Taxonomic synonym" class="mw-redirect">nomenclatural synonym</a> is <i>Sirmuellera verticillata</i> (R.Br.) Kuntze, which arose from <a href="/wiki/Otto_Kuntze" title="Otto Kuntze">Otto Kuntze</a>'s unsuccessful 1891 attempt to replace <i>Banksia</i> with the new name <i>Sirmuellera</i>.<sup id="cite_ref-Kuntze_.281891.29_17-0" class="reference"><a href="#cite_note-Kuntze_.281891.29-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-APNI_55720_18-0" class="reference"><a href="#cite_note-APNI_55720-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-APNI_23553_19-0" class="reference"><a href="#cite_note-APNI_23553-19"><span>[</span>19<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Infrageneric_placement">Infrageneric placement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banksia_verticillata&amp;action=edit&amp;section=4" title="Edit section: Infrageneric placement">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Brown%27s_taxonomic_arrangement_of_Banksia" title="Brown's taxonomic arrangement of Banksia">Brown's arrangement of <i>Banksia</i></a>, <i>B.&#160;verticillata</i> was placed between <i>B.&#160;compar</i> (now <a href="/wiki/Banksia_integrifolia_subsp._compar" title="Banksia integrifolia subsp. compar"><i>B.&#160;integrifolia</i> subsp. <i>compar</i></a>) and <i><a href="/wiki/Banksia_coccinea" title="Banksia coccinea">B.&#160;coccinea</a></i> (Scarlet Banksia) in <a href="/wiki/Phyletic_order" title="Phyletic order" class="mw-redirect">phyletic order</a>. No infrageneric arrangement was provided other than the removal of one distinctive species into a subgenus of its own, because of its unusual domed flower head. As <i>B.&#160;verticillata</i> flowers occur in characteristic flower spikes, it was retained in <i><a href="/wiki/Banksia_verae" title="Banksia verae" class="mw-redirect">Banksia verae</a></i>, the "true banksias".<sup id="cite_ref-Brown_1810_14-1" class="reference"><a href="#cite_note-Brown_1810-14"><span>[</span>14<span>]</span></a></sup> <i>Banksia verae</i> was renamed <i><a href="/wiki/Eubanksia" title="Eubanksia" class="mw-redirect">Eubanksia</a></i> by Austrian botanist <a href="/wiki/Stephan_Ladislaus_Endlicher" title="Stephan Ladislaus Endlicher" class="mw-redirect">Stephan Endlicher</a> in 1847, with <i>B.&#160;verticillata</i> remaining between the same two species as in Brown's sequence.<sup id="cite_ref-Endlicher_1847_20-0" class="reference"><a href="#cite_note-Endlicher_1847-20"><span>[</span>20<span>]</span></a></sup> <a href="/wiki/Meissner%27s_taxonomic_arrangement_of_Banksia" title="Meissner's taxonomic arrangement of Banksia">A more detailed arrangement</a> was published by <a href="/wiki/Carl_Meissner" title="Carl Meissner">Carl Meissner</a> in 1856. <i>Eubanksia</i> was demoted to sectional rank, and divided it into four series. <i>B.&#160;verticillata</i> was placed in series <a href="/wiki/Banksia_ser._Salicinae" title="Banksia ser. Salicinae"><i>Salicinae</i></a> because its leaves are more or less linear, and have white undersides.<sup id="cite_ref-Meissner_1856_21-0" class="reference"><a href="#cite_note-Meissner_1856-21"><span>[</span>21<span>]</span></a></sup> Based as they were on leaf characters, Meissner's series were highly heterogeneous,<sup id="cite_ref-George_1981_15-1" class="reference"><a href="#cite_note-George_1981-15"><span>[</span>15<span>]</span></a></sup> and <a href="/wiki/George_Bentham" title="George Bentham">George Bentham</a> discarded them all in <a href="/wiki/Bentham%27s_taxonomic_arrangement_of_Banksia" title="Bentham's taxonomic arrangement of Banksia">his 1870 revision of <i>Banksia</i></a>. <i>B.&#160;verticillata</i> was instead placed in a new section, <i><a href="/wiki/Banksia_sect._Oncostylis" title="Banksia sect. Oncostylis">Oncostylis</a></i>, because of its hooked styles.<sup id="cite_ref-Bentham_1870_22-0" class="reference"><a href="#cite_note-Bentham_1870-22"><span>[</span>22<span>]</span></a></sup> This arrangement would stand for over a century.</p>
+<p>For many years there was confusion between <i>B.&#160;verticillata</i> and <i><a href="/wiki/Banksia_littoralis" title="Banksia littoralis">B.&#160;littoralis</a></i> (Swamp Banksia). Until 1984, the latter was circumscribed as encompassing what is now <i><a href="/wiki/Banksia_seminuda" title="Banksia seminuda">Banksia seminuda</a></i> (River Banksia), which has whorled leaves like <i>B.&#160;verticillata</i>. Thus it was easy to perceive <i>B.&#160;verticillata</i> as falling within the range of variation of this broadly defined species. The confusion was largely cleared up once <i>B.&#160;seminuda</i> was recognised as a distinct <a href="/wiki/Taxon" title="Taxon">taxon</a>.<sup id="cite_ref-Holliday_1975_23-0" class="reference"><a href="#cite_note-Holliday_1975-23"><span>[</span>23<span>]</span></a></sup></p>
+<p><a href="/wiki/Alex_George" title="Alex George">Alex George</a> published a new <a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">taxonomic</a> arrangement of <i>Banksia</i> in his landmark 1981 monograph <i><a href="/wiki/The_genus_Banksia_L.f._(Proteaceae)" title="The genus Banksia L.f. (Proteaceae)">The genus Banksia L.f. (Proteaceae)</a></i>. Endlicher's <i>Eubanksia</i> became <a href="/wiki/Banksia_subg._Banksia" title="Banksia subg. Banksia"><i>B.</i>&#160;subg. <i>Banksia</i></a>, and was divided into three sections, one of which was <i>Oncostylis</i>. <i>Oncostylis</i> was further divided into four series, with <i>B.&#160;verticillata</i> placed in series <a href="/wiki/Banksia_ser._Spicigerae" title="Banksia ser. Spicigerae"><i>Spicigerae</i></a> because its inflorescences are cylindrical.<sup id="cite_ref-George_1999_4-2" class="reference"><a href="#cite_note-George_1999-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>In 1996, <a href="/wiki/Kevin_Thiele" title="Kevin Thiele">Kevin Thiele</a> and Pauline Ladiges published a new arrangement for the genus, after <a href="/wiki/Cladistics" title="Cladistics">cladistic</a> analyses yielded a <a href="/wiki/Cladogram" title="Cladogram">cladogram</a> significantly different to George's arrangement. With respect to <i>B.&#160;verticillata</i>, their findings largely accorded with George's arrangement: section <i>Oncostylis</i> was discarded as <a href="/wiki/Polyphyletic" title="Polyphyletic" class="mw-redirect">polyphyletic</a>, but series <i>Spicigerae</i> was inferred to be monophyletic, and <i>B.&#160;verticillata</i> appeared in a succession of <a href="/wiki/Clade" title="Clade">clades</a> with the species previously identified as its closest relatives: first <i>B.&#160;littoralis</i>, then <i>B.&#160;seminuda</i>, then <i>B.&#160;brownii</i>, and finally <i><a href="/wiki/Banksia_occidentalis" title="Banksia occidentalis">B.&#160;occidentalis</a></i> (Red Swamp Banksia):<sup id="cite_ref-Thiele_1996_24-0" class="reference"><a href="#cite_note-Thiele_1996-24"><span>[</span>24<span>]</span></a></sup></p>
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><i><a href="/wiki/Banksia_occidentalis" title="Banksia occidentalis">B.&#160;occidentalis</a></i></p>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><i><a href="/wiki/Banksia_brownii" title="Banksia brownii">B.&#160;brownii</a></i></p>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><i><a href="/wiki/Banksia_seminuda" title="Banksia seminuda">B.&#160;seminuda</a></i></p>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><i><a href="/wiki/Banksia_littoralis" title="Banksia littoralis">B.&#160;littoralis</a></i></p>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><i><b>B.&#160;verticillata</b></i></p>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+<p>This clade became the basis of Thiele and Ladiges' <a href="/w/index.php?title=Banksia_subser._Occidentales&amp;action=edit&amp;redlink=1" class="new" title="Banksia subser. Occidentales (page does not exist)"><i>B.</i>&#160;subser. <i>Occidentales</i></a>, which was defined as "characterised by <a href="/wiki/Opposite-decussate" title="Opposite-decussate" class="mw-redirect">opposite-decussate</a> seedling leaves and adult leaves in true whorls."<sup id="cite_ref-Thiele_1996_24-1" class="reference"><a href="#cite_note-Thiele_1996-24"><span>[</span>24<span>]</span></a></sup> This arrangement stood until 1999, when George largely reverted to his 1981 arrangement in his monograph for the <i><a href="/wiki/Flora_of_Australia_(series)" title="Flora of Australia (series)">Flora of Australia</a></i> series. Under <a href="/wiki/George%27s_taxonomic_arrangement_of_Banksia" title="George's taxonomic arrangement of Banksia">George's taxonomic arrangement of <i>Banksia</i></a>, <i>B.&#160;verticillata</i>‍ '​s taxonomic placement may be summarised as follows:<sup id="cite_ref-George_1999_4-3" class="reference"><a href="#cite_note-George_1999-4"><span>[</span>4<span>]</span></a></sup></p>
+<dl>
+<dd><i><b><a href="/wiki/Banksia" title="Banksia">Banksia</a></b></i>
+<dl>
+<dd><b><a href="/wiki/Banksia_subg._Banksia" title="Banksia subg. Banksia"><i>B.</i>&#160;subg. <i>Banksia</i></a></b>
+<dl>
+<dd><a href="/wiki/Banksia_sect._Banksia" title="Banksia sect. Banksia"><i>B.</i>&#160;sect. <i>Banksia</i></a> (9 series, 50 species, 9 subspecies, 3 varieties)</dd>
+<dd><a href="/wiki/Banksia_sect._Coccinea" title="Banksia sect. Coccinea" class="mw-redirect"><i>B.</i>&#160;sect. <i>Coccinea</i></a> (1 species)</dd>
+<dd><b><a href="/wiki/Banksia_sect._Oncostylis" title="Banksia sect. Oncostylis"><i>B.</i>&#160;sect. <i>Oncostylis</i></a></b>
+<dl>
+<dd><a href="/wiki/Banksia_ser._Spicigerae" title="Banksia ser. Spicigerae"><i>B.</i>&#160;ser. <i>Spicigerae</i></a> (7 species, 2 subspecies, 4 varieties)
+<dl>
+<dd><i><a href="/wiki/Banksia_spinulosa" title="Banksia spinulosa">B.&#160;spinulosa</a></i> (4 varieties)</dd>
+<dd><i><a href="/wiki/Banksia_ericifolia" title="Banksia ericifolia">B.&#160;ericifolia</a></i> (2 subspecies)</dd>
+<dd><i><b>B.&#160;verticillata</b></i></dd>
+<dd><i><a href="/wiki/Banksia_seminuda" title="Banksia seminuda">B.&#160;seminuda</a></i></dd>
+<dd><i><a href="/wiki/Banksia_littoralis" title="Banksia littoralis">B.&#160;littoralis</a></i></dd>
+<dd><i><a href="/wiki/Banksia_occidentalis" title="Banksia occidentalis">B.&#160;occidentalis</a></i></dd>
+<dd><i><a href="/wiki/Banksia_brownii" title="Banksia brownii">B.&#160;brownii</a></i></dd>
+</dl>
+</dd>
+<dd><a href="/wiki/Banksia_ser._Tricuspidae" title="Banksia ser. Tricuspidae" class="mw-redirect"><i>B.</i>&#160;ser. <i>Tricuspidae</i></a> (1 species)</dd>
+<dd><a href="/wiki/Banksia_ser._Dryandroideae" title="Banksia ser. Dryandroideae"><i>B.</i>&#160;ser. <i>Dryandroideae</i></a> (1 species)</dd>
+<dd><a href="/wiki/Banksia_ser._Abietinae" title="Banksia ser. Abietinae"><i>B.</i>&#160;ser. <i>Abietinae</i></a> (13 species, 2 subspecies, 9 varieties)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dd><a href="/wiki/Banksia_subg._Isostylis" title="Banksia subg. Isostylis"><i>B.</i>&#160;subg. <i>Isostylis</i></a> (3 species)</dd>
+</dl>
+</dd>
+</dl>
+<p>More recent molecular research by <a href="/wiki/Austin_Mast" title="Austin Mast">Austin Mast</a> and colleagues provide further support of <i>B.&#160;verticillata</i>‍ '​s placement among its nearest relatives, but these do not appear to be closely related to the remaining members of <i>B.</i>&#160;ser. <i>Spicigerae</i>, but rather occur in a clade that is sister (next closest relative) to <i><a href="/wiki/Banksia_nutans" title="Banksia nutans">B.&#160;nutans</a></i>:<sup id="cite_ref-Mast_2002_25-0" class="reference"><a href="#cite_note-Mast_2002-25"><span>[</span>25<span>]</span></a></sup></p>
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><i><a href="/wiki/Banksia_occidentalis" title="Banksia occidentalis">B.&#160;occidentalis</a></i></p>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><i><a href="/wiki/Banksia_littoralis" title="Banksia littoralis">B.&#160;littoralis</a></i></p>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><i><a href="/wiki/Banksia_brownii" title="Banksia brownii">B.&#160;brownii</a></i></p>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><i><b>B.&#160;verticillata</b></i></p>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<table cellspacing="0" cellpadding="0" border="0" style="">
+<tr>
+<td style="width: 1.5em; border-bottom: 1px solid black; border-left: 0; border-top: 0; border-right: 0; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><a href="/wiki/Banksia_nutans_var._nutans" title="Banksia nutans var. nutans"><i>B.&#160;nutans</i> var. <i>nutans</i></a></p>
+</td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 0; vertical-align: top;"><br /></td>
+</tr>
+<tr>
+<td style="border-left: 1px solid black; border-top: 0; border-right: 0; border-bottom: 1px solid black; padding: 0 0.2em; vertical-align: bottom; text-align: center;"><br /></td>
+<td rowspan="2" style="border: 0; padding: 0;">
+<p><a href="/wiki/Banksia_nutans_var._cernuella" title="Banksia nutans var. cernuella"><i>B.&#160;nutans</i> var. <i>cernuella</i></a></p>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border: 0; padding: 0; vertical-align: top;"><br /></td>
+</tr>
+</table>
+<p>(<i>B.&#160;seminuda</i> is omitted because it was not sampled in the study, not because it occurs elsewhere in the cladogram.)</p>
+<h2><span class="mw-headline" id="Distribution_and_habitat">Distribution and habitat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banksia_verticillata&amp;action=edit&amp;section=5" title="Edit section: Distribution and habitat">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Banksia verticillata</i> is found in scattered populations in two disjunct segments: one clustered around <a href="/wiki/Walpole,_Western_Australia" title="Walpole, Western Australia">Walpole</a>, and the other around <a href="/wiki/Albany,_Western_Australia" title="Albany, Western Australia">Albany</a> and eastwards to Cheynes Beach. All but one are located within 2&#160;km (1.5&#160;mi) of the coast, the exception is less than 10&#160;km (6&#160;mi) inland. Plants grow on exposed coastal <a href="/wiki/Granite" title="Granite">granite</a> outcrops, often in cracks within boulders as well as shallow rocky soils. It is the only <i>Banksia</i> which grows exclusively in a <a href="/wiki/Granite" title="Granite">granite</a> soil.<sup id="cite_ref-Atlas_26-0" class="reference"><a href="#cite_note-Atlas-26"><span>[</span>26<span>]</span></a></sup> It grows in association with <i><a href="/wiki/Taxandria_marginata" title="Taxandria marginata">Taxandria marginata</a></i>, Western Australian peppermint (<i><a href="/wiki/Agonis_flexuosa" title="Agonis flexuosa">Agonis flexuosa</a></i>), <i><a href="/wiki/Andersonia_sprengelioides" title="Andersonia sprengelioides">Andersonia sprengelioides</a></i> and species of <i><a href="/wiki/Hakea" title="Hakea">Hakea</a></i> in <a href="/wiki/Shrubland" title="Shrubland">scrub</a> and <a href="/wiki/Heath_(habitat)" title="Heath (habitat)" class="mw-redirect">heath</a>.<sup id="cite_ref-Kelcoates_2-4" class="reference"><a href="#cite_note-Kelcoates-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Ecology">Ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banksia_verticillata&amp;action=edit&amp;section=6" title="Edit section: Ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote">See also: <a href="/wiki/Ecology_of_Banksia" title="Ecology of Banksia">Ecology of Banksia</a></div>
+<p>The <a href="/wiki/New_Holland_honeyeater" title="New Holland honeyeater">New Holland honeyeater</a> (<i>Phylidonyris novaehollandiae</i>) is a major visitor and pollinator of <i>Banksia verticillata</i>. These birds can travel 15&#160;m (50&#160;ft) between inflorescences in a feeding session, and preferentially choose flower spikes with partly opened flowers. Other honeyeater species observed, the <a href="/wiki/White-cheeked_honeyeater" title="White-cheeked honeyeater">white-cheeked honeyeater</a> (<i>Phylidonyris nigra</i>) and <a href="/wiki/Western_spinebill" title="Western spinebill">western spinebill</a> (<i>Acanthorhynchus superciliosus</i>), visit this species to a much lesser extent.<sup id="cite_ref-Kelcoates_2-5" class="reference"><a href="#cite_note-Kelcoates-2"><span>[</span>2<span>]</span></a></sup> The <a href="/wiki/Brown_honeyeater" title="Brown honeyeater">brown honeyeater</a> (<i>Lichmera indistincta</i>) has also been recorded as a visitor.<sup id="cite_ref-Barker_1984_27-0" class="reference"><a href="#cite_note-Barker_1984-27"><span>[</span>27<span>]</span></a></sup> Small mammals are not major pollinators, although <a href="/wiki/Bush_rat" title="Bush rat">bush rats</a> (<i>Rattus fuscipes</i>) and <a href="/wiki/House_mouse" title="House mouse">house mice</a> (<i>Mus musculus</i>) have been recorded. <a href="/wiki/Honey_bee" title="Honey bee">Honey bees</a> (<i>Apis mellifera</i>) visit flower spikes but are not effective pollinators.<sup id="cite_ref-Kelcoates_2-6" class="reference"><a href="#cite_note-Kelcoates-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Rees_5-1" class="reference"><a href="#cite_note-Rees-5"><span>[</span>5<span>]</span></a></sup></p>
+<p><i>B. verticillata</i> is significantly threatened by at least three microorganisms. Several populations have reduced or vanished from dieback (<i><a href="/wiki/Phytophthora_cinnamomi" title="Phytophthora cinnamomi">Phytophthora cinnamomi</a></i>), such as those at <a href="/wiki/Two_Peoples_Bay_Nature_Reserve" title="Two Peoples Bay Nature Reserve">Two Peoples Bay Nature Reserve</a> and <a href="/wiki/Gull_Rock_National_Park" title="Gull Rock National Park">Gull Rock National Park</a>. The honey fungus <i><a href="/wiki/Armillaria_luteobubalina" title="Armillaria luteobubalina">Armillaria luteobubalina</a></i> has killed plants in <a href="/wiki/Torndirrup_National_Park" title="Torndirrup National Park">Torndirrup National Park</a>, and aerial canker (<i><a href="/wiki/Zythiostroma" title="Zythiostroma">Zythiostroma</a></i>) has decimated populations at <a href="/wiki/Waychinicup_National_Park" title="Waychinicup National Park">Waychinicup National Park</a> east of Albany.<sup id="cite_ref-Kelcoates_2-7" class="reference"><a href="#cite_note-Kelcoates-2"><span>[</span>2<span>]</span></a></sup></p>
+<p><i>B. verticillata</i> plants are generally killed by fire and regenerate from seed. A <a href="/wiki/Field_study" title="Field study" class="mw-redirect">field study</a> after a mild fire in <a href="/wiki/Torndirrup_National_Park" title="Torndirrup National Park">Torndirrup National Park</a> published in 1994 found that plants burnt by fire were ten times as likely to have seedlings come up under their crown as unburnt plants (with an average of 25.2 seedlings per burnt plant), and burnt spikes released double the number of seeds as unburnt spikes. Despite this, interfire recruitment (seedlings arising between fires) has also been recorded, and might be more common than in other <i>Banksia</i> species. Observations at several of the populations showed many plants produced their first seed anywhere from 13 to 17 years of age, leading to a recommendation of 20 years between fires to allow seed banks to accumulate.<sup id="cite_ref-Kelcoates_2-8" class="reference"><a href="#cite_note-Kelcoates-2"><span>[</span>2<span>]</span></a></sup> If fire occurs too frequently, plants are burned before reaching maturity or before they have produced sufficient seed to ensure regeneration of the population. This may cause a population decline or even local extinction. Too long a time between fires also causes population decline, as more plants die of natural attrition without releasing their seed, resulting in seed wastage.<sup id="cite_ref-Lamont_1996_28-0" class="reference"><a href="#cite_note-Lamont_1996-28"><span>[</span>28<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Conservation">Conservation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banksia_verticillata&amp;action=edit&amp;section=7" title="Edit section: Conservation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Banksia verticillata</i> has been declared <i>Vulnerable</i> under the federal <i><a href="/wiki/Environment_Protection_and_Biodiversity_Conservation_Act_1999" title="Environment Protection and Biodiversity Conservation Act 1999">Environment Protection and Biodiversity Conservation Act 1999</a></i>,<sup id="cite_ref-SPRAT_1-1" class="reference"><a href="#cite_note-SPRAT-1"><span>[</span>1<span>]</span></a></sup> and <i>Rare</i> under Western Australia's <i><a href="/wiki/Wildlife_Conservation_Act_1950" title="Wildlife Conservation Act 1950">Wildlife Conservation Act 1950</a></i>.<sup id="cite_ref-FloraBase_29-0" class="reference"><a href="#cite_note-FloraBase-29"><span>[</span>29<span>]</span></a></sup> A 1995 census yielded an estimated total population size of 4500 plants.<sup id="cite_ref-Kelcoates_2-9" class="reference"><a href="#cite_note-Kelcoates-2"><span>[</span>2<span>]</span></a></sup> Apart from dieback and aerial canker, frequency of <a href="/wiki/Bushfire" title="Bushfire" class="mw-redirect">bushfires</a> and illegal picking have been cited as threats. Ongoing management includes monitoring of current populations, gathering more data on best response to fire, and restricting access to populations.<sup id="cite_ref-advice_30-0" class="reference"><a href="#cite_note-advice-30"><span>[</span>30<span>]</span></a></sup> Seed has been collected from many populations, but germination rates after ten years of storage are much lower than in <i><a href="/wiki/Banksia_brownii" title="Banksia brownii">Banksia brownii</a></i>.<sup id="cite_ref-Kelcoates_2-10" class="reference"><a href="#cite_note-Kelcoates-2"><span>[</span>2<span>]</span></a></sup> <a href="/wiki/Translocation_(wildlife_conservation)" title="Translocation (wildlife conservation)" class="mw-redirect">Translocation</a> is considered an option in the future,<sup id="cite_ref-advice_30-1" class="reference"><a href="#cite_note-advice-30"><span>[</span>30<span>]</span></a></sup> as is spraying with <a href="/wiki/Phosphite" title="Phosphite">phosphite</a>, particularly in the vicinity of <a href="/wiki/Walpole,_Western_Australia" title="Walpole, Western Australia">Walpole</a>.<sup id="cite_ref-Kelcoates_2-11" class="reference"><a href="#cite_note-Kelcoates-2"><span>[</span>2<span>]</span></a></sup> Used successfully on <i>B.&#160;brownii</i> but as yet untrialled with <i>B.&#160;verticillata</i>, phosphite boosts the resistance of both infected and uninfected plants, and also acts as a direct <a href="/wiki/Fungicide" title="Fungicide">fungicide</a>. Aerial spraying of phosphite boosts plant survival and slows the spread of infection,<sup id="cite_ref-Cochrane_2005_31-0" class="reference"><a href="#cite_note-Cochrane_2005-31"><span>[</span>31<span>]</span></a></sup><sup id="cite_ref-Barrett_2003_32-0" class="reference"><a href="#cite_note-Barrett_2003-32"><span>[</span>32<span>]</span></a></sup> but must be carefully managed as studies have shown that <a href="/wiki/Foliar_spraying" title="Foliar spraying" class="mw-redirect">foliar spraying</a> of phosphite adversely affects root and shoot growth.<sup id="cite_ref-Barrett_2002_33-0" class="reference"><a href="#cite_note-Barrett_2002-33"><span>[</span>33<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Cultivation">Cultivation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banksia_verticillata&amp;action=edit&amp;section=8" title="Edit section: Cultivation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Banksia verticillata</i> is seldom seen in <a href="/wiki/Plant_cultivation" title="Plant cultivation" class="mw-redirect">cultivation</a>. The natural growing conditions point to a sunny aspect and good drainage as being important in cultivation. It is good for coastal situations and erosion control.<sup id="cite_ref-enc_34-0" class="reference"><a href="#cite_note-enc-34"><span>[</span>34<span>]</span></a></sup> Very sensitive to dieback, <i>B. verticillata</i> (like most other western Australian banksias) perishes quickly in humid conditions or poor drainage. It has been <a href="/wiki/Grafting" title="Grafting">grafted</a> successfully onto <i><a href="/wiki/Banksia_integrifolia" title="Banksia integrifolia">Banksia integrifolia</a></i>.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup> Seeds do not require any treatment, and take 19 to 49 days to <a href="/wiki/Germinate" title="Germinate" class="mw-redirect">germinate</a>.<sup id="cite_ref-Sweedman_2006_36-0" class="reference"><a href="#cite_note-Sweedman_2006-36"><span>[</span>36<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banksia_verticillata&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-SPRAT-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-SPRAT_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SPRAT_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.deh.gov.au/cgi-bin/sprat/public/publicspecies.pl?taxon_id=8333"><i>Banksia verticillata</i> — Granite Banksia, Albany Banksia, River Banksia</a>, <a rel="nofollow" class="external text" href="http://www.deh.gov.au/cgi-bin/sprat/public/sprat.pl">Species Profile and Threats Database</a>, Department of the Environment and Heritage, Australia.</span></li>
+<li id="cite_note-Kelcoates-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kelcoates_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kelcoates_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Kelcoates_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Kelcoates_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Kelcoates_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Kelcoates_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Kelcoates_2-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Kelcoates_2-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Kelcoates_2-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Kelcoates_2-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Kelcoates_2-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Kelcoates_2-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Kelly, Anne E.; Coates, David (1995). <i>Population dynamics, reproductive biology and conservation of</i> Banksia brownii <i>and</i> Banksia verticillata. ANCA ESP Project No. 352. Como, Western Australia: Department of Environment and Conservation, Government of Western Australia.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.au=Kelly%2C+Anne+E.%3B+Coates%2C+David&amp;rft.btitle=Population+dynamics%2C+reproductive+biology+and+conservation+of+Banksia+brownii+and+Banksia+verticillata&amp;rft.date=1995&amp;rft.genre=book&amp;rft.place=Como%2C+Western+Australia&amp;rft.pub=Department+of+Environment+and+Conservation%2C+Government+of+Western+Australia&amp;rft.series=ANCA+ESP+Project+No.+352.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Atkins, K. J. (1998). <i>Conservation Statements for threatened flora within the regional forest agreement region for Western Australia</i>. Como, Western Australia: Department of Environment and Conservation, Government of Western Australia. pp.&#160;1–95.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.au=Atkins%2C+K.+J.&amp;rft.btitle=Conservation+Statements+for+threatened+flora+within+the+regional+forest+agreement+region+for+Western+Australia&amp;rft.date=1998&amp;rft.genre=book&amp;rft.pages=1-95&amp;rft.place=Como%2C+Western+Australia&amp;rft.pub=Department+of+Environment+and+Conservation%2C+Government+of+Western+Australia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-George_1999-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-George_1999_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-George_1999_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-George_1999_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-George_1999_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation encyclopaedia"><a href="/wiki/Alex_George" title="Alex George">George, Alex S.</a> (1999). "Banksia". In Wilson, Annette. <i>Flora of Australia</i> <b>17B</b>. Collingwood, Victoria: CSIRO Publishing / Australian Biological Resources Study. p.&#160;233. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-643-06454-0" title="Special:BookSources/0-643-06454-0">0-643-06454-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=Banksia&amp;rft.aufirst=Alex+S.&amp;rft.aulast=George&amp;rft.btitle=Flora+of+Australia&amp;rft.date=1999&amp;rft.genre=bookitem&amp;rft.isbn=0-643-06454-0&amp;rft.pages=233&amp;rft.place=Collingwood%2C+Victoria&amp;rft.pub=CSIRO+Publishing+%2F+Australian+Biological+Resources+Study&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=17B" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Rees-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rees_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rees_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Rees, R.G.; Collins, B.G. (1994). <i>Reproductive biology and pollen vectors of the rare and endangered Banksia verticillata</i> R.Br. pp. 1–35. School of Environmental Biology. Curtin University of Technology, Perth.</span></li>
+<li id="cite_note-Stehn_2005-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Stehn_2005_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Stehn_2005_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Stehn, Kay; George, Alex S. (2005). "Chapter 7: Artist in a New Land: William Westall in New Holland". In Wege, Juliet <i>et al</i>. <i>Matthew Flinders and his Scientific Gentlemen</i>. Perth, Western Australia: Western Australian Museum. pp.&#160;77–95. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-920843-20-5" title="Special:BookSources/1-920843-20-5">1-920843-20-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=Chapter+7%3A+Artist+in+a+New+Land%3A+William+Westall+in+New+Holland&amp;rft.au=Stehn%2C+Kay%3B+George%2C+Alex+S.&amp;rft.btitle=Matthew+Flinders+and+his+Scientific+Gentlemen&amp;rft.date=2005&amp;rft.genre=bookitem&amp;rft.isbn=1-920843-20-5&amp;rft.pages=77-95&amp;rft.place=Perth%2C+Western+Australia&amp;rft.pub=Western+Australian+Museum&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hooker_1825-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hooker_1825_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/William_Jackson_Hooker" title="William Jackson Hooker" class="mw-redirect">Hooker, William Jackson</a> (1825). "96: <i>Banksia verticillata</i>: Whorl-leaved Banksia". <a rel="nofollow" class="external text" href="http://books.google.com/?id=9nAFAAAAQAAJ"><i>Exotic Flora</i></a> <b>2</b>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-4446-8481-7" title="Special:BookSources/1-4446-8481-7">1-4446-8481-7</a>. <q>The individual here given, remarkable for its verticillate entire leaves, of a pure white on the under side, was discovered by Mr Menzies in New Holland, and brought by him to our gardens in 1794.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=96%3A+Banksia+verticillata%3A+Whorl-leaved+Banksia&amp;rft.au=Hooker%2C+William+Jackson&amp;rft.btitle=Exotic+Flora&amp;rft.date=1825&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3D9nAFAAAAQAAJ&amp;rft.isbn=1-4446-8481-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FloraBase_Brown-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-FloraBase_Brown_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://florabase.calm.wa.gov.au/brown/search?brname=Banksia+verticillata">"Banksia verticillata"</a>. <i>Robert Brown's Australian Botanical Specimens, 1801–1805 at the BM</i>. Western Australian Herbarium, Department of Environment and Conservation, Government of Western Australia<span class="reference-accessdate">. Retrieved <span class="nowrap">19 December</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.btitle=Banksia+verticillata&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fflorabase.calm.wa.gov.au%2Fbrown%2Fsearch%3Fbrname%3DBanksia%2Bverticillata&amp;rft.pub=Western+Australian+Herbarium%2C+Department+of+Environment+and+Conservation%2C+Government+of+Western+Australia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hopper_2003-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hopper_2003_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Stephen_Hopper" title="Stephen Hopper">Hopper, Stephen</a> (2003). "South-western Australia, Cinderella of the world's temperate floristic regions 1". <i>Curtis's Botanical Magazine</i> <b>21</b> (2): 132–179. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2F1467-8748.00380">10.1111/1467-8748.00380</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=South-western+Australia%2C+Cinderella+of+the+world%27s+temperate+floristic+regions+1&amp;rft.aufirst=Stephen&amp;rft.aulast=Hopper&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1111%2F1467-8748.00380&amp;rft.issue=2&amp;rft.jtitle=Curtis%27s+Botanical+Magazine&amp;rft.pages=132-179&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=21" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Brown_2001-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brown_2001_10-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Brown, Robert; Vallance, T. G., Moore, D. T.; Groves E. W. (compilers); Orchard, Tony; Wilson, Annette (editors) (2001). <i>Nature's Investigator: The Diary of Robert Brown in Australia, 1801–1805</i>. Canberra: Australian Biographical Resources Study. pp.&#160;96, 103–104, 112. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-642-56817-0" title="Special:BookSources/0-642-56817-0">0-642-56817-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.au=Brown%2C+Robert%3B+Vallance%2C+T.+G.%2C+Moore%2C+D.+T.%3B+Groves+E.+W.+%28compilers%29%3B+Orchard%2C+Tony%3B+Wilson%2C+Annette+%28editors%29&amp;rft.btitle=Nature%27s+Investigator%3A+The+Diary+of+Robert+Brown+in+Australia%2C+1801%E2%80%931805&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-642-56817-0&amp;rft.pages=96%2C+103-104%2C+112&amp;rft.place=Canberra&amp;rft.pub=Australian+Biographical+Resources+Study&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Good_1981-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Good_1981_11-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Good, Peter; Edwards, Phyllis I. (editor) (1981). <i>The Journal of Peter Good</i>. Bulletin of The British Museum (Natural History) History Series <b>9</b>. London: British Museum (Natural History). <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-908120-45-1" title="Special:BookSources/0-908120-45-1">0-908120-45-1</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0068-2306">0068-2306</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.au=Good%2C+Peter%3B+Edwards%2C+Phyllis+I.+%28editor%29&amp;rft.btitle=The+Journal+of+Peter+Good&amp;rft.date=1981&amp;rft.genre=book&amp;rft.isbn=0-908120-45-1&amp;rft.issn=0068-2306&amp;rft.place=London&amp;rft.pub=British+Museum+%28Natural+History%29&amp;rft.series=Bulletin+of+The+British+Museum+%28Natural+History%29+History+Series&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Norst_1989-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Norst_1989_12-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Norst, Marlene J. (1989). <i>Ferdinand Bauer: The Australian Natural History Drawings</i>. Port Melbourne: Lothian. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-85091-346-2" title="Special:BookSources/0-85091-346-2">0-85091-346-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.au=Norst%2C+Marlene+J.&amp;rft.btitle=Ferdinand+Bauer%3A+The+Australian+Natural+History+Drawings&amp;rft.date=1989&amp;rft.genre=book&amp;rft.isbn=0-85091-346-2&amp;rft.place=Port+Melbourne&amp;rft.pub=Lothian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Pignatti-Wikus_2000-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pignatti-Wikus_2000_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pignatti-Wikus, Erika; Reidl-Dorn, Christa; Mabberley, David (2000). "Ferdinand Bauer's field drawings of endemic Western Australian plants made at King George Sound and Lucky Bay, December 1801 – January 1802. <i>I</i>: Families <i>Brassicaceae</i>, <i>Goodenaceae</i> p.p., <i>Lentibulariaceae</i>, <i>Campanulaceae</i> p.p., <i>Orchidaceae</i>, <i>Pittosporaceae</i> p.p., <i>Rutaceae</i> p.p., <i>Stylidaceae</i>, <i>Xyridaceae</i>". <i>Rendiconti lincei: Scienze fisiche e naturali</i>. 9 <b>11</b> (2): 69–109.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=Ferdinand+Bauer%27s+field+drawings+of+endemic+Western+Australian+plants+made+at+King+George+Sound+and+Lucky+Bay%2C+December+1801+%E2%80%93+January+1802.+I%3A+Families+Brassicaceae%2C+Goodenaceae+p.p.%2C+Lentibulariaceae%2C+Campanulaceae+p.p.%2C+Orchidaceae%2C+Pittosporaceae+p.p.%2C+Rutaceae+p.p.%2C+Stylidaceae%2C+Xyridaceae&amp;rft.aufirst=Erika&amp;rft.aulast=Pignatti-Wikus&amp;rft.au=Mabberley%2C+David&amp;rft.au=Reidl-Dorn%2C+Christa&amp;rft.date=2000&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=Rendiconti+lincei%3A+Scienze+fisiche+e+naturali&amp;rft.pages=69-109&amp;rft.series=9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Brown_1810-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Brown_1810_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Brown_1810_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Brown, Robert (1810). "On the Proteaceae of Jussieu". <i>Transactions of the Linnean Society of London</i> <b>10</b> (1): 15–226. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1096-3642.1810.tb00013.x">10.1111/j.1096-3642.1810.tb00013.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=On+the+Proteaceae+of+Jussieu&amp;rft.au=Brown%2C+Robert&amp;rft.date=1810&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1096-3642.1810.tb00013.x&amp;rft.issue=1&amp;rft.jtitle=Transactions+of+the+Linnean+Society+of+London&amp;rft.pages=15-226&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-George_1981-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-George_1981_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-George_1981_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">George, Alex S. (1981). "<a href="/wiki/The_genus_Banksia_L.f._(Proteaceae)" title="The genus Banksia L.f. (Proteaceae)">The genus <i>Banksia</i> L.f. (Proteaceae)</a>". <i><a href="/wiki/Nuytsia_(journal)" title="Nuytsia (journal)">Nuytsia</a></i> <b>3</b> (3): 239–473. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0085-4417">0085-4417</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=The+genus+Banksia+L.f.+%28Proteaceae%29&amp;rft.aufirst=Alex+S.&amp;rft.aulast=George&amp;rft.date=1981&amp;rft.genre=article&amp;rft.issn=0085-4417&amp;rft.issue=3&amp;rft.jtitle=Nuytsia&amp;rft.pages=239-473&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=3" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Collins_2008-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Collins_2008_16-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Collins, Kevin; Collin, Kathy; George, Alex (2008). <i>Banksias</i>. Melbourne: Bloomings Books. p.&#160;359. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-876473-58-7" title="Special:BookSources/978-1-876473-58-7">978-1-876473-58-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.au=Collins%2C+Kevin%3B+Collin%2C+Kathy%3B+George%2C+Alex&amp;rft.btitle=Banksias&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=978-1-876473-58-7&amp;rft.pages=359&amp;rft.place=Melbourne&amp;rft.pub=Bloomings+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Kuntze_.281891.29-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kuntze_.281891.29_17-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Kuntze, Otto (1891). <i><a href="/wiki/Revisio_Generum_Plantarum" title="Revisio Generum Plantarum">Revisio Generum Plantarum</a></i> <b>2</b>. Leipzig: Arthur Felix. p.&#160;582.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.au=Kuntze%2C+Otto&amp;rft.btitle=Revisio+Generum+Plantarum&amp;rft.date=1891&amp;rft.genre=book&amp;rft.pages=582&amp;rft.place=Leipzig&amp;rft.pub=Arthur+Felix&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-APNI_55720-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-APNI_55720_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.anbg.gov.au/cgi-bin/apni?taxon_id=55720">"<i>Banksia verticillata</i> R.Br."</a>. <i><a href="/wiki/Australian_Plant_Name_Index" title="Australian Plant Name Index">Australian Plant Name Index</a> (APNI), IBIS database</i>. Centre for Plant Biodiversity Research, Australian Government.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.btitle=Banksia+verticillata+R.Br.&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.anbg.gov.au%2Fcgi-bin%2Fapni%3Ftaxon_id%3D55720&amp;rft.pub=Centre+for+Plant+Biodiversity+Research%2C+Australian+Government&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-APNI_23553-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-APNI_23553_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.anbg.gov.au/cgi-bin/apni?taxon_id=23553">"<i>Sirmuellera verticillata</i> (R.Br.) Kuntze"</a>. <i><a href="/wiki/Australian_Plant_Name_Index" title="Australian Plant Name Index">Australian Plant Name Index</a> (APNI), IBIS database</i>. Centre for Plant Biodiversity Research, Australian Government.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.btitle=Sirmuellera+verticillata+%28R.Br.%29+Kuntze&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.anbg.gov.au%2Fcgi-bin%2Fapni%3Ftaxon_id%3D23553&amp;rft.pub=Centre+for+Plant+Biodiversity+Research%2C+Australian+Government&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Endlicher_1847-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Endlicher_1847_20-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Stephan_Endlicher" title="Stephan Endlicher">Endlicher, Stephan</a> (1847). "Pars II. CXIII". <a rel="nofollow" class="external text" href="http://www.botanicus.org/page/503709"><i>Genera Plantarum Secundum Ordines Naturales Disposita: Supplement IV</i></a> (in Latin). pp.&#160;88–89<span class="reference-accessdate">. Retrieved <span class="nowrap">8 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=Pars+II.+CXIII&amp;rft.aufirst=Stephan&amp;rft.aulast=Endlicher&amp;rft.btitle=Genera+Plantarum+Secundum+Ordines+Naturales+Disposita%3A+Supplement+IV&amp;rft.date=1847&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.botanicus.org%2Fpage%2F503709&amp;rft.pages=88-89&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Meissner_1856-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Meissner_1856_21-0">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Meissner, Carl (1856). "Proteaceae". In <a href="/wiki/A._P._de_Candolle" title="A. P. de Candolle" class="mw-redirect">de Candolle, A. P.</a> <i><a href="/wiki/Prodromus_systematis_naturalis_regni_vegetabilis" title="Prodromus systematis naturalis regni vegetabilis" class="mw-redirect">Prodromus systematis naturalis regni vegetabilis</a></i> <b>14</b>. Paris: Sumptibus Sociorum Treuttel et Wurtz.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=Proteaceae&amp;rft.au=Meissner%2C+Carl&amp;rft.btitle=Prodromus+systematis+naturalis+regni+vegetabilis&amp;rft.date=1856&amp;rft.genre=bookitem&amp;rft.place=Paris&amp;rft.pub=Sumptibus+Sociorum+Treuttel+et+Wurtz&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=14" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bentham_1870-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bentham_1870_22-0">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia"><a href="/wiki/George_Bentham" title="George Bentham">Bentham, George</a> (1870). "Banksia". <i><a href="/wiki/Flora_Australiensis" title="Flora Australiensis">Flora Australiensis</a></i> <b>5</b>. London: L. Reeve &amp; Co. pp.&#160;541–62.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=Banksia&amp;rft.au=Bentham%2C+George&amp;rft.btitle=Flora+Australiensis&amp;rft.date=1870&amp;rft.genre=bookitem&amp;rft.pages=541-62&amp;rft.place=London&amp;rft.pub=L.+Reeve+%26+Co.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=5" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Holliday_1975-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Holliday_1975_23-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Holliday, Ivan; Watton, Geoffrey (1975). <i>A Field Guide to Banksias</i>. Adelaide: Rigby. pp.&#160;74, 76, 132. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-85179-864-0" title="Special:BookSources/0-85179-864-0">0-85179-864-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.au=Holliday%2C+Ivan%3B+Watton%2C+Geoffrey&amp;rft.btitle=A+Field+Guide+to+Banksias&amp;rft.date=1975&amp;rft.genre=book&amp;rft.isbn=0-85179-864-0&amp;rft.pages=74%2C+76%2C+132&amp;rft.place=Adelaide&amp;rft.pub=Rigby&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Thiele_1996-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Thiele_1996_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Thiele_1996_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Kevin_Thiele" title="Kevin Thiele">Thiele, Kevin</a>; Ladiges, Pauline Y. (1996). "A cladistic analysis of <i>Banksia</i> (Proteaceae)". <i><a href="/wiki/Australian_Systematic_Botany" title="Australian Systematic Botany">Australian Systematic Botany</a></i> <b>9</b> (5): 661–733. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1071%2FSB9960661">10.1071/SB9960661</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=A+cladistic+analysis+of+Banksia+%28Proteaceae%29&amp;rft.au=Thiele%2C+Kevin%3B+Ladiges%2C+Pauline+Y.&amp;rft.date=1996&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1071%2FSB9960661&amp;rft.issue=5&amp;rft.jtitle=Australian+Systematic+Botany&amp;rft.pages=661-733&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Mast_2002-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mast_2002_25-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mast, Austin; Givnish, Thomas J. (2002). <a rel="nofollow" class="external text" href="http://www.amjbot.org/cgi/content/full/89/8/1311">"Historical biogeography and the origin of stomatal distributions in <i>Banksia</i> and <i>Dryandra</i> (Proteaceae) based on Their cpDNA phylogeny"</a>. <i><a href="/wiki/American_Journal_of_Botany" title="American Journal of Botany">American Journal of Botany</a></i> <b>89</b> (8): 1311–23. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.3732%2Fajb.89.8.1311">10.3732/ajb.89.8.1311</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21665734">21665734</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-07-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=Historical+biogeography+and+the+origin+of+stomatal+distributions+in+Banksia+and+Dryandra+%28Proteaceae%29+based+on+Their+cpDNA+phylogeny&amp;rft.au=Mast%2C+Austin%3B+Givnish%2C+Thomas+J.&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.amjbot.org%2Fcgi%2Fcontent%2Ffull%2F89%2F8%2F1311&amp;rft_id=info%3Adoi%2F10.3732%2Fajb.89.8.1311&amp;rft_id=info%3Apmid%2F21665734&amp;rft.issue=8&amp;rft.jtitle=American+Journal+of+Botany&amp;rft.pages=1311-23&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=89" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Atlas-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Atlas_26-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Taylor, Anne; <a href="/wiki/Stephen_Hopper" title="Stephen Hopper">Hopper, Stephen</a> (1988). <i><a href="/wiki/The_Banksia_Atlas" title="The Banksia Atlas">The Banksia Atlas</a> (Australian Flora and Fauna Series Number 8)</i>. Canberra: Australian Government Publishing Service. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-644-07124-9" title="Special:BookSources/0-644-07124-9">0-644-07124-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.au=Taylor%2C+Anne%3B+Hopper%2C+Stephen&amp;rft.btitle=The+Banksia+Atlas+%28Australian+Flora+and+Fauna+Series+Number+8%29&amp;rft.date=1988&amp;rft.genre=book&amp;rft.isbn=0-644-07124-9&amp;rft.place=Canberra&amp;rft.pub=Australian+Government+Publishing+Service&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> pp. 240–41</span></li>
+<li id="cite_note-Barker_1984-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Barker_1984_27-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Barker, Robin Dale; Vestjens, Wilhelmus Jacobus Maria (1984). <i>The Food of Australian Birds: Volume 2 – Passerines</i>. Carlton, Victoria: Melbourne University Press. pp.&#160;227, 458. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-643-05006-X" title="Special:BookSources/0-643-05006-X">0-643-05006-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.au=Barker%2C+Robin+Dale%3B+Vestjens%2C+Wilhelmus+Jacobus+Maria&amp;rft.btitle=The+Food+of+Australian+Birds%3A+Volume+2+%E2%80%93+Passerines&amp;rft.date=1984&amp;rft.genre=book&amp;rft.isbn=0-643-05006-X&amp;rft.pages=227%2C+458&amp;rft.place=Carlton%2C+Victoria&amp;rft.pub=Melbourne+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Lamont_1996-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lamont_1996_28-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Lamont, Byron B. (1996). "Conservation biology of banksias in southwestern Australia". In Hopper, Stephen D.; Harvey, M.; Chappill, J.; George, A. S. (eds). <i>Gondwanan Heritage: Past, Present and Future of the Western Australian Biota</i>. Chipping Norton: Surrey Beatty. pp.&#160;292–98. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-949324-66-3" title="Special:BookSources/0-949324-66-3">0-949324-66-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=Conservation+biology+of+banksias+in+southwestern+Australia&amp;rft.aufirst=Byron+B.&amp;rft.aulast=Lamont&amp;rft.btitle=Gondwanan+Heritage%3A+Past%2C+Present+and+Future+of+the+Western+Australian+Biota&amp;rft.date=1996&amp;rft.genre=bookitem&amp;rft.isbn=0-949324-66-3&amp;rft.pages=292-98&amp;rft.place=Chipping+Norton&amp;rft.pub=Surrey+Beatty&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FloraBase-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-FloraBase_29-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://florabase.dec.wa.gov.au/browse/profile/1854">"<i>Banksia verticillata</i> R.Br."</a>. <i><a href="/wiki/FloraBase" title="FloraBase">FloraBase</a></i>. <a href="/wiki/Department_of_Environment_and_Conservation_(Western_Australia)" title="Department of Environment and Conservation (Western Australia)">Department of Environment and Conservation</a>, Government of Western Australia.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.btitle=Banksia+verticillata+R.Br.&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fflorabase.dec.wa.gov.au%2Fbrowse%2Fprofile%2F1854&amp;rft.pub=Department+of+Environment+and+Conservation%2C+Government+of+Western+Australia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-advice-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-advice_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-advice_30-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.environment.gov.au/biodiversity/threatened/species/pubs/8333-conservation-advice.pdf">"Approved Conservation Advice for <i>Banksia verticillata</i> (Granite Banksia)"</a> <span style="font-size:85%;">(PDF)</span>. <i>Department of the Environment, Water, Heritage and the Arts website</i>. Canberra, ACT: Department of the Environment, Water, Heritage and the Arts, Australian Government. 26 March 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">14 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.btitle=Approved+Conservation+Advice+for+Banksia+verticillata+%28Granite+Banksia%29&amp;rft.date=26+March+2008&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.environment.gov.au%2Fbiodiversity%2Fthreatened%2Fspecies%2Fpubs%2F8333-conservation-advice.pdf&amp;rft.place=Canberra%2C+ACT&amp;rft.pub=Department+of+the+Environment%2C+Water%2C+Heritage+and+the+Arts%2C+Australian+Government&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Cochrane_2005-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cochrane_2005_31-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cochrane, Anne; Barrett, Sarah; Gilfillan, Sandra (2005). "The feather-leaved banksia". <i><a href="/wiki/Landscope" title="Landscope">Landscope</a></i> <b>20</b> (3): 22–28. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0815-4465">0815-4465</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=The+feather-leaved+banksia&amp;rft.au=Cochrane%2C+Anne%3B+Barrett%2C+Sarah%3B+Gilfillan%2C+Sandra&amp;rft.date=2005&amp;rft.genre=article&amp;rft.issn=0815-4465&amp;rft.issue=3&amp;rft.jtitle=Landscope&amp;rft.pages=22-28&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=20" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Barrett_2003-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-Barrett_2003_32-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Barrett, Sarah R.; Shearer, B. L.; Hardy, G. E. St J. (2003). "The efficacy of phosphite applied after inoculation on the colonisation of <i>Banksia brownii</i> stems by <i>Phytophthora cinnamomi</i>". <i><a href="/wiki/Australasian_Plant_Pathology" title="Australasian Plant Pathology">Australasian Plant Pathology</a></i> <b>32</b> (1): 1–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1071%2FAP02061">10.1071/AP02061</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=The+efficacy+of+phosphite+applied+after+inoculation+on+the+colonisation+of+Banksia+brownii+stems+by+Phytophthora+cinnamomi&amp;rft.au=Barrett%2C+Sarah+R.%3B+Shearer%2C+B.+L.%3B+Hardy%2C+G.+E.+St+J.&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1071%2FAP02061&amp;rft.issue=1&amp;rft.jtitle=Australasian+Plant+Pathology&amp;rft.pages=1-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=32" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Barrett_2002-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-Barrett_2002_33-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Barrett, Sarah R.; Shearer, B. L.; Hardy, G. E. St J. (2002). "Root and shoot development in <i>Corymbia calophylla</i> and <i>Banksia brownii</i> after the application of the fungicide phosphite". <i><a href="/wiki/Australian_Journal_of_Botany" title="Australian Journal of Botany">Australian Journal of Botany</a></i> <b>50</b> (2): 155. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1071%2FBT01018">10.1071/BT01018</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=Root+and+shoot+development+in+Corymbia+calophylla+and+Banksia+brownii+after+the+application+of+the+fungicide+phosphite&amp;rft.au=Barrett%2C+Sarah+R.%3B+Shearer%2C+B.+L.%3B+Hardy%2C+G.+E.+St+J.&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1071%2FBT01018&amp;rft.issue=2&amp;rft.jtitle=Australian+Journal+of+Botany&amp;rft.pages=155&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=50" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-enc-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-enc_34-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Elliot, Rodger W.; Jones, David L.; Blake, Trevor (1985). <i>Encyclopaedia of Australian Plants Suitable for Cultivation: Vol. 2</i>. Port Melbourne: Lothian Press. pp.&#160;304–05. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-85091-143-5" title="Special:BookSources/0-85091-143-5">0-85091-143-5</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.au=Elliot%2C+Rodger+W.%3B+Jones%2C+David+L.%3B+Blake%2C+Trevor&amp;rft.btitle=Encyclopaedia+of+Australian+Plants+Suitable+for+Cultivation%3A+Vol.+2&amp;rft.date=1985&amp;rft.genre=book&amp;rft.isbn=0-85091-143-5&amp;rft.pages=304-05&amp;rft.place=Port+Melbourne&amp;rft.pub=Lothian+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation journal">MacKenzie, Doug (1986). "Grafted Banksias". <i>Banksia Study Group Report</i> (7): 2–9. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0728-2893">0728-2893</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.atitle=Grafted+Banksias&amp;rft.aufirst=Doug&amp;rft.aulast=MacKenzie&amp;rft.date=1986&amp;rft.genre=article&amp;rft.issn=0728-2893&amp;rft.issue=7&amp;rft.jtitle=Banksia+Study+Group+Report&amp;rft.pages=2-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Sweedman_2006-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sweedman_2006_36-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Sweedman, Luke; et al. (2006). <i>Australian seeds: a guide to their collection, identification and biology</i>. Collingwood, Victoria: CSIRO Publishing. p.&#160;203. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-643-09298-6" title="Special:BookSources/0-643-09298-6">0-643-09298-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.au=Sweedman%2C+Luke&amp;rft.btitle=Australian+seeds%3A+a+guide+to+their+collection%2C+identification+and+biology&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-643-09298-6&amp;rft.pages=203&amp;rft.place=Collingwood%2C+Victoria&amp;rft.pub=CSIRO+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Banksia_verticillata&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Banksia_verticillata" class="extiw" title="commons:Category:Banksia verticillata">Banksia verticillata</a></b></i>.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/51px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/68px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to: <i><b><a href="//species.wikimedia.org/wiki/Special:Search/Banksia_verticillata" class="extiw" title="wikispecies:Special:Search/Banksia verticillata">Banksia verticillata</a></b></i></td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist">Wikisource has original works on the topic: <i><b><a href="//en.wikisource.org/wiki/Portal:Banksia_verticillata" class="extiw" title="s:Portal:Banksia verticillata">Banksia verticillata</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.anbg.gov.au/abrs/online-resources/flora/stddisplay.xsql?pnid=46177">"<i>Banksia verticillata</i> R.Br."</a>. <i><a href="/wiki/Flora_of_Australia_(series)" title="Flora of Australia (series)">Flora of Australia</a> Online</i>. <a href="/wiki/Department_of_the_Environment_and_Heritage" title="Department of the Environment and Heritage">Department of the Environment and Heritage</a>, Australian Government.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.btitle=Banksia+verticillata+R.Br.&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.anbg.gov.au%2Fabrs%2Fonline-resources%2Fflora%2Fstddisplay.xsql%3Fpnid%3D46177&amp;rft.pub=Department+of+the+Environment+and+Heritage%2C+Australian+Government&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://florabase.dec.wa.gov.au/browse/profile/1854">"<i>Banksia verticillata</i> R.Br."</a>. <i><a href="/wiki/FloraBase" title="FloraBase">FloraBase</a></i>. <a href="/wiki/Department_of_Environment_and_Conservation_(Western_Australia)" title="Department of Environment and Conservation (Western Australia)">Department of Environment and Conservation</a>, Government of Western Australia.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.btitle=Banksia+verticillata+R.Br.&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fflorabase.dec.wa.gov.au%2Fbrowse%2Fprofile%2F1854&amp;rft.pub=Department+of+Environment+and+Conservation%2C+Government+of+Western+Australia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.anbg.gov.au/cgi-bin/apni?taxon_id=55720">"<i>Banksia verticillata</i> R.Br."</a>. <i><a href="/wiki/Australian_Plant_Name_Index" title="Australian Plant Name Index">Australian Plant Name Index</a> (APNI), IBIS database</i>. Centre for Plant Biodiversity Research, Australian Government.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABanksia+verticillata&amp;rft.btitle=Banksia+verticillata+R.Br.&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.anbg.gov.au%2Fcgi-bin%2Fapni%3Ftaxon_id%3D55720&amp;rft.pub=Centre+for+Plant+Biodiversity+Research%2C+Australian+Government&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.deh.gov.au/cgi-bin/sprat/public/publicspecies.pl?taxon_id=8333"><i>Banksia verticillata</i> — Granite Banksia, Albany Banksia, River Banksia</a>, <a rel="nofollow" class="external text" href="http://www.deh.gov.au/cgi-bin/sprat/public/sprat.pl">Species Profile and Threats Database</a>, Department of the Environment and Heritage, Australia.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1236
+Cached time: 20151019235719
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.456 seconds
+Real time usage: 0.542 seconds
+Preprocessor visited node count: 5639/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 114624/2097152 bytes
+Template argument size: 24192/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 0/500
+Lua time usage: 0.131/10.000 seconds
+Lua memory usage: 3.15 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  457.409      1 - -total
+ 39.45%  180.447      1 - Template:Reflist
+ 17.79%   81.354      1 - Template:Taxobox
+ 15.91%   72.788      1 - Template:Taxobox/core
+ 14.29%   65.350     16 - Template:Cite_book
+  8.66%   39.633     10 - Template:Clade
+  8.54%   39.046      1 - Template:Commons_category
+  8.44%   38.618      3 - Template:Sister_project
+  7.71%   35.269      3 - Template:Side_box
+  7.54%   34.501      1 - Template:Commons
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5689900-0!*!0!!en!4!* and timestamp 20151019235719 and revision id 686575751
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Banksia_verticillata&amp;oldid=686575751">https://en.wikipedia.org/w/index.php?title=Banksia_verticillata&amp;oldid=686575751</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:EPBC_Act_vulnerable_biota" title="Category:EPBC Act vulnerable biota">EPBC Act vulnerable biota</a></li><li><a href="/wiki/Category:Banksia_taxa_by_scientific_name" title="Category:Banksia taxa by scientific name">Banksia taxa by scientific name</a></li><li><a href="/wiki/Category:Eudicots_of_Western_Australia" title="Category:Eudicots of Western Australia">Eudicots of Western Australia</a></li><li><a href="/wiki/Category:Plants_and_pollinators" title="Category:Plants and pollinators">Plants and pollinators</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Latin-language_sources_(la)" title="Category:CS1 Latin-language sources (la)">CS1 Latin-language sources (la)</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with 'species' microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Commons_category_template_with_no_category_set" title="Category:Commons category template with no category set">Commons category template with no category set</a></li><li><a href="/wiki/Category:Commons_category_without_a_link_on_Wikidata" title="Category:Commons category without a link on Wikidata">Commons category without a link on Wikidata</a></li><li><a href="/wiki/Category:Featured_articles" title="Category:Featured articles">Featured articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Banksia+verticillata&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Banksia+verticillata" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Banksia_verticillata"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Banksia_verticillata"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Banksia_verticillata" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Banksia_verticillata&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Banksia_verticillata&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Banksia_verticillata" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Banksia_verticillata" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Banksia_verticillata&amp;oldid=686575751" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Banksia_verticillata&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2160233" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Banksia_verticillata&amp;id=686575751" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Banksia+verticillata">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Banksia+verticillata&amp;returnto=Banksia+verticillata&amp;oldid=686575751&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Banksia_verticillata&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%D9%83%D8%B3%D9%8A%D8%A7_%D9%83%D9%88%D9%83%D8%A8%D9%8A%D8%A9" title="بانكسيا كوكبية – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Banksia_verticillata" title="Banksia verticillata – Azerbaijani" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Banksia_verticillata" title="Banksia verticillata – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Banksia_verticillata" title="Banksia verticillata – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Banksia_verticillata" title="Banksia verticillata – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Banksia_verticillata" title="Banksia verticillata – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Banksia_verticillata" title="Banksia verticillata – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Banksia_verticillata" title="Banksia verticillata – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q2160233#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 October 2015, at 23:57.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Banksia_verticillata&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw1247"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

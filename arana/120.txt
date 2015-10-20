@@ -1,0 +1,1255 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>SABMiller - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"SABMiller","wgTitle":"SABMiller","wgCurRevisionId":686173431,"wgRevisionId":686173431,"wgArticleId":660767,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use British English from November 2012","Use dmy dates from November 2012","All articles with dead external links","Articles with dead external links from April 2015","Commons category with local link same as on Wikidata","Official website different in Wikidata and Wikipedia","SABMiller","Companies established in 1895","Companies based in London","Companies listed on the London Stock Exchange","Companies listed on the Johannesburg Stock Exchange","Multinational breweries","Conglomerate companies of the United Kingdom"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"SABMiller","wgRelevantArticleId":660767,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/en/thumb/a/a3/SABMiller.svg/100px-SABMiller.svg.png","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4995","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/SABMiller" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=SABMiller&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=SABMiller&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/SABMiller" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-SABMiller skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">SABMiller</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<caption class="fn org">SABMiller plc</caption>
+<tr>
+<td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:SABMiller.svg" class="image"><img alt="SABMiller.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a3/SABMiller.svg/220px-SABMiller.svg.png" width="220" height="149" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a3/SABMiller.svg/330px-SABMiller.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a3/SABMiller.svg/440px-SABMiller.svg.png 2x" data-file-width="143" data-file-height="97" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Types_of_business_entity" title="Types of business entity">Type</a></div>
+</th>
+<td class="category" style="line-height:1.35em;"><a href="/wiki/Public_limited_company" title="Public limited company">Public limited company</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;"><a href="/wiki/Ticker_symbol" title="Ticker symbol">Traded&#160;as</a></th>
+<td style="line-height:1.35em;"><a href="/wiki/London_Stock_Exchange" title="London Stock Exchange">LSE</a>:&#160;<a rel="nofollow" class="external text" href="http://www.londonstockexchange.com/exchange/prices-and-news/stocks/prices-search/stock-prices-search.html?nameCode=SAB">SAB</a>, <a href="/wiki/JSE_Limited" title="JSE Limited">JSE</a>: <a rel="nofollow" class="external text" href="https://www.jse.co.za/Search?k=SAB#Instruments">SAB</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Industry</th>
+<td class="category" style="line-height:1.35em;">Brewing, beverage</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Founded</th>
+<td style="line-height:1.35em;">February&#160;8, 1895<span class="noprint">; 120 years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1895-02-08</span>)</span><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Headquarters</th>
+<td class="label" style="line-height:1.35em;"><a href="/wiki/London" title="London">London</a>, England</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Area served</div>
+</th>
+<td style="line-height:1.35em;"><a href="/wiki/World" title="World">Worldwide</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Key people</div>
+</th>
+<td class="agent" style="line-height:1.35em;"><a href="/wiki/Alan_Clark_(businessman)" title="Alan Clark (businessman)">Alan Clark</a> (<a href="/wiki/Chief_executive_officer" title="Chief executive officer">CEO</a>)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Revenue</th>
+<td style="line-height:1.35em;"><a href="/wiki/United_States_dollar" title="United States dollar">US$</a> 22.311 billion <small>(2014)</small><sup id="cite_ref-prelims_2-0" class="reference"><a href="#cite_note-prelims-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Earnings_before_interest_and_taxes" title="Earnings before interest and taxes">Operating income</a></div>
+</th>
+<td style="line-height:1.35em;">US$ 4.242 billion <small>(2014)</small><sup id="cite_ref-prelims_2-1" class="reference"><a href="#cite_note-prelims-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div>
+</th>
+<td style="line-height:1.35em;">US$ 3.650 billion <small>(2014)</small><sup id="cite_ref-prelims_2-2" class="reference"><a href="#cite_note-prelims-2"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Owner</th>
+<td style="line-height:1.35em;"><a href="/wiki/Altria" title="Altria">Altria</a> (27%, 2015)<sup id="cite_ref-demuth2015_3-0" class="reference"><a href="#cite_note-demuth2015-3"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">
+<div style="padding:0.1em 0;line-height:1.2em;">Number of employees</div>
+</th>
+<td style="line-height:1.35em;">70,000 (2014)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;"><a href="/wiki/Subsidiary" title="Subsidiary">Subsidiaries</a></th>
+<td style="line-height:1.35em;"><a href="/wiki/Bavaria_Brewery_(Colombia)" title="Bavaria Brewery (Colombia)">Bavaria Brewery</a><br />
+<a href="/wiki/Foster%27s_Group" title="Foster's Group">Foster's Group</a><br />
+<a href="/wiki/Kompania_Piwowarska" title="Kompania Piwowarska">Kompania Piwowarska</a><br />
+<a href="/wiki/Miller_Brewing_Company" title="Miller Brewing Company">Miller Brewing Company</a><br />
+<a href="/wiki/South_African_Breweries" title="South African Breweries">South African Breweries</a><br />
+<a href="/wiki/Peroni_Brewery" title="Peroni Brewery">Peroni Brewery</a><br />
+<a href="/wiki/Pilsner_Urquell_Brewery" title="Pilsner Urquell Brewery">Pilsner Urquell Brewery</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.5em;">Website</th>
+<td style="line-height:1.35em;"><a rel="nofollow" class="external text" href="http://www.sabmiller.com">www.sabmiller.com</a></td>
+</tr>
+</table>
+<p><b>SABMiller plc</b> (<a href="/wiki/London_Stock_Exchange" title="London Stock Exchange">LSE</a>:&#160;<a rel="nofollow" class="external text" href="http://www.londonstockexchange.com/exchange/prices-and-news/stocks/prices-search/stock-prices-search.html?nameCode=SAB">SAB</a>, <a href="/wiki/JSE_Limited" title="JSE Limited">JSE</a>: <a rel="nofollow" class="external text" href="https://www.jse.co.za/Search?k=SAB#Instruments">SAB</a>) is a South African <a href="/wiki/Multinational_corporation" title="Multinational corporation">multinational</a> <a href="/wiki/Brewing" title="Brewing">brewing</a> and <a href="/wiki/Beverage" title="Beverage" class="mw-redirect">beverage</a> <a href="/wiki/Company" title="Company">company</a> headquartered in <a href="/wiki/London" title="London">London</a>, England. It is the world's second-largest brewer measured by revenues (after the American-Belgian-Brazilian <a href="/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev">Anheuser-Busch InBev</a>) and is also a major bottler of <a href="/wiki/Coca-Cola" title="Coca-Cola">Coca-Cola</a>.<sup id="cite_ref-snapshot_5-0" class="reference"><a href="#cite_note-snapshot-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> Its brands include <a href="/wiki/Foster%27s_Lager" title="Foster's Lager">Fosters</a>, <a href="/wiki/Grolsch_Brewery" title="Grolsch Brewery">Grolsch</a>, <a href="/wiki/Miller_Brewing_Company" title="Miller Brewing Company">Miller</a>, <a href="/wiki/Peroni_Brewery" title="Peroni Brewery">Peroni</a> and <a href="/wiki/Pilsner_Urquell" title="Pilsner Urquell">Pilsner Urquell</a>.<sup id="cite_ref-snapshot_5-1" class="reference"><a href="#cite_note-snapshot-5"><span>[</span>5<span>]</span></a></sup> It has operations in 80 countries world-wide and in 2009 sold around 21 billion <a href="/wiki/Litre" title="Litre">litres</a> of beverages.<sup id="cite_ref-snapshot_5-2" class="reference"><a href="#cite_note-snapshot-5"><span>[</span>5<span>]</span></a></sup><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since April 2015">dead link</span></a></i>]</span></sup></p>
+<p>SABMiller's origins date back to the foundation of South African Breweries in 1895 as to serve a growing market of <a href="/wiki/Miner" title="Miner">miners</a> and <a href="/wiki/Prospecting" title="Prospecting">prospectors</a> in and around <a href="/wiki/Johannesburg" title="Johannesburg">Johannesburg</a>. Two years later, it became the first industrial company to list on the <a href="/wiki/Johannesburg_Stock_Exchange" title="Johannesburg Stock Exchange" class="mw-redirect">Johannesburg Stock Exchange</a>. From the early 1990s onwards, the company increasingly expanded internationally, making several acquisitions in both emerging and developed markets. In 1999, it formed a new UK-based holding company, SAB plc, and moved its primary listing to London. In May 2002, SAB plc acquired <a href="/wiki/Miller_Brewing" title="Miller Brewing" class="mw-redirect">Miller Brewing</a>, forming SABMiller plc.</p>
+<p>SABMiller has a primary listing on the London Stock Exchange and is a constituent of the <a href="/wiki/FTSE_100_Index" title="FTSE 100 Index">FTSE 100 Index</a>. It had a <a href="/wiki/Market_capitalisation" title="Market capitalisation" class="mw-redirect">market capitalisation</a> of approximately £35.6&#160;billion as of 23 December 2011, the 11th-largest of any company with a primary listing on the London Stock Exchange.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> It has a secondary listing on the Johannesburg Stock Exchange.</p>
+<p>In October 2015, Anheuser-Busch InBev announced plans to acquire SABMiller for £69 billion ($104 billion).<sup id="cite_ref-inbevmerger_8-0" class="reference"><a href="#cite_note-inbevmerger-8"><span>[</span>8<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Operations"><span class="tocnumber">2</span> <span class="toctext">Operations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Africa_and_Asia_.28ex._South_Africa.29"><span class="tocnumber">2.1</span> <span class="toctext">Africa and Asia (ex. South Africa)</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Australia"><span class="tocnumber">2.2</span> <span class="toctext">Australia</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Europe"><span class="tocnumber">2.3</span> <span class="toctext">Europe</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Latin_America"><span class="tocnumber">2.4</span> <span class="toctext">Latin America</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#North_America"><span class="tocnumber">2.5</span> <span class="toctext">North America</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#South_Africa"><span class="tocnumber">2.6</span> <span class="toctext">South Africa</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Beers"><span class="tocnumber">3</span> <span class="toctext">Beers</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Corporate_social_responsibility"><span class="tocnumber">4</span> <span class="toctext">Corporate social responsibility</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Environment"><span class="tocnumber">4.1</span> <span class="toctext">Environment</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Taxation"><span class="tocnumber">4.2</span> <span class="toctext">Taxation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Senior_management"><span class="tocnumber">5</span> <span class="toctext">Senior management</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Board_of_directors"><span class="tocnumber">5.1</span> <span class="toctext">Board of directors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The origins of the company date back to the foundation of <a href="/wiki/South_African_Breweries" title="South African Breweries">South African Breweries</a> in 1895 in South Africa. For many decades, the operations of South African Breweries were mainly limited to southern Africa, where it had established a dominant position in the market, until 1990 when it began investing in Europe.<sup id="cite_ref-history_9-0" class="reference"><a href="#cite_note-history-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>In 1999, after listing on the London Stock Exchange<sup id="cite_ref-history_9-1" class="reference"><a href="#cite_note-history-9"><span>[</span>9<span>]</span></a></sup> to raise capital for acquisitions, the group purchased the <a href="/wiki/Miller_Brewing_Company" title="Miller Brewing Company">Miller Brewing Company</a> in North America from the <a href="/wiki/Altria_Group" title="Altria Group" class="mw-redirect">Altria Group</a> in 2002, and changed its name to SABMiller.<sup id="cite_ref-history_9-2" class="reference"><a href="#cite_note-history-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>Following this, the group's next major acquisition was of a major interest in <a href="/wiki/Bavaria_Brewery_(Colombia)" title="Bavaria Brewery (Colombia)">Bavaria S. A.</a>, South America's second largest brewer and owner of the Aguila and Club Colombia brands in 2005.<sup id="cite_ref-history_9-3" class="reference"><a href="#cite_note-history-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>The company became engaged in the hostile takeover of <a href="/wiki/Foster%27s_Group" title="Foster's Group">Fosters</a> in August 2011,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> and in September 2011 the board of Foster's agreed to a takeover bid valuing the company at A$9.9bn (US$10.2bn; £6.5bn).<sup id="cite_ref-BBC_News_11-0" class="reference"><a href="#cite_note-BBC_News-11"><span>[</span>11<span>]</span></a></sup> The deal was completed by the end of 2011, but excluded the Foster's lager brand in the UK and Europe, where it is owned by <a href="/wiki/Heineken" title="Heineken">Heineken</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>In November 2011, SABMiller launched Impala Cervejas in Africa, the first commercially produced <a href="/wiki/Cassava" title="Cassava">cassava</a> beer, although Africans have been making cassava home brews for generations. The taste is described as "somewhat bitter, somewhat tangy, not sweet".<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>In July 2014, the company announced it was divesting its 39.6% stake in casino and hotel group <a href="/wiki/Tsogo_Sun" title="Tsogo Sun">Tsogo Sun Holdings Limited</a> through institutional share placements and a partial buy-back from Tsogo Sun. SABMiller's stake at the time was valued at approximately ZAR11.7 billion (US$1.09 billion).<sup id="cite_ref-SABMillerTsogoSun_14-0" class="reference"><a href="#cite_note-SABMillerTsogoSun-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>In September 2014, the company made an unsuccessful attempt to acquire a controlling stake in Dutch rival <a href="/wiki/Heineken_International" title="Heineken International">Heineken International</a>,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> a move <a href="/wiki/Bloomberg_Markets" title="Bloomberg Markets">Bloomberg</a> states was part of SABMiller's strategy to protect itself from a potential <a href="/wiki/Takeover" title="Takeover">takeover</a> bid from <a href="/wiki/Anheuser-Busch_InBev" title="Anheuser-Busch InBev">Anheuser-Busch InBev</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<p>On 27 November 2014, it was announced that SABMiller, <a href="/wiki/The_Coca-Cola_Company" title="The Coca-Cola Company">The Coca-Cola Company</a> and Gutsche Family Investments had agreed to combine the bottling operations of their non-alcoholic ready-to-drink beverages businesses in Southern and East Africa. The new bottler, <a href="/wiki/Coca-Cola_Beverages_Africa" title="Coca-Cola Beverages Africa">Coca-Cola Beverages Africa</a>, will serve 12 high-growth countries accounting for approximately 40 percent of all Coca-Cola beverage volumes in Africa. SABMiller will hold 57% shareholding in the proposed venture.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<p>In May 2015, SABMiller announced it would acquire <a href="/wiki/United_Kingdom" title="United Kingdom">British</a> brewery company <a href="/wiki/Meantime_Brewing" title="Meantime Brewing" class="mw-redirect">Meantime Brewing</a> for an undisclosed fee.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></p>
+<p>On 16 September 2015, Anheuser-Busch InBev made another acquisition bid for SABMiller. This deal would unite the world's two biggest beermakers and control about half the industry's profit. The deal however has to go through several regulatory hurdles which would require certain operations to be spun off the group.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> A deal was announced on 13 October 2015.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Operations">Operations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=2" title="Edit section: Operations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>SABMiller has grown from its original South African base into a global company with operations in both developed markets and in emerging economies such as Eastern Europe, China and India. It is one of the world's largest brewers, with brewing interests and distribution agreements across six continents. Its worldwide portfolio of brands includes premium international beers such as <a href="/wiki/Pilsner_Urquell" title="Pilsner Urquell">Pilsner Urquell</a>, Peroni Nastro Azzurro, Miller Genuine Draft and Grolsch along with leading local brands such as Aguila, Castle, Miller Lite, <a href="/wiki/Snow" title="Snow">Snow</a>, and Tyskie.</p>
+<h3><span class="mw-headline" id="Africa_and_Asia_.28ex._South_Africa.29">Africa and Asia (ex. South Africa)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=3" title="Edit section: Africa and Asia (ex. South Africa)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>SABMiller's brewing operations in Africa span 31 countries. In China, the group's national brand in that country, Snow, is produced in partnership with <a href="/wiki/China_Resources_Enterprise" title="China Resources Enterprise">China Resources Enterprise</a> Limited, is the leading brand by volume in China. SABMiller is the second-largest brewer in India and has joint ventures in Vietnam and Australia.</p>
+<p>Brands include: N'gola, 2M, <a href="/wiki/Castle_Lager" title="Castle Lager" class="mw-redirect">Castle Lager</a>, Castle Milk Stout, Eagle, Fosters, Kilimanjaro, Haywards 5000, Royal Challenge, Knock out, Indus Pride, Snow, Zorok, and <a href="/wiki/Southern_Sudan_Beverages_Limited" title="Southern Sudan Beverages Limited">White Bull</a>.</p>
+<h3><span class="mw-headline" id="Australia">Australia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=4" title="Edit section: Australia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In September 2011, the board of <a href="/wiki/Foster%27s_Group" title="Foster's Group">Foster's Group</a> agreed to a takeover bid by SABMiller, valuing the company at A$9.9bn (US$10.2bn; £6.5bn).<sup id="cite_ref-BBC_News_11-1" class="reference"><a href="#cite_note-BBC_News-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>Brands include: <a href="/wiki/Carlton_Draught" title="Carlton Draught">Carlton Draught</a>, Cascade Draught (see <a href="/wiki/Cascade_Brewery" title="Cascade Brewery">Cascade Brewery</a>), <a href="/wiki/Foster%27s_Lager" title="Foster's Lager">Foster's Lager</a>, <a href="/wiki/Melbourne_Bitter" title="Melbourne Bitter">Melbourne Bitter</a>, <a href="/wiki/Pure_Blonde" title="Pure Blonde">Pure Blonde</a>, <a href="/wiki/Victoria_Bitter" title="Victoria Bitter">Victoria Bitter</a>, and the <a href="/wiki/Matilda_Bay_Brewing_Company" title="Matilda Bay Brewing Company">Matilda Bay Brewing Company</a> portfolio.</p>
+<h3><span class="mw-headline" id="Europe">Europe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=5" title="Edit section: Europe">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>SABMiller's entry into the European market began in 1995 with the acquisition of <a href="/wiki/Dreher_Brewery" title="Dreher Brewery">Dreher</a> in Hungary. The group’s European operations are mostly centred in the fast developing consumer markets in Central and Eastern Europe (Hungary, Romania, Poland, Czech Republic and Russia), although there are operations in Italy, France, UK, Spain and Germany where it imports its international brands. On 19 November 2007, the board of Royal Grolsch NV accepted a €816&#160;million offer for the company by SABMiller. The takeover was completed with the delisting of Grolsch's shares on 20 March 2008.</p>
+<p>Brands include: <a href="/wiki/Pilsner_Urquell" title="Pilsner Urquell">Pilsner Urquell</a>, <a href="/wiki/%C5%A0ari%C5%A1_Brewery" title="Šariš Brewery">Šariš Brewery</a>, <a href="/wiki/Velkopopovick%C3%BD_Kozel" title="Velkopopovický Kozel">Velkopopovický Kozel</a>, <a href="/wiki/Radegast_(beer)" title="Radegast (beer)">Radegast</a>, <a href="/wiki/Peroni_Brewery" title="Peroni Brewery">Nastro Azzurro</a>, <a href="/wiki/Peroni_Brewery" title="Peroni Brewery">Peroni</a>, <a href="/wiki/Tyskie" title="Tyskie">Tyskie</a>, <a href="/wiki/Topvar" title="Topvar">Topvar</a>, <a href="/wiki/Ursus_(beer)" title="Ursus (beer)" class="mw-redirect">Ursus</a>, <a href="/wiki/Dreher_Brewery" title="Dreher Brewery">Dreher</a>, <a href="/wiki/Grolsch" title="Grolsch" class="mw-redirect">Grolsch</a>, and <a href="/wiki/Lech_Brewery_Wielkopolski" title="Lech Brewery Wielkopolski" class="mw-redirect">Lech</a>.</p>
+<h3><span class="mw-headline" id="Latin_America">Latin America</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=6" title="Edit section: Latin America">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>SABMiller first entered the Latin American Market with the acquisition of Cerveceria Hondureña in Honduras, making the company the first international brewer to enter Central America. Since then, the group has expanded its Latin American operations into six countries, including Colombia, El Salvador, Ecuador, Panama and Peru.</p>
+<p>Lager brands include: Isenbeck (Argentina), Aguila, Club Colombia, Costeña, Poker, Pilsen (Colombia), Cristal, Pilsen Callao, Pilsen Trujillo, Cusqueña, Arequipeña (Peru), Pilsener, Club (Ecuador), Pilsener, Regia, Suprema, Golden Light (El Salvador), Port Royal, Salva Vida, Imperial (Honduras), Atlas (Panama), and Balboa (Panama).</p>
+<h3><span class="mw-headline" id="North_America">North America</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=7" title="Edit section: North America">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 9 October 2007, SABMiller and <a href="/wiki/Molson_Coors_Brewing_Company" title="Molson Coors Brewing Company">Molson Coors Brewing Company</a> announced a joint venture to be known as <a href="/wiki/MillerCoors" title="MillerCoors">MillerCoors</a>. U.S. antitrust regulators approved the joint venture on 5 June 2008. The merger was completed on 30 June 2008 and MillerCoors began operation as a combined entity on 1 July 2008. The combined venture will be headquartered in <a href="/wiki/Chicago" title="Chicago">Chicago</a>, <a href="/wiki/Illinois" title="Illinois">Illinois</a>. Pete Coors has been named as chairman of the new company, and Molson Coors Chief Executive Leo Kiely will be the new CEO of the joint venture. Tom Long, CEO of Miller, will be appointed president and chief commercial officer. They have recently opened permanent offices in Toronto, Montreal and Vancouver, Canada.</p>
+<p>Brands include: <a href="/wiki/Miller_Lite" title="Miller Lite">Miller Lite</a>, <a href="/wiki/Miller_Genuine_Draft" title="Miller Genuine Draft" class="mw-redirect">Miller Genuine Draft</a>, <a href="/wiki/Olde_English_800" title="Olde English 800">Olde English 800</a>, <a href="/wiki/Milwaukee%27s_Best" title="Milwaukee's Best">Milwaukee's Best</a>, <a href="/wiki/Miller_Chill" title="Miller Chill" class="mw-redirect">Miller Chill</a>, <a href="/wiki/Hamm%27s" title="Hamm's" class="mw-redirect">Hamm's</a>, and <a href="/wiki/Leinenkugel" title="Leinenkugel" class="mw-redirect">Leinenkugel</a>.</p>
+<p>The proposed merger with Anheuser Busch InBev would give the newly combined company a near <a href="/wiki/Monopoly" title="Monopoly">monopoly</a> on beer production in the United States, whose <a href="/wiki/Federal_Trade_Commission" title="Federal Trade Commission">Federal Trade Commission</a> poses the largest obstacle to the merger moving forward. Numerous brands would have to be spun off to receive regulatory approval.<sup id="cite_ref-inbevmerger_8-1" class="reference"><a href="#cite_note-inbevmerger-8"><span>[</span>8<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="South_Africa">South Africa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=8" title="Edit section: South Africa">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This is the group's most established market to date. Local subsidiary SAB Ltd's soft drink division is also the country's largest producer of products for <a href="/wiki/The_Coca-Cola_Company" title="The Coca-Cola Company">The Coca-Cola Company</a>.</p>
+<p>Brands include: <a href="/wiki/Castle_Lager" title="Castle Lager" class="mw-redirect">Castle Lager</a>, <a href="/wiki/Grolsch" title="Grolsch" class="mw-redirect">Grolsch</a>, Castle Milk Stout, Hansa Marzen Gold, Hansa Pilsener, <a href="/wiki/Carling_Black_Label" title="Carling Black Label">Carling Black Label</a>, Castle Lite, Redd’s, <a href="/wiki/Peroni_Brewery" title="Peroni Brewery">Peroni</a>, <a href="/wiki/Miller_Genuine_Draft" title="Miller Genuine Draft" class="mw-redirect">Miller Genuine Draft</a>, Brutal Fruit, and Sarita.</p>
+<h2><span class="mw-headline" id="Beers">Beers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=9" title="Edit section: Beers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/SABMiller_brands" title="SABMiller brands">SABMiller brands</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:SABMiller_beers.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/SABMiller_beers.JPG/220px-SABMiller_beers.JPG" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/SABMiller_beers.JPG/330px-SABMiller_beers.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/SABMiller_beers.JPG/440px-SABMiller_beers.JPG 2x" data-file-width="3696" data-file-height="2464" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:SABMiller_beers.JPG" class="internal" title="Enlarge"></a></div>
+SABMiller beers on display as SABMiller World in <a href="/wiki/Plze%C5%88" title="Plzeň">Pilsen</a>, <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a></div>
+</div>
+</div>
+<p>SABMiller beers include those classified by the company as "global beers", the flagships of SAB Miller:</p>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/23px-Flag_of_Australia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/35px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/46px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> <a href="/wiki/Foster%27s_Lager" title="Foster's Lager">Foster's</a></li>
+<li><span class="flagicon"><a href="/wiki/Czech_Republic" title="Czech Republic"><img alt="Czech Republic" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Pilsner_Urquell" title="Pilsner Urquell">Pilsner Urquell</a></li>
+<li><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Tyskie" title="Tyskie">Tyskie</a></li>
+<li><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Peroni_Nastro_Azzurro" title="Peroni Nastro Azzurro" class="mw-redirect">Peroni Nastro Azzurro</a></li>
+<li><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Miller_Genuine_Draft" title="Miller Genuine Draft" class="mw-redirect">Miller Genuine Draft</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Grolsch" title="Grolsch" class="mw-redirect">Grolsch</a></li>
+</ul>
+<p>SAB Miller also owns over 150 market-leading local brands. The company is one of the world’s largest <a href="/wiki/Coca-Cola" title="Coca-Cola">Coca-Cola</a> bottlers and has carbonated soft drinks bottling operations in 14 markets.</p>
+<h2><span class="mw-headline" id="Corporate_social_responsibility">Corporate social responsibility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=10" title="Edit section: Corporate social responsibility">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Environment">Environment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=11" title="Edit section: Environment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>SABMiller runs a number of sustainable development initiatives across its companies and in the countries in which it operates. They use new lightweight bottles that use 30% less glass. The lightweight bottles are designed to not only reduce the amount of waste materials but also cut down on energy used in production and distribution reducing the company's carbon emissions.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup> SABMiller submits to a number of third party annual reports that review the company's environmental record. The corporation provides links to such reports on their own website.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Taxation">Taxation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=12" title="Edit section: Taxation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In November 2010, the charity <a href="/wiki/ActionAid" title="ActionAid">ActionAid</a> published a report alleging that SABMiller has avoided paying a total of around £20&#160;million of corporation tax in five African countries – <a href="/wiki/Ghana" title="Ghana">Ghana</a>, Mozambique, <a href="/wiki/Tanzania" title="Tanzania">Tanzania</a>, South Africa and <a href="/wiki/Zambia" title="Zambia">Zambia</a> – and in India. SABMiller has denied these allegations.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Senior_management">Senior management</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=13" title="Edit section: Senior management">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Alan_Clark_(businessman)" title="Alan Clark (businessman)">Alan Clark</a> (CEO) John Davidson joined the group as General Counsel and Group Company Secretary in 2006, having previously worked at international law firm, <a href="/wiki/Lovells" title="Lovells" class="mw-redirect">Lovells</a>. Top senior executives include: Norman Adami (Chairman and Managing Director of SAB Ltd), Karl Lippert (President, SABMiller Latin America), Mark Bowman (Managing Director, SABMiller Africa), Ari Mervis (Managing Director, SABMiller Asia), Nick Fell (Marketing Director), and Tony Van Kralingen (Director - Human Resources and Supply Chain).<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Board_of_directors">Board of directors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=14" title="Edit section: Board of directors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The current members of the SABMiller Board are:<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></p>
+<ul>
+<li><a href="/wiki/Alan_Clark_(businessman)" title="Alan Clark (businessman)">Alan Clark</a>, chief executive officer</li>
+<li>Jamie Wilson, ex-chief financial officer (resigned in 2015)</li>
+<li>John Manser, deputy chairman and senior independent director</li>
+<li>Mark Armour</li>
+<li>Geoffrey Bible</li>
+<li>Dinyar Devitre</li>
+<li>Lesley Knox</li>
+<li><a href="/wiki/John_Manzoni" title="John Manzoni">John Manzoni</a></li>
+<li>Miles Morland</li>
+<li><a href="/wiki/Dambisa_Moyo" title="Dambisa Moyo">Dambisa Moyo</a></li>
+<li>Carlos Alejandro Pérez</li>
+<li><a href="/wiki/Alejandro_Santo_Domingo" title="Alejandro Santo Domingo">Alejandro Santo Domingo</a></li>
+<li>Helen Weir</li>
+<li>Howard Willard</li>
+<li><a href="/wiki/Trevor_Manuel" title="Trevor Manuel">Trevor Manuel</a> (replaced <a href="/wiki/Cyril_Ramaphosa" title="Cyril Ramaphosa">Cyril Ramaphosa</a>)<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Breweries" title="Breweries" class="mw-redirect">Breweries</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.sabmiller.com/about-us/history">"History"</a>. SABMiller<span class="reference-accessdate">. Retrieved <span class="nowrap">21 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.atitle=History&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sabmiller.com%2Fabout-us%2Fhistory&amp;rft.pub=SABMiller&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-prelims-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-prelims_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-prelims_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-prelims_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sabmiller.com/docs/default-source/investor-documents/results/financial-year-2014-full-year-results-22-may-2014/newsrelease_hf_220514.pdf?sfvrsn=4">"Preliminary Results 2014"</a> <span style="font-size:85%;">(PDF)</span>. SABMiller<span class="reference-accessdate">. Retrieved <span class="nowrap">21 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.btitle=Preliminary+Results+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sabmiller.com%2Fdocs%2Fdefault-source%2Finvestor-documents%2Fresults%2Ffinancial-year-2014-full-year-results-22-may-2014%2Fnewsrelease_hf_220514.pdf%3Fsfvrsn%3D4&amp;rft.pub=SABMiller&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-demuth2015-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-demuth2015_3-0">^</a></b></span> <span class="reference-text"><cite class="citation news">DeMuth, Jr., Chris (18 September 2015). <a rel="nofollow" class="external text" href="http://seekingalpha.com/article/3520636-m-and-a-daily-altria-digs-into-abs-offer">"Altria Digs Into AB's Offer"</a>. M&amp;A Daily. <i>Seeking Alpha</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.atitle=Altria+Digs+Into+AB%27s+Offer&amp;rft.au=DeMuth%2C+Jr.%2C+Chris&amp;rft.date=18+September+2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fseekingalpha.com%2Farticle%2F3520636-m-and-a-daily-altria-digs-into-abs-offer&amp;rft.jtitle=Seeking+Alpha&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sabmiller.com/index.asp?pageid=180">"Who we are"</a>. SABMiller<span class="reference-accessdate">. Retrieved <span class="nowrap">14 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.btitle=Who+we+are&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sabmiller.com%2Findex.asp%3Fpageid%3D180&amp;rft.pub=SABMiller&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-snapshot-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-snapshot_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-snapshot_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-snapshot_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sabmiller.com/files/companysnapshot/SABMiller_company_snapshot.pdf">"Company Snapshot 2010"</a> <span style="font-size:85%;">(PDF)</span>. SABMiller plc<span class="reference-accessdate">. Retrieved <span class="nowrap">30 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.btitle=Company+Snapshot+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sabmiller.com%2Ffiles%2Fcompanysnapshot%2FSABMiller_company_snapshot.pdf&amp;rft.pub=SABMiller+plc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.reuters.com/article/idUSTRE67M0TB20100823">"SABMiller, Asahi eye Foster's beer unit: sources"</a>. Reuters. 23 August 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">30 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.atitle=SABMiller%2C+Asahi+eye+Foster%27s+beer+unit%3A+sources&amp;rft.date=23+August+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.reuters.com%2Farticle%2FidUSTRE67M0TB20100823&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.stockchallenge.co.uk/ftse.php">"FTSE All-Share Index Ranking"</a>. stockchallenge.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">26 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.btitle=FTSE+All-Share+Index+Ranking&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.stockchallenge.co.uk%2Fftse.php&amp;rft.pub=stockchallenge.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-inbevmerger-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-inbevmerger_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-inbevmerger_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.thehindubusinessline.com/todays-paper/tp-news/ab-inbev-sabmiller-clink-glasses-for-69b-deal/article7758570.ece">"AB InBev, SABMiller clink glasses for £69-b deal"</a>. The Hindu Business Line.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.atitle=AB+InBev%2C+SABMiller+clink+glasses+for+%C2%A369-b+deal&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.thehindubusinessline.com%2Ftodays-paper%2Ftp-news%2Fab-inbev-sabmiller-clink-glasses-for-69b-deal%2Farticle7758570.ece&amp;rft.pub=The+Hindu+Business+Line&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-history-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-history_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-history_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-history_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-history_9-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sabmiller.com/index.asp?pageid=27">"404"</a>. <i>sabmiller.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.btitle=404&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sabmiller.com%2Findex.asp%3Fpageid%3D27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Werdigier, Julia (2 September 2011). <a rel="nofollow" class="external text" href="http://dealbook.nytimes.com/2011/09/02/sabmillers-takeover-of-fosters-gets-more-hostile/">"SABMiller's Takeover of Foster's Gets More Hostile"</a>. <i>The New York Times</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.atitle=SABMiller%27s+Takeover+of+Foster%27s+Gets+More+Hostile&amp;rft.aufirst=Julia&amp;rft.aulast=Werdigier&amp;rft.date=2+September+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fdealbook.nytimes.com%2F2011%2F09%2F02%2Fsabmillers-takeover-of-fosters-gets-more-hostile%2F&amp;rft.jtitle=The+New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BBC_News-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBC_News_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBC_News_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/business-15001391">"SABMiller agrees Foster's takeover deal"</a>. <a href="/wiki/BBC_News" title="BBC News">BBC News</a>. 21 September 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">21 September</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.atitle=SABMiller+agrees+Foster%27s+takeover+deal&amp;rft.date=21+September+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-15001391&amp;rft.pub=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/business-15001391">"SABMiller agrees Foster's takeover deal"</a>. <i>BBC News</i>. 21 September 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.atitle=SABMiller+agrees+Foster%27s+takeover+deal&amp;rft.date=21+September+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-15001391&amp;rft.jtitle=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://allafrica.com/stories/201111020754.html">"SABMiller Launches 'Entry-Level' Cassava Beer"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.btitle=SABMiller+Launches+%27Entry-Level%27+Cassava+Beer&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fallafrica.com%2Fstories%2F201111020754.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-SABMillerTsogoSun-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-SABMillerTsogoSun_14-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.businesssun.com/index.php/sid/223584365/scat/3a8a80d6f705f8cc/ht/Tsogo-Sun-stake-sale-to-fetch-SABMiller-109-bn">"Tsogo Sun stake sale to fetch SABMiller"</a>. <i>Business Sun</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.atitle=Tsogo+Sun+stake+sale+to+fetch+SABMiller&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.businesssun.com%2Findex.php%2Fsid%2F223584365%2Fscat%2F3a8a80d6f705f8cc%2Fht%2FTsogo-Sun-stake-sale-to-fetch-SABMiller-109-bn&amp;rft.pub=%27%27Business+Sun%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Titcomb, James (2014-09-15). <a rel="nofollow" class="external text" href="http://www.telegraph.co.uk/finance/newsbysector/retailandconsumer/leisure/11095708/Heineken-family-rejects-SABMiller-takeover-offer.html">"Heineken family rejects SABMiller takeover offer"</a>. <i><a href="/wiki/The_Daily_Telegraph" title="The Daily Telegraph">The Daily Telegraph</a></i>. Telegraph Media Group Limited<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.aufirst=James&amp;rft.aulast=Titcomb&amp;rft.btitle=Heineken+family+rejects+SABMiller+takeover+offer&amp;rft.date=2014-09-15&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Ffinance%2Fnewsbysector%2Fretailandconsumer%2Fleisure%2F11095708%2FHeineken-family-rejects-SABMiller-takeover-offer.html&amp;rft.pub=Telegraph+Media+Group+Limited&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Chong, Tim (2014-09-14). <a rel="nofollow" class="external text" href="http://www.reuters.com/article/2014/09/14/us-heineken-hld-m-a-sabmiller-idUSKBN0H90LQ20140914">"Heineken confirms, rebuffs SABMiller bid"</a>. <i><a href="/wiki/Reuters" title="Reuters">Reuters</a></i>. <a href="/wiki/Thomson_Reuters" title="Thomson Reuters">Thomson Reuters</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.aufirst=Tim&amp;rft.aulast=Chong&amp;rft.btitle=Heineken+confirms%2C+rebuffs+SABMiller+bid&amp;rft.date=2014-09-14&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.reuters.com%2Farticle%2F2014%2F09%2F14%2Fus-heineken-hld-m-a-sabmiller-idUSKBN0H90LQ20140914&amp;rft.pub=Thomson+Reuters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sabmiller.com/docs/default-source/press-releases/2014/merger-to-create-coca-cola-beverages-africa.pdf?sfvrsn=4">"Press Releases - The Coca-Cola Company, SABMiller plc and Coca-Cola Sabco to form Coca-Cola Beverages Africa"</a> <span style="font-size:85%;">(PDF)</span>. SABMiller. 27 November 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">4 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.btitle=Press+Releases+-+The+Coca-Cola+Company%2C+SABMiller+plc+and+Coca-Cola+Sabco+to+form+Coca-Cola+Beverages+Africa&amp;rft.date=27+November+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sabmiller.com%2Fdocs%2Fdefault-source%2Fpress-releases%2F2014%2Fmerger-to-create-coca-cola-beverages-africa.pdf%3Fsfvrsn%3D4&amp;rft.pub=SABMiller&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Keith Weir and Mark Potter (15 May 2015). <a rel="nofollow" class="external text" href="http://www.reuters.com/article/2015/05/15/us-meantime-m-a-sab-idUSKBN0O016320150515">"SABMiller buys Meantime to quench thirst for craft beer"</a>. Reuters<span class="reference-accessdate">. Retrieved <span class="nowrap">18 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.au=Keith+Weir+and+Mark+Potter&amp;rft.btitle=SABMiller+buys+Meantime+to+quench+thirst+for+craft+beer&amp;rft.date=15+May+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.reuters.com%2Farticle%2F2015%2F05%2F15%2Fus-meantime-m-a-sab-idUSKBN0O016320150515&amp;rft.pub=Reuters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web">Jarvis, Paul (16 September 2015). <a rel="nofollow" class="external text" href="http://www.bloomberg.com/news/articles/2015-09-16/ab-inbev-intends-to-make-offer-to-acquire-sabmiller">"AB InBev Approaches SABMiller in Record Industry Combination"</a>. <i><a href="/wiki/Bloomberg_Businessweek" title="Bloomberg Businessweek">Bloomberg Businessweek</a></i>. <a href="/wiki/Bloomberg_L.P." title="Bloomberg L.P.">Bloomberg L.P.</a> <span class="reference-accessdate">Retrieved <span class="nowrap">18 September</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.aufirst=Paul&amp;rft.aulast=Jarvis&amp;rft.btitle=AB+InBev+Approaches+SABMiller+in+Record+Industry+Combination&amp;rft.date=16+September+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2015-09-16%2Fab-inbev-intends-to-make-offer-to-acquire-sabmiller&amp;rft.pub=Bloomberg+L.P.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://money.cnn.com/2015/10/13/investing/ab-inbev-sabmiller-beer-merger/index.html">"Anheuser-Busch InBev agrees to buy SABMiller in biggest beer deal ever"</a>. <i><a href="/wiki/CNNMoney" title="CNNMoney">CNNMoney</a></i>. 13 October 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.btitle=Anheuser-Busch+InBev+agrees+to+buy+SABMiller+in+biggest+beer+deal+ever&amp;rft.date=13+October+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmoney.cnn.com%2F2015%2F10%2F13%2Finvesting%2Fab-inbev-sabmiller-beer-merger%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.climatechangecorp.com/content.asp?contentid=5306">"Product life cycle: Solutions out of the box"</a> "Climate Change Corp" 7 May 2008. Retrieved 12 May 2008</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sabmiller.com/sabmiller.com/en_gb/Our+responsibility/Tracking+our+performance/Sustainability+Indexes.htm">"SABMiller.com"</a>. Retrieved 12 May 2008 <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080414042713/http://www.sabmiller.com/sabmiller.com/en_gb/Our+responsibility/Tracking+our+performance/Sustainability+Indexes.htm">Archived</a> 14 April 2008 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation news">Lawrence, Felicity (29 November 2010). <a rel="nofollow" class="external text" href="http://www.guardian.co.uk/business/2010/nov/29/sabmiller-india-africa-actionaid-report">"Brewer accused of depriving poor countries of millions in revenue"</a>. <i>The Guardian</i> (UK)<span class="reference-accessdate">. Retrieved <span class="nowrap">29 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.atitle=Brewer+accused+of+depriving+poor+countries+of+millions+in+revenue&amp;rft.aufirst=Felicity&amp;rft.aulast=Lawrence&amp;rft.date=29+November+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.guardian.co.uk%2Fbusiness%2F2010%2Fnov%2F29%2Fsabmiller-india-africa-actionaid-report&amp;rft.jtitle=The+Guardian&amp;rft.place=UK&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.google.com/finance?q=lon:sab">"Google Finanace"</a>. <i>Lon: SAB</i><span class="reference-accessdate">. Retrieved <span class="nowrap">30 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.btitle=Google+Finanace&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.google.com%2Ffinance%3Fq%3Dlon%3Asab&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sabmiller.com/index.asp?pageid=60">"Board"</a>. SABmiller plc. 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">1 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.btitle=Board&amp;rft.date=2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sabmiller.com%2Findex.asp%3Fpageid%3D60&amp;rft.pub=SABmiller+plc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.moneyweb.co.za/moneyweb-corporate-governance/manuel-joins-sabmiller">"Manuel joins SABMiller"</a>. <i>Moneyweb</i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASABMiller&amp;rft.btitle=Manuel+joins+SABMiller&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.moneyweb.co.za%2Fmoneyweb-corporate-governance%2Fmanuel-joins-sabmiller&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=SABMiller&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:SABMiller_plc" class="extiw" title="commons:Category:SABMiller plc">SABMiller plc</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><span class="official website"><span class="url"><a rel="nofollow" class="external text" href="http://sabmiller.com/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://biz.yahoo.com/ic/54/54451.html">Yahoo! – SABMiller plc Company Profile</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.timeslive.co.za/sundaytimes/article109028.ece">SABMiller loses its cheer for PIC's Molefe</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.busrep.co.za/index.php?fSectionId=563&amp;fArticleId=5109769">SABMiller unfazed by dual role of chief</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.busrep.co.za/index.php?fSectionId=553&amp;fArticleId=5102909">SABMiller-related boards still a small closed world</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:SABMiller" title="Template:SABMiller"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:SABMiller" title="Template talk:SABMiller"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:SABMiller&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><strong class="selflink">SABMiller</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/SABMiller_brands#SAB_brands" title="SABMiller brands">Beer</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:9em;text-align: left;background-color: #eee;">Africa</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/South_African_Breweries" title="South African Breweries">South African Breweries</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carling" title="Carling" class="mw-redirect">Carling Black Label</a></li>
+<li><a href="/wiki/Castle_Brewery" title="Castle Brewery">Castle Lager</a><sup>F</sup></li>
+<li>Castle Lite</li>
+<li>Castle Milk Stout</li>
+<li>Hansa</li>
+<li>Hansa Marzen Gold</li>
+<li>Hansa Pilsener</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/Kgalagadi_Breweries_Limited" title="Kgalagadi Breweries Limited">Kgalagadi Breweries Limited</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>St Louis Lager<sup>F</sup></li>
+<li>St Louis Export</li>
+<li>Ohlssons Lager</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/Intafact_Beverages_Limited" title="Intafact Beverages Limited">Intafact Beverages Limited</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Hero Lager</li>
+<li>Eagle Lager</li>
+<li>Castle Milk Stout</li>
+<li>Grand Malt</li>
+<li>Beta Malt</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/International_Breweries_Plc" title="International Breweries Plc">International Breweries Plc</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Trophy Lager</li>
+<li>Trophy Black Lager</li>
+<li>BETAMALT</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/Nile_Breweries_Limited" title="Nile Breweries Limited">Nile Breweries Limited</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Chairman’s Extra Strong Beer</li>
+<li>Club Pilsener</li>
+<li>Eagle Extra Lager</li>
+<li>Eagle Lager</li>
+<li>Nile Gold Crystal Malt Lager</li>
+<li>Nile Special</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/w/index.php?title=Cervejas_de_Mo%C3%A7ambique&amp;action=edit&amp;redlink=1" class="new" title="Cervejas de Moçambique (page does not exist)">Cervejas de Moçambique</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>2M</li>
+<li>Laurentina Clara</li>
+<li>Laurentina Premium</li>
+<li>Laurentina Preta</li>
+<li>Manica</li>
+<li>Raiz</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/Tanzania_Breweries_Limited" title="Tanzania Breweries Limited">Tanzania Breweries Limited</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Kilimanjaro</li>
+<li>Safari</li>
+<li>Ndovu Special Malt</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/Southern_Sudan_Beverages_Limited" title="Southern Sudan Beverages Limited">Southern Sudan Beverages Limited</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>White Bull</li>
+<li>Nile Special</li>
+<li>Club Pilsener</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Balimi Extra Lager</li>
+<li>Barons</li>
+<li>Bohlinger’s Lager</li>
+<li>Chibuku</li>
+<li>Club Premium Lager</li>
+<li>Club Shandy</li>
+<li>Golden Pilsener</li>
+<li>Lion Lager</li>
+<li>Maluti Premium Lager</li>
+<li>Mosi</li>
+<li>N’GOLA<sup>F</sup></li>
+<li>Rhino Lager</li>
+<li>Sibebe</li>
+<li>Stone Strong Lager</li>
+<li>Zambezi Lager</li>
+<li>Zambezi Lite Lager</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9em;text-align: left;background-color: #eee;">Asia and<br />
+Oceania</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/CR_Snow" title="CR Snow">CR Snow</a><sup>2</sup></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Huadan Dry Beer</li>
+<li>Löwen</li>
+<li>New Three Star</li>
+<li>Shengquan</li>
+<li>Singo</li>
+<li><a href="/wiki/Snow_beer" title="Snow beer">Snow</a><sup>F</sup></li>
+<li>Zero</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/Foster%27s_Group" title="Foster's Group">Foster's Group</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carlton_%26_United_Breweries" title="Carlton &amp; United Breweries">Carlton &amp; United Breweries</a>
+<ul>
+<li><a href="/wiki/Carlton_Draught" title="Carlton Draught">Carlton Draught</a></li>
+<li><a href="/wiki/Crown_Lager" title="Crown Lager">Crown Lager</a></li>
+<li><a href="/wiki/Crown_Pilsner" title="Crown Pilsner">Crown Pilsner</a></li>
+<li><a href="/wiki/Foster%27s_Lager" title="Foster's Lager">Foster's</a></li>
+<li><a href="/wiki/Melbourne_Bitter" title="Melbourne Bitter">Melbourne Bitter</a></li>
+<li><a href="/wiki/NT_Draught" title="NT Draught">NT Draught</a></li>
+<li><a href="/wiki/Resch%27s" title="Resch's">Resch's</a></li>
+<li><a href="/wiki/Victoria_Bitter" title="Victoria Bitter">Victoria Bitter</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cascade_Brewery" title="Cascade Brewery">Cascade Brewery</a></li>
+<li><a href="/wiki/Matilda_Bay_Brewing_Company" title="Matilda Bay Brewing Company">Matilda Bay Brewing Company</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Haywards 2000</li>
+<li>Haywards 5000<sup>F</sup></li>
+<li>Haywards Black</li>
+<li>Indus Pride</li>
+<li>Knock Out</li>
+<li>Royal Challenge Premium Lager</li>
+<li>Zorok</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9em;text-align: left;background-color: #eee;">Europe</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/Peroni_Brewery" title="Peroni Brewery">Birra Peroni</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Peroni_Brewery#Peroni" title="Peroni Brewery">Peroni</a></li>
+<li><a href="/wiki/Peroni_Brewery#Brands" title="Peroni Brewery">Peroni Leggera</a></li>
+<li><a href="/wiki/Peroni_Brewery#Nastro_Azzurro" title="Peroni Brewery">Peroni Nastro Azzurro</a><sup>F</sup><sup>G</sup></li>
+<li>Raffo</li>
+<li><a href="/wiki/Peroni_Brewery#Brands" title="Peroni Brewery">Wührer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/SABMiller_brands#Dreher_Brewery" title="SABMiller brands">Dreher Sörgyárak</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Arany Ászok</li>
+<li>Dreher 24</li>
+<li>Dreher Bak</li>
+<li>Dreher Classic<sup>F</sup></li>
+<li>Dreher Premium</li>
+<li>Kőbányai Sör</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/Kompania_Piwowarska" title="Kompania Piwowarska">Kompania Piwowarska</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Dębowe Mocne</li>
+<li>Gingers</li>
+<li>Ksiazece Tyskie</li>
+<li>Lech Free</li>
+<li>Lech Lite</li>
+<li>Lech Mocny</li>
+<li>Lech Pils</li>
+<li>Lech Premium</li>
+<li><a href="/wiki/Tyskie" title="Tyskie">Tyskie</a><sup>F</sup></li>
+<li>Tyskie Gronie</li>
+<li>Wojak</li>
+<li><a href="/wiki/%C5%BBubr_(beer)" title="Żubr (beer)">Żubr</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/Pilsner_Urquell_Brewery" title="Pilsner Urquell Brewery">Plzeňský Prazdroj</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pilsner_Urquell" title="Pilsner Urquell">Pilsner Urquell</a><sup>F</sup><sup>G</sup></li>
+<li><a href="/wiki/Gambrinus_(beer)" title="Gambrinus (beer)">Gambrinus</a><sup>F</sup></li>
+<li><a href="/wiki/Velkopopovick%C3%BD_Kozel" title="Velkopopovický Kozel">Velkopopovický Kozel</a><sup>F</sup></li>
+<li><a href="/wiki/Radegast_(beer)" title="Radegast (beer)">Radegast</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/Grolsch_Brewery" title="Grolsch Brewery">Royal Grolsch</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grolsch_Brewery#Beers" title="Grolsch Brewery">Grolsch</a><sup>F</sup><sup>G</sup></li>
+<li><a href="/wiki/Grolsch_Brewery#Beers" title="Grolsch Brewery">Grolsch Blond</a></li>
+<li><a href="/wiki/Grolsch_Brewery#Beers" title="Grolsch Brewery">Grolsch Weizen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/Ursus_Breweries" title="Ursus Breweries">Ursus Breweries</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Azuga</li>
+<li>Ciucaș</li>
+<li>Stejar</li>
+<li><a href="/wiki/Ursus_Breweries#Timisoreana" title="Ursus Breweries">Timișoreana</a></li>
+<li><a href="/wiki/Ursus_Breweries" title="Ursus Breweries">Ursus Premium</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Dorada</li>
+<li>Dorada Especial</li>
+<li>Dorada Sin</li>
+<li>Essa</li>
+<li>Moya Kaluga</li>
+<li>Šariš Dark</li>
+<li>Šariš Premium</li>
+<li>Šariš Light</li>
+<li>Siroco by Tropical</li>
+<li>Smädný Mnìch</li>
+<li><a href="/wiki/Topvar" title="Topvar">Topvar</a></li>
+<li>Tri Bogatyrya Svetloye</li>
+<li>Tropical</li>
+<li>Tropical Premium</li>
+<li>Velkopopovický Kozel</li>
+<li>Velkopopovický Kozel Cerny</li>
+<li>Velkopopovický Kozel Premium</li>
+<li>Velkopopovický Kozel Svěltý</li>
+<li>Zolotaya Bochka Klassicheskoye<sup>F</sup></li>
+<li>Zolotaya Bochka Platinovoe</li>
+<li>Zolotaya Bochka Razlyvnoe</li>
+<li>Zolotaya Bochka Svetloye</li>
+<li>Zolotaya Bochka Vyderzhannoye</li>
+<li>Żubr</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9em;text-align: left;background-color: #eee;">North America<br />
+(<a href="/wiki/MillerCoors" title="MillerCoors">MillerCoors</a><sup>3</sup>)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/Miller_Brewing_Company" title="Miller Brewing Company">Miller Brewing Company</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Hamm's Beer</li>
+<li>Hamm's Golden Draft</li>
+<li>Hamm's Special Light</li>
+<li>Icehouse</li>
+<li>MGD 64</li>
+<li><a href="/wiki/Mickey%27s" title="Mickey's">Mickey's</a></li>
+<li><a href="/wiki/Miller_Brewing_Company#Miller_family" title="Miller Brewing Company">Miller Chill</a></li>
+<li><a href="/wiki/Miller_Brewing_Company#Miller_family" title="Miller Brewing Company">Miller Genuine Draft</a><sup>F</sup><sup>G</sup></li>
+<li><a href="/wiki/Miller_Brewing_Company#Miller_family" title="Miller Brewing Company">Miller Genuine Draft Light</a></li>
+<li><a href="/wiki/Miller_Brewing_Company#Miller_family" title="Miller Brewing Company">Miller High Life</a><sup>F</sup></li>
+<li><a href="/wiki/Miller_Lite" title="Miller Lite">Miller Lite</a><sup>F</sup></li>
+<li><a href="/wiki/Miller_Brewing_Company#Miller_family" title="Miller Brewing Company">Milwaukee's Best</a></li>
+<li><a href="/wiki/Miller_Brewing_Company#Miller_family" title="Miller Brewing Company">Milwaukee's Best Ice</a></li>
+<li><a href="/wiki/Miller_Brewing_Company#Miller_family" title="Miller Brewing Company">Milwaukee's Best Light</a></li>
+<li><a href="/wiki/Olde_English_800" title="Olde English 800">Olde English 800</a></li>
+<li><a href="/wiki/Red_Dog_(beer)" title="Red Dog (beer)">Red Dog</a></li>
+<li>SouthPaw Light</li>
+<li><a href="/wiki/Steel_Reserve" title="Steel Reserve">Steel Reserve</a></li>
+<li>St. Louis</li>
+<li><a href="/wiki/Henry_Weinhard%27s" title="Henry Weinhard's">Henry Weinhard's</a> <small>(Belgian Style Wheat</small></li>
+<li><small>Blonde</small></li>
+<li><small>Blue Boar Pale Ale</small></li>
+<li><small>Classic Dark</small></li>
+<li><small>Hefeweizen</small></li>
+<li><small>India Pale Ale</small></li>
+<li><small>Private Reserve)</small></li>
+<li><a href="/wiki/Jacob_Leinenkugel_Brewing_Company" title="Jacob Leinenkugel Brewing Company">Jacob Leinenkugel Brewing Company</a> <small>(Amber Light</small></li>
+<li><small>Berry Weiss</small></li>
+<li><small>Big Butt Doppelbock</small></li>
+<li><small>Creamy Dark Lager</small></li>
+<li><small>Honey Weiss</small></li>
+<li><small>Light</small></li>
+<li><small>Oktoberfest</small></li>
+<li><small>Original</small></li>
+<li><small>Red Lager</small></li>
+<li><small>Summer Shandy)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/Molson_Coors_Brewing_Company" title="Molson Coors Brewing Company">Molson Coors Brewing<br />
+Company</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blue_Moon_(beer)" title="Blue Moon (beer)">Blue Moon</a><sup>F</sup></li>
+<li><a href="/wiki/Coors_Brewing_Company" title="Coors Brewing Company">Coors</a></li>
+<li><a href="/wiki/Coors_Light" title="Coors Light">Coors Light</a><sup>F</sup></li>
+<li><a href="/wiki/Killian%27s" title="Killian's">Killian's</a></li>
+<li><a href="/wiki/Molson_Canadian" title="Molson Canadian">Molson Canadian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9em;text-align: left;background-color: #eee;">South America</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/Backus_and_Johnston" title="Backus and Johnston" class="mw-redirect">Backus and Johnston</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Backus_and_Johnston#Beers" title="Backus and Johnston" class="mw-redirect">Arequipeña</a></li>
+<li>Cristal</li>
+<li><a href="/wiki/Backus_and_Johnston#Beers" title="Backus and Johnston" class="mw-redirect">Cusqueña</a></li>
+<li>Cusqueña Light</li>
+<li>Cusqueña Malta</li>
+<li><a href="/wiki/Pilsen_Callao" title="Pilsen Callao" class="mw-redirect">Pilsen Callao</a></li>
+<li><a href="/wiki/Backus_and_Johnston" title="Backus and Johnston" class="mw-redirect">Pilsner Polar</a></li>
+<li><a href="/wiki/Pilsen_Trujillo" title="Pilsen Trujillo">Pilsen Trujillo</a></li>
+<li><a href="/wiki/Backus_and_Johnston#Beers" title="Backus and Johnston" class="mw-redirect">San Juan</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/Bavaria_Brewery_(Colombia)" title="Bavaria Brewery (Colombia)">Bavaria Brewery</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bavaria_Brewery_(Colombia)#Beers" title="Bavaria Brewery (Colombia)">Águila</a><sup>F</sup></li>
+<li>Aguila Light</li>
+<li><a href="/wiki/Bavaria_Brewery_(Colombia)#Beers" title="Bavaria Brewery (Colombia)">Águila Light</a></li>
+<li><a href="/wiki/Bavaria_Brewery_(Colombia)#Beers" title="Bavaria Brewery (Colombia)">Brava</a></li>
+<li><a href="/wiki/Bavaria_Brewery_(Colombia)#Beers" title="Bavaria Brewery (Colombia)">Club Colombia</a><sup>F</sup></li>
+<li><a href="/wiki/Bavaria_Brewery_(Colombia)#Beers" title="Bavaria Brewery (Colombia)">Costeñita</a></li>
+<li><a href="/wiki/Bavaria_Brewery_(Colombia)#Beers" title="Bavaria Brewery (Colombia)">Costeña</a></li>
+<li><a href="/wiki/Bavaria_Brewery_(Colombia)#Beers" title="Bavaria Brewery (Colombia)">Leona</a></li>
+<li><a href="/wiki/Bavaria_Brewery_(Colombia)#Beers" title="Bavaria Brewery (Colombia)">Pilsen</a></li>
+<li><a href="/wiki/Bavaria_Brewery_(Colombia)#Beers" title="Bavaria Brewery (Colombia)">Poker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;"><a href="/wiki/SABMiller_brands#Cerveceria_Hondure.C3.B1a_.28Hondurean_Brewery.29" title="SABMiller brands">Cerveceria Hondureña</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Barena</li>
+<li>Imperial<sup>F</sup></li>
+<li>Port-Royal</li>
+<li>Salva-Vida</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10em;text-align: left;background-color: #eee;">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Atlas</li>
+<li>Balboa</li>
+<li>Barena</li>
+<li>Club Premium Lager</li>
+<li>Conquer</li>
+<li>Dorada</li>
+<li>Golden Light</li>
+<li>Pilsener</li>
+<li>Pilsener Lite</li>
+<li>Regia Extra</li>
+<li>Suprema</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/SABMiller_brands#Non-beer_brands" title="SABMiller brands">Non-beer</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Blakes &amp; Doyle</li>
+<li>Brutal Fruit</li>
+<li><a href="/wiki/Coca-Cola_Beverages_Africa" title="Coca-Cola Beverages Africa">Coca-Cola Beverages Africa</a></li>
+<li><a href="/wiki/Crispin_Hard_Cider_Company" title="Crispin Hard Cider Company">Crispin Hard Cider Company</a>
+<ul>
+<li><a href="/wiki/Fox_Barrel_Cider" title="Fox Barrel Cider" class="mw-redirect">Fox Barrel Cider</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Frisco_(drink)" title="Frisco (drink)">Frisco</a></li>
+<li>Fusion</li>
+<li><a href="/wiki/Guaran%C3%A1_(beverage)" title="Guaraná (beverage)">Guaraná</a></li>
+<li>Redd’s</li>
+<li><a href="/wiki/Cougar_Bourbon" title="Cougar Bourbon">Cougar Bourbon</a></li>
+<li><a href="/wiki/Backus_and_Johnston#Bottled_water" title="Backus and Johnston" class="mw-redirect">San Mateo</a></li>
+<li>Sarita</li>
+<li>Skelter's Straight</li>
+<li><a href="/wiki/Viva_(beverage)" title="Viva (beverage)" class="mw-redirect">Viva</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/SAB_World_of_Beer" title="SAB World of Beer">SAB World of Beer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><small><sup>F</sup><i>Flagship brands</i> <sup>G</sup><i>Global brands</i> <sup>1</sup><i>Joint venture between SABMiller (49%) and <a href="/wiki/China_Resources_Enterprises" title="China Resources Enterprises" class="mw-redirect">China Resources Enterprises</a> (51%)</i> <sup>2</sup><i>Joint venture between SABMiller (58%) and <a href="/wiki/Molson_Coors_Brewing_Company" title="Molson Coors Brewing Company">Molson Coors Brewing Company</a> (42%)</i></small><br />
+<img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:SABMiller" title="Category:SABMiller">Category</a></b></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:FTSE_100_Index_constituents" title="Template:FTSE 100 Index constituents"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:FTSE_100_Index_constituents" title="Template talk:FTSE 100 Index constituents"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:FTSE_100_Index_constituents&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/FTSE_100_Index" title="FTSE 100 Index">FTSE 100</a> companies of the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>&#160;&#160;&#160;→ <small><a href="/wiki/Template:FTSE_250_Index_constituents" title="Template:FTSE 250 Index constituents">FTSE 250</a></small></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<div>
+<ul>
+<li><a href="/wiki/3i" title="3i">3i</a></li>
+<li><a href="/wiki/Aberdeen_Asset_Management" title="Aberdeen Asset Management">Aberdeen Asset Management</a></li>
+<li><a href="/wiki/Admiral_Group" title="Admiral Group">Admiral Group</a></li>
+<li><a href="/wiki/Anglo_American_plc" title="Anglo American plc">Anglo American</a></li>
+<li><a href="/wiki/Antofagasta_PLC" title="Antofagasta PLC">Antofagasta</a></li>
+<li><a href="/wiki/ARM_Holdings" title="ARM Holdings">ARM Holdings</a></li>
+<li><a href="/wiki/Ashtead_Group" title="Ashtead Group">Ashtead Group</a></li>
+<li><a href="/wiki/Associated_British_Foods" title="Associated British Foods">Associated British Foods</a></li>
+<li><a href="/wiki/AstraZeneca" title="AstraZeneca">AstraZeneca</a></li>
+<li><a href="/wiki/Aviva" title="Aviva">Aviva</a></li>
+<li><a href="/wiki/BAE_Systems" title="BAE Systems">BAE Systems</a></li>
+<li><a href="/wiki/BG_Group" title="BG Group">BG Group</a></li>
+<li><a href="/wiki/BHP_Billiton" title="BHP Billiton">BHP Billiton</a></li>
+<li><a href="/wiki/BP" title="BP">BP</a></li>
+<li><a href="/wiki/Babcock_International" title="Babcock International">Babcock International</a></li>
+<li><a href="/wiki/Barclays" title="Barclays">Barclays</a></li>
+<li><a href="/wiki/Barratt_Developments" title="Barratt Developments">Barratt Developments</a></li>
+<li><a href="/wiki/Berkeley_Group_Holdings" title="Berkeley Group Holdings">Berkeley Group Holdings</a></li>
+<li><a href="/wiki/British_American_Tobacco" title="British American Tobacco">British American Tobacco</a></li>
+<li><a href="/wiki/British_Land" title="British Land">British Land</a></li>
+<li><a href="/wiki/BT_Group" title="BT Group">BT Group</a></li>
+<li><a href="/wiki/Bunzl" title="Bunzl">Bunzl</a></li>
+<li><a href="/wiki/Burberry" title="Burberry">Burberry</a></li>
+<li><a href="/wiki/Capita" title="Capita">Capita</a></li>
+<li><a href="/wiki/Carnival_Corporation_%26_plc" title="Carnival Corporation &amp; plc">Carnival</a></li>
+<li><a href="/wiki/Centrica" title="Centrica">Centrica</a></li>
+<li><a href="/wiki/Coca-Cola_HBC_AG" title="Coca-Cola HBC AG">Coca-Cola HBC</a></li>
+<li><a href="/wiki/Compass_Group" title="Compass Group">Compass Group</a></li>
+<li><a href="/wiki/CRH_plc" title="CRH plc">CRH</a></li>
+<li><a href="/wiki/Diageo" title="Diageo">Diageo</a></li>
+<li><a href="/wiki/Direct_Line_Group" title="Direct Line Group">Direct Line Group</a></li>
+<li><a href="/wiki/Dixons_Carphone" title="Dixons Carphone">Dixons Carphone</a></li>
+<li><a href="/wiki/EasyJet" title="EasyJet">easyJet</a></li>
+<li><a href="/wiki/Experian" title="Experian">Experian</a></li>
+<li><a href="/wiki/Fresnillo_plc" title="Fresnillo plc">Fresnillo</a></li>
+<li><a href="/wiki/G4S" title="G4S">G4S</a></li>
+<li><a href="/wiki/GKN" title="GKN">GKN</a></li>
+<li><a href="/wiki/GlaxoSmithKline" title="GlaxoSmithKline">GlaxoSmithKline</a></li>
+<li><a href="/wiki/Glencore" title="Glencore">Glencore</a></li>
+<li><a href="/wiki/Hammerson" title="Hammerson">Hammerson</a></li>
+<li><a href="/wiki/Hargreaves_Lansdown" title="Hargreaves Lansdown">Hargreaves Lansdown</a></li>
+<li><a href="/wiki/Hikma_Pharmaceuticals" title="Hikma Pharmaceuticals">Hikma Pharmaceuticals</a></li>
+<li><a href="/wiki/HSBC" title="HSBC">HSBC</a></li>
+<li><a href="/wiki/Imperial_Tobacco" title="Imperial Tobacco">Imperial Tobacco</a></li>
+<li><a href="/wiki/Inmarsat" title="Inmarsat">Inmarsat</a></li>
+<li><a href="/wiki/InterContinental_Hotels_Group" title="InterContinental Hotels Group">InterContinental Hotels Group</a></li>
+<li><a href="/wiki/International_Airlines_Group" title="International Airlines Group">International Airlines Group</a></li>
+<li><a href="/wiki/Intertek" title="Intertek">Intertek</a></li>
+<li><a href="/wiki/Intu_Properties" title="Intu Properties">Intu Properties</a></li>
+<li><a href="/wiki/ITV_plc" title="ITV plc">ITV</a></li>
+<li><a href="/wiki/Johnson_Matthey" title="Johnson Matthey">Johnson Matthey</a></li>
+<li><a href="/wiki/Kingfisher_plc" title="Kingfisher plc">Kingfisher</a></li>
+<li><a href="/wiki/Land_Securities" title="Land Securities">Land Securities Group</a></li>
+<li><a href="/wiki/Legal_%26_General" title="Legal &amp; General">Legal &amp; General</a></li>
+<li><a href="/wiki/Lloyds_Banking_Group" title="Lloyds Banking Group">Lloyds Banking Group</a></li>
+<li><a href="/wiki/London_Stock_Exchange_Group" title="London Stock Exchange Group">London Stock Exchange Group</a></li>
+<li><a href="/wiki/Marks_%26_Spencer" title="Marks &amp; Spencer">Marks &amp; Spencer</a></li>
+<li><a href="/wiki/Meggitt" title="Meggitt">Meggitt</a></li>
+<li><a href="/wiki/Merlin_Entertainments" title="Merlin Entertainments">Merlin Entertainments</a></li>
+<li><a href="/wiki/Mondi" title="Mondi">Mondi</a></li>
+<li><a href="/wiki/Morrisons" title="Morrisons">Wm Morrison Supermarkets</a></li>
+<li><a href="/wiki/National_Grid_plc" title="National Grid plc">National Grid</a></li>
+<li><a href="/wiki/Next_plc" title="Next plc">Next</a></li>
+<li><a href="/wiki/Old_Mutual" title="Old Mutual">Old Mutual</a></li>
+<li><a href="/wiki/Pearson_PLC" title="Pearson PLC">Pearson</a></li>
+<li><a href="/wiki/Persimmon_plc" title="Persimmon plc">Persimmon</a></li>
+<li><a href="/wiki/Prudential_plc" title="Prudential plc">Prudential</a></li>
+<li><a href="/wiki/Randgold_Resources" title="Randgold Resources">Randgold Resources</a></li>
+<li><a href="/wiki/The_Royal_Bank_of_Scotland_Group" title="The Royal Bank of Scotland Group">Royal Bank of Scotland</a></li>
+<li><a href="/wiki/Reckitt_Benckiser" title="Reckitt Benckiser">Reckitt Benckiser</a></li>
+<li><a href="/wiki/RELX_Group" title="RELX Group">RELX Group</a></li>
+<li><a href="/wiki/Rio_Tinto_Group" title="Rio Tinto Group">Rio Tinto Group</a></li>
+<li><a href="/wiki/Rolls-Royce_Holdings" title="Rolls-Royce Holdings">Rolls-Royce</a></li>
+<li><a href="/wiki/Royal_Dutch_Shell" title="Royal Dutch Shell">Royal Dutch Shell</a></li>
+<li><a href="/wiki/Royal_Mail" title="Royal Mail">Royal Mail</a></li>
+<li><a href="/wiki/RSA_Insurance_Group" title="RSA Insurance Group">RSA Insurance Group</a></li>
+<li><strong class="selflink">SABMiller</strong></li>
+<li><a href="/wiki/Sage_Group" title="Sage Group">Sage Group</a></li>
+<li><a href="/wiki/Sainsbury%27s" title="Sainsbury's">J Sainsbury</a></li>
+<li><a href="/wiki/Schroders" title="Schroders">Schroders</a></li>
+<li><a href="/wiki/Severn_Trent" title="Severn Trent">Severn Trent</a></li>
+<li><a href="/wiki/Shire_(pharmaceutical_company)" title="Shire (pharmaceutical company)">Shire</a></li>
+<li><a href="/wiki/Sky_plc" title="Sky plc">Sky</a></li>
+<li><a href="/wiki/Smith_%26_Nephew" title="Smith &amp; Nephew">Smith &amp; Nephew</a></li>
+<li><a href="/wiki/Smiths_Group" title="Smiths Group">Smiths Group</a></li>
+<li><a href="/wiki/Sports_Direct" title="Sports Direct">Sports Direct</a></li>
+<li><a href="/wiki/SSE_plc" title="SSE plc">SSE</a></li>
+<li><a href="/wiki/Standard_Chartered" title="Standard Chartered">Standard Chartered</a></li>
+<li><a href="/wiki/Standard_Life" title="Standard Life">Standard Life</a></li>
+<li><a href="/wiki/St._James%27s_Place_plc" title="St. James's Place plc">St. James's Place</a></li>
+<li><a href="/wiki/Taylor_Wimpey" title="Taylor Wimpey">Taylor Wimpey</a></li>
+<li><a href="/wiki/Tesco" title="Tesco">Tesco</a></li>
+<li><a href="/wiki/Travis_Perkins" title="Travis Perkins">Travis Perkins</a></li>
+<li><a href="/wiki/TUI_Group" title="TUI Group">TUI</a></li>
+<li><a href="/wiki/Unilever" title="Unilever">Unilever</a></li>
+<li><a href="/wiki/United_Utilities" title="United Utilities">United Utilities</a></li>
+<li><a href="/wiki/Vodafone" title="Vodafone">Vodafone</a></li>
+<li><a href="/wiki/Whitbread" title="Whitbread">Whitbread</a></li>
+<li><a href="/wiki/Wolseley_plc" title="Wolseley plc">Wolseley</a></li>
+<li><a href="/wiki/WPP_plc" title="WPP plc">WPP</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks noprint navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li style="display:inline;white-space:nowrap"><span style="margin:auto 0.5em"><a href="/wiki/File:Clock_Tower_-_Palace_of_Westminster,_London_-_May_2007_icon.png" class="image"><img alt="Clock Tower - Palace of Westminster, London - May 2007 icon.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Clock_Tower_-_Palace_of_Westminster%2C_London_-_May_2007_icon.png/12px-Clock_Tower_-_Palace_of_Westminster%2C_London_-_May_2007_icon.png" width="12" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Clock_Tower_-_Palace_of_Westminster%2C_London_-_May_2007_icon.png/19px-Clock_Tower_-_Palace_of_Westminster%2C_London_-_May_2007_icon.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Clock_Tower_-_Palace_of_Westminster%2C_London_-_May_2007_icon.png/24px-Clock_Tower_-_Palace_of_Westminster%2C_London_-_May_2007_icon.png 2x" data-file-width="250" data-file-height="427" /></a></span><span style="font-weight:bold"><a href="/wiki/Portal:London" title="Portal:London">London portal</a></span></li>
+<li style="display:inline;white-space:nowrap"><span style="margin:auto 0.5em"><a href="/wiki/File:Factory_1b.svg" class="image"><img alt="Factory 1b.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Factory_1b.svg/24px-Factory_1b.svg.png" width="24" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Factory_1b.svg/36px-Factory_1b.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Factory_1b.svg/48px-Factory_1b.svg.png 2x" data-file-width="400" data-file-height="329" /></a></span><span style="font-weight:bold"><a href="/wiki/Portal:Companies" title="Portal:Companies">Companies portal</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1048
+Cached time: 20151019110043
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.644 seconds
+Real time usage: 0.799 seconds
+Preprocessor visited node count: 3371/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 182014/2097152 bytes
+Template argument size: 3575/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 3/500
+Lua time usage: 0.227/10.000 seconds
+Lua memory usage: 4.47 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  622.460      1 - -total
+ 30.62%  190.576      1 - Template:Reflist
+ 22.97%  142.969      8 - Template:Navbox
+ 18.19%  113.197      1 - Template:Infobox_company
+ 16.86%  104.975      1 - Template:Infobox
+ 10.95%   68.150      1 - Template:SABMiller
+ 10.65%   66.309     15 - Template:Cite_web
+ 10.41%   64.822      9 - Template:Cite_news
+  6.83%   42.519      7 - Template:Flagicon
+  6.28%   39.095      1 - Template:Dead_link
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:660767-0!*!0!!en!4!* and timestamp 20151019110042 and revision id 686173431
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=SABMiller&amp;oldid=686173431">https://en.wikipedia.org/w/index.php?title=SABMiller&amp;oldid=686173431</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:SABMiller" title="Category:SABMiller">SABMiller</a></li><li><a href="/wiki/Category:Companies_established_in_1895" title="Category:Companies established in 1895">Companies established in 1895</a></li><li><a href="/wiki/Category:Companies_based_in_London" title="Category:Companies based in London">Companies based in London</a></li><li><a href="/wiki/Category:Companies_listed_on_the_London_Stock_Exchange" title="Category:Companies listed on the London Stock Exchange">Companies listed on the London Stock Exchange</a></li><li><a href="/wiki/Category:Companies_listed_on_the_Johannesburg_Stock_Exchange" title="Category:Companies listed on the Johannesburg Stock Exchange">Companies listed on the Johannesburg Stock Exchange</a></li><li><a href="/wiki/Category:Multinational_breweries" title="Category:Multinational breweries">Multinational breweries</a></li><li><a href="/wiki/Category:Conglomerate_companies_of_the_United_Kingdom" title="Category:Conglomerate companies of the United Kingdom">Conglomerate companies of the United Kingdom</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_British_English_from_November_2012" title="Category:Use British English from November 2012">Use British English from November 2012</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_November_2012" title="Category:Use dmy dates from November 2012">Use dmy dates from November 2012</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_April_2015" title="Category:Articles with dead external links from April 2015">Articles with dead external links from April 2015</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=SABMiller&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=SABMiller" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/SABMiller"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:SABMiller"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/SABMiller" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=SABMiller&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=SABMiller&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/SABMiller" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/SABMiller" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=SABMiller&amp;oldid=686173431" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=SABMiller&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q4995" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=SABMiller&amp;id=686173431" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=SABMiller">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=SABMiller&amp;returnto=SABMiller&amp;oldid=686173431&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=SABMiller&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="//af.wikipedia.org/wiki/SABMiller" title="SABMiller – Afrikaans" lang="af" hreflang="af">Afrikaans</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/SABMiller" title="SABMiller – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/SABMiller" title="SABMiller – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/SABMiller" title="SABMiller – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/SABMiller" title="SABMiller – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/SABMiller" title="SABMiller – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B3%D8%A8%D9%85%DB%8C%D9%84%D8%B1" title="سبمیلر – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/SABMiller" title="SABMiller – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/SAB%EB%B0%80%EB%9F%AC" title="SAB밀러 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/SABMiller" title="SABMiller – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/SABMiller" title="SABMiller – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-lmo"><a href="//lmo.wikipedia.org/wiki/SABMiller" title="SABMiller – Lombard" lang="lmo" hreflang="lmo">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/SABMiller_plc" title="SABMiller plc – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/SABMiller" title="SABMiller – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/SAB%E3%83%9F%E3%83%A9%E3%83%BC" title="SABミラー – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/SABMiller" title="SABMiller – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/SABMiller" title="SABMiller – Occitan" lang="oc" hreflang="oc">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/SABMiller" title="SABMiller – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/SABMiller" title="SABMiller – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/SABMiller" title="SABMiller – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/SABMiller" title="SABMiller – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/SABMiller" title="SABMiller – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/SABMiller" title="SABMiller – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/SABMiller" title="SABMiller – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/SABMiller" title="SABMiller – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-yi"><a href="//yi.wikipedia.org/wiki/%D7%A1%D7%A2%D7%91-%D7%9E%D7%99%D7%9C%D7%A2%D7%A8" title="סעב-מילער – Yiddish" lang="yi" hreflang="yi">ייִדיש</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%8D%97%E9%9D%9E%E7%B1%B3%E5%8B%92" title="南非米勒 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q4995#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 17 October 2015, at 13:49.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=SABMiller&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1078"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

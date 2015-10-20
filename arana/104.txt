@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Alpha Condé - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Alpha_Condé","wgTitle":"Alpha Condé","wgCurRevisionId":686570918,"wgRevisionId":686570918,"wgArticleId":3556592,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from July 2011","Wikipedia articles needing clarification from July 2011","Commons category with local link same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","1938 births","Guinean democracy activists","Guinean Muslims","Guinean prisoners and detainees","Living people","Mandinka","People from Boké","Presidents of Guinea","Prisoners and detainees of Guinea","Rally of the Guinean People politicians","Recipients of Guinean presidential pardons"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Alpha_Condé","wgRelevantArticleId":3556592,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alpha_Conde_-_World_Economic_Forum_Annual_Meeting_2012.jpg/68px-Alpha_Conde_-_World_Economic_Forum_Annual_Meeting_2012.jpg","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4413","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Alpha_Cond%C3%A9" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Alpha_Cond%C3%A9&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Alpha_Cond%C3%A9&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Alpha_Cond%C3%A9" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Alpha_Condé skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Alpha Condé</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 130%;"><span class="fn">Alpha Condé</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Alpha_Conde_-_World_Economic_Forum_Annual_Meeting_2012.jpg" class="image"><img alt="Alpha Conde - World Economic Forum Annual Meeting 2012.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alpha_Conde_-_World_Economic_Forum_Annual_Meeting_2012.jpg/220px-Alpha_Conde_-_World_Economic_Forum_Annual_Meeting_2012.jpg" width="220" height="321" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alpha_Conde_-_World_Economic_Forum_Annual_Meeting_2012.jpg/330px-Alpha_Conde_-_World_Economic_Forum_Annual_Meeting_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Alpha_Conde_-_World_Economic_Forum_Annual_Meeting_2012.jpg/440px-Alpha_Conde_-_World_Economic_Forum_Annual_Meeting_2012.jpg 2x" data-file-width="3592" data-file-height="5240" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lavender"><a href="/wiki/List_of_heads_of_state_of_Guinea" title="List of heads of state of Guinea">President of Guinea</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-bottom:none">
+<div style="width:100%; margin:0; padding:0; background-color: lavender"><b><a href="/wiki/Incumbent" title="Incumbent">Incumbent</a></b></div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>Assumed office</b></span><br />
+21 December 2010</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Prime Minister</span></th>
+<td><a href="/wiki/Jean-Marie_Dor%C3%A9" title="Jean-Marie Doré">Jean-Marie Doré</a><br />
+<a href="/wiki/Mohamed_Said_Fofana" title="Mohamed Said Fofana">Mohamed Said Fofana</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+<td><a href="/wiki/S%C3%A9kouba_Konat%C3%A9" title="Sékouba Konaté">Sékouba Konaté</a> <small style="font-size:85%;">(Acting)</small></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lavender">Personal details</th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1938-03-04</span>)</span> 4 March 1938 <span class="noprint ForceAgeToShow">(age&#160;77)</span><br />
+<a href="/wiki/Bok%C3%A9" title="Boké">Boké</a>, <a href="/wiki/French_Guinea" title="French Guinea">French Guinea</a><br />
+<small style="font-size:85%;">(now <a href="/wiki/Guinea" title="Guinea">Guinea</a>)</small></td>
+</tr>
+<tr>
+<th scope="row">Political party</th>
+<td><a href="/wiki/Rally_of_the_Guinean_People" title="Rally of the Guinean People">Rally of the Guinean People</a></td>
+</tr>
+<tr>
+<th scope="row">Spouse(s)</th>
+<td><a href="/wiki/Djene_Kaba_Cond%C3%A9" title="Djene Kaba Condé">Djene Kaba Condé</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></th>
+<td><a href="/wiki/Pantheon-Sorbonne_University" title="Pantheon-Sorbonne University">Pantheon-Sorbonne University</a></td>
+</tr>
+<tr>
+<th scope="row">Religion</th>
+<td><a href="/wiki/Islam" title="Islam">Islam</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><b>Alpha Condé</b> (born 4 March 1938) is a <a href="/wiki/Guinea" title="Guinea">Guinean</a> politician who has been <a href="/wiki/President_of_Guinea" title="President of Guinea" class="mw-redirect">President of Guinea</a> since December 2010. He spent decades in opposition to a succession of regimes in Guinea, unsuccessfully running against President <a href="/wiki/Lansana_Cont%C3%A9" title="Lansana Conté">Lansana Conté</a> in the 1993 and 1998 presidential elections and leading the <a href="/wiki/Rally_of_the_Guinean_People" title="Rally of the Guinean People">Rally of the Guinean People</a> (RPG), an opposition party. Standing again in the <a href="/wiki/Guinean_presidential_election,_2010" title="Guinean presidential election, 2010">2010 presidential election</a>, Condé was elected as President of Guinea in a second round of voting. When he took office that December, he became the first freely elected president in the country's history. Condé was <a href="/wiki/Guinean_presidential_election,_2015" title="Guinean presidential election, 2015">reelected in 2015</a> with almost 58% of the vote.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background_and_personal_life"><span class="tocnumber">1</span> <span class="toctext">Background and personal life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Early_life"><span class="tocnumber">2</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Political_career"><span class="tocnumber">3</span> <span class="toctext">Political career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#2010_election"><span class="tocnumber">3.1</span> <span class="toctext">2010 election</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Assassination_attempt"><span class="tocnumber">3.2</span> <span class="toctext">Assassination attempt</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#2013_pre-election_violence"><span class="tocnumber">3.3</span> <span class="toctext">2013 pre-election violence</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#2015_election"><span class="tocnumber">3.4</span> <span class="toctext">2015 election</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background_and_personal_life">Background and personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alpha_Cond%C3%A9&amp;action=edit&amp;section=1" title="Edit section: Background and personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Condé was born on 4 March 1938 in <a href="/wiki/Bok%C3%A9" title="Boké">Boké</a> in Lower Guinea. His parents were from <a href="/wiki/Baro,_Guinea" title="Baro, Guinea">Baro</a>, a small town in <a href="/wiki/Kouroussa_Prefecture" title="Kouroussa Prefecture">Kouroussa Prefecture</a> in the <a href="/wiki/Kankan_Region" title="Kankan Region">Kankan Region</a> of Upper Guinea.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> Condé is married to <a href="/wiki/Djene_Kaba_Cond%C3%A9" title="Djene Kaba Condé">Djene Kaba Condé</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> Condé has one son, Alpha Mohamed Condé.</p>
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alpha_Cond%C3%A9&amp;action=edit&amp;section=2" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Condé left for France at the age of 15. He was active in parallel within the <a href="/w/index.php?title=National_Union_of_Higher_Education&amp;action=edit&amp;redlink=1" class="new" title="National Union of Higher Education (page does not exist)">National Union of Higher Education</a> (SNESUP) and combined the functions of charge within the <a href="/w/index.php?title=Association_of_Guinean_students_in_France&amp;action=edit&amp;redlink=1" class="new" title="Association of Guinean students in France (page does not exist)">Association of Guinean students in France</a> (AEGF), and within the <a href="/w/index.php?title=Federation_of_Black_African_Students_in_France&amp;action=edit&amp;redlink=1" class="new" title="Federation of Black African Students in France (page does not exist)">Federation of Black African Students in France</a> (FEANF), in which he was the Executive Coordinator of African National Groups (NG) from 1967 to 1975, overseeing the activities of the Directorate of FEANF.</p>
+<h2><span class="mw-headline" id="Political_career">Political career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alpha_Cond%C3%A9&amp;action=edit&amp;section=3" title="Edit section: Political career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Condé won 19.6% of the vote in <a href="/wiki/Guinean_presidential_election,_1993" title="Guinean presidential election, 1993">Guinea's first multiparty presidential election</a>, held on 19 December 1993. <a href="/wiki/Lansana_Cont%C3%A9" title="Lansana Conté">Lansana Conté</a>, who had been president since a bloodless 1984 <i><a href="/wiki/Coup_d%27etat" title="Coup d'etat" class="mw-redirect">coup d'etat</a></i>, won that election with 51.7% of the vote. Condé's supporters alleged fraud in this election after the <a href="/w/index.php?title=Supreme_Court_of_Guinea&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of Guinea (page does not exist)">Supreme Court</a> nullified results in the <a href="/wiki/Kankan" title="Kankan">Kankan</a> and <a href="/wiki/Siguiri" title="Siguiri">Siguiri</a> prefectures, where Condé had received more than 90% of the vote.<sup id="cite_ref-englebert2006_4-0" class="reference"><a href="#cite_note-englebert2006-4"><span>[</span>4<span>]</span></a></sup> In the <a href="/wiki/Guinean_presidential_election,_1998" title="Guinean presidential election, 1998">1998 presidential election</a>, Condé ran again and received 16.6% of the vote, placing third behind Conté (56.1%) and <a href="/w/index.php?title=Mamadou_Boye_B%C3%A2&amp;action=edit&amp;redlink=1" class="new" title="Mamadou Boye Bâ (page does not exist)">Mamadou Boye Bâ</a> (24.6%). On 16 December, two days after the poll, Condé was arrested and charged with trying to leave the country illegally; he was also charged with attempting to recruit forces to destabilize the government.<sup id="cite_ref-englebert2006_4-1" class="reference"><a href="#cite_note-englebert2006-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Controversy during his detention focused on whether he could be represented by foreign as well as domestic lawyers, and whether defense lawyers were being given full access to him in jail. Condé's trial, initially scheduled to begin in September 1999, did not begin until April 2000. Condé, along with 47 co-defendants, were charged with hiring mercenaries, planning to assassinate President Conté, and upsetting the state's security. Defense lawyers began by calling for the judge to immediately release their clients, then quit, saying that under the circumstances they could not properly make a defense. The trial was thus delayed several times, during which time Condé refused to speak in court, and his co-defendants denied all of the charges. The trial finally continued in August, and in mid-September Condé was sentenced to jail for five years.<sup id="cite_ref-englebert2006_4-2" class="reference"><a href="#cite_note-englebert2006-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>However, Condé was released in May 2001 when he was pardoned by President Conté, with the condition that he be prohibited from engaging in political activities.<sup id="cite_ref-englebert2006_4-3" class="reference"><a href="#cite_note-englebert2006-4"><span>[</span>4<span>]</span></a></sup> Following his release, he left Guinea for France, returning in July 2005.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> Upon his return, some reports indicated that he intended to organize the RPG for the municipal elections held in late 2005, but later stated his intention to boycott them.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>Following Conté's death and the <a href="/wiki/2008_Guinean_coup_d%27etat" title="2008 Guinean coup d'etat" class="mw-redirect">23 December 2008 military coup</a>, Condé met with <a href="/wiki/Moussa_Dadis_Camara" title="Moussa Dadis Camara">Moussa Dadis Camara</a>, the President of the <a href="/wiki/National_Council_for_Democracy_and_Development" title="National Council for Democracy and Development">National Council for Democracy and Development</a> (CNDD), on 27 December 2008. After the meeting, Condé said that the members of the CNDD junta were "patriots".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> Later, however, he opposed the junta<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="(July 2011)">why?</span></a></i>]</sup> and was criticised by Camara.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="2010_election">2010 election</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alpha_Cond%C3%A9&amp;action=edit&amp;section=4" title="Edit section: 2010 election">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Condé stood again in the <a href="/wiki/Guinean_presidential_election,_2010" title="Guinean presidential election, 2010">2010 presidential election</a>. During the first round, he received 18% of the votes, while <a href="/wiki/Cellou_Dalein_Diallo" title="Cellou Dalein Diallo">Cellou Dalein Diallo</a> came first with over 40%. 15 November 2010 Condé was declared winner of the second round with 52.5%.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> He was inaugurated in December 2010.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Assassination_attempt">Assassination attempt</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alpha_Cond%C3%A9&amp;action=edit&amp;section=5" title="Edit section: Assassination attempt">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 19 July 2011, the presidential residence was shelled, resulting in the death of a presidential guard and the injuries of two others; Condé, however, survived the assassination attempt.<sup id="cite_ref-aljaz_11-0" class="reference"><a href="#cite_note-aljaz-11"><span>[</span>11<span>]</span></a></sup> A former army chief and a member of the presidential guard were arrested hours after the two attacks on his house. The President later spoke to the country saying that "My house was attacked last night, but I congratulate the presidential guard who fought heroically from 3:10 until 5:00 before backup arrived." He also added that his plans for reform would not fail.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>Three days later at least 38 soldiers were arrested for the assassination attempt. A government official said that many of those arrested had ties to the country's previous military rulers.</p>
+<p>The United Nations reacted saying that there was a greater need for military reforms in Guinea. The UN special representative for West Africa <a href="/wiki/Said_Djinnit" title="Said Djinnit">Said Djinnit</a> said that the assault showed "weaknesses remain in Guinea's defence and security systems [and] reinforces the UN's determination to support the country's military reforms. I saw the damage...[the attack] clearly intended to kill the president."<sup id="cite_ref-aljaz_11-1" class="reference"><a href="#cite_note-aljaz-11"><span>[</span>11<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="2013_pre-election_violence">2013 pre-election violence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alpha_Cond%C3%A9&amp;action=edit&amp;section=6" title="Edit section: 2013 pre-election violence">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Condé received criticism during week-long protests and violence in late February/early March, after opposition supporters took to the streets of <a href="/wiki/Conakry" title="Conakry">Conakry</a> to protest against his alleged attempts to rig the May elections in 2013. The opposition coalition withdrew from the electoral process in mid-February, mainly due to Condé's insistence on using a South African firm, <a href="/w/index.php?title=Waymark_Infotech&amp;action=edit&amp;redlink=1" class="new" title="Waymark Infotech (page does not exist)">Waymark Infotech</a>, to draw up the registered voter list.</p>
+<p>The ensuing violence resulted in at least nine deaths and hundreds injured, many from the alleged brutality of the security forces who reportedly used live fire to disperse some of the crowds.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-SAL_14-0" class="reference"><a href="#cite_note-SAL-14"><span>[</span>14<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="2015_election">2015 election</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alpha_Cond%C3%A9&amp;action=edit&amp;section=7" title="Edit section: 2015 election">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On October 17 2015, Condé was <a href="/wiki/Guinean_presidential_election,_2015" title="Guinean presidential election, 2015">reelected in 2015</a> with 57.85% of the vote. However, the election has been dogged with claims of fraud and mismanagement by the opposition.<sup id="cite_ref-Guardian_15-0" class="reference"><a href="#cite_note-Guardian-15"><span>[</span>15<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alpha_Cond%C3%A9&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Alpha_Cond%C3%A9" class="extiw" title="commons:Category:Alpha Condé">Alpha Condé</a></b></i>.</td>
+</tr>
+</table>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.african-bulletin.com/watch/712-guinea-no-more-power-based-on-ethnicity.html">Guinea: No more power based on ethnicity</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.environnement-guinee.info/Single-News.408.0.html?&amp;cHash=774db962b8&amp;tx_ttnews%5BbackPid%5D=406&amp;tx_ttnews%5BpS%5D=1301784087&amp;tx_ttnews%5Bpointer%5D=84&amp;tx_ttnews%5Btt_news%5D=6324">[1]</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.unaids.org/en/resources/presscentre/featurestories/2011/april/20110415guinea/">"Guinea’s President and First Lady to attend the 2011 High Level Meeting on AIDS"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlpha+Cond%C3%A9&amp;rft.btitle=Guinea%E2%80%99s+President+and+First+Lady+to+attend+the+2011+High+Level+Meeting+on+AIDS&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.unaids.org%2Fen%2Fresources%2Fpresscentre%2Ffeaturestories%2F2011%2Fapril%2F20110415guinea%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-englebert2006-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-englebert2006_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-englebert2006_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-englebert2006_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-englebert2006_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Englebert, Pierre. (2006) Guinea: recent history. In <i>Africa south of the Sahara 2006</i>, 35th ed. London: Routledge.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.irinnews.org/report.aspx?reportid=55250">"GUINEA: Opposition leader returns as food tensions mount"</a>. <i><a href="/wiki/IRIN" title="IRIN">IRIN</a></i>. 4 July 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlpha+Cond%C3%A9&amp;rft.atitle=GUINEA%3A+Opposition+leader+returns+as+food+tensions+mount&amp;rft.date=4+July+2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.irinnews.org%2Freport.aspx%3Freportid%3D55250&amp;rft.jtitle=IRIN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.irinnews.org/report.aspx?reportid=55525">"GUINEA: Opposition split over whether to take part in municipal elections"</a>. <i><a href="/wiki/IRIN" title="IRIN">IRIN</a></i>. 20 July 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlpha+Cond%C3%A9&amp;rft.atitle=GUINEA%3A+Opposition+split+over+whether+to+take+part+in+municipal+elections&amp;rft.date=20+July+2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.irinnews.org%2Freport.aspx%3Freportid%3D55525&amp;rft.jtitle=IRIN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.reuters.com/article/idUSLR178986">"Guinea coup leader gets Senegal's backing"</a>. <i><a href="/wiki/Reuters" title="Reuters">Reuters</a></i>. 27 December 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlpha+Cond%C3%A9&amp;rft.atitle=Guinea+coup+leader+gets+Senegal%27s+backing&amp;rft.date=27+December+2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.reuters.com%2Farticle%2FidUSLR178986&amp;rft.jtitle=Reuters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.google.com/hostednews/afp/article/ALeqM5gu5-PDqaGyy9lFOPMuu6NtgydAGw">"Guinea junta chief 'holed up in Burkina villa<span style="padding-right:0.2em;">'</span>"</a>. <i><a href="/wiki/Agence_France-Presse" title="Agence France-Presse">AFP</a></i>. 20 February 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlpha+Cond%C3%A9&amp;rft.atitle=Guinea+junta+chief+%27holed+up+in+Burkina+villa%27&amp;rft.date=20+February+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.google.com%2Fhostednews%2Fafp%2Farticle%2FALeqM5gu5-PDqaGyy9lFOPMuu6NtgydAGw&amp;rft.jtitle=AFP&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news">Samb, Saliou (15 November 2010). <a rel="nofollow" class="external text" href="http://www.reuters.com/article/2010/11/16/us-guinea-election-idUSTRE6AE20P20101116">"Alpha Conde wins Guinea vote"</a>. Reuters<span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlpha+Cond%C3%A9&amp;rft.atitle=Alpha+Conde+wins+Guinea+vote&amp;rft.aufirst=Saliou&amp;rft.aulast=Samb&amp;rft.date=15+November+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.reuters.com%2Farticle%2F2010%2F11%2F16%2Fus-guinea-election-idUSTRE6AE20P20101116&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Kamara, Ahmed (21 December 2010). <a rel="nofollow" class="external text" href="http://www.newstimeafrica.com/archives/15126">"A.U. APPOINTS SEKOUBA KONATE AS HEAD OF THE AFRICAN UNION STANDBY MILITARY FORCE"</a>. <i>Newstime Africa</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlpha+Cond%C3%A9&amp;rft.atitle=A.U.+APPOINTS+SEKOUBA+KONATE+AS+HEAD+OF+THE+AFRICAN+UNION+STANDBY+MILITARY+FORCE&amp;rft.aufirst=Ahmed&amp;rft.aulast=Kamara&amp;rft.date=21+December+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.newstimeafrica.com%2Farchives%2F15126&amp;rft.jtitle=Newstime+Africa&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-aljaz-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-aljaz_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-aljaz_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://english.aljazeera.net/news/africa/2011/07/201172245517512476.html">http://english.aljazeera.net/news/africa/2011/07/201172245517512476.html</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.trust.org/alertnet/news/post-attack-guinea-tells-investors-country-is-under-control/">"Post-attack, Guinea tells investors country is under control"</a>. <i>AP</i>. 19 July 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlpha+Cond%C3%A9&amp;rft.atitle=Post-attack%2C+Guinea+tells+investors+country+is+under+control&amp;rft.date=19+July+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.trust.org%2Falertnet%2Fnews%2Fpost-attack-guinea-tells-investors-country-is-under-control%2F&amp;rft.jtitle=AP&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://uk.reuters.com/article/2013/03/08/uk-guinea-clashes-idUKBRE92714Z20130308">"Security forces break up Guinea opposition funeral march"</a>. Reuters. 8 March 2013.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlpha+Cond%C3%A9&amp;rft.btitle=Security+forces+break+up+Guinea+opposition+funeral+march&amp;rft.date=8+March+2013&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fuk.reuters.com%2Farticle%2F2013%2F03%2F08%2Fuk-guinea-clashes-idUKBRE92714Z20130308&amp;rft.pub=Reuters&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-SAL-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-SAL_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Salon (15 February 2013). <a rel="nofollow" class="external text" href="http://www.salon.com/2013/02/15/guinea_electoral_body_appoints_south_african_firm/">"Guinea electoral body appoints South African firm"</a>. Salon.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlpha+Cond%C3%A9&amp;rft.au=Salon&amp;rft.btitle=Guinea+electoral+body+appoints+South+African+firm&amp;rft.date=15+February+2013&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.salon.com%2F2013%2F02%2F15%2Fguinea_electoral_body_appoints_south_african_firm%2F&amp;rft.pub=Salon&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Guardian-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Guardian_15-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.theguardian.com/world/2015/oct/17/guinea-president-alpha-conde-election">"Guinea president Alpha Conde wins second term with clear majority"</a>. <a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a>. Agence France-Presse. 17 October 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">19 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlpha+Cond%C3%A9&amp;rft.atitle=Guinea+president+Alpha+Conde+wins+second+term+with+clear+majority&amp;rft.date=17+October+2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.theguardian.com%2Fworld%2F2015%2Foct%2F17%2Fguinea-president-alpha-conde-election&amp;rft.pub=The+Guardian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr>
+<th colspan="3" style="border-top: 5px solid #ccccff;">Political offices</th>
+</tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/S%C3%A9kouba_Konat%C3%A9" title="Sékouba Konaté">Sékouba Konaté</a><br />
+<small style="font-size:85%;">Acting</small></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/List_of_heads_of_state_of_Guinea" title="List of heads of state of Guinea">President of Guinea</a></b><br />
+2010–present</td>
+<td style="width: 30%; text-align: center;" rowspan="1"><b>Incumbent</b></td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background:#b0c4de;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:GuineaPresidents" title="Template:GuineaPresidents"><span title="View this template" style=";background:#b0c4de;;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:GuineaPresidents" title="Template talk:GuineaPresidents"><span title="Discuss this template" style=";background:#b0c4de;;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:GuineaPresidents&amp;action=edit"><span title="Edit this template" style=";background:#b0c4de;;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/List_of_heads_of_state_of_Guinea" title="List of heads of state of Guinea">Presidents of Guinea</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ahmed_S%C3%A9kou_Tour%C3%A9" title="Ahmed Sékou Touré">Ahmed Sékou Touré</a></li>
+<li><a href="/wiki/Louis_Lansana_Beavogui" title="Louis Lansana Beavogui">Louis Lansana Beavogui</a> <small>(acting)</small></li>
+<li><a href="/wiki/Lansana_Cont%C3%A9" title="Lansana Conté">Lansana Conté</a></li>
+<li><a href="/wiki/Moussa_Dadis_Camara" title="Moussa Dadis Camara">Moussa Dadis Camara</a></li>
+<li><a href="/wiki/S%C3%A9kouba_Konat%C3%A9" title="Sékouba Konaté">Sékouba Konaté</a> <small>(acting)</small></li>
+<li><strong class="selflink">Alpha Condé</strong></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Flag_of_Guinea.svg" class="image" title="Flag of Guinea"><img alt="Flag of Guinea" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/50px-Flag_of_Guinea.svg.png" width="50" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/75px-Flag_of_Guinea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/100px-Flag_of_Guinea.svg.png 2x" data-file-width="450" data-file-height="300" /></a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-no2010-107026">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/217598751">217598751</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/no2010107026">no2010107026</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni-url.oclc.nl/isni/0000000088629292">0000 0000 8862 9292</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/142523100">142523100</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/122412060">122412060</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb12820866c">cb12820866c</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb12820866c">(data)</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1145
+Cached time: 20151020031520
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.678 seconds
+Real time usage: 0.776 seconds
+Preprocessor visited node count: 7358/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38848/2097152 bytes
+Template argument size: 2415/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Lua time usage: 0.179/10.000 seconds
+Lua memory usage: 3.83 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  704.080      1 - -total
+ 51.27%  360.953      1 - Template:Infobox_Officeholder
+ 38.09%  268.156      3 - Template:Infobox
+ 16.90%  119.015     17 - Template:Infobox_officeholder/office
+ 16.62%  117.010      1 - Template:Reflist
+  6.77%   47.679      1 - Template:Commons_category
+  6.51%   45.816      1 - Template:Why?
+  6.29%   44.298      3 - Template:Cite_web
+  6.08%   42.783      1 - Template:Use_dmy_dates
+  5.49%   38.634      8 - Template:Cite_news
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3556592-0!*!0!!en!4!* and timestamp 20151020031520 and revision id 686570918
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Alpha_Condé&amp;oldid=686570918">https://en.wikipedia.org/w/index.php?title=Alpha_Condé&amp;oldid=686570918</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1938_births" title="Category:1938 births">1938 births</a></li><li><a href="/wiki/Category:Guinean_democracy_activists" title="Category:Guinean democracy activists">Guinean democracy activists</a></li><li><a href="/wiki/Category:Guinean_Muslims" title="Category:Guinean Muslims">Guinean Muslims</a></li><li><a href="/wiki/Category:Guinean_prisoners_and_detainees" title="Category:Guinean prisoners and detainees">Guinean prisoners and detainees</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Mandinka" title="Category:Mandinka">Mandinka</a></li><li><a href="/wiki/Category:People_from_Bok%C3%A9" title="Category:People from Boké">People from Boké</a></li><li><a href="/wiki/Category:Presidents_of_Guinea" title="Category:Presidents of Guinea">Presidents of Guinea</a></li><li><a href="/wiki/Category:Prisoners_and_detainees_of_Guinea" title="Category:Prisoners and detainees of Guinea">Prisoners and detainees of Guinea</a></li><li><a href="/wiki/Category:Rally_of_the_Guinean_People_politicians" title="Category:Rally of the Guinean People politicians">Rally of the Guinean People politicians</a></li><li><a href="/wiki/Category:Recipients_of_Guinean_presidential_pardons" title="Category:Recipients of Guinean presidential pardons">Recipients of Guinean presidential pardons</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_July_2011" title="Category:Use dmy dates from July 2011">Use dmy dates from July 2011</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_July_2011" title="Category:Wikipedia articles needing clarification from July 2011">Wikipedia articles needing clarification from July 2011</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alpha+Cond%C3%A9&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alpha+Cond%C3%A9" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Alpha_Cond%C3%A9"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Alpha_Cond%C3%A9"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Alpha_Cond%C3%A9" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Alpha_Cond%C3%A9&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Alpha_Cond%C3%A9&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Alpha_Cond%C3%A9" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Alpha_Cond%C3%A9" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Alpha_Cond%C3%A9&amp;oldid=686570918" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Alpha_Cond%C3%A9&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q4413" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Alpha_Cond%C3%A9&amp;id=686570918" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Alpha+Cond%C3%A9">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Alpha+Cond%C3%A9&amp;returnto=Alpha+Cond%C3%A9&amp;oldid=686570918&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Alpha_Cond%C3%A9&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A3%D9%84%D9%81%D8%A7_%D9%83%D9%88%D9%86%D8%AF%D9%8A" title="ألفا كوندي – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Alfa_Konde" title="Alfa Konde – Azerbaijani" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-br"><a href="//br.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Breton" lang="br" hreflang="br">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Estonian" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%91%CE%BB%CF%86%CE%AC_%CE%9A%CE%BF%CE%BD%CF%84%CE%AD" title="Αλφά Κοντέ – Greek" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A2%D9%84%D9%81%D8%A7_%DA%A9%D9%86%D8%AF%D9%87" title="آلفا کنده – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%95%8C%ED%8C%8C_%EC%BD%A9%EB%8D%B0" title="알파 콩데 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%90%D7%9C%D7%A4%D7%94_%D7%A7%D7%95%D7%A0%D7%93%D7%94" title="אלפה קונדה – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%90%E1%83%9A%E1%83%A4%E1%83%90_%E1%83%99%E1%83%9D%E1%83%9C%E1%83%93%E1%83%94" title="ალფა კონდე – Georgian" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Latin" lang="la" hreflang="la">Latina</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%87" title="アルファ・コンデ – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Occitan" lang="oc" hreflang="oc">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5,_%D0%90%D0%BB%D1%8C%D1%84%D0%B0" title="Конде, Альфа – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="//sco.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Scots" lang="sco" hreflang="sco">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%90%D0%BB%D1%84%D0%B0_%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5" title="Алфа Конде – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D1%84%D0%B0_%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5" title="Альфа Конде – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-yo"><a href="//yo.wikipedia.org/wiki/Alpha_Cond%C3%A9" title="Alpha Condé – Yoruba" lang="yo" hreflang="yo">Yorùbá</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E6%B3%95%C2%B7%E5%AD%94%E6%88%B4" title="阿尔法·孔戴 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q4413#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 October 2015, at 23:11.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Alpha_Cond%C3%A9&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1164"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

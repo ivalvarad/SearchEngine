@@ -1,0 +1,990 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Habsburg Monarchy - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Habsburg_Monarchy","wgTitle":"Habsburg Monarchy","wgCurRevisionId":685798524,"wgRevisionId":685798524,"wgArticleId":1041515,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from April 2013","All articles needing additional references","Former country articles requiring maintenance","Former countries in Europe","States and territories established in 1526","States and territories disestablished in 1804","Articles containing German-language text","Articles containing Czech-language text","Habsburg Monarchy","Former empires of Europe","Former monarchies of Europe","Hungary under Habsburg rule","Serbia under Habsburg rule","History of the Balkans by period","Former countries in the Balkans","History of Bosnia and Herzegovina","History of Croatia","Habsburg Bohemia","History of Kosovo","History of Poland (1569–1795)","History of Poland (1795–1918)","Habsburg Transylvania","Habsburg period in the history of Slovakia","Early modern history of Ukraine","Vojvodina under Habsburg rule","1526 establishments in Austria","1804 disestablishments in Austria","16th century in Europe","17th century in Europe","18th century in Europe"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Habsburg_Monarchy","wgRelevantArticleId":1041515,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Habsburg_Monarchy.svg/100px-Flag_of_the_Habsburg_Monarchy.svg.png","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q153136","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Habsburg_Monarchy" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Habsburg_Monarchy" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Habsburg_Monarchy skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Habsburg Monarchy</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Habsburg_Monarchy&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(April 2013)</i></small></span></td>
+</tr>
+</table>
+<table class="mw-stack" role="presentation" cellspacing="1" cellpadding="0" style="float:right; background:transparent; margin:0; padding:0;">
+<tr>
+<td>
+<table class="infobox geography vcard vevent" style="width:290px;">
+<tr class="mergedtoprow">
+<td colspan="3" class="fn org summary" style="text-align:center; line-height:1.2em; font-size:135%; font-weight:bold;">Habsburg Empire<small><span style="font-weight:normal;"><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></span></small></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="3" class="fn org summary" style="text-align:center; line-height:1.2em; font-size:115%; font-weight:bold;"><i>Habsburgermonarchie</i><br />
+<i>Habsburgische Erblande</i><br />
+<i>Österreichische Monarchie</i></td>
+</tr>
+<tr>
+<td colspan="3" style="vertical-align:middle; text-align:center; font-size:115%;">Part of the <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a> (partly)</td>
+</tr>
+<tr>
+<td colspan="3" style="vertical-align:middle; text-align:center; border-top:solid 1px #aaa; padding:0.2em 0em 0.2em 0em;">
+<table style="width:100%; text-align:center; margin:0 auto; background:transparent;">
+<tr>
+<td style="width:50px; border:0; vertical-align:middle; font-size:30%; line-height:105%;"><a href="#before-after"><span style="font-size:300%;">↓</span></a></td>
+<td style="vertical-align:middle; text-align:center; font-size:115%; border:0;"><b>1526–1804</b></td>
+<td style="width:50px; border:0; vertical-align:middle; text-align:right; line-height:105%; font-size:30%;"><a href="/wiki/Austrian_Empire" title="Austrian Empire"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Habsburg_Monarchy.svg/30px-Flag_of_the_Habsburg_Monarchy.svg.png" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Habsburg_Monarchy.svg/45px-Flag_of_the_Habsburg_Monarchy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Habsburg_Monarchy.svg/60px-Flag_of_the_Habsburg_Monarchy.svg.png 2x" data-file-width="1200" data-file-height="800" /></a> <a href="/wiki/Austrian_Empire" title="Austrian Empire"><span style="font-size:300%;">→</span></a><br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="3" class="maptable">
+<table style="width:100%; text-align:center; margin:0 auto; background:none;">
+<tr>
+<td style="text-align:center;border:0; vertical-align:middle;"><a href="/wiki/File:Flag_of_the_Habsburg_Monarchy.svg" class="image" title="Flag"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Habsburg_Monarchy.svg/125px-Flag_of_the_Habsburg_Monarchy.svg.png" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Habsburg_Monarchy.svg/188px-Flag_of_the_Habsburg_Monarchy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Habsburg_Monarchy.svg/250px-Flag_of_the_Habsburg_Monarchy.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></td>
+<td style="text-align:center;border:0; vertical-align:middle;"><a href="/wiki/File:Greater_Coat_of_Arms_of_Leopold_II_and_Francis_II,_Holy_Roman_Emperors.svg" class="image" title="Coat of arms"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Greater_Coat_of_Arms_of_Leopold_II_and_Francis_II%2C_Holy_Roman_Emperors.svg/85px-Greater_Coat_of_Arms_of_Leopold_II_and_Francis_II%2C_Holy_Roman_Emperors.svg.png" width="85" height="118" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Greater_Coat_of_Arms_of_Leopold_II_and_Francis_II%2C_Holy_Roman_Emperors.svg/128px-Greater_Coat_of_Arms_of_Leopold_II_and_Francis_II%2C_Holy_Roman_Emperors.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Greater_Coat_of_Arms_of_Leopold_II_and_Francis_II%2C_Holy_Roman_Emperors.svg/170px-Greater_Coat_of_Arms_of_Leopold_II_and_Francis_II%2C_Holy_Roman_Emperors.svg.png 2x" data-file-width="919" data-file-height="1271" /></a></td>
+</tr>
+<tr style="font-size:95%;">
+<td style="border:0; text-align:center;"><a href="/wiki/Flag_of_the_Habsburg_Monarchy" title="Flag of the Habsburg Monarchy">Flag</a></td>
+<td style="border:0; text-align:center;"><a href="/wiki/Coat_of_arms_of_Austria" title="Coat of arms of Austria">Imperial Coat of arms</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="3" style="vertical-align:top; text-align:center; font-size:95%;"><b>Motto</b><br />
+<i><a href="/wiki/Fiat_iustitia,_et_pereat_mundus" title="Fiat iustitia, et pereat mundus">Fiat iustitia, et pereat mundus</a></i><br />
+<small>"Let justice be done, though the world perish"</small></td>
+</tr>
+<tr>
+<td colspan="3" style="vertical-align:top; text-align:center; font-size:95%;"><b>Anthem</b><br />
+<i><a href="/wiki/Gott_erhalte_Franz_den_Kaiser" title="Gott erhalte Franz den Kaiser">Gott erhalte Franz den Kaiser</a></i><br />
+<small>"God Save Emperor Francis"</small></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center; font-size:95%; padding:0.6em 0em 0.6em 0em;">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Habsburg_Hereditary_Lands_(1789).svg" class="image" title="Location of Austria"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Habsburg_Hereditary_Lands_%281789%29.svg/250px-Habsburg_Hereditary_Lands_%281789%29.svg.png" width="250" height="253" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Habsburg_Hereditary_Lands_%281789%29.svg/375px-Habsburg_Hereditary_Lands_%281789%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Habsburg_Hereditary_Lands_%281789%29.svg/500px-Habsburg_Hereditary_Lands_%281789%29.svg.png 2x" data-file-width="450" data-file-height="456" /></a></div>
+</div>
+<div style="padding:0.5em 0.5em 0;line-height:1.25em;font-size:90%;">The Habsburg Monarchy in 1789.</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"><b>Capital</b></td>
+<td style="width:50%;"><a href="/wiki/Vienna" title="Vienna">Vienna</a><br />
+<small>(1526–1583)</small><br />
+<a href="/wiki/Prague" title="Prague">Prague</a><br />
+<small>(1583–1611)</small><br />
+<a href="/wiki/Vienna" title="Vienna">Vienna</a><br />
+<small>(1611–1804)</small></td>
+</tr>
+<tr>
+<td colspan="2"><b>Languages</b></td>
+<td>Official languages:<br />
+<a href="/wiki/Latin_language" title="Latin language" class="mw-redirect">Latin</a>, <a href="/wiki/German_language" title="German language">German</a><sup class="reference plainlinks nourlexpansion" id="ref_b"><a href="#endnote_b">b</a></sup><br />
+Other languages:<br />
+<a href="/wiki/Hungarian_language" title="Hungarian language">Hungarian</a>, <a href="/wiki/Czech_language" title="Czech language">Czech</a>, <a href="/wiki/Croatian_language" title="Croatian language">Croatian</a>, <a href="/wiki/Romanian_language" title="Romanian language">Romanian</a>, <a href="/wiki/Slovak_language" title="Slovak language">Slovak</a>, <a href="/wiki/Slovene_language" title="Slovene language">Slovene</a>, <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>, <a href="/wiki/Italian_language" title="Italian language">Italian</a>, <a href="/wiki/Polish_language" title="Polish language">Polish</a>, <a href="/wiki/Ruthenian_language" title="Ruthenian language">Ruthenian</a>, <a href="/wiki/Bosnian_language" title="Bosnian language">Bosnian</a>, <a href="/wiki/Serbian_language" title="Serbian language">Serbian</a>, <a href="/wiki/French_language" title="French language">French</a></td>
+</tr>
+<tr>
+<td colspan="2"><b>Religion</b></td>
+<td>Official religion:<br />
+<a href="/wiki/Catholic_Church" title="Catholic Church">Roman Catholic</a><br />
+Recognized religions:<br />
+<a href="/wiki/Calvinism" title="Calvinism">Calvinism</a>, <a href="/wiki/Lutheranism" title="Lutheranism">Lutheranism</a>, <a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Orthodox Christianity</a>, <a href="/wiki/Judaism" title="Judaism">Judaism</a>, <a href="/wiki/Hussite" title="Hussite" class="mw-redirect">Utraquism</a><sup class="reference plainlinks nourlexpansion" id="ref_a"><a href="#endnote_a">a</a></sup></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Government</b></td>
+<td><a href="/wiki/Feudalism" title="Feudalism">Feudal</a> <a href="/wiki/Monarchy" title="Monarchy">Monarchy</a></td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2"><b><a href="/wiki/List_of_rulers_of_Austria" title="List of rulers of Austria">Monarch</a></b></td>
+<td></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;text-align:left;">1526–1564</td>
+<td><a href="/wiki/Ferdinand_I,_Holy_Roman_Emperor" title="Ferdinand I, Holy Roman Emperor">Ferdinand I</a> <small>(first)</small></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;text-align:left;">1792–1804</td>
+<td><a href="/wiki/Francis_II,_Holy_Roman_Emperor" title="Francis II, Holy Roman Emperor">Francis II</a> <small>(last)</small></td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2"><b><a href="/wiki/List_of_Ministers-President_of_Austria" title="List of Ministers-President of Austria">State Chancellor</a></b></td>
+<td></td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0;text-align:left;">1753–1793</td>
+<td><a href="/wiki/Wenzel_Anton,_Prince_of_Kaunitz-Rietberg" title="Wenzel Anton, Prince of Kaunitz-Rietberg">Wenzel Anton</a></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2"><b>Historical era</b></td>
+<td><a href="/wiki/Early_modern_era" title="Early modern era" class="mw-redirect">Early modern</a>/<a href="/wiki/Napoleonic_Wars" title="Napoleonic Wars">Napoleonic</a></td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;text-align:left;"><a href="/wiki/Battle_of_Moh%C3%A1cs" title="Battle of Mohács">Battle of Mohács</a></td>
+<td style="vertical-align: bottom;">29 August 1526</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;text-align:left;"><a href="/wiki/Battle_of_Vienna" title="Battle of Vienna">Battle of Vienna</a></td>
+<td style="vertical-align: bottom;">14 July 1683</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;text-align:left;"><a href="/wiki/War_of_the_Austrian_Succession" title="War of the Austrian Succession">War of Succession</a></td>
+<td style="vertical-align: bottom;">1740–1748</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;text-align:left;"><a href="/wiki/Austro%E2%80%93Turkish_War_(1787%E2%80%931791)" title="Austro–Turkish War (1787–1791)" class="mw-redirect">Austro–Turkish War</a></td>
+<td style="vertical-align: bottom;">1787–1791</td>
+</tr>
+<tr class="mergedrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;text-align:left;"><a href="/wiki/Treaty_of_Sistova" title="Treaty of Sistova">Treaty of Sistova</a></td>
+<td style="vertical-align: bottom;">4 August 1791</td>
+</tr>
+<tr class="mergedbottomrow">
+<td style="width:1.0em; padding:0 0 0 0.6em;">&#160;-&#160;</td>
+<td style="padding-left:0em;text-align:left;"><a href="/wiki/Austrian_Empire" title="Austrian Empire">Empire proclaimed</a></td>
+<td style="vertical-align: bottom;">11 August 1804</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="3">
+<table style="width:95%; background: transparent; text-align:center; margin:0 auto;">
+<tr>
+<td style="text-align:center; border:0; padding-bottom:0">
+<div id="before-after"></div>
+<b>Preceded by</b></td>
+<td style="text-align:center;border:0; padding-bottom:0;"><b>Succeeded by</b></td>
+</tr>
+<tr>
+<td style="vertical-align:top; text-align:center; border:0;">
+<table style="width:100%; background: transparent; text-align:center; margin:0 auto; border:0;">
+<tr>
+<td style="border:0; padding:0; vertical-align:middle;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/20px-Flag_of_Austria.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/30px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/40px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></td>
+<td style="border:0; padding:0; vertical-align:middle; text-align:left;"><a href="/wiki/Archduchy_of_Austria" title="Archduchy of Austria">Archduchy of Austria</a></td>
+</tr>
+<tr>
+<td style="border:0; padding:0; vertical-align:middle;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg/20px-Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg.png" width="20" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg/30px-Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg/40px-Flag_of_Hungary_%2815th_century%2C_rectangular%29.svg.png 2x" data-file-width="400" data-file-height="400" /></td>
+<td style="border:0; padding:0; vertical-align:middle; text-align:left;"><a href="/wiki/Kingdom_of_Hungary_(1301%E2%80%931526)" title="Kingdom of Hungary (1301–1526)">Kingdom of Hungary</a></td>
+</tr>
+<tr>
+<td style="border:0; padding:0; vertical-align:middle;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Bohemia.svg/20px-Flag_of_Bohemia.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Bohemia.svg/30px-Flag_of_Bohemia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Bohemia.svg/40px-Flag_of_Bohemia.svg.png 2x" data-file-width="900" data-file-height="600" /></td>
+<td style="border:0; padding:0; vertical-align:middle; text-align:left;"><a href="/wiki/Kingdom_of_Bohemia" title="Kingdom of Bohemia">Kingdom of Bohemia</a></td>
+</tr>
+<tr>
+<td style="border:0; padding:0; vertical-align:middle;"><img alt="CoA of the Kingdom of Croatia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/CoA_of_the_Kingdom_of_Croatia.svg/18px-CoA_of_the_Kingdom_of_Croatia.svg.png" width="18" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/CoA_of_the_Kingdom_of_Croatia.svg/27px-CoA_of_the_Kingdom_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/CoA_of_the_Kingdom_of_Croatia.svg/36px-CoA_of_the_Kingdom_of_Croatia.svg.png 2x" data-file-width="111" data-file-height="216" /></td>
+<td style="border:0; padding:0; vertical-align:middle; text-align:left;"><a href="/wiki/Kingdom_of_Croatia_(medieval)" title="Kingdom of Croatia (medieval)" class="mw-redirect">Kingdom of Croatia</a></td>
+</tr>
+<tr>
+<td style="border:0; padding:0; vertical-align:middle;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Transylvania_before_1918.svg/20px-Flag_of_Transylvania_before_1918.svg.png" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Transylvania_before_1918.svg/30px-Flag_of_Transylvania_before_1918.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Transylvania_before_1918.svg/40px-Flag_of_Transylvania_before_1918.svg.png 2x" data-file-width="1000" data-file-height="700" /></td>
+<td style="border:0; padding:0; vertical-align:middle; text-align:left;"><a href="/wiki/Principality_of_Transylvania_(1570%E2%80%931711)" title="Principality of Transylvania (1570–1711)">Principality of Transylvania</a></td>
+</tr>
+</table>
+</td>
+<td style="vertical-align:top; text-align:center;border:0;">
+<table style="width:92%; background:transparent; text-align:center; margin:0 auto; border:0;">
+<tr>
+<td style="border:0; padding:0; vertical-align:middle; text-align:right;"><a href="/wiki/Austrian_Empire" title="Austrian Empire">Austrian Empire</a></td>
+<td style="border:0; padding:0; vertical-align:middle;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Habsburg_Monarchy.svg/20px-Flag_of_the_Habsburg_Monarchy.svg.png" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Habsburg_Monarchy.svg/30px-Flag_of_the_Habsburg_Monarchy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Habsburg_Monarchy.svg/40px-Flag_of_the_Habsburg_Monarchy.svg.png 2x" data-file-width="1200" data-file-height="800" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2"><b>Today part of</b></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Austria" title="Austria">Austria</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300" />&#160;</span><a href="/wiki/Belgium" title="Belgium">Belgium</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/23px-Flag_of_Bosnia_and_Herzegovina.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/35px-Flag_of_Bosnia_and_Herzegovina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/46px-Flag_of_Bosnia_and_Herzegovina.svg.png 2x" data-file-width="800" data-file-height="400" />&#160;</span><a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia-Herzegovina</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/35px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/46px-Flag_of_Croatia.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Croatia" title="Croatia">Croatia</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/France" title="France">France</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Germany" title="Germany">Germany</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Hungary" title="Hungary">Hungary</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy" title="Italy">Italy</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/23px-Flag_of_Liechtenstein.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/35px-Flag_of_Liechtenstein.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/46px-Flag_of_Liechtenstein.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Liechtenstein" title="Liechtenstein">Liechtenstein</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/35px-Flag_of_Luxembourg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/46px-Flag_of_Luxembourg.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" />&#160;</span><a href="/wiki/Poland" title="Poland">Poland</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Romania" title="Romania">Romania</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/35px-Flag_of_Serbia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/45px-Flag_of_Serbia.svg.png 2x" data-file-width="1350" data-file-height="900" />&#160;</span><a href="/wiki/Serbia" title="Serbia">Serbia</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/35px-Flag_of_Slovakia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/45px-Flag_of_Slovakia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Slovakia" title="Slovakia">Slovakia</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/35px-Flag_of_Slovenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/46px-Flag_of_Slovenia.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Slovenia" title="Slovenia">Slovenia</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000" />&#160;&#160;</span><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a><br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a></td>
+</tr>
+<tr>
+<td colspan="3"><small><span class="citation wikicite" id="endnote_a"><b><a href="#ref_a">^a</a></b></span> Main Czech Church, in the Kingdom of Bohemia recognized until 1627 when it was forbidden.<br />
+<span class="citation wikicite" id="endnote_b"><b><a href="#ref_b">^b</a></b></span> German replaced Latin as the official language of the Empire in 1784.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></small></td>
+</tr>
+</table>
+<table class="vertical-navbox vcard plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">
+<div style="margin: -0.2em 0; font-size:65%; font-weight:normal;">Part of <a href="/wiki/Category:History_of_Austria" title="Category:History of Austria"><b>a series</b></a> on the</div>
+</th>
+</tr>
+<tr>
+<th class="vcard navbox-title" style="background: none; font-size: 145%;padding: 0.15em 0.1em;line-height: 1.2em;"><a href="/wiki/History_of_Austria" title="History of Austria">History of <span class="fn org label">Austria</span></a></th>
+</tr>
+<tr>
+<td style="padding: 0.2em; border-bottom: 1px solid #ccc;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Austria_coat_of_arms_official.svg/75px-Austria_coat_of_arms_official.svg.png" width="75" height="102" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Austria_coat_of_arms_official.svg/113px-Austria_coat_of_arms_official.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Austria_coat_of_arms_official.svg/150px-Austria_coat_of_arms_official.svg.png 2x" data-file-width="132" data-file-height="180" /></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background: #eee">Early history</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Hallstatt_culture" title="Hallstatt culture">Hallstatt culture</a></li>
+<li><a href="/wiki/Noricum" title="Noricum">Noricum</a> - <a href="/wiki/Pannonia_(Roman_province)" title="Pannonia (Roman province)" class="mw-redirect">Pannonia</a> - <a href="/wiki/Raetia" title="Raetia">Raetia</a></li>
+<li><a href="/wiki/Marcomanni" title="Marcomanni">Marcomanni</a></li>
+<li><a href="/wiki/Avars_(Carpathians)" title="Avars (Carpathians)" class="mw-redirect">Avars</a></li>
+<li><a href="/wiki/Samo" title="Samo">Samo's Realm</a></li>
+<li><a href="/wiki/Carantania" title="Carantania">Carantania</a></li>
+<li><a href="/wiki/Margraviate_of_Austria" title="Margraviate of Austria">Margraviate of Austria</a></li>
+<li><a href="/wiki/House_of_Babenberg" title="House of Babenberg">House of Babenberg</a></li>
+<li><a href="/wiki/Privilegium_Minus" title="Privilegium Minus">Privilegium Minus</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background: #eee">Habsburg era</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/House_of_Habsburg" title="House of Habsburg">House of Habsburg</a></li>
+<li><a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a></li>
+<li><a href="/wiki/Archduchy_of_Austria" title="Archduchy of Austria">Archduchy of Austria</a></li>
+<li><strong class="selflink">Habsburg Monarchy</strong></li>
+<li><a href="/wiki/Austrian_Empire" title="Austrian Empire">Austrian Empire</a></li>
+<li><a href="/wiki/German_Confederation" title="German Confederation">German Confederation</a></li>
+<li><a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austria-Hungary</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background: #eee">World War I</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Assassination_of_Archduke_Franz_Ferdinand_of_Austria" title="Assassination of Archduke Franz Ferdinand of Austria">Assassination of Franz Ferdinand</a></li>
+<li><a href="/wiki/World_War_I" title="World War I">World War I</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background: #eee">Interwar years</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Republic_of_German-Austria" title="Republic of German-Austria">German Austria</a></li>
+<li><a href="/wiki/First_Austrian_Republic" title="First Austrian Republic">First Austrian Republic</a></li>
+<li><a href="/wiki/Austrofascism" title="Austrofascism">Austrofascism</a></li>
+<li><a href="/wiki/Federal_State_of_Austria" title="Federal State of Austria">Federal State of Austria</a></li>
+<li><a href="/wiki/Anschluss" title="Anschluss">Anschluss</a></li>
+<li><a href="/wiki/Ostmark_(Austria)" title="Ostmark (Austria)">Ostmark (Austria)</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background: #eee">World War II</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Austria_in_the_time_of_National_Socialism" title="Austria in the time of National Socialism">National Socialism</a></li>
+<li><a href="/wiki/World_War_II" title="World War II">World War II</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background: #eee">Post-war Austria</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Allied-occupied_Austria" title="Allied-occupied Austria">Allied-occupied Austria</a></li>
+<li><a href="/wiki/Austria" title="Austria">Second Austrian Republic</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background: #eee">Topics</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/History_of_the_Jews_in_Austria" title="History of the Jews in Austria">Jews</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Vienna" title="History of the Jews in Vienna">Jews in Vienna</a></li>
+<li><a href="/wiki/Military_history_of_Austria" title="Military history of Austria">Military history</a></li>
+<li><a href="/wiki/Music_of_Austria" title="Music of Austria">Music</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"><span class="metadata"><a href="/wiki/File:Flag_of_Austria.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/16px-Flag_of_Austria.svg.png" width="16" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/24px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/32px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Portal:Austria" title="Portal:Austria">Austria portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:History_of_Austria" title="Template:History of Austria"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:History_of_Austria" title="Template talk:History of Austria"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:History_of_Austria&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>The <b>Habsburg Monarchy</b> or <b>Empire</b> (occasionally also styled as the <b>Austrian Monarchy</b> and <b>Danubian Monarchy</b>) is an unofficial <a href="//en.wiktionary.org/wiki/appellation#English" class="extiw" title="wikt:appellation">appellation</a> among historians for the countries and provinces that were ruled by the junior <a href="/wiki/Archduchy_of_Austria" title="Archduchy of Austria">Austrian</a> branch of the <a href="/wiki/House_of_Habsburg" title="House of Habsburg">House of Habsburg</a> until 1780 and then by the successor branch of <a href="/wiki/Habsburg-Lorraine" title="Habsburg-Lorraine" class="mw-redirect">Habsburg-Lorraine</a> until 1918. The Monarchy was a <a href="/wiki/Composite_state" title="Composite state" class="mw-redirect">composite state</a> composed of territories within and outside the <a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a>, united only in the <a href="/wiki/Personal_union" title="Personal union">person of the monarch</a>. The dynastic capital was <a href="/wiki/Vienna" title="Vienna">Vienna</a>, except from 1583 to 1611,<sup id="cite_ref-HHus_3-0" class="reference"><a href="#cite_note-HHus-3"><span>[</span>3<span>]</span></a></sup> when it was moved to <a href="/wiki/Prague" title="Prague">Prague</a>. From 1804 to 1867 the Habsburg Monarchy was formally unified as the <a href="/wiki/Austrian_Empire" title="Austrian Empire">Austrian Empire</a>, and from 1867 to 1918 as the <a href="/wiki/Austro-Hungarian_Empire" title="Austro-Hungarian Empire" class="mw-redirect">Austro-Hungarian Empire</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-Britannica_AH_5-0" class="reference"><a href="#cite_note-Britannica_AH-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>The head of the House of Habsburg was often elected <a href="/wiki/Holy_Roman_Emperor" title="Holy Roman Emperor">Holy Roman Emperor</a> until the Empire's dissolution in 1806.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> The two entities were never <a href="//en.wiktionary.org/wiki/coterminous" class="extiw" title="wikt:coterminous">coterminous</a>, as the Habsburg Monarchy covered many lands beyond the Holy Roman Empire, and most of the Empire was ruled by other dynasties. The Habsburg Monarchy did not usually include all the territories ruled by the Habsburgs. The senior branch <a href="/wiki/Habsburg_Spain" title="Habsburg Spain">ruled Spain</a> until 1700, but it is not usually included in the definition of "Habsburg Monarchy" after the reign of <a href="/wiki/Charles_V,_Holy_Roman_Emperor" title="Charles V, Holy Roman Emperor">Charles V</a>, who divided the dynasty between its Austrian and Spanish branches upon his abdication in 1556.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origins_and_expansion"><span class="tocnumber">1</span> <span class="toctext">Origins and expansion</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Terminology"><span class="tocnumber">2</span> <span class="toctext">Terminology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Territories"><span class="tocnumber">3</span> <span class="toctext">Territories</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Characteristics"><span class="tocnumber">4</span> <span class="toctext">Characteristics</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Habsburg_territories_outside_the_Habsburg_Monarchy"><span class="tocnumber">5</span> <span class="toctext">Habsburg territories outside the Habsburg Monarchy</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#History"><span class="tocnumber">6</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Rulers_of_the_Habsburg_Monarchy.2C_1519.E2.80.931918"><span class="tocnumber">7</span> <span class="toctext">Rulers of the Habsburg Monarchy, 1519–1918</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Habsburg"><span class="tocnumber">7.1</span> <span class="toctext">Habsburg</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Habsburg-Lorraine"><span class="tocnumber">7.2</span> <span class="toctext">Habsburg-Lorraine</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Family_tree"><span class="tocnumber">7.3</span> <span class="toctext">Family tree</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#In_literature"><span class="tocnumber">8</span> <span class="toctext">In literature</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes"><span class="tocnumber">9</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Further_reading"><span class="tocnumber">10</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Origins_and_expansion">Origins and expansion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit&amp;section=1" title="Edit section: Origins and expansion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Habsburg family originated with the <a href="/wiki/Habsburg_Castle" title="Habsburg Castle">Habsburg Castle</a> in modern <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>, and after 1279 came to rule in <a href="/wiki/Austria" title="Austria">Austria</a> ("the Habsburg Hereditary Lands"). The Habsburg family grew to European prominence with the marriage and adoption treaty by Emperor <a href="/wiki/Maximilian_I,_Holy_Roman_Emperor" title="Maximilian I, Holy Roman Emperor">Maximilian I</a> at the <a href="/wiki/First_Congress_of_Vienna" title="First Congress of Vienna">First Congress of Vienna</a> in 1515, and the subsequent death of adopted <a href="/wiki/Louis_II_of_Hungary_and_Bohemia" title="Louis II of Hungary and Bohemia" class="mw-redirect">Louis II of Hungary and Bohemia</a> in 1526.<sup id="cite_ref-HHus_3-1" class="reference"><a href="#cite_note-HHus-3"><span>[</span>3<span>]</span></a></sup></p>
+<p><a href="/wiki/Ferdinand_I,_Holy_Roman_Emperor" title="Ferdinand I, Holy Roman Emperor">Archduke Ferdinand of Austria</a>, the younger brother of the <a href="/wiki/Holy_Roman_Emperor" title="Holy Roman Emperor">Holy Roman Emperor</a> <a href="/wiki/Charles_V,_Holy_Roman_Emperor" title="Charles V, Holy Roman Emperor">Charles V</a>, was elected the next King of <a href="/wiki/Bohemia" title="Bohemia">Bohemia</a> and <a href="/wiki/Hungary" title="Hungary">Hungary</a><sup id="cite_ref-Britannica2009_8-0" class="reference"><a href="#cite_note-Britannica2009-8"><span>[</span>8<span>]</span></a></sup> following the death of <a href="/wiki/Louis_II_of_Hungary_and_Bohemia" title="Louis II of Hungary and Bohemia" class="mw-redirect">Louis II of Hungary and Bohemia</a> in the <a href="/wiki/Battle_of_Moh%C3%A1cs" title="Battle of Mohács">Battle of Mohács</a> against the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Turks</a>.</p>
+<h2><span class="mw-headline" id="Terminology">Terminology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit&amp;section=2" title="Edit section: Terminology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Names of the territory that (with some exceptions) finally became <a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austria-Hungary</a>:</p>
+<ul>
+<li>Habsburg monarchy or Austrian monarchy (1526–1867): This was an unofficial, but very frequent name – even at that time. The entity had no <a href="/wiki/Official#Official_as_an_adjective" title="Official">official name</a>.</li>
+<li><a href="/wiki/Austrian_Empire" title="Austrian Empire">Austrian Empire</a> (1804–1867): This was the official name. Note that the German version is <i>Kaisertum Österreich</i>, i.e. the English translation empire refers to a territory ruled by an <a href="/wiki/Emperor" title="Emperor">emperor</a>, not just to a "widespreading domain".</li>
+<li><a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austria-Hungary</a> (1867–1918): This was the official name.<sup id="cite_ref-Adams2005_9-0" class="reference"><a href="#cite_note-Adams2005-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-LACKEY1995_10-0" class="reference"><a href="#cite_note-LACKEY1995-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-Hodge2008_11-0" class="reference"><a href="#cite_note-Hodge2008-11"><span>[</span>11<span>]</span></a></sup> An unofficial popular name was the Danubian Monarchy (<a href="/wiki/German_language" title="German language">German</a>: <span lang="de" xml:lang="de"><i>Donaumonarchie</i></span>) also often used was the term <i>Doppel-Monarchie</i> ("Double Monarchy") meaning two states under one crowned ruler.</li>
+<li><a href="/wiki/Crownland" title="Crownland" class="mw-redirect">Crownlands</a> or <a href="/wiki/Crown_land" title="Crown land">crown lands</a> (<i>Kronländer</i>) (1849–1918): This is the name of all the individual parts of the Austrian Empire (1849-1867), and then of Austria-Hungary from 1867 on. The Kingdom of Hungary (more exactly the Lands of the Hungarian Crown) was not considered a "crownland" after the establishment of Austria-Hungary 1867, so that the "crownlands" became identical with what was called the Kingdoms and Lands represented in the Imperial Council (<i>Die im Reichsrate vertretenen Königreiche und Länder</i>).</li>
+</ul>
+<p>The Hungarian parts of the Empire were called "<a href="/wiki/Lands_of_the_Holy_Hungarian_Crown_of_Saint_Stephen" title="Lands of the Holy Hungarian Crown of Saint Stephen" class="mw-redirect">Lands of the Holy Hungarian Crown of Saint Stephen</a>" or "Lands of Holy (St.) Stephen's Crown" (<i>Länder der Heiligen Stephans Krone</i>). The Bohemian (Czech) Lands were called "Lands of the St. Wenceslaus' Crown" (<i>Länder der Wenzels-Krone</i>).</p>
+<p>Names of some smaller territories:</p>
+<ul>
+<li>Austrian lands (<i>Österreichische Länder</i>) or "Archduchies of Austria" (<i>Erzherzogtümer von Österreich</i>) - Lands up and below the <a href="/wiki/Enns_River" title="Enns River" class="mw-redirect">Enns</a> (<i>ober und unter der Enns</i>) (996–1918): This is the historical name of the parts of the Archduchy of Austria that became the present-day Republic of Austria (<i>Republik Österreich</i>) on 12 November 1918 (after Emperor Charles I had abdicated the throne). Modern day Austria is a semi-federal republic of nine states (<i>Bundesländer</i>) that are: Lower Austria, Upper Austria, Tyrol, Styria, Salzburg, Carinthia, Vorarlberg and Burgenland and the Capital of Vienna that is a state of its own. <a href="/wiki/Burgenland" title="Burgenland">Burgenland</a> came to Austria in 1921 from Hungary. <a href="/wiki/Salzburg" title="Salzburg">Salzburg</a> finally became Austrian in 1816 after Napoleonic wars (before it was ruled by <a href="/wiki/Archbishopric_of_Salzburg" title="Archbishopric of Salzburg">prince-archbishops of Salzburg</a> as a sovereign territory).</li>
+</ul>
+<dl>
+<dd>Vienna, Austria's capital became a state January 1, 1922, after being residence and capital of the Austrian Empire (<i>Reichshaupt und Residenzstadt Wien</i>) for the Habsburg monarchs for centuries. Upper and Lower Austria, historically, were split into "Austria above the Enns" and "Austria below the Enns" (the Enns river is the state-border between Upper- and Lower Austria). Upper Austria was enlarged after the <a href="/wiki/Treaty_of_Teschen" title="Treaty of Teschen">Treaty of Teschen</a> (1779) following the "War of the Bavarian Succession" by the so-called <a href="/wiki/Innviertel" title="Innviertel">Innviertel</a> ("<a href="/wiki/Inn_River" title="Inn River" class="mw-redirect">Inn</a> Quarter"), formerly part of Bavaria.</dd>
+</dl>
+<ul>
+<li>Hereditary Lands (<i>Erblande</i> or <i>Erbländer</i>; mostly used <i>Österreichische Erblande</i>) or German Hereditary Lands (in the Austrian monarchy) or Austrian Hereditary Lands (<a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a> – 1849/1918): In a narrower sense these were the "original" Habsburg Austrian territories, i.e. basically the Austrian lands and <a href="/wiki/Carniola" title="Carniola">Carniola</a> (not <a href="/wiki/Kingdom_of_Galicia_and_Lodomeria" title="Kingdom of Galicia and Lodomeria">Galicia</a>, Italian territories or the <a href="/wiki/Austrian_Netherlands" title="Austrian Netherlands">Austrian Netherlands</a>).<br />
+In a wider sense the <a href="/wiki/Lands_of_the_Bohemian_Crown" title="Lands of the Bohemian Crown">Lands of the Bohemian Crown</a> were also included in (from 1526; definitely from 1620/27) the Hereditary lands. The term was replaced by the term "Crownlands" (see above) in the 1849 March Constitution, but it was also used afterwards.<br />
+The <i>Erblande</i> also included lots of small and smallest territories that were principalities, duchies or counties etc. some of them can namely be found in the reigning titles of the Habsburg monarchs like <i>Graf</i> (Earl/Count of) <i>von Tyrol</i> etc.</li>
+</ul>
+<h2><span class="mw-headline" id="Territories">Territories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit&amp;section=3" title="Edit section: Territories">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:562px;"><a href="/wiki/File:Growth_of_Habsburg_territories.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Growth_of_Habsburg_territories.jpg/560px-Growth_of_Habsburg_territories.jpg" width="560" height="332" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Growth_of_Habsburg_territories.jpg/840px-Growth_of_Habsburg_territories.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Growth_of_Habsburg_territories.jpg/1120px-Growth_of_Habsburg_territories.jpg 2x" data-file-width="2275" data-file-height="1350" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Growth_of_Habsburg_territories.jpg" class="internal" title="Enlarge"></a></div>
+Growth of the Habsburg Monarchy</div>
+</div>
+</div>
+<p>The territories ruled by the branch changed over the centuries, but the core always consisted of four blocs:</p>
+<ul>
+<li>The Hereditary Lands, which covered most of the modern states of <a href="/wiki/Austria" title="Austria">Austria</a> and <a href="/wiki/Slovenia" title="Slovenia">Slovenia</a>, as well as territories in northeastern <a href="/wiki/Italy" title="Italy">Italy</a> and (before 1797) southwestern <a href="/wiki/Germany" title="Germany">Germany</a>. To these were added in 1779 the <a href="/wiki/Innviertel" title="Innviertel">Inn Quarter</a> of <a href="/wiki/Bavaria" title="Bavaria">Bavaria</a>; and in 1803 the <a href="/wiki/Bishoprics" title="Bishoprics" class="mw-redirect">Bishoprics</a> of <a href="/wiki/Bishopric_of_Trent" title="Bishopric of Trent">Trent</a> and <a href="/wiki/Bishopric_of_Brixen" title="Bishopric of Brixen">Brixen</a>. The <a href="/wiki/Napoleonic_Wars" title="Napoleonic Wars">Napoleonic Wars</a> caused disruptions where many parts of the Hereditary lands were lost, but all these, along with the former <a href="/wiki/Archbishopric_of_Salzburg" title="Archbishopric of Salzburg">Archbishopric of Salzburg</a>, which had previously been temporarily annexed between 1805 and 1809, were recovered at the peace in 1815, with the exception of the <a href="/wiki/Vorlande" title="Vorlande" class="mw-redirect">Vorlande</a>. The Hereditary provinces included:
+<ul>
+<li><a href="/wiki/Archduchy_of_Austria" title="Archduchy of Austria">Archduchy of Austria</a> (<a href="/wiki/Upper_Austria" title="Upper Austria">Upper Austria</a>);</li>
+<li><a href="/wiki/Archduchy_of_Austria" title="Archduchy of Austria">Archduchy of Austria</a> (<a href="/wiki/Lower_Austria" title="Lower Austria">Lower Austria</a>);</li>
+<li><a href="/wiki/Duchy_of_Styria" title="Duchy of Styria">Duchy of Styria</a>;</li>
+<li><a href="/wiki/Duchy_of_Carinthia" title="Duchy of Carinthia">Duchy of Carinthia</a>;</li>
+<li><a href="/wiki/Duchy_of_Carniola" title="Duchy of Carniola">Duchy of Carniola</a>;</li>
+<li>The Adriatic port of <a href="/wiki/Trieste" title="Trieste">Trieste</a>;</li>
+<li><a href="/wiki/Istria" title="Istria">Istria</a> (although much of Istria was <a href="/wiki/Republic_of_Venice" title="Republic of Venice">Venetian</a> territory until 1797);</li>
+<li><a href="/wiki/Gorizia_and_Gradisca" title="Gorizia and Gradisca">Gorizia and Gradisca</a>;
+<ul>
+<li>These lands (3–8) were often grouped together as <a href="/wiki/Inner_Austria" title="Inner Austria">Inner Austria</a>.</li>
+</ul>
+</li>
+<li>The <a href="/wiki/County_of_Tyrol" title="County of Tyrol">County of Tyrol</a> (although the Bishoprics of Trent and Brixen dominated what would become the South Tyrol before 1803);</li>
+<li>The <a href="/wiki/Vorarlberg" title="Vorarlberg">Vorarlberg</a> (actually a collection of provinces, only united in the 19th century);</li>
+<li>The <a href="/wiki/Vorlande" title="Vorlande" class="mw-redirect">Vorlande</a>, a group of territories in <a href="/wiki/Breisgau" title="Breisgau">Breisgau</a> and elsewhere in southwestern Germany lost in 1801 (although the <a href="/wiki/Alsace" title="Alsace">Alsatian</a> territories (<a href="/wiki/Sundgau" title="Sundgau">Sundgau</a>) which had formed a part of it had been lost as early as 1648);
+<ul>
+<li>Vorarlberg and the Vorlande were often grouped together as <a href="/wiki/Further_Austria" title="Further Austria">Further Austria</a> and mostly ruled jointly with Tyrol.</li>
+</ul>
+</li>
+<li><a href="/wiki/Grand_Duchy_of_Salzburg" title="Grand Duchy of Salzburg" class="mw-redirect">Grand Duchy of Salzburg</a> (only after 1805);</li>
+</ul>
+</li>
+<li>The <a href="/wiki/Lands_of_the_Bohemian_Crown" title="Lands of the Bohemian Crown">Lands of the Bohemian Crown</a> – initially consisting of the five lands: <a href="/wiki/Kingdom_of_Bohemia" title="Kingdom of Bohemia">Kingdom of Bohemia</a>, <a href="/wiki/March_of_Moravia" title="March of Moravia" class="mw-redirect">March of Moravia</a>, <a href="/wiki/Silesia" title="Silesia">Silesia</a>, and Upper and Lower <a href="/wiki/Lusatia" title="Lusatia">Lusatia</a>. Bohemian <a href="/wiki/Diet_(assembly)" title="Diet (assembly)">Diet</a> (<a href="/wiki/Czech_language" title="Czech language">Czech</a>: <span lang="cs" xml:lang="cs"><i>zemský sněm</i></span>) elected <a href="/wiki/Ferdinand_I,_Holy_Roman_Emperor" title="Ferdinand I, Holy Roman Emperor">Ferdinand I, Holy Roman Emperor</a> as king in 1526.
+<ul>
+<li>Lusatia was ceded to <a href="/wiki/Saxony" title="Saxony">Saxony</a> in 1635.</li>
+<li>Most of Silesia was conquered by <a href="/wiki/Kingdom_of_Prussia" title="Kingdom of Prussia">Prussia</a> in 1740–1742 and the remnants which stayed under Habsburg sovereignty were ruled as <a href="/wiki/Duchy_of_Upper_and_Lower_Silesia" title="Duchy of Upper and Lower Silesia" class="mw-redirect">Duchy of Upper and Lower Silesia</a> (Austrian Silesia).</li>
+</ul>
+</li>
+<li>The <a href="/wiki/Kingdom_of_Hungary" title="Kingdom of Hungary">Kingdom of Hungary</a> – two thirds of the former territory that was administered by the medieval Kingdom of Hungary was conquered by the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a> and the Princes of vassal Ottoman <a href="/wiki/Principality_of_Transylvania_(1571%E2%80%931711)" title="Principality of Transylvania (1571–1711)" class="mw-redirect">Transylvania</a>, while the Habsburg administration was restricted to the western and northern territories of the former kingdom, which remained to be officially referred as the <a href="/wiki/Kingdom_of_Hungary_(1538%E2%80%931867)" title="Kingdom of Hungary (1538–1867)" class="mw-redirect">Kingdom of Hungary</a>. In 1699, at the end of the <a href="/wiki/Ottoman-Habsburg_wars" title="Ottoman-Habsburg wars" class="mw-redirect">Ottoman-Habsburg wars</a>, one part of the territories that were administered by the former medieval Kingdom of Hungary came under Habsburg administration, with some other areas being picked up in 1718 (some of the territories that were part of medieval kingdom, notably those in the south of the Sava and Danube rivers, remained under <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman administration</a>).</li>
+</ul>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Europe_As_A_Queen_Sebastian_Munster_1570.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Europe_As_A_Queen_Sebastian_Munster_1570.jpg/220px-Europe_As_A_Queen_Sebastian_Munster_1570.jpg" width="220" height="345" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Europe_As_A_Queen_Sebastian_Munster_1570.jpg/330px-Europe_As_A_Queen_Sebastian_Munster_1570.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Europe_As_A_Queen_Sebastian_Munster_1570.jpg/440px-Europe_As_A_Queen_Sebastian_Munster_1570.jpg 2x" data-file-width="924" data-file-height="1450" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Europe_As_A_Queen_Sebastian_Munster_1570.jpg" class="internal" title="Enlarge"></a></div>
+<i><a href="/wiki/Europa_regina" title="Europa regina">Europa regina</a></i>, symbolizing a Habsburg-dominated Europe.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Kraji%C5%A1nici,_1756._g.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kraji%C5%A1nici%2C_1756._g.jpg/220px-Kraji%C5%A1nici%2C_1756._g.jpg" width="220" height="192" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kraji%C5%A1nici%2C_1756._g.jpg/330px-Kraji%C5%A1nici%2C_1756._g.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kraji%C5%A1nici%2C_1756._g.jpg/440px-Kraji%C5%A1nici%2C_1756._g.jpg 2x" data-file-width="564" data-file-height="493" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Kraji%C5%A1nici,_1756._g.jpg" class="internal" title="Enlarge"></a></div>
+Soldiers of the <a href="/wiki/Military_Frontier" title="Military Frontier">Military Frontier</a> against the incursions of the Ottoman Turks, 1756</div>
+</div>
+</div>
+<p>Over the course of its history, other lands were, at times, under Austrian Habsburg rule (some of these territories were <a href="/wiki/Secundogeniture" title="Secundogeniture">secundogenitures</a>, i.e. ruled by other lines of Habsburg dynasty):</p>
+<ul>
+<li>The <a href="/wiki/Kingdom_of_Croatia_(Habsburg)" title="Kingdom of Croatia (Habsburg)">Kingdom of Croatia</a> (1527–1868);</li>
+<li>The <a href="/wiki/Kingdom_of_Slavonia" title="Kingdom of Slavonia">Kingdom of Slavonia</a> (1699–1868);</li>
+<li>The <a href="/wiki/Transylvania" title="Transylvania">Grand Principality of Transylvania</a>, between 1699 (<a href="/wiki/Treaty_of_Karlowitz" title="Treaty of Karlowitz">Treaty of Karlowitz</a>) and 1867 (<a href="/wiki/Austro-Hungarian_Compromise_of_1867" title="Austro-Hungarian Compromise of 1867">Ausgleich</a>)</li>
+<li>The <a href="/wiki/Austrian_Netherlands" title="Austrian Netherlands">Austrian Netherlands</a>, consisting of most of modern <a href="/wiki/Belgium" title="Belgium">Belgium</a> and <a href="/wiki/Luxembourg" title="Luxembourg">Luxembourg</a> (1713–1792);</li>
+<li>The <a href="/wiki/Duchy_of_Milan" title="Duchy of Milan">Duchy of Milan</a> (1713–1797);</li>
+<li>The <a href="/wiki/Kingdom_of_Naples" title="Kingdom of Naples">Kingdom of Naples</a> (1713–1735);</li>
+<li>The <a href="/wiki/Kingdom_of_Sardinia" title="Kingdom of Sardinia">Kingdom of Sardinia</a> (1713–1720);</li>
+<li>The <a href="/wiki/Kingdom_of_Serbia_(1718%E2%80%931739)" title="Kingdom of Serbia (1718–1739)" class="mw-redirect">Kingdom of Serbia</a> (1718–1739);</li>
+<li>The <a href="/wiki/Banat_of_Temeswar" title="Banat of Temeswar">Banat of Temeswar</a> (1718–1778);</li>
+<li><a href="/wiki/Oltenia" title="Oltenia">Oltenia</a> (1718–1739, de facto, 1737), as Grand-Voivodate (sometimes designated as <i>Valachia Caesarea</i>);</li>
+<li>The <a href="/wiki/Kingdom_of_Sicily" title="Kingdom of Sicily">Kingdom of Sicily</a> (1720–1735);</li>
+<li>The <a href="/wiki/Duchy_of_Parma" title="Duchy of Parma">Duchy of Parma</a> (1735–1748);</li>
+<li>The <a href="/wiki/Kingdom_of_Galicia_and_Lodomeria" title="Kingdom of Galicia and Lodomeria">Kingdom of Galicia and Lodomeria</a>, in modern <a href="/wiki/Poland" title="Poland">Poland</a> and <a href="/wiki/Ukraine" title="Ukraine">Ukraine</a> (1772–1918)</li>
+<li><a href="/wiki/Duchy_of_Bukovina" title="Duchy of Bukovina">Duchy of Bukovina</a> (1774–1918);</li>
+<li><a href="/wiki/New_Galicia" title="New Galicia" class="mw-redirect">New Galicia</a>, the Polish lands, including <a href="/wiki/Krak%C3%B3w" title="Kraków">Kraków</a>, taken in the <a href="/wiki/Third_Partition_of_Poland" title="Third Partition of Poland">Third Partition</a> (1795–1809);</li>
+<li><a href="/wiki/Venetian_Republic" title="Venetian Republic" class="mw-redirect">Venetia</a> (1797–1805);</li>
+<li><a href="/wiki/Kingdom_of_Dalmatia" title="Kingdom of Dalmatia">Kingdom of Dalmatia</a> (1797–1805, 1814–1918);</li>
+<li><a href="/wiki/Kingdom_of_Lombardy-Venetia" title="Kingdom of Lombardy-Venetia" class="mw-redirect">Kingdom of Lombardy-Venetia</a> (1814–1859);</li>
+<li><a href="/wiki/Krak%C3%B3w" title="Kraków">Kraków</a>, which was incorporated into <a href="/wiki/Kingdom_of_Galicia_and_Lodomeria" title="Kingdom of Galicia and Lodomeria">Galicia</a> (1846–1918);</li>
+<li>The <a href="/wiki/Serbian_Vojvodina" title="Serbian Vojvodina">Serbian Vojvodina</a> (1848–1849); de facto entity, officially unrecognized</li>
+<li>The <a href="/wiki/Voivodeship_of_Serbia_and_Banat_of_Temeschwar" title="Voivodeship of Serbia and Banat of Temeschwar">Voivodeship of Serbia and Banat of Temeschwar</a> (1849–1860);</li>
+<li>The <a href="/wiki/Kingdom_of_Croatia-Slavonia" title="Kingdom of Croatia-Slavonia">Kingdom of Croatia-Slavonia</a> (1868–1918);</li>
+<li><a href="/wiki/Sanjak_of_Novi_Pazar" title="Sanjak of Novi Pazar">Sanjak of Novi Pazar occupation</a> (1878–1913);</li>
+<li><a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a> (1878–1918).</li>
+</ul>
+<p>The boundaries of some of these territories varied over the period indicated, and others were ruled by a subordinate (secundogeniture) Habsburg line. The Habsburgs also held the title of <a href="/wiki/Holy_Roman_Emperor" title="Holy Roman Emperor">Holy Roman Emperor</a> between 1438 and 1740, and again from 1745 to 1806.</p>
+<h2><span class="mw-headline" id="Characteristics">Characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit&amp;section=4" title="Edit section: Characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The various Habsburg possessions never really formed a single country—each province was governed according to its own particular customs. Until the mid 17th century, all of the provinces were not even necessarily ruled by the same person—junior members of the family often ruled portions of the Hereditary Lands as private apanages. Serious attempts at centralization began under <a href="/wiki/Maria_Theresa_of_Austria" title="Maria Theresa of Austria" class="mw-redirect">Maria Theresa</a> and especially her son <a href="/wiki/Joseph_II,_Holy_Roman_Emperor" title="Joseph II, Holy Roman Emperor">Joseph II</a> in the mid to late 18th century, but many of these were abandoned following large scale resistance to Joseph's more radical reform attempts, although a more cautious policy of centralization continued during the revolutionary period and the long <a href="/wiki/Klemens_Wenzel_von_Metternich" title="Klemens Wenzel von Metternich" class="mw-redirect">Metternichian</a> <a href="/wiki/Age_of_Metternich" title="Age of Metternich" class="mw-redirect">period</a> which followed.</p>
+<p>An even greater attempt at centralization began in 1849 following the suppression of the various <a href="/wiki/Revolutions_of_1848_in_the_Habsburg_areas" title="Revolutions of 1848 in the Habsburg areas" class="mw-redirect">revolutions of 1848</a>. For the first time, ministers tried to transform the monarchy into a centralized bureaucratic state ruled from Vienna. The Kingdom of Hungary, in particular, ceased to exist as a separate entity, being divided into a series of districts. Following the Habsburg defeats in the Wars of 1859 and 1866, this policy was abandoned, and after several years of experimentation in the early 1860s, the famous <a href="/wiki/Austro-Hungarian_Compromise_of_1867" title="Austro-Hungarian Compromise of 1867">Austro-Hungarian Compromise of 1867</a> was arrived at, by which the so-called Dual Monarchy of <a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austria-Hungary</a> was set up. In this system, the Kingdom of Hungary was given sovereignty and a parliament, with only a personal union and a joint foreign and military policy connecting it to the other Habsburg lands. Although the non-Hungarian Habsburg lands, often, but erroneously, referred to as "Austria," received their own central parliament (the <i>Reichsrat</i>, or Imperial Council) and ministries, as their official name – the "Kingdoms and Lands Represented in the Imperial Council" – shows that they remained something less than a genuine unitary state. When Bosnia and Herzegovina were <a href="/wiki/Austro-Hungarian_annexation_of_Bosnia_and_Herzegovina" title="Austro-Hungarian annexation of Bosnia and Herzegovina" class="mw-redirect">annexed</a> (after a long period of <a href="/wiki/Austro-Hungarian_occupation_of_Bosnia_and_Herzegovina" title="Austro-Hungarian occupation of Bosnia and Herzegovina" class="mw-redirect">occupation and administration</a>), they were not incorporated into either half of the monarchy. Instead, they were governed by the joint ministry of finance.</p>
+<p>Austria-Hungary collapsed under the weight of the various unsolved ethnic problems that came to a head with its defeat in <a href="/wiki/World_War_I" title="World War I">World War I</a>. In the peace settlement that followed, significant territories were ceded to <a href="/wiki/Romania" title="Romania">Romania</a> and <a href="/wiki/Italy" title="Italy">Italy</a>, new republics of Austria (the German-Austrian territories of the Hereditary lands) and <a href="/wiki/Hungary" title="Hungary">Hungary</a> (the Magyar core of the old kingdom) were created, and the remainder of the monarchy's territory was shared out among the new states of <a href="/wiki/Poland" title="Poland">Poland</a>, <a href="/wiki/Kingdom_of_Serbs,_Croats_and_Slovenes" title="Kingdom of Serbs, Croats and Slovenes" class="mw-redirect">Kingdom of Serbs, Croats and Slovenes</a> (later Yugoslavia), and <a href="/wiki/Czechoslovakia" title="Czechoslovakia">Czechoslovakia</a>.</p>
+<h2><span class="mw-headline" id="Habsburg_territories_outside_the_Habsburg_Monarchy">Habsburg territories outside the Habsburg Monarchy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit&amp;section=5" title="Edit section: Habsburg territories outside the Habsburg Monarchy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote">See also: <a href="/wiki/Spanish_Empire" title="Spanish Empire">Spanish Empire</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Habsburg_dominions_1700.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Habsburg_dominions_1700.png/220px-Habsburg_dominions_1700.png" width="220" height="155" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Habsburg_dominions_1700.png/330px-Habsburg_dominions_1700.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Habsburg_dominions_1700.png/440px-Habsburg_dominions_1700.png 2x" data-file-width="1152" data-file-height="812" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Habsburg_dominions_1700.png" class="internal" title="Enlarge"></a></div>
+Habsburg territories in 1700. The Habsburg Monarchy is shown in yellow, while the territories of the senior Spanish Habsburgs are shown in red.</div>
+</div>
+</div>
+<p>The Habsburg monarchy should not be confused with various other territories ruled at different times by members of the Habsburg dynasty. The senior Spanish line of the Habsburgs ruled over <a href="/wiki/Habsburg_Spain" title="Habsburg Spain">Habsburg Spain</a> and various other territories from 1516 until it became extinct in 1700. A junior line ruled over <a href="/wiki/Tuscany" title="Tuscany">Tuscany</a> between 1765 and 1801, and again from 1814 to 1859. While exiled from Tuscany, this line ruled at Salzburg from 1803 to 1805, and in <a href="/wiki/W%C3%BCrzburg" title="Würzburg">Würzburg</a> from 1805 to 1814. Another line ruled the <a href="/wiki/Duchy_of_Modena" title="Duchy of Modena" class="mw-redirect">Duchy of Modena</a> from 1814 to 1859, while <a href="/wiki/Marie_Louise_of_Austria" title="Marie Louise of Austria" class="mw-redirect">Empress Marie Louise</a>, <a href="/wiki/Napoleon_I_of_France" title="Napoleon I of France" class="mw-redirect">Napoleon's</a> second wife and the daughter of Austrian Emperor Francis, ruled over the <a href="/wiki/Duchy_of_Parma" title="Duchy of Parma">Duchy of Parma</a> between 1814 and 1847. Also, the <a href="/wiki/Second_Mexican_Empire" title="Second Mexican Empire">Second Mexican Empire</a>, from 1863 to 1867, was headed by <a href="/wiki/Maximilian_I_of_Mexico" title="Maximilian I of Mexico">Maximilian I of Mexico</a>, the brother of Emperor <a href="/wiki/Franz_Josef_of_Austria" title="Franz Josef of Austria" class="mw-redirect">Franz Josef of Austria</a>.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit&amp;section=6" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For a historical account, see:</p>
+<ul>
+<li><a href="/wiki/History_of_Austria#The_Habsburg_Monarchy_.2813th_century.E2.80.931918.29" title="History of Austria">History of Austria in the Habsburg Monarchy</a></li>
+<li><a href="/wiki/History_of_Hungary#Early_modern_times_.281526.E2.80.931718.29" title="History of Hungary">History of Hungary under the Habsburg Monarchy</a></li>
+<li><a href="/wiki/Kingdom_of_Bohemia_(1526%E2%80%931648)" title="Kingdom of Bohemia (1526–1648)" class="mw-redirect">Kingdom of Bohemia: 1526–1648</a>, <a href="/wiki/Kingdom_of_Bohemia_(1648%E2%80%931867)" title="Kingdom of Bohemia (1648–1867)" class="mw-redirect">1648–1867</a>, <a href="/wiki/Kingdom_of_Bohemia_(1867%E2%80%931918)" title="Kingdom of Bohemia (1867–1918)" class="mw-redirect">1867–1918</a>.</li>
+<li><a href="/wiki/Kingdom_of_Croatia_(Habsburg)" title="Kingdom of Croatia (Habsburg)">Kingdom of Croatia (Habsburg)</a>; <a href="/wiki/Kingdom_of_Croatia-Slavonia" title="Kingdom of Croatia-Slavonia">Kingdom of Croatia-Slavonia</a>; <a href="/wiki/Kingdom_of_Dalmatia" title="Kingdom of Dalmatia">Kingdom of Dalmatia</a></li>
+<li><a href="/wiki/Kingdom_of_Hungary_(1538-1867)" title="Kingdom of Hungary (1538-1867)" class="mw-redirect">Kingdom of Hungary (1538-1867)</a></li>
+<li><a href="/wiki/Kingdom_of_Serbia_(1718%E2%80%931739)" title="Kingdom of Serbia (1718–1739)" class="mw-redirect">Kingdom of Serbia: 1718–1739</a>, <a href="/wiki/Ko%C4%8Da%27s_frontier" title="Koča's frontier" class="mw-redirect">1788-1791</a></li>
+<li><a href="/wiki/History_of_Slovakia#The_Ottoman_incursion" title="History of Slovakia">History of Slovakia within the Habsburg Monarchy</a></li>
+<li><a href="/wiki/Economy_of_the_Habsburg_Monarchy" title="Economy of the Habsburg Monarchy">Economy of the Habsburg Monarchy</a></li>
+<li><a href="/wiki/History_of_the_Balkans" title="History of the Balkans">History of the Balkans</a></li>
+</ul>
+<h2><span class="mw-headline" id="Rulers_of_the_Habsburg_Monarchy.2C_1519.E2.80.931918">Rulers of the Habsburg Monarchy, 1519–1918</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit&amp;section=7" title="Edit section: Rulers of the Habsburg Monarchy, 1519–1918">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/List_of_rulers_of_Austria" title="List of rulers of Austria">List of rulers of Austria</a></div>
+<h3><span class="mw-headline" id="Habsburg">Habsburg</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit&amp;section=8" title="Edit section: Habsburg">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Giuseppe_Arcimboldi_003.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Giuseppe_Arcimboldi_003.jpg/200px-Giuseppe_Arcimboldi_003.jpg" width="200" height="251" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Giuseppe_Arcimboldi_003.jpg/300px-Giuseppe_Arcimboldi_003.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Giuseppe_Arcimboldi_003.jpg/400px-Giuseppe_Arcimboldi_003.jpg 2x" data-file-width="611" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Giuseppe_Arcimboldi_003.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Maximilian_II,_Holy_Roman_Emperor" title="Maximilian II, Holy Roman Emperor">Maximilian II, Holy Roman Emperor</a> and his wife Infanta <a href="/wiki/Maria_of_Spain" title="Maria of Spain" class="mw-redirect">Maria of Spain</a> with their children.</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Charles_V,_Holy_Roman_Emperor" title="Charles V, Holy Roman Emperor">Charles V</a> 1519-1520</li>
+<li><a href="/wiki/Ferdinand_I,_Holy_Roman_Emperor" title="Ferdinand I, Holy Roman Emperor">Ferdinand I</a> 1520–1564</li>
+<li><a href="/wiki/Maximilian_II,_Holy_Roman_Emperor" title="Maximilian II, Holy Roman Emperor">Maximilian II</a> 1564–1576</li>
+<li><a href="/wiki/Rudolf_II,_Holy_Roman_Emperor" title="Rudolf II, Holy Roman Emperor">Rudolf II</a> 1576–1612</li>
+<li><a href="/wiki/Matthias,_Holy_Roman_Emperor" title="Matthias, Holy Roman Emperor">Matthias</a> 1612–1619</li>
+<li><a href="/wiki/Ferdinand_II,_Holy_Roman_Emperor" title="Ferdinand II, Holy Roman Emperor">Ferdinand II</a> 1619–1637</li>
+<li><a href="/wiki/Ferdinand_III,_Holy_Roman_Emperor" title="Ferdinand III, Holy Roman Emperor">Ferdinand III</a> 1637–1657</li>
+<li><a href="/wiki/Leopold_I,_Holy_Roman_Emperor" title="Leopold I, Holy Roman Emperor">Leopold I</a> 1657–1705</li>
+<li><a href="/wiki/Joseph_I,_Holy_Roman_Emperor" title="Joseph I, Holy Roman Emperor">Joseph I</a> 1705–1711</li>
+<li><a href="/wiki/Charles_VI,_Holy_Roman_Emperor" title="Charles VI, Holy Roman Emperor">Charles VI</a> 1711–1740 "Karl VI."</li>
+<li><a href="/wiki/Maria_Theresa_of_Austria" title="Maria Theresa of Austria" class="mw-redirect">Maria Theresa</a> 1740–1780 correctly written "Maria Theresia"</li>
+</ul>
+<h3><span class="mw-headline" id="Habsburg-Lorraine">Habsburg-Lorraine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit&amp;section=9" title="Edit section: Habsburg-Lorraine">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Joseph_II,_Holy_Roman_Emperor" title="Joseph II, Holy Roman Emperor">Joseph II</a> 1780–1790 known as "the great Reformer"</li>
+<li><a href="/wiki/Leopold_II,_Holy_Roman_Emperor" title="Leopold II, Holy Roman Emperor">Leopold II</a> 1790–1792 from 1765 to 1790 "Grandduke of Tuscany"</li>
+<li><a href="/wiki/Francis_II,_Holy_Roman_Emperor" title="Francis II, Holy Roman Emperor">Francis II</a> 1792–1835 correctly written "Franz" (became Emperor Francis I of Austria in 1804, at which point numbering starts anew)</li>
+<li><a href="/wiki/Ferdinand_I_of_Austria" title="Ferdinand I of Austria">Ferdinand I</a> 1835–1848 known as "Ferdinand the Good" German: "Ferdinand der Gütige"</li>
+<li><a href="/wiki/Franz_Joseph_I_of_Austria" title="Franz Joseph I of Austria">Francis Joseph I</a> 1848–1916 Brother of Emperor Maximilian of Mexico (ruled 1864–1867)</li>
+<li><a href="/wiki/Karl_I_of_Austria" title="Karl I of Austria" class="mw-redirect">Charles I</a> 1916–1918 last reigning Monarch of Austria-Hungary</li>
+<li>Otto von Habsburg-Lothringen or sometimes called Otto von Österreich Crown Prince of Austria to be found as <a href="/wiki/Otto_von_Habsburg" title="Otto von Habsburg">Otto von Habsburg</a></li>
+</ul>
+<h3><span class="mw-headline" id="Family_tree">Family tree</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit&amp;section=10" title="Edit section: Family tree">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Habsburg_family_tree" title="Habsburg family tree">Habsburg family tree</a></li>
+</ul>
+<h2><span class="mw-headline" id="In_literature">In literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit&amp;section=11" title="Edit section: In literature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The most famous memoir on the decline of the Habsburg Empire is Stefan Zweig's <i><a href="/wiki/The_World_of_Yesterday" title="The World of Yesterday">The World of Yesterday</a></i>.<sup id="cite_ref-Manacorda_2010_12-0" class="reference"><a href="#cite_note-Manacorda_2010-12"><span>[</span>12<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit&amp;section=12" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">The monarchy had no official name. Various names were:</span>
+<ul>
+<li><span class="reference-text"><b>Habsburg Empire</b></span></li>
+<li><span class="reference-text"><b>Habsburg Monarchy</b></span></li>
+<li><span class="reference-text"><b>Habsburg Hereditary Lands</b></span></li>
+<li><span class="reference-text"><b>Austrian Monarchy</b></span></li>
+</ul>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1662&amp;context=etd">"Smoldering Embers: Czech-German Cultural Competition, 1848–1948"</a> by C. Brandon Hone. Utah State University.</span></li>
+<li id="cite_note-HHus-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-HHus_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HHus_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"Czech Republic - Historic Centre of Prague (1992)" Heindorffhus, August 2007, <a rel="nofollow" class="external text" href="http://worldheritage.heindorffhus.dk/frame-CzechRepPrague.htm">HeindorffHus-Czech</a>.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Vienna website; <a rel="nofollow" class="external free" href="http://www.wien-vienna.com/austrohungary.php">http://www.wien-vienna.com/austrohungary.php</a></span></li>
+<li id="cite_note-Britannica_AH-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Britannica_AH_5-0">^</a></b></span> <span class="reference-text">Encyclopedia Britannica online article Austria-Hungary; <a rel="nofollow" class="external free" href="http://www.britannica.com/EBchecked/topic/44386/Austria-Hungary">http://www.britannica.com/EBchecked/topic/44386/Austria-Hungary</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Metropolitan Museum of Art; <a rel="nofollow" class="external free" href="http://www.metmuseum.org/toah/hd/habs/hd_habs.htm">http://www.metmuseum.org/toah/hd/habs/hd_habs.htm</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">University of Wisconsin; <a rel="nofollow" class="external free" href="http://faculty.history.wisc.edu/sommerville/351/holy%20roman%20empire.htm">http://faculty.history.wisc.edu/sommerville/351/holy%20roman%20empire.htm</a></span></li>
+<li id="cite_note-Britannica2009-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Britannica2009_8-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.britannica.com/EBchecked/topic/204416/Ferdinand-I">Britannica 2009</a></span></li>
+<li id="cite_note-Adams2005-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Adams2005_9-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Simon Adams (30 July 2005). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Cmm4J2Ug4o8C&amp;pg=PA1974"><i>The Balkans</i></a>. Black Rabbit Books. pp.&#160;1974–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-58340-603-8" title="Special:BookSources/978-1-58340-603-8">978-1-58340-603-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHabsburg+Monarchy&amp;rft.au=Simon+Adams&amp;rft.btitle=The+Balkans&amp;rft.date=30+July+2005&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DCmm4J2Ug4o8C%26pg%3DPA1974&amp;rft.isbn=978-1-58340-603-8&amp;rft.pages=1974-&amp;rft.pub=Black+Rabbit+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-LACKEY1995-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-LACKEY1995_10-0">^</a></b></span> <span class="reference-text"><cite class="citation book">SCOTT LACKEY (30 October 1995). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=sY9Pn3urkQ4C&amp;pg=PA166"><i>The Rebirth of the Habsburg Army: Friedrich Beck and the Rise of the General Staff</i></a>. ABC-CLIO. pp.&#160;166–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-313-03131-1" title="Special:BookSources/978-0-313-03131-1">978-0-313-03131-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHabsburg+Monarchy&amp;rft.au=SCOTT+LACKEY&amp;rft.btitle=The+Rebirth+of+the+Habsburg+Army%3A+Friedrich+Beck+and+the+Rise+of+the+General+Staff&amp;rft.date=30+October+1995&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DsY9Pn3urkQ4C%26pg%3DPA166&amp;rft.isbn=978-0-313-03131-1&amp;rft.pages=166-&amp;rft.pub=ABC-CLIO&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hodge2008-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hodge2008_11-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Carl Cavanagh Hodge (2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=NtEZ7Zq7s-gC&amp;pg=PA59"><i>Encyclopedia of the Age of Imperialism, 1800-1914: A-K</i></a>. Greenwood Publishing Group. pp.&#160;59–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-313-33406-1" title="Special:BookSources/978-0-313-33406-1">978-0-313-33406-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHabsburg+Monarchy&amp;rft.au=Carl+Cavanagh+Hodge&amp;rft.btitle=Encyclopedia+of+the+Age+of+Imperialism%2C+1800-1914%3A+A-K&amp;rft.date=2008&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DNtEZ7Zq7s-gC%26pg%3DPA59&amp;rft.isbn=978-0-313-33406-1&amp;rft.pages=59-&amp;rft.pub=Greenwood+Publishing+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Manacorda_2010-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Manacorda_2010_12-0">^</a></b></span> <span class="reference-text">Giorgio Manacorda (2010) <a rel="nofollow" class="external text" href="https://books.google.com/books?id=HSFf-UA19UwC&amp;pg=PT15"><i>Nota bibliografica</i></a> in Roth <i>La Marcia di Radetzky</i>, Newton Classici quotation:</span>
+<blockquote class="toccolours" style="float:none; display:table;">
+<div style="padding: 10px 15px 10px 15px;"><span class="reference-text">Stefan Zweig, l'autore del più famoso libro sull'Impero asburgico, Die Welt von Gestern</span></div>
+</blockquote>
+</li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit&amp;section=13" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Ingrao, Charles. <i>The Habsburg Monarchy, 1618–1815</i> (2000) <a rel="nofollow" class="external text" href="http://www.amazon.com/Habsburg-Monarchy-1618-1815-Approaches-European/dp/0521785057/">excerpt and text search</a></li>
+<li>Ingrao, Charles. <i>In Quest and Crisis: Emperor Joseph I and the Habsburg Monarchy</i> (1979)</li>
+<li>Kann, Robert A. <i>A History of the Habsburg Empire: 1526–1918</i> (U of California Press, 1974)</li>
+<li><a href="/wiki/Carlile_Aylmer_Macartney" title="Carlile Aylmer Macartney">Macartney, Carlile Aylmer</a> <i>The Habsburg Empire, 1790–1918</i>, New York, Macmillan 1969.</li>
+<li>McCagg, Jr., William O. <i>A History of the Habsburg Jews, 1670–1918</i> (Indiana University Press, 1989)</li>
+<li>Oakes, Elizabeth and Eric Roman. <i>Austria-Hungary and the Successor States: A Reference Guide from the Renaissance to the Present</i> (2003)</li>
+<li>Robert John Weston Evans, <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=1QXiWBGboHMC&amp;pg=PA3&amp;ots=bx9RNoJSSl&amp;dq=Habsburg+Monarchy&amp;sig=U1JSGPwTtE82JpgIKPlJfHnXxZ4">The Making of the Habsburg Monarchy, 1550–1700: An Interpretation</a></i>, Oxford University Press, 1979. <a href="/wiki/Special:BookSources/0198730853" class="internal mw-magiclink-isbn">ISBN 0-19-873085-3</a>.</li>
+<li><a href="/wiki/Alan_Sked" title="Alan Sked">Sked Alan</a> <i>The Decline and Fall of the Habsburg Empire, 1815–1918</i>, London: Longman, 1989.</li>
+<li><cite class="citation book">Steed, Henry Wickham; et al. (1914). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=dAJDAAAAIAAJ&amp;pg=PA145"><i>A short history of Austria-Hungary and Poland</i></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHabsburg+Monarchy&amp;rft.au=Steed%2C+Henry+Wickham&amp;rft.btitle=A+short+history+of+Austria-Hungary+and+Poland&amp;rft.date=1914&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DdAJDAAAAIAAJ%26pg%3DPA145&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a href="/wiki/A._J._P._Taylor" title="A. J. P. Taylor">Taylor, A.J.P.</a> <i>The Habsburg monarchy, 1809–1918: a history of the Austrian Empire and Austria-Hungary</i>, (London: Penguin Books. 2nd ed. 1964) <a rel="nofollow" class="external text" href="http://www.amazon.com/Habsburg-Monarchy-1809-1918-Austrian-Austria-Hungary/dp/0226791459/">excerpt and text search</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.h-net.org/~habsweb/">HABSBURG in an email discussion list dealing with the culture and history of the Habsburg Monarchy and its successor states in central Europe since 1500</a>, with discussions, syllabi, book reviews, queries, conferences; edited daily by scholars since 1994.</li>
+</ul>
+<div style="clear:both;"></div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:History_of_Europe" title="Template:History of Europe"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:History_of_Europe" title="Template talk:History of Europe"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:History_of_Europe&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/History_of_Europe" title="History of Europe">History of Europe</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Prehistoric_Europe" title="Prehistoric Europe">Prehistory</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Paleolithic_Europe" title="Paleolithic Europe">Paleolithic Europe</a></li>
+<li><a href="/wiki/Neolithic_Europe" title="Neolithic Europe">Neolithic Europe</a></li>
+<li><a href="/wiki/Bronze_Age_Europe" title="Bronze Age Europe">Bronze Age Europe</a></li>
+<li><a href="/wiki/Iron_Age_Europe" title="Iron Age Europe">Iron Age Europe</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Classical_antiquity" title="Classical antiquity">Classical antiquity</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Classical_Greece" title="Classical Greece">Classical Greece</a></li>
+<li><a href="/wiki/Roman_Republic" title="Roman Republic">Roman Republic</a></li>
+<li><a href="/wiki/Hellenistic_period" title="Hellenistic period">Hellenistic period</a></li>
+<li><a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a></li>
+<li><a href="/wiki/Late_Antiquity" title="Late Antiquity">Late Antiquity</a></li>
+<li><a href="/wiki/Early_Christianity" title="Early Christianity">Early Christianity</a></li>
+<li><a href="/wiki/Crisis_of_the_Third_Century" title="Crisis of the Third Century">Crisis of the Third Century</a></li>
+<li><a href="/wiki/Decline_of_the_Roman_Empire" title="Decline of the Roman Empire" class="mw-redirect">Decline of the Roman Empire</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Early_Middle_Ages" title="Early Middle Ages">Early Middle Ages</a></li>
+<li><a href="/wiki/Migration_Period" title="Migration Period">Migration Period</a></li>
+<li><a href="/wiki/Byzantine_Empire" title="Byzantine Empire">Byzantine Empire</a></li>
+<li><a href="/wiki/Maritime_republics" title="Maritime republics">Maritime republics</a></li>
+<li><a href="/wiki/Christianization" title="Christianization">Christianization</a></li>
+<li><a href="/wiki/Viking_Age" title="Viking Age">Viking Age</a></li>
+<li><a href="/wiki/Kievan_Rus%27" title="Kievan Rus'">Kievan Rus'</a></li>
+<li><a href="/wiki/High_Middle_Ages" title="High Middle Ages">High Middle Ages</a></li>
+<li><a href="/wiki/Holy_Roman_Empire" title="Holy Roman Empire">Holy Roman Empire</a></li>
+<li><a href="/wiki/Crusades" title="Crusades">Crusades</a></li>
+<li><a href="/wiki/Feudalism" title="Feudalism">Feudalism</a></li>
+<li><a href="/wiki/Late_Middle_Ages" title="Late Middle Ages">Late Middle Ages</a></li>
+<li><a href="/wiki/Hundred_Years%27_War" title="Hundred Years' War">Hundred Years' War</a></li>
+<li><a href="/wiki/Renaissance" title="Renaissance" class="mw-redirect">Renaissance</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Early_modern_Europe" title="Early modern Europe">Early modern</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Protestant_Reformation" title="Protestant Reformation">Reformation</a></li>
+<li><a href="/wiki/Age_of_Discovery" title="Age of Discovery">Age of Discovery</a></li>
+<li><a href="/wiki/Baroque" title="Baroque">Baroque</a></li>
+<li><a href="/wiki/Thirty_Years%27_War" title="Thirty Years' War">Thirty Years' War</a></li>
+<li><a href="/wiki/Absolute_monarchy" title="Absolute monarchy">Absolute monarchy</a></li>
+<li><a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a></li>
+<li><a href="/wiki/Portuguese_Empire" title="Portuguese Empire">Portuguese Empire</a></li>
+<li><a href="/wiki/Spanish_Empire" title="Spanish Empire">Spanish Empire</a></li>
+<li><a href="/wiki/Early_modern_France" title="Early modern France">Early modern France</a></li>
+<li><a href="/wiki/Polish%E2%80%93Lithuanian_Commonwealth" title="Polish–Lithuanian Commonwealth">Polish–Lithuanian Commonwealth</a></li>
+<li><a href="/wiki/Swedish_Empire" title="Swedish Empire">Swedish Empire</a></li>
+<li><a href="/wiki/Dutch_Republic" title="Dutch Republic">Dutch Republic</a></li>
+<li><a href="/wiki/British_Empire" title="British Empire">British Empire</a></li>
+<li><strong class="selflink">Habsburg Monarchy</strong></li>
+<li><a href="/wiki/Russian_Empire" title="Russian Empire">Russian Empire</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Modern history</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Age_of_Enlightenment" title="Age of Enlightenment">Age of Enlightenment</a></li>
+<li><a href="/wiki/Great_Divergence" title="Great Divergence">Great Divergence</a></li>
+<li><a href="/wiki/French_Revolution" title="French Revolution">French Revolution</a></li>
+<li><a href="/wiki/Napoleonic_Wars" title="Napoleonic Wars">Napoleonic Wars</a></li>
+<li><a href="/wiki/Rise_of_nationalism_in_Europe" title="Rise of nationalism in Europe">Nationalism</a>
+<ul>
+<li><a href="/wiki/Serbian_Revolution" title="Serbian Revolution">Serbian Revolution</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Revolutions_of_1848" title="Revolutions of 1848">Revolutions of 1848</a></li>
+<li><a href="/wiki/Industrialisation" title="Industrialisation">Industrialisation</a></li>
+<li><a href="/wiki/World_War_I" title="World War I">World War I</a></li>
+<li><a href="/wiki/October_Revolution" title="October Revolution">October Revolution</a></li>
+<li><a href="/wiki/Interwar_period" title="Interwar period">Interwar period</a></li>
+<li><a href="/wiki/World_War_II" title="World War II">World War II</a></li>
+<li><a href="/wiki/Cold_War" title="Cold War">Cold War</a></li>
+<li><a href="/wiki/European_integration" title="European integration">European integration</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">See also</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Art_of_Europe" title="Art of Europe">Art of Europe</a></li>
+<li><a href="/wiki/Genetic_history_of_Europe" title="Genetic history of Europe">Genetic history of Europe</a></li>
+<li><a href="/wiki/History_of_the_Mediterranean_region" title="History of the Mediterranean region">History of the Mediterranean region</a></li>
+<li><a href="/wiki/History_of_the_European_Union" title="History of the European Union">History of the European Union</a></li>
+<li><a href="/wiki/History_of_Western_civilization" title="History of Western civilization">History of Western civilization</a></li>
+<li><a href="/wiki/Maritime_history_of_Europe" title="Maritime history of Europe">Maritime history of Europe</a></li>
+<li><a href="/wiki/Military_history_of_Europe" title="Military history of Europe">Military history of Europe</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1097
+Cached time: 20151016100913
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.586 seconds
+Real time usage: 0.761 seconds
+Preprocessor visited node count: 3790/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 96189/2097152 bytes
+Template argument size: 35350/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 7/500
+Lua time usage: 0.085/10.000 seconds
+Lua memory usage: 2.67 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  519.491      1 - -total
+ 57.99%  301.243      1 - Template:Stack
+ 48.17%  250.236      1 - Template:Infobox_Former_Country
+ 13.87%   72.050     19 - Template:Flag
+ 13.05%   67.797      1 - Template:Refimprove
+ 12.90%   67.020      1 - Template:Reflist
+  8.97%   46.624      1 - Template:History_of_Austria
+  8.67%   45.016      4 - Template:Cite_book
+  8.55%   44.434      1 - Template:Ambox
+  8.32%   43.196      1 - Template:Sidebar_with_collapsible_lists
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1041515-0!*!0!!en!4!* and timestamp 20151016100912 and revision id 685798524
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Habsburg_Monarchy&amp;oldid=685798524">https://en.wikipedia.org/w/index.php?title=Habsburg_Monarchy&amp;oldid=685798524</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Former_countries_in_Europe" title="Category:Former countries in Europe">Former countries in Europe</a></li><li><a href="/wiki/Category:States_and_territories_established_in_1526" title="Category:States and territories established in 1526">States and territories established in 1526</a></li><li><a href="/wiki/Category:States_and_territories_disestablished_in_1804" title="Category:States and territories disestablished in 1804">States and territories disestablished in 1804</a></li><li><a href="/wiki/Category:Habsburg_Monarchy" title="Category:Habsburg Monarchy">Habsburg Monarchy</a></li><li><a href="/wiki/Category:Former_empires_of_Europe" title="Category:Former empires of Europe">Former empires of Europe</a></li><li><a href="/wiki/Category:Former_monarchies_of_Europe" title="Category:Former monarchies of Europe">Former monarchies of Europe</a></li><li><a href="/wiki/Category:Hungary_under_Habsburg_rule" title="Category:Hungary under Habsburg rule">Hungary under Habsburg rule</a></li><li><a href="/wiki/Category:Serbia_under_Habsburg_rule" title="Category:Serbia under Habsburg rule">Serbia under Habsburg rule</a></li><li><a href="/wiki/Category:History_of_the_Balkans_by_period" title="Category:History of the Balkans by period">History of the Balkans by period</a></li><li><a href="/wiki/Category:Former_countries_in_the_Balkans" title="Category:Former countries in the Balkans">Former countries in the Balkans</a></li><li><a href="/wiki/Category:History_of_Bosnia_and_Herzegovina" title="Category:History of Bosnia and Herzegovina">History of Bosnia and Herzegovina</a></li><li><a href="/wiki/Category:History_of_Croatia" title="Category:History of Croatia">History of Croatia</a></li><li><a href="/wiki/Category:Habsburg_Bohemia" title="Category:Habsburg Bohemia">Habsburg Bohemia</a></li><li><a href="/wiki/Category:History_of_Kosovo" title="Category:History of Kosovo">History of Kosovo</a></li><li><a href="/wiki/Category:History_of_Poland_(1569%E2%80%931795)" title="Category:History of Poland (1569–1795)">History of Poland (1569–1795)</a></li><li><a href="/wiki/Category:History_of_Poland_(1795%E2%80%931918)" title="Category:History of Poland (1795–1918)">History of Poland (1795–1918)</a></li><li><a href="/wiki/Category:Habsburg_Transylvania" title="Category:Habsburg Transylvania">Habsburg Transylvania</a></li><li><a href="/wiki/Category:Habsburg_period_in_the_history_of_Slovakia" title="Category:Habsburg period in the history of Slovakia">Habsburg period in the history of Slovakia</a></li><li><a href="/wiki/Category:Early_modern_history_of_Ukraine" title="Category:Early modern history of Ukraine">Early modern history of Ukraine</a></li><li><a href="/wiki/Category:Vojvodina_under_Habsburg_rule" title="Category:Vojvodina under Habsburg rule">Vojvodina under Habsburg rule</a></li><li><a href="/wiki/Category:1526_establishments_in_Austria" title="Category:1526 establishments in Austria">1526 establishments in Austria</a></li><li><a href="/wiki/Category:1804_disestablishments_in_Austria" title="Category:1804 disestablishments in Austria">1804 disestablishments in Austria</a></li><li><a href="/wiki/Category:16th_century_in_Europe" title="Category:16th century in Europe">16th century in Europe</a></li><li><a href="/wiki/Category:17th_century_in_Europe" title="Category:17th century in Europe">17th century in Europe</a></li><li><a href="/wiki/Category:18th_century_in_Europe" title="Category:18th century in Europe">18th century in Europe</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2013" title="Category:Articles needing additional references from April 2013">Articles needing additional references from April 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Former_country_articles_requiring_maintenance" title="Category:Former country articles requiring maintenance">Former country articles requiring maintenance</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Articles_containing_Czech-language_text" title="Category:Articles containing Czech-language text">Articles containing Czech-language text</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Habsburg+Monarchy&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Habsburg+Monarchy" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Habsburg_Monarchy"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Habsburg_Monarchy"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Habsburg_Monarchy" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Habsburg_Monarchy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Habsburg_Monarchy" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Habsburg_Monarchy&amp;oldid=685798524" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Habsburg_Monarchy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q153136" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Habsburg_Monarchy&amp;id=685798524" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Habsburg+Monarchy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Habsburg+Monarchy&amp;returnto=Habsburg+Monarchy&amp;oldid=685798524&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Habsburg_Monarchy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D9%84%D9%83%D9%8A%D8%A9_%D9%87%D8%A7%D8%A8%D8%B3%D8%A8%D9%88%D8%B1%D8%BA" title="ملكية هابسبورغ – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="//an.wikipedia.org/wiki/Monarqu%C3%ADa_habsburguica" title="Monarquía habsburguica – Aragonese" lang="an" hreflang="an">Aragonés</a></li><li class="interlanguage-link interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%93%D0%B0%D0%B1%D1%81%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B0%D0%BD%D0%B0%D1%80%D1%85%D1%96%D1%8F" title="Габсбургская манархія – Belarusian" lang="be" hreflang="be">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%93%D0%B0%D0%B1%D1%81%D0%B1%D1%83%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B0%D0%BD%D0%B0%D1%80%D1%85%D1%96%D1%8F" title="Габсбурская манархія – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B1%D1%81%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B0_%D0%BC%D0%BE%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D1%8F" title="Хабсбургска монархия – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/Habsbur%C5%A1ka_monarhija" title="Habsburška monarhija – Bosnian" lang="bs" hreflang="bs">Bosanski</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Habsbursk%C3%A1_monarchie" title="Habsburská monarchie – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Habsburgske_monarki" title="Habsburgske monarki – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Habsburgermonarchie" title="Habsburgermonarchie – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Habsburgide_monarhia" title="Habsburgide monarhia – Estonian" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Habsburga_monarkio" title="Habsburga monarkio – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%DB%8C_%D9%87%D8%A7%D8%A8%D8%B3%D8%A8%D9%88%D8%B1%DA%AF" title="امپراتوری هابسبورگ – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Monarchie_de_Habsbourg" title="Monarchie de Habsbourg – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="//ga.wikipedia.org/wiki/Monarcacht_Hapsburgach" title="Monarcacht Hapsburgach – Irish" lang="ga" hreflang="ga">Gaeilge</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%ED%95%A9%EC%8A%A4%EB%B6%80%EB%A5%B4%ED%81%AC_%EA%B5%B0%EC%A3%BC%EA%B5%AD" title="합스부르크 군주국 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Habsbur%C5%A1ka_Monarhija" title="Habsburška Monarhija – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Monarki_Habsburg" title="Monarki Habsburg – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Monarchia_asburgica" title="Monarchia asburgica – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9E%D7%9E%D7%9C%D7%9B%D7%AA_%D7%94%D7%91%D7%A1%D7%91%D7%95%D7%A8%D7%92" title="ממלכת הבסבורג – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Habsburgu_monarhija" title="Habsburgu monarhija – Latvian" lang="lv" hreflang="lv">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Habsburg%C5%B3_monarchija" title="Habsburgų monarchija – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Habsburg_Birodalom" title="Habsburg Birodalom – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/Monarki_Habsburg" title="Monarki Habsburg – Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl badge-Q17437796 badge-featuredarticle" title="featured article"><a href="//nl.wikipedia.org/wiki/Habsburgse_monarchie" title="Habsburgse monarchie – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%8F%E3%83%97%E3%82%B9%E3%83%96%E3%83%AB%E3%82%AF%E5%90%9B%E4%B8%BB%E5%9B%BD" title="ハプスブルク君主国 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Habsburgmonarkiet" title="Habsburgmonarkiet – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Habsburgmonarkiet" title="Habsburgmonarkiet – Norwegian Nynorsk" lang="nn" hreflang="nn">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Monarchia_Habsburg%C3%B3w" title="Monarchia Habsburgów – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Monarquia_de_Habsburgo" title="Monarquia de Habsburgo – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Monarhia_Habsburgic%C4%83" title="Monarhia Habsburgică – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B1%D1%81%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%BE%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D1%8F" title="Габсбургская монархия – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Habsbursk%C3%A1_monarchia" title="Habsburská monarchia – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Habsbur%C5%A1ka_monarhija" title="Habsburška monarhija – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B1%D0%B7%D0%B1%D1%83%D1%80%D1%88%D0%BA%D0%B0_%D0%BC%D0%BE%D0%BD%D0%B0%D1%80%D1%85%D0%B8%D1%98%D0%B0" title="Хабзбуршка монархија – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Habsbur%C5%A1ka_Monarhija" title="Habsburška Monarhija – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Habsburgien_monarkia" title="Habsburgien monarkia – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Habsburgska_monarkin" title="Habsburgska monarkin – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Habsburg_Monar%C5%9Fisi" title="Habsburg Monarşisi – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%B1%D1%81%D0%B1%D1%83%D1%80%D0%B7%D1%8C%D0%BA%D0%B0_%D0%BC%D0%BE%D0%BD%D0%B0%D1%80%D1%85%D1%96%D1%8F" title="Габсбурзька монархія – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="//ur.wikipedia.org/wiki/%D8%B3%D9%84%D8%B7%D9%86%D8%AA_%DB%81%DB%8C%D8%A8%D8%B3%D8%A8%D8%B1%DA%AF" title="سلطنت ہیبسبرگ – Urdu" lang="ur" hreflang="ur">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Qu%C3%A2n_ch%E1%BB%A7_Habsburg" title="Quân chủ Habsburg – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%93%88%E5%B8%83%E6%96%AF%E5%A0%A1%E5%90%9B%E4%B8%BB%E5%9C%8B" title="哈布斯堡君主國 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q153136#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 October 2015, at 01:37.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Habsburg_Monarchy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1025"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

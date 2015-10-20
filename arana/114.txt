@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>General Electric GE90 - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"General_Electric_GE90","wgTitle":"General Electric GE90","wgCurRevisionId":686444244,"wgRevisionId":686444244,"wgArticleId":433825,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from June 2011","Commons category with local link same as on Wikidata","High-bypass turbofan engines","General Electric aircraft engines","Turbofan engines 1990–1999"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"General_Electric_GE90","wgRelevantArticleId":433825,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/GE90_dsc04644.jpg/93px-GE90_dsc04644.jpg","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q128979","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/General_Electric_GE90" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=General_Electric_GE90&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=General_Electric_GE90&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/General_Electric_GE90" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-General_Electric_GE90 skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">General Electric GE90</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:315px;border-spacing:2px;">
+<tr>
+<th colspan="2" style="text-align: center; font-size: large; padding-bottom: 0.3em;">GE90</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center;"><a href="/wiki/File:GE90_dsc04644.jpg" class="image"><img alt="GE90 dsc04644.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/GE90_dsc04644.jpg/300px-GE90_dsc04644.jpg" width="300" height="322" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/GE90_dsc04644.jpg/450px-GE90_dsc04644.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/GE90_dsc04644.jpg/600px-GE90_dsc04644.jpg 2x" data-file-width="1436" data-file-height="1540" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: 1px solid #aaa;text-align:center;">GE90-115B</td>
+</tr>
+<tr>
+<th>Type</th>
+<td><a href="/wiki/Turbofan" title="Turbofan">Turbofan</a></td>
+</tr>
+<tr>
+<th>Manufacturer</th>
+<td><a href="/wiki/GE_Aviation" title="GE Aviation">GE Aviation</a></td>
+</tr>
+<tr>
+<th>First run</th>
+<td>September 23, 1994</td>
+</tr>
+<tr>
+<th><span class="nowrap">Major applications</span></th>
+<td><a href="/wiki/Boeing_777" title="Boeing 777">Boeing 777</a></td>
+</tr>
+<tr>
+<th><span class="nowrap">Developed into</span></th>
+<td><a href="/wiki/General_Electric_GEnx" title="General Electric GEnx">General Electric GEnx</a><br />
+<a href="/wiki/Engine_Alliance_GP7000" title="Engine Alliance GP7000">Engine Alliance GP7000</a></td>
+</tr>
+</table>
+<p>The <b>General Electric GE90</b> is a family of <a href="/wiki/High-bypass_turbofan_engine" title="High-bypass turbofan engine" class="mw-redirect">high-bypass</a> <a href="/wiki/Turbofan" title="Turbofan">turbofan</a> <a href="/wiki/Aircraft_engine" title="Aircraft engine">aircraft engines</a> built by <a href="/wiki/GE_Aviation" title="GE Aviation">GE Aviation</a> for the <a href="/wiki/Boeing_777" title="Boeing 777">Boeing 777</a>, with thrust ratings ranging from 74,000 to 115,000&#160;lbf (330 to 510&#160;kN). It entered service in November 1995. Currently the world’s largest turbofan engine, it is one of three options for the 777-200, -200ER, and -300, and the exclusive engine of the -200LR, -300ER, and 777F.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Design_and_development"><span class="tocnumber">1</span> <span class="toctext">Design and development</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Operational_history"><span class="tocnumber">2</span> <span class="toctext">Operational history</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Records"><span class="tocnumber">2.1</span> <span class="toctext">Records</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Airworthiness_Directive"><span class="tocnumber">2.2</span> <span class="toctext">Airworthiness Directive</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Incidents"><span class="tocnumber">2.3</span> <span class="toctext">Incidents</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Variants"><span class="tocnumber">3</span> <span class="toctext">Variants</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Specifications"><span class="tocnumber">4</span> <span class="toctext">Specifications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#GE90-94B"><span class="tocnumber">4.1</span> <span class="toctext">GE90-94B</span></a>
+<ul>
+<li class="toclevel-3"><a href="#General_characteristics"><span class="tocnumber">4.1.1</span> <span class="toctext">General characteristics</span></a></li>
+<li class="toclevel-3"><a href="#Components"><span class="tocnumber">4.1.2</span> <span class="toctext">Components</span></a></li>
+<li class="toclevel-3"><a href="#Performance"><span class="tocnumber">4.1.3</span> <span class="toctext">Performance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#GE90-115B"><span class="tocnumber">4.2</span> <span class="toctext">GE90-115B</span></a>
+<ul>
+<li class="toclevel-3"><a href="#General_characteristics_2"><span class="tocnumber">4.2.1</span> <span class="toctext">General characteristics</span></a></li>
+<li class="toclevel-3"><a href="#Components_2"><span class="tocnumber">4.2.2</span> <span class="toctext">Components</span></a></li>
+<li class="toclevel-3"><a href="#Performance_2"><span class="tocnumber">4.2.3</span> <span class="toctext">Performance</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Derivatives"><span class="tocnumber">5</span> <span class="toctext">Derivatives</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#GEnx"><span class="tocnumber">5.1</span> <span class="toctext">GEnx</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#GE9X"><span class="tocnumber">5.2</span> <span class="toctext">GE9X</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Footnotes"><span class="tocnumber">7</span> <span class="toctext">Footnotes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#References"><span class="tocnumber">7.1</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Bibliography"><span class="tocnumber">7.2</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Design_and_development">Design and development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=1" title="Edit section: Design and development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:GE90-Airflow.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/GE90-Airflow.jpg/220px-GE90-Airflow.jpg" width="220" height="137" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/GE90-Airflow.jpg/330px-GE90-Airflow.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/5/56/GE90-Airflow.jpg 2x" data-file-width="349" data-file-height="217" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:GE90-Airflow.jpg" class="internal" title="Enlarge"></a></div>
+A 1998 <a href="/wiki/Computational_Fluid_Dynamics" title="Computational Fluid Dynamics" class="mw-redirect">CFD simulation</a> of airflow through the engine</div>
+</div>
+</div>
+<p>The GE90 was launched in 1990.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> GE Aviation is associated with <a href="/wiki/Snecma" title="Snecma">Snecma</a> (France), <a href="/wiki/IHI_Corporation" title="IHI Corporation">IHI</a> (Japan) and <a href="/wiki/Avio_S.p.A." title="Avio S.p.A." class="mw-redirect">Avio</a> (Italy). Developed from the 1970s <a href="/wiki/NASA" title="NASA">NASA</a> <a href="/wiki/Energy_Efficient_Engine" title="Energy Efficient Engine">Energy Efficient Engine</a>, the 10-stage high pressure compressor develops a pressure ratio of 23:1 (an industry record) and is driven by a 2-stage, air-cooled, HP turbine. A 3-stage intermediate pressure compressor, situated directly behind the fan, supercharges the core. The fan/IPC is driven by a 6-stage low pressure turbine.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ge-747-N747GE-020918-03.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ge-747-N747GE-020918-03.jpg/220px-Ge-747-N747GE-020918-03.jpg" width="220" height="129" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ge-747-N747GE-020918-03.jpg/330px-Ge-747-N747GE-020918-03.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ge-747-N747GE-020918-03.jpg/440px-Ge-747-N747GE-020918-03.jpg 2x" data-file-width="1229" data-file-height="721" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ge-747-N747GE-020918-03.jpg" class="internal" title="Enlarge"></a></div>
+The higher-thrust GE90-115B mounted on GE's Boeing 747 aircraft during a flight test campaign.</div>
+</div>
+</div>
+<p>The higher-thrust variants, GE90-110B1 and -115B, have a different architecture from the earlier marks of GE90, with one stage removed from the HP compressor (probably from the rear, to increase <a href="/w/index.php?title=Core_size&amp;action=edit&amp;redlink=1" class="new" title="Core size (page does not exist)">core size</a>), with an extra stage added to the IP compressor to maintain/increase overall pressure ratio to achieve a net increase in core flow. General Electric performed a similar re-staging exercise when they upgraded the <a href="/wiki/CF6" title="CF6" class="mw-redirect">CF6</a> from the -6 to the higher thrust -50. However, this thrust growth route is expensive, since all the downstream components (e.g. turbines) must be larger (in flow capacity). As a result GE sought (and received) sole engine supplier status with the -115B on the Boeing 777-300ER and the 777-200F that is usually de-rated to 110. The fan is an advanced, larger diameter unit made from <a href="/wiki/Composite_material" title="Composite material">composite materials</a> and is the first production engine to feature swept rotor blades. Although the larger fan in itself would produce a higher static thrust, an increase in core size and, thereby <a href="/w/index.php?title=Core_power&amp;action=edit&amp;redlink=1" class="new" title="Core power (page does not exist)">core power</a>, was required to improve the net thrust at normal flight speeds.</p>
+<p>The GE90-115B is powerful enough to fully operate GE's <a href="/wiki/Boeing_747" title="Boeing 747">Boeing 747</a> testbed on its own power, an attribute demonstrated during a flight test.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Operational_history">Operational history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=2" title="Edit section: Operational history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Air_Canada_GE90_Boeing_777-200LR.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Air_Canada_GE90_Boeing_777-200LR.jpg/220px-Air_Canada_GE90_Boeing_777-200LR.jpg" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Air_Canada_GE90_Boeing_777-200LR.jpg/330px-Air_Canada_GE90_Boeing_777-200LR.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Air_Canada_GE90_Boeing_777-200LR.jpg/440px-Air_Canada_GE90_Boeing_777-200LR.jpg 2x" data-file-width="3240" data-file-height="4320" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Air_Canada_GE90_Boeing_777-200LR.jpg" class="internal" title="Enlarge"></a></div>
+A GE90-110B1 mounted on an <a href="/wiki/Air_Canada" title="Air Canada">Air Canada</a> <a href="/wiki/Boeing_777-200LR" title="Boeing 777-200LR" class="mw-redirect">Boeing 777-200LR</a> inflight over <a href="/wiki/Siberia" title="Siberia">Siberia</a></div>
+</div>
+</div>
+<p>The first General Electric-powered Boeing 777 was delivered to British Airways on November 12, 1995;<sup id="cite_ref-eden115_4-0" class="reference"><a href="#cite_note-eden115-4"><span>[</span>4<span>]</span></a></sup> the aircraft, with two GE90-77Bs, entered service five days later.<sup id="cite_ref-norris143_5-0" class="reference"><a href="#cite_note-norris143-5"><span>[</span>5<span>]</span></a></sup> Initial service was affected by <a href="/wiki/Gearbox" title="Gearbox" class="mw-redirect">gearbox</a> bearing wear issues, which caused the airline to temporarily withdraw its 777 fleet from <a href="/wiki/Transatlantic_flight" title="Transatlantic flight">transatlantic</a> service in 1997.<sup id="cite_ref-norris143_5-1" class="reference"><a href="#cite_note-norris143-5"><span>[</span>5<span>]</span></a></sup> British Airways' aircraft returned to full service later that year,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> and General Electric subsequently announced engine upgrades.</p>
+<p>Due to the expense of producing the higher-thrust GE-90 variants, the GE90-115B is the sole engine available on the Boeing 777-300ER. The ultra-long range Boeing 777-200LR is normally fitted with the GE90-110B1 but can also take the -115B. The GE90-equipped Boeing 777s have been the best-selling long-range large wide-body aircraft in the 2000s at the expense of the <a href="/wiki/Airbus_A340" title="Airbus A340">Airbus A340</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> The -94B for the -200LR is being retrofitted<sup id="cite_ref-tu2015-04_8-0" class="reference"><a href="#cite_note-tu2015-04-8"><span>[</span>8<span>]</span></a></sup> with some of the first FAA-approved <a href="/wiki/3D_printing#Space" title="3D printing">3D-printed components</a>.<sup id="cite_ref-ge2015-3d_9-0" class="reference"><a href="#cite_note-ge2015-3d-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>The GE90 series are physically the largest engines in aviation history, the fan diameter of the original series being 312&#160;cm (123&#160;in). The largest variant, the GE90-115B, has a fan diameter of 325&#160;cm (128&#160;in). As a result, GE90 engines can only be airfreighted in assembled form by outsize cargo aircraft such as the <a href="/wiki/Antonov_An-124_Ruslan" title="Antonov An-124 Ruslan">Antonov An-124 <i>Condor</i></a>, presenting unique problems if, due to emergency diversions, a 777 were stranded in a place without the proper spare parts. If the fan is removed from the core, then the engines may be shipped on a <a href="/wiki/Boeing_747" title="Boeing 747">747 Freighter</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Records">Records</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=3" title="Edit section: Records">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In October 2003, a <a href="/wiki/777-300ER" title="777-300ER" class="mw-redirect">Boeing 777-300ER</a> broke the <a href="/wiki/ETOPS" title="ETOPS">ETOPS</a> record by being able to fly five and a half hours (330 minutes) with one engine shut down.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> The aircraft, with GE90-115B engines, flew from Seattle to Taiwan as part of the ETOPS certification programme.</p>
+<p>According to the <i><a href="/wiki/Guinness_World_Records" title="Guinness World Records">Guinness Book of Records</a></i>, at 127,900 pounds-force (569&#160;kN), the engine holds the record for the highest thrust (although rated at 115,300 pounds-force (513&#160;kN)). This thrust record was accomplished inadvertently as part of a one-hour, triple-red-line engine stress test. In order to accommodate the increase in torsional stresses an entirely new steel alloy (GE1014) had to be created and then machined to extreme tolerances.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> The new record was set during testing of a GE90-115B development engine at GE Aviations' Peebles Test Operation, which is an outdoor test complex outside Peebles, Ohio. It eclipsed the engine's previous Guinness world record of 122,965 pounds-force (546.98&#160;kN).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>On November 10, 2005, the GE90 entered the Guinness World Records for a second time. The GE90-110B1 powered a 777-200LR during the world's longest flight by a commercial airliner, though there were no fare-paying passengers on the flight, only journalists and invited guests. The 777-200LR flew 13,422 miles (21,601&#160;km) in 22 hours, 42 minutes, flying from <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a> to <a href="/wiki/London" title="London">London</a> "the long way": over the Pacific, over the continental U.S., then over the Atlantic to London.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Airworthiness_Directive">Airworthiness Directive</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=4" title="Edit section: Airworthiness Directive">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The FAA issued an Airworthiness Directive on May 16, 2013 and sent it to owners and operators of General Electric Company (GE) GE90-110B1 and GE90-115B turbofan engines. This emergency AD was prompted by reports of two failures of transfer gearbox assemblies (TGBs) which resulted in in-flight shutdowns (IFSDs). Investigation has revealed that the failures were caused by TGB radial gear cracking and separation. Further inspections found two additional radial gears with cracks. This condition, if not corrected, could result in additional IFSDs of one or more engines, loss of thrust control, and damage to the airplane. The Airworthiness Directive requires compliance by taking remedial measures within 5 days of receipt of the AD.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Incidents">Incidents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=5" title="Edit section: Incidents">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On September 8 2015, a GE90-85B powering a <a href="/wiki/Boeing_777-200" title="Boeing 777-200" class="mw-redirect">Boeing 777-236ER</a> on <a href="/wiki/British_Airways_Flight_2276" title="British Airways Flight 2276">British Airways Flight 2276</a>, suffered an uncontained failure during take-off roll<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> leading to a fire. NTSB and FAA investigations have been started to determine the cause of the incident.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<p>On May 28th 2012 an Air Canada 777 taking off from Toronto en route to Japan suffered failure of a GE90-115B at 1500 feet and returned safely. Engine debris was found on the ground.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Variants">Variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=6" title="Edit section: Variants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:SVGE90.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/SVGE90.jpg/150px-SVGE90.jpg" width="150" height="112" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/SVGE90.jpg/225px-SVGE90.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/SVGE90.jpg/300px-SVGE90.jpg 2x" data-file-width="2592" data-file-height="1936" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:SVGE90.jpg" class="internal" title="Enlarge"></a></div>
+A GE90-94B (<a href="/wiki/Boeing_777-200ER" title="Boeing 777-200ER" class="mw-redirect">B777-200ER</a>)</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a href="/wiki/File:GE90_B777-200LR.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/GE90_B777-200LR.JPG/150px-GE90_B777-200LR.JPG" width="150" height="128" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/GE90_B777-200LR.JPG/225px-GE90_B777-200LR.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/GE90_B777-200LR.JPG/300px-GE90_B777-200LR.JPG 2x" data-file-width="1127" data-file-height="958" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:GE90_B777-200LR.JPG" class="internal" title="Enlarge"></a></div>
+A GE90-110B1 (<a href="/wiki/Boeing_777-200LR" title="Boeing 777-200LR" class="mw-redirect">B777-200LR</a>)</div>
+</div>
+</div>
+<dl>
+<dt>GE90-76B&#160;</dt>
+<dd>Rated at 76,000 pounds-force (340&#160;kN)</dd>
+<dt>GE90-77B&#160;</dt>
+<dd>Rated at 77,000 pounds-force (340&#160;kN)</dd>
+<dt>GE90-85B&#160;</dt>
+<dd>Rated at 85,000 pounds-force (380&#160;kN)</dd>
+<dt>GE90-90B&#160;</dt>
+<dd>Rated at 90,000 pounds-force (400&#160;kN)</dd>
+<dt>GE90-92B&#160;</dt>
+<dd>Rated at 92,000 pounds-force (410&#160;kN)</dd>
+<dt>GE90-94B&#160;</dt>
+<dd>Rated at 93,700 pounds-force (417&#160;kN)</dd>
+<dt>GE90-110B1&#160;</dt>
+<dd>Rated at 110,100 pounds-force (490&#160;kN)</dd>
+<dt>GE90-115B&#160;</dt>
+<dd>Rated at 115,300 pounds-force (513&#160;kN)</dd>
+</dl>
+<h2><span class="mw-headline" id="Specifications">Specifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=7" title="Edit section: Specifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="GE90-94B">GE90-94B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=8" title="Edit section: GE90-94B">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="General_characteristics">General characteristics</span></h4>
+<ul>
+<li><b>Type:</b> axial flow, twin-shaft, bypass <a href="/wiki/Turbofan" title="Turbofan">turbofan</a> engine</li>
+<li><b>Length:</b> 287 in (7,290 mm)<sup id="cite_ref-GE90-94B_20-0" class="reference"><a href="#cite_note-GE90-94B-20"><span>[</span>20<span>]</span></a></sup></li>
+<li><b>Diameter:</b> overall: 134 in (3,404 mm);<sup id="cite_ref-GE90-94B_20-1" class="reference"><a href="#cite_note-GE90-94B-20"><span>[</span>20<span>]</span></a></sup> fan: 123 in (3,124 mm)</li>
+<li><b>Dry weight:</b> 16,644 lb<sup id="cite_ref-GE90-94B_20-2" class="reference"><a href="#cite_note-GE90-94B-20"><span>[</span>20<span>]</span></a></sup> (7,550 kg)</li>
+</ul>
+<h4><span class="mw-headline" id="Components">Components</span></h4>
+<ul>
+<li><b>Compressor:</b> <a href="/wiki/Axial_compressor" title="Axial compressor">axial</a>: 1 <a href="/wiki/Wide_chord" title="Wide chord">wide chord</a> fan, 3 low pressure stages, 10 high pressure stages</li>
+<li><b><a href="/wiki/Turbine" title="Turbine">Turbine</a>:</b> axial: 6 low pressure stages, 2 high pressure stages</li>
+</ul>
+<h4><span class="mw-headline" id="Performance">Performance</span></h4>
+<ul>
+<li><b>Maximum <a href="/wiki/Thrust" title="Thrust">thrust</a>:</b> max at sea level: 93,700 lb<sub>f</sub> (416.8 kN)</li>
+<li><b><a href="/wiki/Overall_pressure_ratio" title="Overall pressure ratio">Overall pressure ratio</a>:</b> 42:1</li>
+<li><b><a href="/wiki/Thrust-to-weight_ratio" title="Thrust-to-weight ratio">Thrust-to-weight ratio</a>:</b> approx. 5.6:1</li>
+</ul>
+<h3><span class="mw-headline" id="GE90-115B">GE90-115B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=9" title="Edit section: GE90-115B">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:CATHAY_PACIFIC_-_Flickr_-_D464-Darren_Hall.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/CATHAY_PACIFIC_-_Flickr_-_D464-Darren_Hall.jpg/220px-CATHAY_PACIFIC_-_Flickr_-_D464-Darren_Hall.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/CATHAY_PACIFIC_-_Flickr_-_D464-Darren_Hall.jpg/330px-CATHAY_PACIFIC_-_Flickr_-_D464-Darren_Hall.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/CATHAY_PACIFIC_-_Flickr_-_D464-Darren_Hall.jpg/440px-CATHAY_PACIFIC_-_Flickr_-_D464-Darren_Hall.jpg 2x" data-file-width="3054" data-file-height="2036" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:CATHAY_PACIFIC_-_Flickr_-_D464-Darren_Hall.jpg" class="internal" title="Enlarge"></a></div>
+GE90-115B beneath a <a href="/wiki/Cathay_Pacific" title="Cathay Pacific">Cathay Pacific</a> <a href="/wiki/Boeing_777-300ER" title="Boeing 777-300ER" class="mw-redirect">B777-300ER</a></div>
+</div>
+</div>
+<h4><span class="mw-headline" id="General_characteristics_2">General characteristics</span></h4>
+<ul>
+<li><b>Type:</b> axial flow, twin-shaft, bypass <a href="/wiki/Turbofan" title="Turbofan">turbofan</a> engine</li>
+<li><b>Length:</b> 287 in (7,290 mm)<sup id="cite_ref-GE90-115B_21-0" class="reference"><a href="#cite_note-GE90-115B-21"><span>[</span>21<span>]</span></a></sup></li>
+<li><b>Diameter:</b> overall: 135 in (3.429 m);<sup id="cite_ref-GE90-115B_21-1" class="reference"><a href="#cite_note-GE90-115B-21"><span>[</span>21<span>]</span></a></sup> fan: 128 in (3.251 m)</li>
+<li><b>Dry weight:</b> 18,260 lb (8,283 kg)<sup id="cite_ref-GE90-115B_21-2" class="reference"><a href="#cite_note-GE90-115B-21"><span>[</span>21<span>]</span></a></sup></li>
+</ul>
+<h4><span class="mw-headline" id="Components_2">Components</span></h4>
+<ul>
+<li><b>Compressor:</b> <a href="/wiki/Axial_compressor" title="Axial compressor">axial</a>: 1 wide chord swept fan, 4 low pressure stages, 9 high pressure stages</li>
+<li><b><a href="/wiki/Turbine" title="Turbine">Turbine</a>:</b> axial: 6 low pressure stages, 2 high pressure stages</li>
+</ul>
+<h4><span class="mw-headline" id="Performance_2">Performance</span></h4>
+<ul>
+<li><b>Maximum <a href="/wiki/Thrust" title="Thrust">thrust</a>:</b> max at sea level: 115,300 lb<sub>f</sub> (514 kN) <i>; world record set at 127,900 lb<sub>f</sub> (568.9 kN) in testing 827 feet above sea level</i><sup id="cite_ref-tu2015-04_8-1" class="reference"><a href="#cite_note-tu2015-04-8"><span>[</span>8<span>]</span></a></sup></li>
+<li><b><a href="/wiki/Overall_pressure_ratio" title="Overall pressure ratio">Overall pressure ratio</a>:</b> 42:1</li>
+<li><b><a href="/wiki/Thrust-to-weight_ratio" title="Thrust-to-weight ratio">Thrust-to-weight ratio</a>:</b> approx. 6.3:1</li>
+</ul>
+<h2><span class="mw-headline" id="Derivatives">Derivatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=10" title="Edit section: Derivatives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="GEnx">GEnx</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=11" title="Edit section: GEnx">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/General_Electric_GEnx" title="General Electric GEnx">General Electric GEnx</a></div>
+<p>The <a href="/wiki/General_Electric_GEnx" title="General Electric GEnx">GEnx</a> engine, that has been developed for the <a href="/wiki/Boeing_787_Dreamliner" title="Boeing 787 Dreamliner">Boeing 787 Dreamliner</a> and <a href="/wiki/Boeing_747-8" title="Boeing 747-8">747-8</a>, is derived from a smaller core variant of the GE90, but features a fan with swept rotor blades. GE Aviation has also set up a cooperative venture with <a href="/wiki/Pratt_%26_Whitney" title="Pratt &amp; Whitney">Pratt &amp; Whitney</a>, named <a href="/wiki/Engine_Alliance" title="Engine Alliance">Engine Alliance</a>, under which the companies have developed an engine for the <a href="/wiki/Airbus_A380" title="Airbus A380">Airbus A380</a>, called the <a href="/wiki/Engine_Alliance_GP7000" title="Engine Alliance GP7000">GP7000</a>, from the larger GE90-110B/115B core.</p>
+<h3><span class="mw-headline" id="GE9X">GE9X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=12" title="Edit section: GE9X">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In February 2012 GE announced studies on a slightly smaller derivative engine, dubbed the GE9X, to power the new <a href="/wiki/Boeing_777X" title="Boeing 777X">Boeing 777-8X/9X</a> aircraft. It was to feature the same fan diameter as the GE90-115B (128 in (326&#160;cm)) with an overall thrust decrease of 15,800&#160;lbf to a new rating of 99,500&#160;lbf per engine for the -9X, and a derated 88,000&#160;lbf version for the -8X. The new engines are expected to contribute to a 10% increase in fuel efficiency with a planned 10:1 bypass ratio, 60:1 overall pressure ratio and 27:1 high pressure compressor ratio.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p>
+<p>GE recently updated the GE9X specifications to reflect growing concerns that the 777X was under-powered. Design changes include a slight increase of thrust to 105,000&#160;lbf and a new fan diameter of 133.5 in, giving the new engine the largest fan GE has ever produced.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Related development</dt>
+</dl>
+<ul>
+<li><a href="/wiki/General_Electric_GEnx" title="General Electric GEnx">General Electric GEnx</a></li>
+<li><a href="/wiki/Engine_Alliance_GP7000" title="Engine Alliance GP7000">Engine Alliance GP7000</a></li>
+</ul>
+<dl>
+<dt>Comparable engines</dt>
+</dl>
+<ul>
+<li><a href="/wiki/Rolls-Royce_Trent_800" title="Rolls-Royce Trent 800">Rolls-Royce Trent 800</a></li>
+<li><a href="/wiki/Pratt_%26_Whitney_PW4000" title="Pratt &amp; Whitney PW4000">Pratt &amp; Whitney PW4000</a></li>
+</ul>
+<dl>
+<dt>Related lists</dt>
+</dl>
+<ul>
+<li><a href="/wiki/List_of_aircraft_engines" title="List of aircraft engines">List of aircraft engines</a></li>
+</ul>
+<h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=14" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.geaviation.com/press/ge90/ge90_19961118.html">"First Year in Service for GE90 a Huge Success"</a>. geaviation.com. 1996-11-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-11-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.btitle=First+Year+in+Service+for+GE90+a+Huge+Success&amp;rft.date=1996-11-18&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.geaviation.com%2Fpress%2Fge90%2Fge90_19961118.html&amp;rft.pub=geaviation.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/20061101234127/http://www.le-webmag.com/article.php3?id_article=45&amp;lang=en">"GE90-115B certification: a look at the flight tests"</a>. Le Webmag. August 8, 2003. Archived from <a rel="nofollow" class="external text" href="http://www.le-webmag.com/article.php3?id_article=45&amp;lang=en">the original</a> on November 1, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">January 22,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.atitle=GE90-115B+certification%3A+a+look+at+the+flight+tests&amp;rft.date=August+8%2C+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.le-webmag.com%2Farticle.php3%3Fid_article%3D45%26lang%3Den&amp;rft.pub=Le+Webmag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation audio-visual"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=Rac87fY6w-M&amp;feature=related"><i>General Electric Biggest Jet Engine for B-777</i></a>. History Channel. c. 2008. Event occurs at 3:00–3:10 min<span class="reference-accessdate">. Retrieved <span class="nowrap">August 21,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.btitle=General+Electric+Biggest+Jet+Engine+for+B-777&amp;rft.date=c.+2008&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRac87fY6w-M%26feature%3Drelated&amp;rft.pub=History+Channel&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-eden115-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-eden115_4-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFEden2004">Eden 2004</a>, p.&#160;115</span></li>
+<li id="cite_note-norris143-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-norris143_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-norris143_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFNorrisWagner1999">Norris &amp; Wagner 1999</a>, p.&#160;143</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="#CITEREFNorrisWagner1999">Norris &amp; Wagner 1999</a>, p.&#160;144</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Flottau, Jens. <a rel="nofollow" class="external text" href="http://aviationweek.com/awin/airbus-bids-adieu-a340-postpones-a350-delivery">"Airbus Bids Adieu to A340, Postpones A350 Delivery."</a> <i>Aviation Week &amp; Space Technology</i>, 14 November 2011.</span></li>
+<li id="cite_note-tu2015-04-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-tu2015-04_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tu2015-04_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Dalløkken, Per Erlien (21 April 2015). <a rel="nofollow" class="external text" href="http://www.tu.no/industri/2015/04/21/verdens-storste-jetmotor-far-3d-printet-komponent">"Verdens største jetmotor får 3D-printet komponent" [World's biggest jet engine gets 3D-printed component]</a>. <i><a href="/wiki/Teknisk_Ukeblad" title="Teknisk Ukeblad">Teknisk Ukeblad</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.atitle=Verdens+st%C3%B8rste+jetmotor+f%C3%A5r+3D-printet+komponent&amp;rft.aufirst=Per+Erlien&amp;rft.aulast=Dall%C3%B8kken&amp;rft.date=21+April+2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.tu.no%2Findustri%2F2015%2F04%2F21%2Fverdens-storste-jetmotor-far-3d-printet-komponent&amp;rft.jtitle=Teknisk+Ukeblad&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ge2015-3d-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-ge2015-3d_9-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gereports.com/post/116402870270/the-faa-cleared-the-first-3d-printed-part-to-fly">GE</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.flightglobal.com/articles/2006/01/03/203826/ge-strives-to-identify-air-france-engine-fault.html">"GE strives to identify Air France engine fault"</a>. <a href="/wiki/Flight_International" title="Flight International">Flight International</a>. 2006-01-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-02-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.atitle=GE+strives+to+identify+Air+France+engine+fault&amp;rft.date=2006-01-03&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.flightglobal.com%2Farticles%2F2006%2F01%2F03%2F203826%2Fge-strives-to-identify-air-france-engine-fault.html&amp;rft.pub=Flight+International&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.boeing.com/news/releases/2003/q4/nr_031015g.html">"Boeing 777-300ER Performs 330-Minute ETOPS Flight"</a> (Press release). Boeing. October 15, 2003<span class="reference-accessdate">. Retrieved <span class="nowrap">January 21,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.btitle=Boeing+777-300ER+Performs+330-Minute+ETOPS+Flight&amp;rft.date=October+15%2C+2003&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.boeing.com%2Fnews%2Freleases%2F2003%2Fq4%2Fnr_031015g.html&amp;rft.pub=Boeing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.geae.com/aboutgeae/presscenter/ge90/ge90_20000724.html">"Impressive Progress of GE90-115B Engine Continues"</a>. July 24, 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">18 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.atitle=Impressive+Progress+of+GE90-115B+Engine+Continues&amp;rft.date=July+24%2C+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.geae.com%2Faboutgeae%2Fpresscenter%2Fge90%2Fge90_20000724.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.geae.com/aboutgeae/presscenter/ge90/ge90_200325a.html">"GE90 Sets New World Record For Thrust; Engine Completes FAR 33 Certification Tests"</a>. February 5, 2003<span class="reference-accessdate">. Retrieved <span class="nowrap">14 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.atitle=GE90+Sets+New+World+Record+For+Thrust%3B+Engine+Completes+FAR+33+Certification+Tests&amp;rft.date=February+5%2C+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.geae.com%2Faboutgeae%2Fpresscenter%2Fge90%2Fge90_200325a.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.seattlepi.com/boeing/longestflight">"The longest flight"</a>. <a href="/wiki/Seattle_Post-Intelligencer" title="Seattle Post-Intelligencer">Seattle Post-Intelligencer</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-02-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.atitle=The+longest+flight&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.seattlepi.com%2Fboeing%2Flongestflight&amp;rft.pub=Seattle+Post-Intelligencer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since June 2011">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.caa.co.uk/docs/33/20130516FAAEAD20131052.pdf">"Emergency airworthiness directive (AD) 2013-10-52 is sent to owners and operators of General Electric Company (GE) GE90-110B1 and GE90-115B turbofan engines."</a> <span style="font-size:85%;">(PDF)</span>. May 16, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">16 May</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.atitle=Emergency+airworthiness+directive+%28AD%29+2013-10-52+is+sent+to+owners+and+operators+of++General+Electric+Company+%28GE%29+GE90-110B1+and+GE90-115B+turbofan+engines.&amp;rft.date=May+16%2C+2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.caa.co.uk%2Fdocs%2F33%2F20130516FAAEAD20131052.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ntsb.gov/news/press-releases/Pages/PR20150910.aspx">"NTSB Issues Update on the British Airways Engine Fire at Las Vegas"</a>. <i>NTSB</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.btitle=NTSB+Issues+Update+on+the+British+Airways+Engine+Fire+at+Las+Vegas&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ntsb.gov%2Fnews%2Fpress-releases%2FPages%2FPR20150910.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web">Charles Alcock (September 8, 2015). <a rel="nofollow" class="external text" href="http://www.ainonline.com/aviation-news/air-transport/2015-09-08/engine-failure-causes-fire-british-airways-boeing-777">"Engine Failure Causes Fire on British Airways Boeing 777"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.au=Charles+Alcock&amp;rft.btitle=Engine+Failure+Causes+Fire+on+British+Airways+Boeing+777&amp;rft.date=September+8%2C+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ainonline.com%2Faviation-news%2Fair-transport%2F2015-09-08%2Fengine-failure-causes-fire-british-airways-boeing-777&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tsb.gc.ca/eng/medias-media/communiques/aviation/2013/a12o0074-20131213.asp">"Maintenance inspection a factor in 2012 Air Canada engine failure during take-off from Lester B. Pearson International Airport"</a>. Transportation Safety Board of Canada. December 13, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">September 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.btitle=Maintenance+inspection+a+factor+in+2012+Air+Canada+engine+failure+during+take-off+from+Lester+B.+Pearson+International+Airport&amp;rft.date=December+13%2C+2013&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.tsb.gc.ca%2Feng%2Fmedias-media%2Fcommuniques%2Faviation%2F2013%2Fa12o0074-20131213.asp&amp;rft.pub=Transportation+Safety+Board+of+Canada&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation news">Edmiston, Jake (May 29, 2012). <a rel="nofollow" class="external text" href="http://www.nationalpost.com/m/wp/blog.html?b=news.nationalpost.com//posted-toronto/air-canada-plane-debris-struck-cars-after-engine-failure-safety-board-confirms">"Air Canada plane debris struck cars after engine failure, safety board confirms"</a>. <i>National Post</i> (National Post)<span class="reference-accessdate">. Retrieved <span class="nowrap">September 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.atitle=Air+Canada+plane+debris+struck+cars+after+engine+failure%2C+safety+board+confirms&amp;rft.aufirst=Jake&amp;rft.aulast=Edmiston&amp;rft.date=May+29%2C+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nationalpost.com%2Fm%2Fwp%2Fblog.html%3Fb%3Dnews.nationalpost.com%2F%2Fposted-toronto%2Fair-canada-plane-debris-struck-cars-after-engine-failure-safety-board-confirms&amp;rft.jtitle=National+Post&amp;rft.pub=National+Post&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-GE90-94B-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-GE90-94B_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GE90-94B_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-GE90-94B_20-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.geae.com/engines/commercial/ge90/ge90-94b.html">"Model GE90-94B"</a>. GE Aviation<span class="reference-accessdate">. Retrieved <span class="nowrap">January 22,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.btitle=Model+GE90-94B&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.geae.com%2Fengines%2Fcommercial%2Fge90%2Fge90-94b.html&amp;rft.pub=GE+Aviation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-GE90-115B-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-GE90-115B_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GE90-115B_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-GE90-115B_21-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.geae.com/engines/commercial/ge90/ge90-115b.html">"Model GE90-115B"</a>. GE Aviation<span class="reference-accessdate">. Retrieved <span class="nowrap">January 21,</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.btitle=Model+GE90-115B&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.geae.com%2Fengines%2Fcommercial%2Fge90%2Fge90-115b.html&amp;rft.pub=GE+Aviation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Ostrower, Jon. <a rel="nofollow" class="external text" href="http://www.flightglobal.com/news/articles/next-generation-777-comes-into-focus-362065/">"Next generation 777 comes into focus"</a>. <i>Flight Global</i>. Reed Business Information<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.au=Ostrower%2C+Jon&amp;rft.btitle=Next+generation+777+comes+into+focus&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.flightglobal.com%2Fnews%2Farticles%2Fnext-generation-777-comes-into-focus-362065%2F&amp;rft.pub=Reed+Business+Information&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">Nguyen, Hoang (September 14, 2012). <a rel="nofollow" class="external text" href="http://www.flightglobal.com/blogs/flightblogger/2011/09/boeings-777-upgrades-come-into.html">"Boeing's 777-9X comes into focus with a massive CFRP wing"</a>. <i>Flight Global</i>. Reed Business Information<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.aufirst=Hoang&amp;rft.aulast=Nguyen&amp;rft.btitle=Boeing%27s+777-9X+comes+into+focus+with+a+massive+CFRP+wing&amp;rft.date=September+14%2C+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.flightglobal.com%2Fblogs%2Fflightblogger%2F2011%2F09%2Fboeings-777-upgrades-come-into.html&amp;rft.pub=Reed+Business+Information&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.flightglobal.com/news/articles/ge-plans-10-fuel-burn-improvement-for-ge9x-engine-369242/">GE plans 10% fuel burn improvement for GE9X engine</a>. Flightglobal.com (2012-03-07). Retrieved on 2013-08-16.</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.geaviation.com/newengine/">GE9X</a>. GE Aviation. Retrieved on 2013-08-16.</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=qVVj2ddb-eQ">The New GE9X Engine - GE Aviation</a>. YouTube (2013-06-17). Retrieved on 2013-08-16.</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ainonline.com/aviation-news/paris-air-show/2013-06-16/ge-pushes-envelope-ge9x-new-boeing-777">GE Pushes Envelope With GE9X for New Boeing 777 | Aviation International News</a>. Ainonline.com (2013-06-16). Retrieved on 2013-08-16.</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://aviationweek.com/commercial-aviation/777x-configuration-changes-revealed">Aviation Week</a>. Aviationweek.com (2014-06-09). Retrieved on 2014-06-10.</span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=16" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><cite id="CITEREFEden2008" class="citation book">Eden, Paul, ed. (2008). <i>Civil Aircraft Today: The World's Most Successful Commercial Aircraft</i>. London: Amber Books Ltd. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-84509-324-0" title="Special:BookSources/1-84509-324-0">1-84509-324-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.btitle=Civil+Aircraft+Today%3A+The+World%27s+Most+Successful+Commercial+Aircraft&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=1-84509-324-0&amp;rft.place=London&amp;rft.pub=Amber+Books+Ltd&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite id="CITEREFNorrisWagner1999" class="citation book">Norris, Guy; Mark Wagner (1999). <i>Modern Boeing Jetliners</i>. Minneapolis, Minnesota: Zenith Imprint. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7603-0717-2" title="Special:BookSources/0-7603-0717-2">0-7603-0717-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGeneral+Electric+GE90&amp;rft.aufirst=Guy&amp;rft.aulast=Norris&amp;rft.au=Mark+Wagner&amp;rft.btitle=Modern+Boeing+Jetliners&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=0-7603-0717-2&amp;rft.place=Minneapolis%2C+Minnesota&amp;rft.pub=Zenith+Imprint&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:General_Electric_GE90" class="extiw" title="commons:Category:General Electric GE90">General Electric GE90</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://geae.com/engines/commercial/ge90/">GE90 page on geae.com</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.geae.com/aboutgeae/presscenter/ge90/ge90_20041116.html">It's Great Design Too: World's Biggest Jet Engine Fan Blade at The Museum of Modern Art</a>.</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:General_Electric_aeroengines" title="Template:General Electric aeroengines"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:General_Electric_aeroengines" title="Template talk:General Electric aeroengines"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:General_Electric_aeroengines&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/GE_Aviation" title="GE Aviation">General Electric</a> <a href="/wiki/Aircraft_engine" title="Aircraft engine">aircraft engines</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Turbojet" title="Turbojet">Turbojets</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/General_Electric_CJ610" title="General Electric CJ610">CJ610</a></li>
+<li><a href="/wiki/General_Electric_CJ805" title="General Electric CJ805">CJ805</a></li>
+<li><a href="/w/index.php?title=General_Electric_GE1&amp;action=edit&amp;redlink=1" class="new" title="General Electric GE1 (page does not exist)">GE1</a></li>
+<li><a href="/wiki/General_Electric_GE4" title="General Electric GE4">GE4/J5P</a></li>
+<li><a href="/wiki/General_Electric_J31" title="General Electric J31">J31</a></li>
+<li><a href="/wiki/Allison_J33" title="Allison J33">J33</a></li>
+<li><a href="/wiki/Allison_J35" title="Allison J35">J35</a></li>
+<li><a href="/wiki/General_Electric_J47" title="General Electric J47">J47</a></li>
+<li><a href="/wiki/General_Electric_J73" title="General Electric J73">J73</a></li>
+<li><a href="/wiki/General_Electric_J79" title="General Electric J79">J79</a></li>
+<li><a href="/wiki/General_Electric_J85" title="General Electric J85">J85</a></li>
+<li><a href="/wiki/General_Electric_J87" title="General Electric J87">J87</a></li>
+<li><a href="/wiki/General_Electric_YJ93" title="General Electric YJ93">YJ93</a></li>
+<li><a href="/wiki/General_Electric_J97" title="General Electric J97">J97</a></li>
+<li><a href="/wiki/General_Electric_YJ101" title="General Electric YJ101">YJ101</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Turbofan" title="Turbofan">Turbofans</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/General_Electric_CF6" title="General Electric CF6">CF6</a></li>
+<li><a href="/wiki/General_Electric_CF34" title="General Electric CF34">CF34</a></li>
+<li><a href="/wiki/General_Electric_CF700" title="General Electric CF700">CF700</a></li>
+<li><a href="/wiki/CFE_CFE738" title="CFE CFE738">CFE738</a>†</li>
+<li><a href="/wiki/CFM_International_CFM56" title="CFM International CFM56">CFM56/F108</a>†</li>
+<li><a href="/wiki/General_Electric_CJ805" title="General Electric CJ805">CJ805-23</a></li>
+<li><a href="/wiki/General_Electric_F101" title="General Electric F101">F101</a></li>
+<li><a href="/wiki/General_Electric_F110" title="General Electric F110">F110</a></li>
+<li><a href="/wiki/General_Electric_F118" title="General Electric F118">F118</a></li>
+<li><a href="/wiki/General_Electric_YF120" title="General Electric YF120">YF120</a></li>
+<li><a href="/wiki/General_Electric/Rolls-Royce_F136" title="General Electric/Rolls-Royce F136">F136</a>†</li>
+<li><a href="/wiki/General_Electric_F404" title="General Electric F404">F404/F412/RM12</a></li>
+<li><a href="/wiki/General_Electric_F414" title="General Electric F414">F414</a></li>
+<li><strong class="selflink">GE90</strong></li>
+<li><a href="/wiki/General_Electric_GEnx" title="General Electric GEnx">GEnx</a></li>
+<li><a href="/wiki/Engine_Alliance_GP7000" title="Engine Alliance GP7000">GP7000</a>†</li>
+<li><a href="/wiki/GE_Honda_HF120" title="GE Honda HF120">HF120</a>†</li>
+<li><a href="/wiki/CFM_International_LEAP" title="CFM International LEAP">LEAP</a>†</li>
+<li><a href="/wiki/General_Electric_Passport" title="General Electric Passport">Passport</a></li>
+<li><a href="/wiki/General_Electric_TF34" title="General Electric TF34">TF34</a></li>
+<li><a href="/wiki/General_Electric_TF39" title="General Electric TF39">TF39</a></li>
+<li><a href="/wiki/Volvo_RM12" title="Volvo RM12">RM12</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Turboprop" title="Turboprop">Turboprops</a>/<a href="/wiki/Turboshaft" title="Turboshaft">Turboshafts</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/General_Electric_GE38" title="General Electric GE38">GE27</a></li>
+<li><a href="/wiki/General_Electric_GE36" title="General Electric GE36">GE36</a></li>
+<li><a href="/wiki/General_Electric_GE38" title="General Electric GE38">GE38-1B</a></li>
+<li><a href="/wiki/General_Electric_H80" title="General Electric H80">H80</a></li>
+<li><a href="/wiki/General_Electric_T31" title="General Electric T31">T31</a></li>
+<li><a href="/wiki/General_Electric_T58" title="General Electric T58">T58/CT58</a></li>
+<li><a href="/wiki/General_Electric_T64" title="General Electric T64">T64/CT64</a></li>
+<li><a href="/wiki/General_Electric_GE38" title="General Electric GE38">T407</a></li>
+<li><a href="/wiki/General_Electric_GE38" title="General Electric GE38">T408</a></li>
+<li><a href="/wiki/General_Electric_T700" title="General Electric T700">T700/CT7</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Aeroderivative_gas_turbine_engine" title="Aeroderivative gas turbine engine" class="mw-redirect">Aeroderivative gas turbine engines</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/General_Electric_LM500" title="General Electric LM500">LM500</a></li>
+<li><a href="/wiki/General_Electric_LM1500" title="General Electric LM1500">LM1500</a></li>
+<li><a href="/wiki/General_Electric_LM1600" title="General Electric LM1600">LM1600</a></li>
+<li><a href="/wiki/General_Electric_LM2500" title="General Electric LM2500">LM2500</a></li>
+<li><a href="/wiki/General_Electric_LM6000" title="General Electric LM6000">LM6000</a></li>
+<li><a href="/wiki/General_Electric_LMS100" title="General Electric LMS100">LMS100</a></li>
+<li><a href="/w/index.php?title=GE/Honeywell_LV100&amp;action=edit&amp;redlink=1" class="new" title="GE/Honeywell LV100 (page does not exist)">LV100</a>†</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>† <a href="/wiki/Template:Joint_development_aeroengines" title="Template:Joint development aeroengines">Joint development aeroengines</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1114
+Cached time: 20151019040554
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.576 seconds
+Real time usage: 0.682 seconds
+Preprocessor visited node count: 2007/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 52108/2097152 bytes
+Template argument size: 2742/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.198/10.000 seconds
+Lua memory usage: 5.67 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  525.466      1 - -total
+ 48.21%  253.309      1 - Template:Reflist
+ 14.49%   76.116     15 - Template:Convert
+ 12.40%   65.179      8 - Template:Cite_web
+ 10.04%   52.734      1 - Template:Dead_link
+  8.63%   45.370      1 - Template:Fix
+  8.39%   44.089      1 - Template:Commons_category
+  7.98%   41.909      8 - Template:Cite_news
+  7.69%   40.415      2 - Template:Category_handler
+  7.44%   39.070      1 - Template:Infobox_Aircraft_Begin
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:433825-0!*!0!!en!4!* and timestamp 20151019040554 and revision id 686444244
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=General_Electric_GE90&amp;oldid=686444244">https://en.wikipedia.org/w/index.php?title=General_Electric_GE90&amp;oldid=686444244</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:High-bypass_turbofan_engines" title="Category:High-bypass turbofan engines">High-bypass turbofan engines</a></li><li><a href="/wiki/Category:General_Electric_aircraft_engines" title="Category:General Electric aircraft engines">General Electric aircraft engines</a></li><li><a href="/wiki/Category:Turbofan_engines_1990%E2%80%931999" title="Category:Turbofan engines 1990–1999">Turbofan engines 1990–1999</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_June_2011" title="Category:Articles with dead external links from June 2011">Articles with dead external links from June 2011</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=General+Electric+GE90&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=General+Electric+GE90" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/General_Electric_GE90"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:General_Electric_GE90"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/General_Electric_GE90" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=General_Electric_GE90&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=General_Electric_GE90&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/General_Electric_GE90" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/General_Electric_GE90" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=General_Electric_GE90&amp;oldid=686444244" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=General_Electric_GE90&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q128979" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=General_Electric_GE90&amp;id=686444244" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=General+Electric+GE90">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=General+Electric+GE90&amp;returnto=General+Electric+GE90&amp;oldid=686444244&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=General_Electric_GE90&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AC%D9%86%D8%B1%D8%A7%D9%84_%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%8A%D9%83_%D8%AC%D9%8A_%D8%A5%D9%8A_90" title="جنرال إلكتريك جي إي 90 – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/General_Electric_GE90" title="General Electric GE90 – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/General_Electric_GE90" title="General Electric GE90 – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/General_Electric_GE90" title="General Electric GE90 – Basque" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/General_Electric_GE90" title="General Electric GE90 – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%A0%9C%EB%84%88%EB%9F%B4_%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A6%AD_GE90" title="제너럴 일렉트릭 GE90 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/General_Electric_GE90" title="General Electric GE90 – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/General_Electric_GE90" title="General Electric GE90 – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8D%E3%83%A9%E3%83%AB%E3%83%BB%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF_GE90" title="ゼネラル・エレクトリック GE90 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/General_Electric_GE90" title="General Electric GE90 – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/General_Electric_GE90" title="General Electric GE90 – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/General_Electric_GE90" title="General Electric GE90 – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/General_Electric_GE90" title="General Electric GE90 – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/General_Electric_GE90" title="General Electric GE90 – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/General_Electric_GE90" title="General Electric GE90 – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/General_Electric_GE90" title="General Electric GE90 – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%80%9A%E7%94%A8%E7%94%B5%E6%B0%94GE90%E5%8F%91%E5%8A%A8%E6%9C%BA" title="通用电气GE90发动机 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q128979#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 October 2015, at 04:05.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=General_Electric_GE90&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":87,"wgHostname":"mw1184"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

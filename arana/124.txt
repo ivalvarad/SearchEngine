@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Alberto Giacometti - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Alberto_Giacometti","wgTitle":"Alberto Giacometti","wgCurRevisionId":686357664,"wgRevisionId":686357664,"wgArticleId":2433,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hCards","Commons category with local link same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with ULAN identifiers","Wikipedia articles with SBN identifiers","Wikipedia articles with RKDartists identifiers","Alberto Giacometti","1901 births","1966 deaths","People from Maloja District","Swiss-Italian people","Swiss Protestants","Swiss artists","Swiss sculptors","Surrealist artists","Modern artists","Modern sculptors","20th-century Swiss sculptors"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Alberto_Giacometti","wgRelevantArticleId":2433,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alberto-Giacometti%2C-etching-%28author-Jan-Hlad%C3%ADk-2002%29.jpg/72px-Alberto-Giacometti%2C-etching-%28author-Jan-Hlad%C3%ADk-2002%29.jpg","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q157194","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Alberto_Giacometti" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Alberto_Giacometti&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Alberto_Giacometti&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Alberto_Giacometti" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Alberto_Giacometti skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Alberto Giacometti</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox biography vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><span class="fn">Alberto Giacometti</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Alberto-Giacometti,-etching-(author-Jan-Hlad%C3%ADk-2002).jpg" class="image"><img alt="Alberto-Giacometti,-etching-(author-Jan-Hladík-2002).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alberto-Giacometti%2C-etching-%28author-Jan-Hlad%C3%ADk-2002%29.jpg/220px-Alberto-Giacometti%2C-etching-%28author-Jan-Hlad%C3%ADk-2002%29.jpg" width="220" height="304" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alberto-Giacometti%2C-etching-%28author-Jan-Hlad%C3%ADk-2002%29.jpg/330px-Alberto-Giacometti%2C-etching-%28author-Jan-Hlad%C3%ADk-2002%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alberto-Giacometti%2C-etching-%28author-Jan-Hlad%C3%ADk-2002%29.jpg/440px-Alberto-Giacometti%2C-etching-%28author-Jan-Hlad%C3%ADk-2002%29.jpg 2x" data-file-width="906" data-file-height="1250" /></a>
+<div><i>Portrait of Alberto-Giacometti</i>, (etching by Jan Hladík, 2002)</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1901-10-10</span>)</span>10 October 1901<br />
+<span class="birthplace"><a href="/wiki/Borgonovo" title="Borgonovo">Borgonovo</a>, <a href="/wiki/Stampa" title="Stampa">Stampa</a>, <a href="/wiki/Graub%C3%BCnden" title="Graubünden">Graubünden</a>, Switzerland</span></td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>11 January 1966<span style="display:none">(<span class="dday deathdate">1966-01-11</span>)</span> (aged&#160;64)<br />
+<span class="deathplace"><a href="/wiki/Chur" title="Chur">Chur</a>, Graubünden, Switzerland</span></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category">Swiss</td>
+</tr>
+<tr>
+<th scope="row">Education</th>
+<td>The School of Fine Arts, <a href="/wiki/Geneva" title="Geneva">Geneva</a></td>
+</tr>
+<tr>
+<th scope="row">Known&#160;for</th>
+<td><a href="/wiki/Sculpture" title="Sculpture">Sculpture</a>, <a href="/wiki/Painting" title="Painting">Painting</a>, <a href="/wiki/Drawing" title="Drawing">Drawing</a></td>
+</tr>
+<tr>
+<th scope="row">Movement</th>
+<td class="category"><a href="/wiki/Surrealism" title="Surrealism">Surrealism</a>, <a href="/wiki/Expressionism" title="Expressionism">Expressionism</a>, <a href="/wiki/Cubism" title="Cubism">Cubism</a>, <a href="/wiki/Formalism_(art)" title="Formalism (art)">Formalism</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Spouse(s)</span></th>
+<td><a href="/w/index.php?title=Annette_Arm&amp;action=edit&amp;redlink=1" class="new" title="Annette Arm (page does not exist)">Annette Arm</a></td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td><i>"Grand Prize for Sculpture"</i> at <a href="/wiki/Venice_Biennale" title="Venice Biennale">1962 Venice Biennale</a></td>
+</tr>
+</table>
+<p><b>Alberto Giacometti</b> (<small>Italian pronunciation:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_Italian" title="Help:IPA for Italian">[alˈbɛrto dʒakoˈmetti]</a></span>; 10 October 1901 – 11 January 1966) was an Italian Swiss sculptor, painter, draughtsman and printmaker. He was born in the canton <a href="/wiki/Graub%C3%BCnden" title="Graubünden">Graubünden</a>'s southerly alpine valley <a href="/wiki/Val_Bregaglia" title="Val Bregaglia">Val Bregaglia</a>, as the eldest of four children to <a href="/wiki/Giovanni_Giacometti" title="Giovanni Giacometti">Giovanni Giacometti</a>, a well-known <a href="/wiki/Post-Impressionism" title="Post-Impressionism">post-Impressionist</a> painter. Coming from an artistic background, he was interested in art from an early age.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Later_years"><span class="tocnumber">2</span> <span class="toctext">Later years</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Death"><span class="tocnumber">3</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Artistic_analysis"><span class="tocnumber">4</span> <span class="toctext">Artistic analysis</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Legacy"><span class="tocnumber">5</span> <span class="toctext">Legacy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Exhibitions"><span class="tocnumber">5.1</span> <span class="toctext">Exhibitions</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Public_collections"><span class="tocnumber">5.2</span> <span class="toctext">Public collections</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Art_Foundations"><span class="tocnumber">5.3</span> <span class="toctext">Art Foundations</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Notable_sales"><span class="tocnumber">5.4</span> <span class="toctext">Notable sales</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Other_legacy"><span class="tocnumber">5.5</span> <span class="toctext">Other legacy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Bibliography"><span class="tocnumber">8</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alberto_Giacometti&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Giacometti was born in <a href="/wiki/Borgonovo" title="Borgonovo">Borgonovo</a>, now part of the Swiss municipality of <a href="/wiki/Bregaglia" title="Bregaglia">Bregaglia</a>, near the Italian border. He was a descendant of Protestant refugees escaping the <a href="/wiki/Italian_Inquisition" title="Italian Inquisition" class="mw-redirect">inquisition</a>. Alberto attended the <a href="/wiki/Geneva" title="Geneva">Geneva</a> School of <a href="/wiki/Fine_art" title="Fine art">Fine Arts</a>. His brothers <a href="/wiki/Diego_Giacometti" title="Diego Giacometti">Diego</a> (1902–85) and <a href="/wiki/Bruno_Giacometti" title="Bruno Giacometti">Bruno</a> (1907–2012) would go on to become artists as well. Additionally, <a href="/wiki/Zaccaria_Giacometti" title="Zaccaria Giacometti">Zaccaria Giacometti</a>, later professor of constitutional law and chancellor of the <a href="/wiki/University_of_Zurich" title="University of Zurich">University of Zurich</a> grew up together with them, having been orphaned at the age of 12 in 1905.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>In 1922 he moved to Paris to study under the sculptor <a href="/wiki/Antoine_Bourdelle" title="Antoine Bourdelle">Antoine Bourdelle</a>, an associate of <a href="/wiki/Auguste_Rodin" title="Auguste Rodin">Rodin</a>. It was there that Giacometti experimented with <a href="/wiki/Cubism" title="Cubism">cubism</a> and <a href="/wiki/Surrealism" title="Surrealism">surrealism</a> and came to be regarded as one of the leading surrealist sculptors. Among his associates were <a href="/wiki/Joan_Mir%C3%B3" title="Joan Miró">Miró</a>, <a href="/wiki/Max_Ernst" title="Max Ernst">Max Ernst</a>, <a href="/wiki/Pablo_Picasso" title="Pablo Picasso">Picasso</a>, <a href="/wiki/Bror_Hjorth" title="Bror Hjorth">Bror Hjorth</a> and <a href="/wiki/Balthus" title="Balthus">Balthus</a>.</p>
+<p>Between 1936 and 1940, Giacometti concentrated his sculpting on the human head, focusing on the sitter's gaze. He preferred models he was close to, his sister and the artist <a href="/wiki/Isabel_Rawsthorne" title="Isabel Rawsthorne" class="mw-redirect">Isabel Rawsthorne</a> (then known as Isabel Delmer). This was followed by a phase in which his statues of Isabel became stretched out; her limbs elongated.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> Obsessed with creating his sculptures exactly as he envisioned through his unique view of reality, he often carved until they were as thin as nails and reduced to the size of a pack of cigarettes, much to his consternation. A friend of his once said that if Giacometti decided to sculpt you, "he would make your head look like the blade of a knife". After his marriage to Annette Arm in 1946 his tiny sculptures became larger, but the larger they grew, the thinner they became. Giacometti said that the final result represented the sensation he felt when he looked at a woman.</p>
+<p>His paintings underwent a parallel procedure. The figures appear isolated and severely attenuated, as the result of continuous reworking. Subjects were frequently revisited: one of his favorite models was his younger brother <a href="/wiki/Diego_Giacometti" title="Diego Giacometti">Diego Giacometti</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> A third brother, <a href="/wiki/Bruno_Giacometti" title="Bruno Giacometti">Bruno Giacometti</a>, was a noted architect.</p>
+<h2><span class="mw-headline" id="Later_years">Later years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alberto_Giacometti&amp;action=edit&amp;section=2" title="Edit section: Later years">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:286px;max-width:286px">
+<div class="tsingle" style="float:left;margin:1px;width:142px;max-width:142px">
+<div class="thumbimage"><a href="/wiki/File:CHF100_8_front.jpg" class="image"><img alt="A banknote with portrait of Giacometti" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/CHF100_8_front.jpg/140px-CHF100_8_front.jpg" width="140" height="295" srcset="//upload.wikimedia.org/wikipedia/commons/c/ca/CHF100_8_front.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/c/ca/CHF100_8_front.jpg 2x" data-file-width="148" data-file-height="312" /></a></div>
+<div class="thumbcaption" style="clear:left">Current 100 <a href="/wiki/Swiss_Franc" title="Swiss Franc" class="mw-redirect">Swiss Franc</a> banknote, front</div>
+</div>
+<div class="tsingle" style="float:left;margin:1px;width:140px;max-width:140px">
+<div class="thumbimage"><a href="/wiki/File:CHF100_8_back.jpg" class="image"><img alt="A banknote with image of sculpture of Giacometti" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/CHF100_8_back.jpg/138px-CHF100_8_back.jpg" width="138" height="294" srcset="//upload.wikimedia.org/wikipedia/commons/0/08/CHF100_8_back.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/0/08/CHF100_8_back.jpg 2x" data-file-width="148" data-file-height="315" /></a></div>
+<div class="thumbcaption" style="clear:left">Current 100 Swiss Franc banknote, back</div>
+</div>
+<div style="clear:left"></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:ThreeMenWalkingII.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/1/10/ThreeMenWalkingII.JPG" width="220" height="294" class="thumbimage" data-file-width="220" data-file-height="294" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:ThreeMenWalkingII.JPG" class="internal" title="Enlarge"></a></div>
+<i>Three Men Walking II</i>, 1949, painted bronze sculpture <a href="/wiki/Metropolitan_Museum_of_Art" title="Metropolitan Museum of Art">Metropolitan Museum of Art</a>. "The surfaces of Three Men Walking (II), 1949, typify his technique."<sup id="cite_ref-Metropolitan_Museum_of_Art_4-0" class="reference"><a href="#cite_note-Metropolitan_Museum_of_Art-4"><span>[</span>4<span>]</span></a></sup></div>
+</div>
+</div>
+<p>In 1958 Giacometti was asked to create a monumental sculpture for the <a href="/wiki/Chase_Manhattan_Bank" title="Chase Manhattan Bank" class="mw-redirect">Chase Manhattan Bank</a> building in New York, which was beginning construction. Although he had for many years "harbored an ambition to create work for a public square",<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> he "had never set foot in New York, and knew nothing about life in a rapidly evolving metropolis. Nor had he ever laid eyes on an actual <a href="/wiki/Skyscraper" title="Skyscraper">skyscraper</a>", according to his biographer James Lord.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> Giacometti's work on the project resulted in the four figures of standing women—his largest sculptures—entitled <i>Grande femme debout</i> I through IV (1960). The commission was never completed, however, because Giacometti was unsatisfied by the relationship between the sculpture and the site, and abandoned the project.</p>
+<p>In 1962, Giacometti was awarded the grand prize for sculpture at the <a href="/wiki/Venice_Biennale" title="Venice Biennale">Venice Biennale</a>, and the award brought with it worldwide fame. Even when he had achieved popularity and his work was in demand, he still reworked models, often destroying them or setting them aside to be returned to years later. The prints produced by Giacometti are often overlooked but the catalogue raisonné, <i>Giacometti – The Complete Graphics and 15 Drawings by Herbert Lust</i> (Tudor 1970), comments on their impact and gives details of the number of copies of each print. Some of his most important images were in editions of only 30 and many were described as rare in 1970.</p>
+<p>In his later years Giacometti's works were shown in a number of large exhibitions throughout Europe. Riding a wave of international popularity, and despite his declining health, he travelled to the United States in 1965 for an exhibition of his works at the <a href="/wiki/Museum_of_Modern_Art" title="Museum of Modern Art">Museum of Modern Art</a> in New York. As his last work he prepared the text for the book <i>Paris sans fin</i>, a sequence of 150 <a href="/wiki/Lithographs" title="Lithographs" class="mw-redirect">lithographs</a> containing memories of all the places where he had lived.</p>
+<h2><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alberto_Giacometti&amp;action=edit&amp;section=3" title="Edit section: Death">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Giacometti died in 1966 of heart disease (<a href="/wiki/Pericarditis" title="Pericarditis">pericarditis</a>) and <a href="/wiki/Chronic_bronchitis" title="Chronic bronchitis" class="mw-redirect">chronic bronchitis</a> at the Kantonsspital in <a href="/wiki/Chur" title="Chur">Chur</a>, Switzerland. His body was returned to his birthplace in Borgonovo, where he was interred close to his parents. In May 2007 the executor of his widow's estate, former French foreign minister <a href="/wiki/Roland_Dumas" title="Roland Dumas">Roland Dumas</a>, was convicted of illegally selling Giacometti's works to a top auctioneer, Jacques Tajan, who was also convicted. Both were ordered to pay €850,000 to the Alberto and Annette Giacometti Foundation.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Artistic_analysis">Artistic analysis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alberto_Giacometti&amp;action=edit&amp;section=4" title="Edit section: Artistic analysis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:62px;"><a href="/wiki/File:%27Woman_of_Venice_(II)%27,_painted_bronze_sculpture_by_Alberto_Giacometti,_1956,_Metropolitan_Museum_of_Art.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/4/4f/%27Woman_of_Venice_%28II%29%27%2C_painted_bronze_sculpture_by_Alberto_Giacometti%2C_1956%2C_Metropolitan_Museum_of_Art.jpg" width="60" height="300" class="thumbimage" data-file-width="60" data-file-height="300" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:%27Woman_of_Venice_(II)%27,_painted_bronze_sculpture_by_Alberto_Giacometti,_1956,_Metropolitan_Museum_of_Art.jpg" class="internal" title="Enlarge"></a></div>
+<i>"Woman of Venice II"</i>, 1956, painted bronze sculpture, <a href="/wiki/Metropolitan_Museum_of_Art" title="Metropolitan Museum of Art">Metropolitan Museum of Art</a></div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Photograph_of_Alberto_Giacometti_by_Cartier_Bresson.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/15/Photograph_of_Alberto_Giacometti_by_Cartier_Bresson.jpg/220px-Photograph_of_Alberto_Giacometti_by_Cartier_Bresson.jpg" width="220" height="331" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/15/Photograph_of_Alberto_Giacometti_by_Cartier_Bresson.jpg/330px-Photograph_of_Alberto_Giacometti_by_Cartier_Bresson.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/15/Photograph_of_Alberto_Giacometti_by_Cartier_Bresson.jpg/440px-Photograph_of_Alberto_Giacometti_by_Cartier_Bresson.jpg 2x" data-file-width="465" data-file-height="700" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Photograph_of_Alberto_Giacometti_by_Cartier_Bresson.jpg" class="internal" title="Enlarge"></a></div>
+Alberto Giacometti<br />
+Photo by <a href="/wiki/Henri_Cartier-Bresson" title="Henri Cartier-Bresson">Henri Cartier-Bresson</a></div>
+</div>
+</div>
+<p>.</p>
+<p>Regarding Giacometti's sculptural technique and according to the <a href="/wiki/Metropolitan_Museum_of_Art" title="Metropolitan Museum of Art">Metropolitan Museum of Art</a>: "The rough, eroded, heavily worked surfaces of Three Men Walking (II), 1949, typify his technique. Reduced, as they are, to their very core, these figures evoke lone trees in winter that have lost their foliage. Within this style, Giacometti would rarely deviate from the three themes that preoccupied him—the walking man; the standing, nude woman; and the bust—or all three, combined in various groupings<i>.</i>"<sup id="cite_ref-Metropolitan_Museum_of_Art_4-1" class="reference"><a href="#cite_note-Metropolitan_Museum_of_Art-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>In a letter to <a href="/wiki/Pierre_Matisse" title="Pierre Matisse">Pierre Matisse</a>, Giacometti wrote: "Figures were never a compact mass but like a transparent construction".<sup id="cite_ref-MOMA_8-0" class="reference"><a href="#cite_note-MOMA-8"><span>[</span>8<span>]</span></a></sup> In the letter, Giacometti writes about how he looked back at the realist, classical busts of his youth with nostalgia, and tells the story of the existential crisis which precipitated the style he became known for.</p>
+<p>"[I rediscovered] the wish to make compositions with figures. For this I had to make (quickly I thought; in passing), one or two studies from nature, just enough to understand the construction of a head, of a whole figure, and in 1935 I took a model. This study should take, I thought, two weeks and then I could realize my compositions...I worked with the model all day from 1935 to 1940...Nothing was as I imagined. A head, became for me an object completely unknown and without dimensions."<sup id="cite_ref-MOMA_8-1" class="reference"><a href="#cite_note-MOMA-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>Since Giacometti achieved exquisite realism with facility when he was executing busts in his early adolescence, Giacometti's difficulty in re-approaching the figure as an adult is generally understood as a sign of existential struggle for meaning, rather than as a technical deficit.</p>
+<p>Giacometti was a key player in the <a href="/wiki/Surrealist" title="Surrealist" class="mw-redirect">Surrealist</a> art movement, but his work resists easy categorization. Some describe it as formalist, others argue it is expressionist or otherwise having to do with what <a href="/wiki/Deleuze" title="Deleuze" class="mw-redirect">Deleuze</a> calls "blocs of sensation" (as in Deleuze's analysis of <a href="/wiki/Francis_Bacon_(artist)" title="Francis Bacon (artist)">Francis Bacon</a>). Even after his excommunication from the Surrealist group, while the intention of his sculpting was usually imitation, the end products were an expression of his emotional response to the subject. He attempted to create renditions of his models the way he saw them, and the way he thought they ought to be seen. He once said that he was sculpting not the human figure but "the shadow that is cast".</p>
+<p>Scholar <a href="/wiki/William_Barrett_(philosopher)" title="William Barrett (philosopher)">William Barrett</a> in <i>Irrational Man: A Study in Existential Philosophy</i> (1962), argues that the attenuated forms of Giacometti's figures reflect the view of 20th century <a href="/wiki/Modernism" title="Modernism">modernism</a> and <a href="/wiki/Existentialism" title="Existentialism">existentialism</a> that modern life is increasingly empty and devoid of meaning. "All the sculptures of today, like those of the past, will end one day in pieces...So it is important to fashion ones work carefully in its smallest recess and charge every particle of matter with life."</p>
+<p>A new exhibition in Paris, since September 2011, shows how Giacometti strongly drew his inspiration for his work from <a href="/wiki/Etruscan_art" title="Etruscan art">Etruscan art</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alberto_Giacometti&amp;action=edit&amp;section=5" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Exhibitions">Exhibitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alberto_Giacometti&amp;action=edit&amp;section=6" title="Edit section: Exhibitions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Giacometti's work has been the subject of numerous solo exhibitions including most recently <a href="/wiki/Pera_Museum" title="Pera Museum">Pera Museum</a>, Istanbul (2015) <a href="/wiki/Pushkin_Museum" title="Pushkin Museum">Pushkin Museum</a>, Moscow (2008); “The Studio of Alberto Giacometti: Collection of the Fondation Alberto et Annette Giacometti”, <a href="/wiki/Centre_Pompidou" title="Centre Pompidou" class="mw-redirect">Centre Pompidou</a>, Paris (2007–2008); Kunsthal Rotterdam (2008); <a href="/wiki/Fondation_Beyeler" title="Fondation Beyeler" class="mw-redirect">Fondation Beyeler</a>, Basel (2009), Buenos Aires (2012); and Kunsthalle Hamburg (2013).</p>
+<p>The <a href="/wiki/National_Portrait_Gallery,_London" title="National Portrait Gallery, London">National Portrait Gallery, London</a>'s first solo exhibition of Giacometti's work, <i>Pure Presence</i> opened to five star reviews on 13 October 2015 (to January 10, 2016, in honour of the fiftieth anniversary of the artist's death).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> <sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Public_collections">Public collections</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alberto_Giacometti&amp;action=edit&amp;section=7" title="Edit section: Public collections">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Giacometti's work is displayed in numerous public collections, including:</p>
+<ul>
+<li><a href="/wiki/Albright-Knox_Art_Gallery" title="Albright-Knox Art Gallery" class="mw-redirect">Albright-Knox Art Gallery</a>, <a href="/wiki/Buffalo,_New_York" title="Buffalo, New York">Buffalo</a></li>
+<li><a href="/wiki/Art_Institute_of_Chicago" title="Art Institute of Chicago">Art Institute of Chicago</a></li>
+<li><a href="/wiki/Baltimore_Museum_of_Art" title="Baltimore Museum of Art">Baltimore Museum of Art</a>, <a href="/wiki/Baltimore,_Maryland" title="Baltimore, Maryland" class="mw-redirect">Baltimore, Maryland</a></li>
+<li><a href="/wiki/Bechtler_Museum_of_Modern_Art" title="Bechtler Museum of Modern Art">Bechtler Museum of Modern Art</a>, <a href="/wiki/Charlotte,_North_Carolina" title="Charlotte, North Carolina">Charlotte, North Carolina</a></li>
+<li><a href="/wiki/Berggruen_Museum" title="Berggruen Museum">Berggruen Museum</a>, Berlin</li>
+<li><a href="/wiki/Botero_Museum" title="Botero Museum">Botero Museum</a>, <a href="/wiki/Bogot%C3%A1,_Colombia" title="Bogotá, Colombia" class="mw-redirect">Bogotá, Colombia</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.buendner-kunstmuseum.ch/">Bündner Kunstmuseum</a>, Chur, Switzerland</li>
+<li><a href="/wiki/Carnegie_Museum_of_Art" title="Carnegie Museum of Art">Carnegie Museum of Art</a>, <a href="/wiki/Pittsburgh" title="Pittsburgh">Pittsburgh</a></li>
+<li><a href="/wiki/Detroit_Institute_of_Arts" title="Detroit Institute of Arts">Detroit Institute of Arts</a></li>
+<li><a href="/wiki/Hirshhorn_Museum_and_Sculpture_Garden" title="Hirshhorn Museum and Sculpture Garden">Hirshhorn Museum and Sculpture Garden</a>, Washington D.C.</li>
+<li><a href="/wiki/J._Paul_Getty_Museum" title="J. Paul Getty Museum">J. Paul Getty Museum</a>, Los Angeles, California</li>
+<li><a href="/wiki/Johnson_Museum_of_Art" title="Johnson Museum of Art" class="mw-redirect">Johnson Museum of Art</a>, <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a></li>
+<li><a href="/wiki/Kunsthaus_Z%C3%BCrich" title="Kunsthaus Zürich">Kunsthaus Zürich</a></li>
+<li><a href="/wiki/Leeum,_Samsung_Museum_of_Art" title="Leeum, Samsung Museum of Art">Leeum, Samsung Museum of Art</a>, <a href="/wiki/Republic_of_Korea" title="Republic of Korea" class="mw-redirect">Republic of Korea</a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></li>
+<li><a href="/wiki/Los_Angeles_County_Museum_of_Art" title="Los Angeles County Museum of Art">Los Angeles County Museum of Art</a></li>
+<li><a href="/wiki/Louisiana_Museum_of_Modern_Art" title="Louisiana Museum of Modern Art">Louisiana Museum of Modern Art</a>, Denmark</li>
+<li><a href="/wiki/Museum_of_Modern_Art" title="Museum of Modern Art">Museum of Modern Art</a>, New York</li>
+<li><a href="/wiki/Museum_of_Fine_Arts,_Boston" title="Museum of Fine Arts, Boston">Museum of Fine Arts, Boston</a></li>
+<li><a href="/wiki/National_Gallery_of_Art" title="National Gallery of Art">National Gallery of Art</a>, Washington D.C.</li>
+<li><a href="/wiki/Sainsbury_Centre_for_Visual_Arts" title="Sainsbury Centre for Visual Arts">Sainsbury Centre for Visual Arts</a>, <a href="/wiki/University_of_East_Anglia" title="University of East Anglia">University of East Anglia</a></li>
+<li><a href="/wiki/Solomon_R._Guggenheim_Museum" title="Solomon R. Guggenheim Museum">Solomon R. Guggenheim Museum</a>, New York</li>
+<li><a href="/wiki/Tate" title="Tate">Tate</a>, London</li>
+<li><a href="/wiki/Tehran_Museum_of_Contemporary_Art" title="Tehran Museum of Contemporary Art">Tehran Museum of Contemporary Art</a>, Iran</li>
+<li><a href="/wiki/Wadsworth_Atheneum" title="Wadsworth Atheneum">Wadsworth Atheneum</a>, <a href="/wiki/Hartford" title="Hartford" class="mw-redirect">Hartford</a></li>
+<li><a href="/wiki/Walker_Art_Center" title="Walker Art Center">Walker Art Center</a>, <a href="/wiki/Minneapolis" title="Minneapolis">Minneapolis</a></li>
+<li><a href="/wiki/University_of_Michigan_Museum_of_Art" title="University of Michigan Museum of Art">University of Michigan Museum of Art</a></li>
+</ul>
+<h3><span class="mw-headline" id="Art_Foundations">Art Foundations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alberto_Giacometti&amp;action=edit&amp;section=8" title="Edit section: Art Foundations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Fondation_Alberto_et_Annette_Giacometti" title="Fondation Alberto et Annette Giacometti">Fondation Alberto et Annette Giacometti</a>, having received a bequest from Alberto Giacometti's widow Annette, holds a collection of circa 5,000 works, frequently displayed around the world through exhibitions and long-term loans. A public interest institution, the Foundation was created in 2003 and aims at promoting, disseminating, preserving and protecting Alberto Giacometti's work.</p>
+<p>The <a rel="nofollow" class="external text" href="http://www.giacometti-stiftung.ch/">Alberto Giacometti-Stiftung</a> established in Zürich in 1965, holds a smaller collection of works acquired from the collection of the Pittsburgh industrialist <a href="/wiki/G._David_Thompson" title="G. David Thompson">G. David Thompson</a>.</p>
+<h3><span class="mw-headline" id="Notable_sales">Notable sales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alberto_Giacometti&amp;action=edit&amp;section=9" title="Edit section: Notable sales">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In November 2000 a Giacometti bronze, <i>Grande Femme Debout I</i>, sold for <a href="/wiki/United_States_dollar" title="United States dollar">$</a>14.3 million.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> <i>Grande Femme Debout II</i> was bought by the <a href="/wiki/Gagosian_Gallery" title="Gagosian Gallery">Gagosian Gallery</a> for $27.4 million at <a href="/wiki/Christie%27s" title="Christie's">Christie's</a> auction in New York City on May 6, 2008.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<p><i><a href="/wiki/L%27Homme_qui_marche_I" title="L'Homme qui marche I">L'Homme qui marche I</a></i>, a life-sized bronze sculpture of a man, became one of the most expensive works of art and the most expensive sculpture ever sold at auction on February 2, 2010, when it sold for £65 million (US$104.3 million) at <a href="/wiki/Sotheby%27s" title="Sotheby's">Sotheby's</a>, London.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> <i><a href="/wiki/Grande_t%C3%AAte_mince" title="Grande tête mince">Grande tête mince</a></i>, a large bronze bust, sold for $53.3 million just three months later.</p>
+<p><i><a href="/wiki/L%27Homme_au_doigt" title="L'Homme au doigt">L'Homme au doigt</a></i> (<i>Pointing Man</i>) sold for $126 million (£81314455.32), or $141.3 million with fees, in Christie's May 11, 2015 Looking Forward to the Past sale in New York, a record for a sculpture at auction. The work had been in the same private collection for 45 years.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Other_legacy">Other legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alberto_Giacometti&amp;action=edit&amp;section=10" title="Edit section: Other legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Giacometti created the monument on the grave of <a href="/wiki/Gerda_Taro" title="Gerda Taro">Gerda Taro</a> at <a href="/wiki/P%C3%A8re_Lachaise_Cemetery" title="Père Lachaise Cemetery">Père Lachaise Cemetery</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></p>
+<p>In 2001 he was included in the <a href="/wiki/Painting_the_Century:_101_Portrait_Masterpieces_1900%E2%80%932000" title="Painting the Century: 101 Portrait Masterpieces 1900–2000">Painting the Century: 101 Portrait Masterpieces 1900–2000</a> exhibition held at the <a href="/wiki/National_Portrait_Gallery_(England)" title="National Portrait Gallery (England)" class="mw-redirect">National Portrait Gallery</a>, London.</p>
+<p>Giacometti and his sculpture <i>L'Homme qui marche I</i> appear on the current <a href="/wiki/Banknotes_of_Switzerland" title="Banknotes of Switzerland" class="mw-redirect">100 Swiss Franc banknote</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<p>According to a lecture by <a href="/wiki/Michael_Peppiatt" title="Michael Peppiatt">Michael Peppiatt</a> at Cambridge University on July 8, 2010, Giacometti, who had a friendship with author/playwright <a href="/wiki/Samuel_Beckett" title="Samuel Beckett">Samuel Beckett</a>, created a tree for the <a href="/wiki/Theatrical_scenery" title="Theatrical scenery">set</a> of a 1961 Paris production of <i><a href="/wiki/Waiting_For_Godot" title="Waiting For Godot" class="mw-redirect">Waiting For Godot</a></i>.</p>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alberto_Giacometti&amp;action=edit&amp;section=11" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Andreas Kley: <i>Von Stampa nach Zürich. Der Staatsrechtler Zaccaria Giacometti, sein Leben und Werk und seine Bergeller Künstlerfamilie</i>, Zürich 2014, pp. 89 et seq.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">New York Times article on <i>The Women of Giacometti</i> exhibition, Pace Wildenstein Gallery 2005 <a rel="nofollow" class="external autonumber" href="http://www.nytimes.com/2005/11/20/arts/design/20kino.html?pagewanted=all">[1]</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tate.org.uk/servlet/ViewWork?cgroupid=999999961&amp;workid=5141&amp;searchid=8724">Tate Collection: Seated Man by Alberto Giacometti</a> Retrieved July 13, 2007.</span></li>
+<li id="cite_note-Metropolitan_Museum_of_Art-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Metropolitan_Museum_of_Art_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Metropolitan_Museum_of_Art_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.metmuseum.org/Collections/search-the-collections/489978?rpp=20&amp;pg=1&amp;ao=on&amp;ft=alberto+giacometti&amp;pos=6">Metropolitan Museum of Art</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.christies.com/LotFinder/LotDetailsPrintable.aspx?intObjectID=5075599">Christie's, Impressionist And Modern Art Evening Sale, New York, Rockefeller Plaza, 6 May 2008</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">James Lord, Giacometti: A Biography, <a href="/wiki/Farrar,_Straus_and_Giroux" title="Farrar, Straus and Giroux">Farrar, Straus and Giroux</a>, New York, 1986, pp. 331–332 ISBN <a href="/wiki/Special:BookSources/9780374525255" class="internal mw-magiclink-isbn">ISBN 978-0-374-52525-5</a> <a href="/wiki/Special:BookSources/0374525250" class="internal mw-magiclink-isbn">ISBN 0374525250</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.artinfo.com/news/story/25058/conviction-upheld-against-former-french-fm-in-giacometti-fraud/">"Conviction Upheld Against mFormer French FM in Giacometti Fraud"</a>. May 10, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-04-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlberto+Giacometti&amp;rft.btitle=Conviction+Upheld+Against+mFormer+French+FM+in+Giacometti+Fraud&amp;rft.date=May+10%2C+2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.artinfo.com%2Fnews%2Fstory%2F25058%2Fconviction-upheld-against-former-french-fm-in-giacometti-fraud%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-MOMA-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-MOMA_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MOMA_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Introduction by Peter Selz, autobiographical statement by Giacometti (1965). <a rel="nofollow" class="external text" href="http://www.moma.org/pdfs/docs/press_archives/3481/releases/MOMA_1965_0057_56.pdf?2010"><i>Alberto Giacometti</i></a> <span style="font-size:85%;">(PDF)</span>. Garden City, New York: The Museum of Modern Art, in collaboration with the Art Institute of Chicago. pp.&#160;14–28.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlberto+Giacometti&amp;rft.au=Introduction+by+Peter+Selz%2C+autobiographical+statement+by+Giacometti&amp;rft.btitle=Alberto+Giacometti&amp;rft.date=1965&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.moma.org%2Fpdfs%2Fdocs%2Fpress_archives%2F3481%2Freleases%2FMOMA_1965_0057_56.pdf%3F2010&amp;rft.pages=14-28&amp;rft.place=Garden+City%2C+New+York&amp;rft.pub=The+Museum+of+Modern+Art%2C+in+collaboration+with+the+Art+Institute+of+Chicago&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.pinacotheque.com/index.php?id=718"><i>Giacometti and The Etruscans</i>, La Pinacothèque de Paris</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Jones, Jonathan (13 October 2015). <a rel="nofollow" class="external text" href="http://www.theguardian.com/artanddesign/2015/oct/13/giacometti-pure-presence-review-national-portrait-gallery">"Giacometti: Pure Presence review – the most profound, universal art of the past 75 years"</a>. <i>Guardian online</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlberto+Giacometti&amp;rft.atitle=Giacometti%3A+Pure+Presence+review+%E2%80%93+the+most+profound%2C+universal+art+of+the+past+75+years&amp;rft.aufirst=Jonathan&amp;rft.aulast=Jones&amp;rft.date=13+October+2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2015%2Foct%2F13%2Fgiacometti-pure-presence-review-national-portrait-gallery&amp;rft.jtitle=Guardian+online&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news">Luke, Ben (13 October 2015). <a rel="nofollow" class="external text" href="http://www.standard.co.uk/goingout/exhibitions/giacometti-pure-presence-exhibition-review-profound-portrait-of-the-artist-s-progress-a3089201.html">"Giacometti: Pure Presence, exhibition review: Profound portrait of the artist’s progress"</a>. <i>Evening Standard online</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlberto+Giacometti&amp;rft.atitle=Giacometti%3A+Pure+Presence%2C+exhibition+review%3A+Profound+portrait+of+the+artist%E2%80%99s+progress&amp;rft.aufirst=Ben&amp;rft.aulast=Luke&amp;rft.date=13+October+2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.standard.co.uk%2Fgoingout%2Fexhibitions%2Fgiacometti-pure-presence-exhibition-review-profound-portrait-of-the-artist-s-progress-a3089201.html&amp;rft.jtitle=Evening+Standard+online&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://leeum.samsungfoundation.org/html_eng/exhibition/exhibition_view.asp">Leeum, Samsung Museum of Art</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.guardian.co.uk/international/story/0,,395302,00.html">"Art record Picasso painting goes for £39m at auction"</a>. <i>The Guardian</i> (London). 2000-11-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlberto+Giacometti&amp;rft.atitle=Art+record+Picasso+painting+goes+for+%C2%A339m+at+auction&amp;rft.date=2000-11-10&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.guardian.co.uk%2Finternational%2Fstory%2F0%2C%2C395302%2C00.html&amp;rft.jtitle=The+Guardian&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://afp.google.com/article/ALeqM5jJ-nuOHmXSBq7_MFQrllsC6jrt4A">Afp.google.com, Monet fetches record price at New York auction</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/uk/8497287.stm">Giacometti sculpture fetches £65m at Sotheby's auction</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.artdaily.com/index.asp?int_sec=2&amp;int_new=36031">Alberto Giacometti's Walking Man I Sells for a Record-Breaking $104,327,006 at Sotheby's</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news">Reyburn, Scott (11 May 2015). <a rel="nofollow" class="external text" href="http://artsbeat.blogs.nytimes.com/2015/05/11/two-art-works-top-100-million-each-at-christies-sale/">"Two Artworks Top $100 Million Each at Christie’s Sale (Artsbeat blog)"</a>. New York Times<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlberto+Giacometti&amp;rft.atitle=Two+Artworks+Top+%24100+Million+Each+at+Christie%E2%80%99s+Sale+%28Artsbeat+blog%29&amp;rft.aufirst=Scott&amp;rft.aulast=Reyburn&amp;rft.date=11+May+2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fartsbeat.blogs.nytimes.com%2F2015%2F05%2F11%2Ftwo-art-works-top-100-million-each-at-christies-sale%2F&amp;rft.pub=New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Robert Whelan, "Robert Capa, the definitive collection", p. 8, <a href="/wiki/Phaidon_Press" title="Phaidon Press">Phaidon press</a> 2001, <a href="/wiki/Special:BookSources/9780714844497" class="internal mw-magiclink-isbn">ISBN 978-0-7148-4449-7</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.snb.ch/de/iabout/cash/current/design/id/cash_current_design_100">Schweizer Nationalbank</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alberto_Giacometti&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Jacques Dupin (1962) "Alberto Giacometti", Paris, Maeght</li>
+<li>Reinhold Hohl (1971) "Alberto Giacometti", Stuttgart: Gerd Hatje</li>
+<li>Die Sammlung der Alberto Giacometti-Stiftung (1990), Zürich, Zürcher Kunstgesellschaft</li>
+<li>Alberto Giacometti. Sculptures – peintures – dessins. Paris, Musée d'art moderne de la Ville de Paris, 1991–92.</li>
+<li><a href="/wiki/Jean_Soldini" title="Jean Soldini">Jean Soldini</a> (1993) "Alberto Giacometti. Le colossal, la mère, le sacré", Lausanne, L'Age d'Homme</li>
+<li><a href="/wiki/David_Sylvester" title="David Sylvester">David Sylvester</a> (1996) <i>Looking at Giacometti</i>, Henry Holt &amp; Co.</li>
+<li>Alberto Giacometti 1901–1966. Kunsthalle Wien, 1996</li>
+<li><a href="/wiki/James_Lord_(author)" title="James Lord (author)">James Lord</a> (1997) <i>Giacometti: A Biography</i>, Farrar, Straus and Giroux</li>
+<li>Alberto Giacometti. Kunsthaus Zürich, 2001; New York, The Museum of Modern Art, 2001–2002.</li>
+<li><a href="/wiki/Yves_Bonnefoy" title="Yves Bonnefoy">Yves Bonnefoy</a> (2006) <i>Alberto Giacometti: A Biography of His Work</i>, New edition, Flammarion</li>
+<li><cite class="citation web">Weiland, Andreas (January 25, 2009). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130527083108/http://www.art-in-society.de/AS10/Giacometti-3/Giacometti.html">"The Sculptures of Alberto Giacometti / Seen in the Kunsthal Rotterdam (Giacometti Exhibition, October 18, 2008 – February 8, 2009)"</a> (10). Art in Society. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1618-2154">1618-2154</a>. Archived from <a rel="nofollow" class="external text" href="http://www.art-in-society.de/AS10/Giacometti-3/Giacometti.html">the original</a> on 2013-05-27.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlberto+Giacometti&amp;rft.aufirst=Andreas&amp;rft.aulast=Weiland&amp;rft.btitle=The+Sculptures+of+Alberto+Giacometti+%2F+Seen+in+the+Kunsthal+Rotterdam+%28Giacometti+Exhibition%2C+October+18%2C+2008+%E2%80%93+February+8%2C+2009%29&amp;rft.date=January+25%2C+2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.art-in-society.de%2FAS10%2FGiacometti-3%2FGiacometti.html&amp;rft.issn=1618-2154&amp;rft.issue=10&amp;rft.pub=Art+in+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Wilson, Laurie (2003). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060914193026/http://yalepress.yale.edu/yupbooks/book.asp?isbn=0300090374"><i>Alberto Giacometti: Myth, Magic and the Man</i></a>. <a href="/wiki/Yale_University_Press" title="Yale University Press">Yale University Press</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0300090374" title="Special:BookSources/0300090374">0300090374</a>. Archived from <a rel="nofollow" class="external text" href="http://yalepress.yale.edu/yupbooks/book.asp?isbn=0300090374">the original</a> on 2006-09-14.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlberto+Giacometti&amp;rft.aufirst=Laurie&amp;rft.aulast=Wilson&amp;rft.btitle=Alberto+Giacometti%3A+Myth%2C+Magic+and+the+Man&amp;rft.date=2003&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fyalepress.yale.edu%2Fyupbooks%2Fbook.asp%3Fisbn%3D0300090374&amp;rft.isbn=0300090374&amp;rft.pub=Yale+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alberto_Giacometti&amp;action=edit&amp;section=13" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i>Alberto Giacometti</i>, <a href="/wiki/Yves_Bonnefoy" title="Yves Bonnefoy">Yves Bonnefoy</a>, Assouline Publishing (February 22, 2011)</li>
+<li><i>In Giacometti's Studio</i>, Michael Peppiatt, Yale University Press (December 14, 2010)</li>
+<li><i>Alberto Giacometti: A Biography of His Work</i>, Yves Bonnefoy, New edition, Flammarion (2006)</li>
+<li><i>Giacometti: A Biography</i>, <a href="/wiki/James_Lord_(author)" title="James Lord (author)">James Lord</a>, Farrar, Straus and Giroux (1997)</li>
+<li><i>Looking at Giacometti</i>, <a href="/wiki/David_Sylvester" title="David Sylvester">David Sylvester</a>, Henry Holt &amp; Co. (1996)</li>
+<li><i>Alberto Giacometti</i>, Herbert Matter &amp; Mercedes Matter, Harry N Abrams (September 1987)</li>
+<li><i>A Giacometti Portrait</i>, James Lord, Farrar, Straus and Giroux (July 1, 1980)</li>
+<li><i>Alberto Giacometti</i>, Reinhold Hohl, H. N. Abrams (1972)</li>
+<li><i>Alberto Giacometti</i>, Reinhold Hohl, Stuttgart: Gerd Hatje (1971)</li>
+<li><i>Alberto Giacometti</i>, Jacques Dupin, Paris, Maeght(1962)</li>
+<li><i>The Studio of Alberto Giacometti: Collection of the Fondation Alberto et Annette Giacometti</i>, Véronique Wiesinger (ed.), exh. cat., Paris: Fondation Alberto et Annette Giacometti/Centre Pompidou (2007) <a href="/wiki/Special:BookSources/9782844263520" class="internal mw-magiclink-isbn">ISBN 978-2-84426-352-0</a></li>
+<li>"The Dream, the Sphinx, and the Death of T", Alberto Giacometti, <a href="/wiki/X_(magazine)" title="X (magazine)"><b>X</b> magazine</a>, Vol.1, No.1 (November 1959); <i>An Anthology from X</i> (Oxford University Press 1988).</li>
+<li><cite class="citation book">Matter, Mercedes (Jan 28, 1966). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=KEwEAAAAMBAJ&amp;lpg=PA46&amp;vq=beauty&amp;pg=PA54#v=onepage&amp;q=giacometti&amp;f=false"><i>A Life Spent in Pursuit of the Impossible</i></a> <b>60</b> (4). <a href="/wiki/Life_(magazine)" title="Life (magazine)">LIFE</a>. pp.&#160;54–60. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0024-3019">0024-3019</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlberto+Giacometti&amp;rft.aufirst=Mercedes&amp;rft.aulast=Matter&amp;rft.btitle=A+Life+Spent+in+Pursuit+of+the+Impossible&amp;rft.date=Jan+28%2C+1966&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DKEwEAAAAMBAJ%26lpg%3DPA46%26vq%3Dbeauty%26pg%3DPA54%23v%3Donepage%26q%3Dgiacometti%26f%3Dfalse&amp;rft.issn=0024-3019&amp;rft.issue=4&amp;rft.pages=54-60&amp;rft.pub=LIFE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=60" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alberto_Giacometti&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Alberto_Giacometti" class="extiw" title="commons:Category:Alberto Giacometti">Alberto Giacometti</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li>The Alberto et Annette Giacometti Foundation website: <a rel="nofollow" class="external autonumber" href="http://www.fondation-giacometti.fr">[2]</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sikart.ch/KuenstlerInnen.aspx?id=4000048&amp;lng=en">Alberto Giacometti</a> in the <a href="/wiki/SIKART" title="SIKART">SIKART</a> dictionary and database</li>
+<li><a rel="nofollow" class="external text" href="http://www.helveticat.ch/search/query?term_1=Alberto+Giacometti&amp;locale=en&amp;theme=Helveticat">Publications by and about Alberto Giacometti</a> in the catalogue Helveticat of the <a href="/wiki/Swiss_National_Library" title="Swiss National Library">Swiss National Library</a></li>
+<li>Works of Alberto Giacometti:
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.unesco.org/artcollection/DetailAction.do?&amp;idOeuvre=1550&amp;nouvelleLangue=en">The UNESCO Works of Art Collection</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.moma.org/collection/artist.php?artist_id=2141">Alberto Giacometti</a> at the <a href="/wiki/Museum_of_Modern_Art" title="Museum of Modern Art">Museum of Modern Art</a></li>
+<li><a rel="nofollow" class="external text" href="http://smarthistory.org/blog/53/giacometti-city-square-1948-moma/">smARThistory: Giacometti's <i>City Square</i></a></li>
+</ul>
+</li>
+<li>Life of Alberto Giacometti:
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.moma.org/exhibitions/2001/giacometti/start/pdfs/Giacometti_Chronology.pdf">Chronology of his life with illustrations</a> from the Museum of Modern Art</li>
+</ul>
+</li>
+<li><a rel="nofollow" class="external text" href="http://www.kunsthaus.ch/en/exhibitions/current/giacometti/?redirect_url=title%3DCy">Exhibition at Kunsthaus Zürich from 27 February until 24 May 2009</a></li>
+<li><a rel="nofollow" class="external text" href="http://nga.gov.au/internationalprints/tyler/Default.cfm?MnuID=3&amp;ArtistIRN=11719&amp;List=True&amp;CREIRN=11719&amp;ORDER_SELECT=13&amp;VIEW_SELECT=5&amp;GrpNam=12&amp;TNOTES=TRUE">Alberto Giacometti in the National Gallery of Australia's Kenneth Tyler Collection</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n80-032247">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/49226067">49226067</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n80032247">n80032247</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni-url.oclc.nl/isni/0000000121318171">0000 0001 2131 8171</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/118539094">118539094</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/026890143">026890143</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11904811p">cb11904811p</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11904811p">(data)</a></span></li>
+<li><a href="/wiki/Union_List_of_Artist_Names" title="Union List of Artist Names">ULAN</a>: <span class="uid"><a rel="nofollow" class="external text" href="//www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500118871">500118871</a></span></li>
+<li><a href="/wiki/Historical_Dictionary_of_Switzerland" title="Historical Dictionary of Switzerland">HDS</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.hls-dhs-dss.ch/textes/f/F21881.php">21881</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00440829">00440829</a></span></li>
+<li><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=jn20000601788&amp;CON_LNG=ENG">jn20000601788</a></span></li>
+<li><a href="/wiki/Istituto_Centrale_per_il_Catalogo_Unico" title="Istituto Centrale per il Catalogo Unico">ICCU</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://opac.sbn.it/opacsbn/opac/iccu/scheda_authority.jsp?bid=IT\ICCU\CFIV\017811">IT\ICCU\CFIV\017811</a></span></li>
+<li><a href="/wiki/SIKART" title="SIKART">SIKART</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.sikart.ch/KuenstlerInnen.aspx?id=4000048&amp;lng=en">4000048</a></span></li>
+<li><a href="/wiki/Netherlands_Institute_for_Art_History#Online_artist_pages" title="Netherlands Institute for Art History">RKD</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://rkd.nl/en/explore/artists/31399">31399</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1215
+Cached time: 20151019083744
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.298 seconds
+Real time usage: 0.369 seconds
+Preprocessor visited node count: 2107/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 34407/2097152 bytes
+Template argument size: 2572/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 0/500
+Lua time usage: 0.095/10.000 seconds
+Lua memory usage: 3.09 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  300.863      1 - -total
+ 40.43%  121.628      1 - Template:Infobox_artist
+ 39.23%  118.026      1 - Template:Infobox_person
+ 28.00%   84.236      1 - Template:Infobox
+ 23.69%   71.270      1 - Template:Reflist
+ 11.91%   35.843      5 - Template:Br_separated_entries
+ 10.49%   31.556      2 - Template:Cite_web
+ 10.44%   31.408      1 - Template:Authority_control
+  7.82%   23.521      1 - Template:Wikidata_image
+  7.08%   21.298      1 - Template:Commons_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2433-0!*!0!!en!4!* and timestamp 20151019083744 and revision id 686357664
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Alberto_Giacometti&amp;oldid=686357664">https://en.wikipedia.org/w/index.php?title=Alberto_Giacometti&amp;oldid=686357664</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Alberto_Giacometti" title="Category:Alberto Giacometti">Alberto Giacometti</a></li><li><a href="/wiki/Category:1901_births" title="Category:1901 births">1901 births</a></li><li><a href="/wiki/Category:1966_deaths" title="Category:1966 deaths">1966 deaths</a></li><li><a href="/wiki/Category:People_from_Maloja_District" title="Category:People from Maloja District">People from Maloja District</a></li><li><a href="/wiki/Category:Swiss-Italian_people" title="Category:Swiss-Italian people">Swiss-Italian people</a></li><li><a href="/wiki/Category:Swiss_Protestants" title="Category:Swiss Protestants">Swiss Protestants</a></li><li><a href="/wiki/Category:Swiss_artists" title="Category:Swiss artists">Swiss artists</a></li><li><a href="/wiki/Category:Swiss_sculptors" title="Category:Swiss sculptors">Swiss sculptors</a></li><li><a href="/wiki/Category:Surrealist_artists" title="Category:Surrealist artists">Surrealist artists</a></li><li><a href="/wiki/Category:Modern_artists" title="Category:Modern artists">Modern artists</a></li><li><a href="/wiki/Category:Modern_sculptors" title="Category:Modern sculptors">Modern sculptors</a></li><li><a href="/wiki/Category:20th-century_Swiss_sculptors" title="Category:20th-century Swiss sculptors">20th-century Swiss sculptors</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ULAN_identifiers" title="Category:Wikipedia articles with ULAN identifiers">Wikipedia articles with ULAN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SBN_identifiers" title="Category:Wikipedia articles with SBN identifiers">Wikipedia articles with SBN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_RKDartists_identifiers" title="Category:Wikipedia articles with RKDartists identifiers">Wikipedia articles with RKDartists identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alberto+Giacometti&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alberto+Giacometti" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Alberto_Giacometti"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Alberto_Giacometti"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Alberto_Giacometti" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Alberto_Giacometti&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Alberto_Giacometti&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Alberto_Giacometti" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Alberto_Giacometti" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Alberto_Giacometti&amp;oldid=686357664" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Alberto_Giacometti&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q157194" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Alberto_Giacometti&amp;id=686357664" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Alberto+Giacometti">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Alberto+Giacometti&amp;returnto=Alberto+Giacometti&amp;oldid=686357664&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Alberto_Giacometti&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A3%D9%84%D8%A8%D8%B1%D8%AA%D9%88_%D8%AC%D9%8A%D8%A7%D9%83%D9%88%D9%85%D9%8A%D8%AA%D9%8A" title="ألبرتو جياكوميتي – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="//zh-min-nan.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de badge-Q17437796 badge-featuredarticle" title="featured article"><a href="//de.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%91%CE%BB%CE%BC%CF%80%CE%AD%CF%81%CF%84%CE%BF_%CE%A4%CE%B6%CE%B9%CE%B1%CE%BA%CE%BF%CE%BC%CE%AD%CF%84%CE%B9" title="Αλμπέρτο Τζιακομέτι – Greek" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Basque" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A2%D9%84%D8%A8%D8%B1%D8%AA%D9%88_%D8%AC%D8%A7%DA%A9%D9%88%D9%85%D8%AA%DB%8C" title="آلبرتو جاکومتی – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Galician" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%95%8C%EB%B2%A0%EB%A5%B4%ED%86%A0_%EC%9E%90%EC%BD%94%EB%A9%94%ED%8B%B0" title="알베르토 자코메티 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%90%D7%9C%D7%91%D7%A8%D7%98%D7%95_%D7%92%27%D7%A7%D7%95%D7%9E%D7%98%D7%99" title="אלברטו ג'קומטי – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%90%E1%83%9A%E1%83%91%E1%83%94%E1%83%A0%E1%83%A2%E1%83%9D_%E1%83%AF%E1%83%90%E1%83%99%E1%83%9D%E1%83%9B%E1%83%94%E1%83%A2%E1%83%98" title="ალბერტო ჯაკომეტი – Georgian" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/Albertus_Giacometti" title="Albertus Giacometti – Latin" lang="la" hreflang="la">Latina</a></li><li class="interlanguage-link interwiki-lb"><a href="//lb.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Luxembourgish" lang="lb" hreflang="lb">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%B3%E3%83%A1%E3%83%83%E3%83%86%E3%82%A3" title="アルベルト・ジャコメッティ – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Norwegian Nynorsk" lang="nn" hreflang="nn">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B0%D0%BA%D0%BE%D0%BC%D0%B5%D1%82%D1%82%D0%B8,_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82%D0%BE" title="Джакометти, Альберто – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-scn"><a href="//scn.wikipedia.org/wiki/Albertu_Giacumetti" title="Albertu Giacumetti – Sicilian" lang="scn" hreflang="scn">Sicilianu</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B1%D0%B5%D1%80%D1%82%D0%BE_%D0%82%D0%B0%D0%BA%D0%BE%D0%BC%D0%B5%D1%82%D0%B8" title="Алберто Ђакомети – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="//tl.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Tagalog" lang="tl" hreflang="tl">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82%D0%BE_%D0%94%D0%B6%D0%B0%D0%BA%D0%BE%D0%BC%D0%B5%D1%82%D1%82%D1%96" title="Альберто Джакометті – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Alberto_Giacometti" title="Alberto Giacometti – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E4%BC%AF%E6%89%98%C2%B7%E8%B3%88%E7%A7%91%E6%A2%85%E8%92%82" title="阿爾伯托·賈科梅蒂 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q157194#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 18 October 2015, at 17:38.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Alberto_Giacometti&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1088"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

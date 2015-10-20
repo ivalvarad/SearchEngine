@@ -1,0 +1,1589 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Arab nationalism - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Arab_nationalism","wgTitle":"Arab nationalism","wgCurRevisionId":685902773,"wgRevisionId":685902773,"wgArticleId":38667910,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles to be expanded from July 2015","Articles containing Arabic-language text","Use dmy dates from April 2013","Arab nationalism","Arab League","Nationalism by country or region"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Arab_nationalism","wgRelevantArticleId":38667910,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Hejaz_1917.svg/100px-Flag_of_Hejaz_1917.svg.png","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q114213","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Arab_nationalism" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Arab_nationalism&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Arab_nationalism&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Arab_nationalism" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Arab_nationalism skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Arab nationalism</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">See also: <a href="/wiki/Pan-Arabism" title="Pan-Arabism">Pan-Arabism</a></div>
+<table class="metadata plainlinks ambox ambox-notice" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Wiki_letter_w.svg" class="image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/44px-Wiki_letter_w.svg.png" width="44" height="44" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/66px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/88px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>is missing information about Arab nationalism after 1967</b>. <span class="hide-when-compact">Please expand the article to include this information. Further details may exist on the <a href="/wiki/Talk:Arab_nationalism" title="Talk:Arab nationalism">talk page</a>.</span> <small><i>(July 2015)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Flag_of_Hejaz_1917.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Hejaz_1917.svg/220px-Flag_of_Hejaz_1917.svg.png" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Hejaz_1917.svg/330px-Flag_of_Hejaz_1917.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Hejaz_1917.svg/440px-Flag_of_Hejaz_1917.svg.png 2x" data-file-width="1200" data-file-height="800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Flag_of_Hejaz_1917.svg" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/Flag_of_the_Arab_Revolt" title="Flag of the Arab Revolt">flag</a> of the <a href="/wiki/Arab_Revolt" title="Arab Revolt">Arab Revolt</a> against the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a> is a prominent symbol of Arab nationalism. It's design and <a href="/wiki/Pan-Arab_colors" title="Pan-Arab colors">colors</a> are the basis of many of the <a href="/wiki/Arab_states" title="Arab states">Arab states</a>' <a href="/wiki/List_of_Arab_flags" title="List of Arab flags">flags</a>.</div>
+</div>
+</div>
+<p><b>Arab nationalism</b> (<a href="/wiki/Arabic_language" title="Arabic language" class="mw-redirect">Arabic</a>: <span lang="ar" dir="rtl" xml:lang="ar">القومية العربية</span>‎ <i>al-Qawmiyya al-`arabiyya</i>) is a <a href="/wiki/Nationalism" title="Nationalism">nationalist</a> <a href="/wiki/List_of_political_ideologies" title="List of political ideologies">ideology</a> celebrating the glories of Arab civilization, the <a href="/wiki/Arabic" title="Arabic">language</a> and literature of the <a href="/wiki/Arabs" title="Arabs">Arabs</a>, calling for rejuvenation and <a href="/wiki/Political_union" title="Political union">political union</a> in the <a href="/wiki/Arab_world" title="Arab world">Arab world</a>.<sup id="cite_ref-Requiem_1-0" class="reference"><a href="#cite_note-Requiem-1"><span>[</span>1<span>]</span></a></sup> Its central premise is that the peoples of the Arab world, from the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> to the <a href="/wiki/Arabian_Sea" title="Arabian Sea">Arabian Sea</a>, constitute one nation bound together by common linguistic, cultural, religious, and historical heritage.<sup id="cite_ref-smith_2-0" class="reference"><a href="#cite_note-smith-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Sela151_3-0" class="reference"><a href="#cite_note-Sela151-3"><span>[</span>3<span>]</span></a></sup> One of the primary goals of Arab nationalism is the end of <a href="/wiki/Western_world" title="Western world">Western</a> influence in the Arab world, seen as a "nemesis" of Arab strength, and the removal of those Arab governments considered to be dependent upon Western power. It rose to prominence with the <a href="/wiki/Defeat_and_dissolution_of_the_Ottoman_Empire" title="Defeat and dissolution of the Ottoman Empire">weakening and defeat</a> of the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a> in the early 20th century and declined after the defeat of the Arab armies in the <a href="/wiki/Six-Day_War" title="Six-Day War">Six-Day War</a>.<sup id="cite_ref-Requiem_1-1" class="reference"><a href="#cite_note-Requiem-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-smith_2-1" class="reference"><a href="#cite_note-smith-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>Personalities and groups associated with Arab nationalism include <a href="/wiki/List_of_kings_of_Iraq" title="List of kings of Iraq">King</a> <a href="/wiki/Faisal_I_of_Iraq" title="Faisal I of Iraq">Faisal I</a> of <a href="/wiki/Iraq" title="Iraq">Iraq</a>, <a href="/wiki/Egypt" title="Egypt">Egyptian</a> <a href="/wiki/President_of_Egypt" title="President of Egypt">President</a> <a href="/wiki/Gamal_Abdel_Nasser" title="Gamal Abdel Nasser">Gamal Abdel Nasser</a>, the <a href="/wiki/Arab_Nationalist_Movement" title="Arab Nationalist Movement">Arab Nationalist Movement</a>, <a href="/wiki/Libya" title="Libya">Libyan</a> leader <a href="/wiki/Muammar_Gaddafi" title="Muammar Gaddafi">Muammar Gaddafi</a>, the <a href="/wiki/Ba%27ath_Party" title="Ba'ath Party">Arab Socialist Ba'ath Party</a> which came to power in Iraq for some years and is still present in <a href="/wiki/Syria" title="Syria">Syria</a>, and its founder <a href="/wiki/Michel_Aflaq" title="Michel Aflaq">Michel Aflaq</a>. <a href="/wiki/Pan-Arabism" title="Pan-Arabism">Pan-Arabism</a> is a related concept, in as much as it calls for supranational communalism among the <a href="/wiki/Arab_states" title="Arab states">Arab states</a>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Aqaba.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aqaba.jpg/220px-Aqaba.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aqaba.jpg/330px-Aqaba.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aqaba.jpg/440px-Aqaba.jpg 2x" data-file-width="1280" data-file-height="960" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Aqaba.jpg" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/Aqaba_Flagpole" title="Aqaba Flagpole">Aqaba Flagpole</a> in <a href="/wiki/Aqaba" title="Aqaba">Aqaba</a>, <a href="/wiki/Jordan" title="Jordan">Jordan</a> bearing the <a href="/wiki/Flag_of_the_Arab_Revolt" title="Flag of the Arab Revolt">flag of the Arab Revolt</a>. The Aqaba Flagpole is the fifth tallest free standing flagpole in the world.</div>
+</div>
+</div>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Ideology"><span class="tocnumber">1</span> <span class="toctext">Ideology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Origins"><span class="tocnumber">2.1</span> <span class="toctext">Origins</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Rise_of_modern_Arab_nationalism"><span class="tocnumber">2.2</span> <span class="toctext">Rise of modern Arab nationalism</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Growth_of_the_movement"><span class="tocnumber">2.3</span> <span class="toctext">Growth of the movement</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Establishment_of_the_Arab_League"><span class="tocnumber">2.4</span> <span class="toctext">Establishment of the Arab League</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Peak_under_Egyptian_leadership"><span class="tocnumber">2.5</span> <span class="toctext">Peak under Egyptian leadership</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Decline"><span class="tocnumber">2.6</span> <span class="toctext">Decline</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Attempts_at_unity"><span class="tocnumber">3</span> <span class="toctext">Attempts at unity</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notable_Arab_nationalists"><span class="tocnumber">4</span> <span class="toctext">Notable Arab nationalists</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Thinkers"><span class="tocnumber">4.1</span> <span class="toctext">Thinkers</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#National_leaders"><span class="tocnumber">4.2</span> <span class="toctext">National leaders</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Ideology">Ideology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit&amp;section=1" title="Edit section: Ideology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of a series on</td>
+</tr>
+<tr>
+<th class="fn org country-name adr" style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Arab_League" title="Arab League">Arab League</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Flag_of_the_Arab_League.svg" class="image" title="Flag of the Arab League"><img alt="Flag of the Arab League" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_the_Arab_League.svg/230px-Flag_of_the_Arab_League.svg.png" width="230" height="153" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_the_Arab_League.svg/345px-Flag_of_the_Arab_League.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_the_Arab_League.svg/460px-Flag_of_the_Arab_League.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-top:0.2em;border-top:1px solid #006233;font-size:110%;text-align:center;">Issues</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #006233;">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Arab_Winter" title="Arab Winter">Arab Winter</a>
+<ul>
+<li><a href="/wiki/Arab_League_monitors_in_Syria" title="Arab League monitors in Syria">Syrian Civil War</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Diplomatic_and_humanitarian_efforts_in_the_Somali_Civil_War#Arab_League" title="Diplomatic and humanitarian efforts in the Somali Civil War">Somali Civil War</a></li>
+<li><a href="/wiki/Western_Sahara_conflict#Arab_League" title="Western Sahara conflict">Western Sahara conflict</a></li>
+<li><a href="/wiki/Arab_League_and_the_Arab%E2%80%93Israeli_conflict" title="Arab League and the Arab–Israeli conflict">Arab–Israeli conflict</a></li>
+<li><a href="/wiki/Pan-Arabism" title="Pan-Arabism">Pan-Arabism</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><i>Weapons of mass destruction</i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Egypt_and_weapons_of_mass_destruction" title="Egypt and weapons of mass destruction">Egypt</a></li>
+<li><a href="/wiki/Iraq_and_weapons_of_mass_destruction" title="Iraq and weapons of mass destruction">Iran</a></li>
+<li><a href="/wiki/Libya_and_weapons_of_mass_destruction" title="Libya and weapons of mass destruction">Libya</a></li>
+<li><a href="/wiki/Syria_and_weapons_of_mass_destruction" title="Syria and weapons of mass destruction">Syria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-top:0.2em;border-top:1px solid #006233;font-size:110%;text-align:center;"><a href="/wiki/Geography_of_the_Arab_League" title="Geography of the Arab League">Geography</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #006233;">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em"><i><a href="/wiki/Geography_of_the_Arab_League#Regions" title="Geography of the Arab League">Regions</a></i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><i><a href="/wiki/Maghreb" title="Maghreb" class="mw-redirect">Maghreb</a></i></li>
+<li><i><a href="/wiki/Mashriq" title="Mashriq">Mashriq</a></i></li>
+<li><a href="/wiki/Nile" title="Nile">Nile Valley</a></li>
+<li><a href="/wiki/Arab_states_of_the_Persian_Gulf" title="Arab states of the Persian Gulf">Gulf states</a></li>
+<li><i><a href="/wiki/Bab-el-Mandeb" title="Bab-el-Mandeb">Bab-el-Mandeb</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><i>Deserts</i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Sahara" title="Sahara">Sahara</a>
+<div class="hlist">
+<ul>
+<li><small style="font-size:85%;">(<a href="/wiki/Libyan_Desert" title="Libyan Desert">Libyan</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Nubian_Desert" title="Nubian Desert">Nubian</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Farafra,_Egypt" title="Farafra, Egypt">White</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Bayuda_Desert" title="Bayuda Desert">Bayuda</a>)</small></li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Arabian_Desert" title="Arabian Desert">Arabian</a>
+<div class="hlist">
+<ul>
+<li><small style="font-size:85%;">(<i><a href="/wiki/Rub%27_al_Khali" title="Rub' al Khali">Rub' al Khali</a></i></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Syrian_Desert" title="Syrian Desert">Syrian Desert</a></small></li>
+<li><small style="font-size:85%;"><i><a href="/wiki/An_Nafud" title="An Nafud">An Nafud</a></i>)</small></li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Ad-Dahna_Desert" title="Ad-Dahna Desert">ad-Dahna Desert</a></div>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-top:0.2em;border-top:1px solid #006233;font-size:110%;text-align:center;">Governance</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #006233;">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Charter_of_the_Arab_League" title="Charter of the Arab League">Founding Charter</a></li>
+<li><a href="/wiki/Arab_Charter_on_Human_Rights" title="Arab Charter on Human Rights">Human Rights Charter</a></li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/List_of_Secretaries_General_of_the_Arab_League" title="List of Secretaries General of the Arab League">Secretary-General</a><br />
+<small style="font-size:85%;">(<a href="/wiki/Nabil_Elaraby" title="Nabil Elaraby">Nabil Elaraby</a>)</small></div>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><i><a href="/wiki/Institutions_of_the_Arab_League" title="Institutions of the Arab League">Institutions</a></i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Council_of_the_Arab_League" title="Council of the Arab League">Council</a></li>
+<li><a href="/wiki/Arab_League#Summits" title="Arab League">Summits</a></li>
+<li><a href="/wiki/Arab_Parliament" title="Arab Parliament">Parliament</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-top:0.2em;border-top:1px solid #006233;font-size:110%;text-align:center;"><a href="/wiki/Pan-Arabism" title="Pan-Arabism">Unity</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #006233;">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em"><i>Arab leaders</i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Salman_of_Saudi_Arabia" title="Salman of Saudi Arabia">King Salman</a></li>
+<li><a href="/wiki/Abdullah_I_of_Jordan" title="Abdullah I of Jordan">King Abdullah</a></li>
+<li><a href="/wiki/Abdel_Fattah_el-Sisi" title="Abdel Fattah el-Sisi">Fattah el-Sisi</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><i><a href="/wiki/Pan-Arabism" title="Pan-Arabism">Ideology</a></i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li>
+<div class="hlist">
+<ul>
+<li><strong class="selflink">Arab nationalism</strong></li>
+<li><a href="/wiki/Nasserism" title="Nasserism">Nasserism</a></li>
+</ul>
+</div>
+</li>
+<li>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Arab_socialism" title="Arab socialism">Arab socialism</a></li>
+<li><a href="/wiki/Ba%27athism" title="Ba'athism">Ba'athism</a></li>
+</ul>
+</div>
+</li>
+<li><a href="/wiki/Third_International_Theory" title="Third International Theory">Third International Theory</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><i><a href="/wiki/Pan-Arabism" title="Pan-Arabism">Attempts at political union</a></i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Arab_Federation" title="Arab Federation">Arab Federation</a></li>
+<li><a href="/wiki/Arab_Islamic_Republic" title="Arab Islamic Republic">Arab Islamic Republic</a></li>
+<li><a href="/wiki/Federation_of_Arab_Republics" title="Federation of Arab Republics">Federation of Arab Republics</a></li>
+<li><a href="/wiki/Unified_Political_Command" title="Unified Political Command">Unified Political Command</a></li>
+<li><a href="/wiki/United_Arab_Republic" title="United Arab Republic">United Arab Republic</a></li>
+<li><a href="/wiki/United_Arab_States" title="United Arab States">United Arab States</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><i>Organizational unions</i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Gulf_Cooperation_Council" title="Gulf Cooperation Council">Cooperation Council for the<br />
+Arab States of the Gulf (GCC)</a></div>
+</li>
+<li><a href="/wiki/Arab_Maghreb_Union" title="Arab Maghreb Union">Arab Maghreb Union</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-top:0.2em;border-top:1px solid #006233;font-size:110%;text-align:center;"><a href="/wiki/Foreign_relations_of_the_Arab_League" title="Foreign relations of the Arab League">Foreign relations</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #006233;">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em"><i>Multilateral</i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Foreign_relations_of_the_Arab_League#African_Union" title="Foreign relations of the Arab League">African Union</a></li>
+<li><a href="/wiki/Foreign_relations_of_the_Arab_League#ASEAN" title="Foreign relations of the Arab League">ASEAN</a></li>
+<li><a href="/wiki/Arab_League%E2%80%93European_Union_relations" title="Arab League–European Union relations">European Union</a></li>
+<li><a href="/wiki/Foreign_relations_of_the_Arab_League#Latin_America" title="Foreign relations of the Arab League">Latin America</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><i>Bilateral</i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Foreign_relations_of_the_Arab_League#Brazil" title="Foreign relations of the Arab League">Brazil</a></li>
+<li><a href="/wiki/Sino-Arab_relations" title="Sino-Arab relations">China</a></li>
+<li><a href="/wiki/Arab%E2%80%93Eritrean_relations" title="Arab–Eritrean relations">Eritrea</a></li>
+<li><a href="/wiki/Foreign_relations_of_the_Arab_League#France" title="Foreign relations of the Arab League">France</a></li>
+<li><a href="/wiki/Foreign_relations_of_the_Arab_League#India" title="Foreign relations of the Arab League">India</a></li>
+<li><a href="/wiki/Foreign_relations_of_the_Arab_League#Eritrea" title="Foreign relations of the Arab League">Eritrea</a></li>
+<li><a href="/wiki/Arab_League%E2%80%93Iran_relations" title="Arab League–Iran relations">Iran</a></li>
+<li><a href="/wiki/Foreign_relations_of_the_Arab_League#Israel" title="Foreign relations of the Arab League">Israel</a></li>
+<li><a href="/wiki/Arab%E2%80%93Pakistan_relations" title="Arab–Pakistan relations">Pakistan</a></li>
+<li><a href="/wiki/Arab_League%E2%80%93Russia_relations" title="Arab League–Russia relations">Russia</a></li>
+<li><a href="/wiki/Foreign_relations_of_the_Arab_League#Turkey" title="Foreign relations of the Arab League">Turkey</a></li>
+<li><a href="/wiki/Arab%E2%80%93American_relations" title="Arab–American relations">United States</a></li>
+<li><a href="/wiki/Foreign_relations_of_the_Arab_League#Uzbekistan" title="Foreign relations of the Arab League">Uzbekistan</a></li>
+<li><a href="/wiki/Foreign_relations_of_the_Arab_League#Venezuela" title="Foreign relations of the Arab League">Venezuela</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-top:0.2em;border-top:1px solid #006233;font-size:110%;text-align:center;"><a href="/wiki/Military_of_the_Arab_League" title="Military of the Arab League">Military</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #006233;">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Military_of_the_Arab_League#List_of_Arab_League_member_states_by_military_expenditure" title="Military of the Arab League">Expenditure</a></li>
+<li><a href="/wiki/Arab_Revolt" title="Arab Revolt">Arab Revolt</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><i>Joint defence</i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Joint_Defence_Council_(Arab_League)" title="Joint Defence Council (Arab League)">Joint Defence Council</a></li>
+<li><a href="/wiki/United_Arab_Command" title="United Arab Command">United Arab Command</a></li>
+<li><a href="/wiki/Peninsula_Shield_Force" title="Peninsula Shield Force">Peninsula Shield</a></li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Arab_Organization_for_Industrialization" title="Arab Organization for Industrialization">Arab Organization for<br />
+Industrialization (AOI)</a></div>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-top:0.2em;border-top:1px solid #006233;font-size:110%;text-align:center;"><a href="/wiki/Economy_of_the_Arab_League" title="Economy of the Arab League">Economy</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #006233;">
+<ul>
+<li><a href="/wiki/Economic_and_Social_Council_(Arab_League)" title="Economic and Social Council (Arab League)">Economic and Social Council</a></li>
+<li><a href="/wiki/Council_of_Arab_Economic_Unity" title="Council of Arab Economic Unity">Council of Arab Economic Unity (CAEU)</a></li>
+<li><a href="/wiki/Arab_Monetary_Fund" title="Arab Monetary Fund">Arab Monetary Fund</a></li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Arab_Fund_for_Economic_and_Social_Development" title="Arab Fund for Economic and Social Development">Arab Fund for Economic and<br />
+Social Development (AFESD)</a></div>
+</li>
+<li><a href="/wiki/Union_for_the_Mediterranean" title="Union for the Mediterranean">Union for the Mediterranean</a></li>
+<li><a href="/wiki/Council_of_Arab_Economic_Unity#Greater_Arab_Free_Trade_Area" title="Council of Arab Economic Unity">Greater Arab Free Trade Area (GAFTA)</a></li>
+<li><a href="/wiki/General_Union_of_Chambers_of_Commerce,_Industry_and_Agriculture_for_Arab_Countries" title="General Union of Chambers of Commerce, Industry and Agriculture for Arab Countries">Chambers of Commerce</a></li>
+<li><a href="/wiki/Arab_Customs_Union" title="Arab Customs Union">Arab Customs Union</a></li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/International_Confederation_of_Arab_Trade_Unions" title="International Confederation of Arab Trade Unions">International Confederation of<br />
+Arab Trade Unions (ICATU)</a></div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Federation_of_Arab_Trade_Unions_and_Labor_Societies" title="Federation of Arab Trade Unions and Labor Societies">Federation of Arab Trade Unions<br />
+and Labor Societies (FATULS)</a></div>
+</li>
+<li><a href="/wiki/Qualifying_Industrial_Zone" title="Qualifying Industrial Zone">Qualifying Industrial Zone (QIZ)</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-top:0.2em;border-top:1px solid #006233;font-size:110%;text-align:center;"><a href="/wiki/Transport_in_the_Arab_League" title="Transport in the Arab League">Transportation</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #006233;">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Arab_Air_Carriers_Organization" title="Arab Air Carriers Organization">Aviation</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><i>Railways</i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Baghdad_Railway" title="Baghdad Railway">Berlin-Baghdad</a></li>
+<li><a href="/wiki/ONCF" title="ONCF">ONCF</a></li>
+<li><a href="/wiki/Palestine_Railways" title="Palestine Railways">Palestine Railways</a></li>
+<li><a href="/wiki/Hejaz_Railway" title="Hejaz Railway">Hejaz Railway</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><i>Bridges</i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Al_Ittihad_Bridge" title="Al Ittihad Bridge">Dubai Smile</a></li>
+<li><a href="/wiki/Qatar_Bahrain_Causeway" title="Qatar Bahrain Causeway">Qatar Bahrain Causeway</a></li>
+<li><a href="/wiki/King_Fahd_Causeway" title="King Fahd Causeway">King Fahd Causeway</a></li>
+<li><a href="/wiki/Sheikh_Rashid_bin_Saeed_Crossing" title="Sheikh Rashid bin Saeed Crossing">Sheikh Rashid bin Saeed Crossing</a></li>
+<li><a href="/wiki/Saudi%E2%80%93Egypt_Causeway" title="Saudi–Egypt Causeway">Saudi–Egypt Causeway</a></li>
+<li><a href="/wiki/Bridge_of_the_Horns" title="Bridge of the Horns">Bridge of the Horns</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-top:0.2em;border-top:1px solid #006233;font-size:110%;text-align:center;"><a href="/wiki/Arab_culture" title="Arab culture">Culture</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #006233;">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em"><i>Media</i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Arab_Satellite_Communications_Organization" title="Arab Satellite Communications Organization">Arab-SAT</a></li>
+<li><a href="/wiki/Nilesat" title="Nilesat">Nile-SAT</a></li>
+<li><a href="/wiki/Arab_Media_Group" title="Arab Media Group">Arab Media Group</a></li>
+<li><a href="/wiki/Arabian_Television_Network" title="Arabian Television Network">Arabian Television Network</a></li>
+<li><a href="/wiki/Arab_International_Media_Services" title="Arab International Media Services">Arab International Media Services</a></li>
+<li><a href="/wiki/Al_Arabiya" title="Al Arabiya">Al Arabiya</a></li>
+<li><a href="/wiki/Al_Jazeera" title="Al Jazeera">Al Jazeera</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><i><a href="/wiki/Arab_Capital_of_Culture" title="Arab Capital of Culture">Arab Capital of Culture</a></i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/2007_Arab_Capital_of_Culture" title="2007 Arab Capital of Culture">Algiers (2007)</a></li>
+<li><a href="/wiki/2008_Arab_Capital_of_Culture" title="2008 Arab Capital of Culture">Jerusalem (2008)</a></li>
+<li><a href="/wiki/2009_Arab_Capital_of_Culture" title="2009 Arab Capital of Culture">Damascus (2009)</a></li>
+<li><a href="/wiki/2010_Arab_Capital_of_Culture" title="2010 Arab Capital of Culture">Doha (2010)</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Arabic" title="Arabic">Arabic language</a></li>
+<li><a href="/wiki/Arab_cuisine" title="Arab cuisine">Cuisine</a></li>
+<li><a href="/wiki/Islamic_art" title="Islamic art">Art</a></li>
+<li><a href="/wiki/Arabic_literature" title="Arabic literature">Literature</a> <small style="font-size:85%;"><i><a href="/wiki/Mu%27allaqat" title="Mu'allaqat">Mu'allaqat</a></i>)</small></li>
+<li><a href="/wiki/Arab_culture#Dress" title="Arab culture">Dress</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><i><a href="/wiki/Sport_policies_of_the_Arab_League" title="Sport policies of the Arab League">Sport</a></i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Pan_Arab_Games" title="Pan Arab Games">Pan Arab Games</a></li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/UAFA_Arab_Champions_League" title="UAFA Arab Champions League">Arab Champions League</a><br />
+(<a href="/wiki/Arab_Cup_Winners%27_Cup" title="Arab Cup Winners' Cup">Cup Winners' Cup</a>)</div>
+</li>
+<li><a href="/wiki/Gulf_Cup_of_Nations" title="Gulf Cup of Nations">Gulf Cup of Nations</a></li>
+<li><a href="/wiki/Arab_Nations_Cup" title="Arab Nations Cup">Arab Nations Cup</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding-top:0.2em;border-top:1px solid #006233;font-size:110%;text-align:center;"><a href="/wiki/Demographics_of_the_Arab_League" title="Demographics of the Arab League">Demographics</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;border-top:1px solid #006233;">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em"><i><a href="/wiki/Religion_in_the_Middle_East" title="Religion in the Middle East">Religion</a></i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Hinduism_in_Arab_states" title="Hinduism in Arab states">Hinduism</a></li>
+<li><a href="/wiki/Arab_Muslims" title="Arab Muslims">Muslims</a></li>
+<li><a href="/wiki/Arab_Christians" title="Arab Christians">Christians</a></li>
+<li><a href="/wiki/Yazidis" title="Yazidis">Yazidis</a></li>
+<li><a href="/wiki/Shabaks" title="Shabaks" class="mw-redirect">Shabaks</a></li>
+<li><a href="/wiki/Mandaeans" title="Mandaeans">Mandaeans</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><i><a href="/wiki/Demographics_of_the_Arab_League#Ethnicities" title="Demographics of the Arab League">Ethnicities</a></i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Arabs" title="Arabs">Arabs</a></li>
+<li><a href="/wiki/Berbers" title="Berbers">Berbers</a></li>
+<li><a href="/wiki/Kurds" title="Kurds">Kurds</a></li>
+<li><a href="/wiki/Nubians" title="Nubians">Nubians</a></li>
+<li><a href="/wiki/Somalis" title="Somalis">Somalis</a></li>
+<li><a href="/wiki/Demographics_of_the_Arab_League#Ethnicities" title="Demographics of the Arab League">other</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><i><b><a href="/wiki/Arab_diaspora" title="Arab diaspora">Arab diaspora</a></b></i></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><i>Lifestyles</i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Bedouin" title="Bedouin">Bedouin</a></li>
+<li><a href="/wiki/Marsh_Arabs" title="Marsh Arabs">Marsh Arabs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em"><i><a href="/wiki/Demographics_of_the_Arab_League#Language" title="Demographics of the Arab League">Language</a></i></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Afar_language" title="Afar language">Afar</a></li>
+<li><a href="/wiki/Arabic" title="Arabic">Arabic</a></li>
+<li><a href="/wiki/Armenian_language" title="Armenian language">Armenian</a></li>
+<li><a href="/wiki/Berber_languages" title="Berber languages">Berber</a></li>
+<li><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a></li>
+<li><a href="/wiki/Kurdish_languages" title="Kurdish languages">Kurdish</a></li>
+<li><a href="/wiki/Nubian_languages" title="Nubian languages">Nubian</a></li>
+<li><a href="/wiki/Persian_language" title="Persian language">Persian</a></li>
+<li><a href="/wiki/Somali_language" title="Somali language">Somali</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;border-top:1px solid #006233;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Life_in_the_Arab_League" title="Template:Life in the Arab League"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Life_in_the_Arab_League" title="Template talk:Life in the Arab League"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Life_in_the_Arab_League&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>Arab nationalists believe that the Arab nation had existed as a historical entity prior to the rise of nationalism in the 19th–20th century. The Arab nation was formed through the gradual establishment of <a href="/wiki/Arabic" title="Arabic">Arabic</a> as the language of communication and with the advent of Islam as a religion and culture in the region. Both Arabic and Islam served as the pillars of the nation. According to writer Youssef Choueiri, Arab nationalism represents the "Arabs' consciousness of their specific characteristics as well as their endeavor to build a modern state capable of representing the common will of the nation and all its constituent parts."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Within the Arab nationalist movement are three differentiations: the Arab nation, Arab nationalism, and pan-Arab unity. Jamil al-Sayyid, a founder of the Arab nationalist Ba'ath Party, claims the nation is the group of people who speak Arabic, inhabit the <a href="/wiki/Arab_world" title="Arab world">Arab world</a>, and who have a feeling of belonging to the same nation. Nationalism is the "sum total" of the characteristics and qualities exclusive to the Arab nation, whereas pan-Arab unity is the modern idea which stipulates that the separate Arab countries should unify to form a single state under one political system.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Local patriotism centered on individual Arab countries was incorporated into the framework of Arab nationalism starting in the 1920s. This was done by positioning the <a href="/wiki/Arabian_Peninsula" title="Arabian Peninsula">Arabian Peninsula</a> as the homeland of the <a href="/wiki/Semitic_people" title="Semitic people">Semitic peoples</a> (the <a href="/wiki/Canaan" title="Canaan">Canaanites</a> and <a href="/wiki/Aramaeans" title="Aramaeans" class="mw-redirect">Aramaeans</a> of the <a href="/wiki/Levant" title="Levant">Levant</a> and the <a href="/wiki/Assyria" title="Assyria">Assyrians</a> and <a href="/wiki/Babylonia" title="Babylonia">Babylonians</a> of <a href="/wiki/Mesopotamia" title="Mesopotamia">Mesopotamia</a>) who migrated throughout the Middle East in ancient times or by associating the other pre-Islamic cultures, such as those of <a href="/wiki/Egypt" title="Egypt">Egypt</a> and North Africa and <a href="/wiki/Horn_of_Africa" title="Horn of Africa">Horn of Africa</a>, into an evolving Arab identity.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>The modern Arabic language actually has two distinct words which can be translated into English as "nationalism": <i>qawmiyya</i> قومية, derived from the word <i>qawm</i> (meaning "tribe, ethnic nationality"), and <i>wataniyya</i> وطنية, derived from the word <i>watan</i> (meaning "homeland, native country"). The word <i>qawmiyya</i> has been used to refer to pan-Arab nationalism, while <i>wataniyya</i> has been used to refer to patriotism at a more local level (sometimes disparaged as "regionalism" by those who consider pan-Arabism the only true form of Arab nationalism).<sup id="cite_ref-Sela153_7-0" class="reference"><a href="#cite_note-Sela153-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>In the post-World War years, the concept of <i>qawmiyya</i> "gradually assumed a <a href="/wiki/Left-wing_politics" title="Left-wing politics">leftist</a> coloration, calling for ... the creation of revolutionary Arab unity."<sup id="cite_ref-Sela154_8-0" class="reference"><a href="#cite_note-Sela154-8"><span>[</span>8<span>]</span></a></sup> Groups who subscribed to this point of view advocated opposition, violent and non-violent, against Israel and against Arabs who did not subscribe to this point of view. The person most identified with <i>qawmiyya</i> was <a href="/wiki/Gamal_Abdel_Nasser" title="Gamal Abdel Nasser">Gamal Abdel Nasser</a> of Egypt, who used both military and political power to spread <a href="/wiki/Nasserism" title="Nasserism">his version of pan-Arab ideology</a> throughout the Arab world. While <i>qawmiyya</i> still remains a potent political force today, the death of Nasser and the Arab defeat in the <a href="/wiki/Six-Day_War" title="Six-Day War">Six-Day War</a> has weakened faith in this ideal. The current dominant ideology among Arab policy makers has shifted to <i>wataniyya</i>.<sup id="cite_ref-Sela154_8-1" class="reference"><a href="#cite_note-Sela154-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit&amp;section=3" title="Edit section: Origins">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Throughout the late 19th century, beginning in the 1860s, a sense of loyalty to the "Fatherland" developed in intellectual circles based in the <a href="/wiki/Levant" title="Levant">Levant</a> and <a href="/wiki/Egypt" title="Egypt">Egypt</a>, but not necessarily an "Arab Fatherland". It developed from observance of the technological successes of Western Europe which they attributed to the prevailing of patriotism in those countries.<sup id="cite_ref-Khalidi6_9-0" class="reference"><a href="#cite_note-Khalidi6-9"><span>[</span>9<span>]</span></a></sup> During this period, a heavy influx of Christian missionaries and educators from <a href="/wiki/Western_countries" title="Western countries" class="mw-redirect">Western countries</a> provided what was termed the "Arab political revival", resulting in the establishment of secret societies within the empire.</p>
+<p>In the 1860s, literature produced in the <a href="/wiki/Mashreq" title="Mashreq" class="mw-redirect">Mashreq</a> (the Levant and <a href="/wiki/Mesopotamia" title="Mesopotamia">Mesopotamia</a>) which was under Ottoman control at the time, contained emotional intensity and strongly condemned the <a href="/wiki/Ottoman_Turks" title="Ottoman Turks" class="mw-redirect">Ottoman Turks</a> for "betraying Islam" and the Fatherland to the Christian West. In the view of Arab patriots, Islam had not always been in a "sorry state" and attributed the military triumphs and cultural glories of the Arabs to the advent of the religion, insisting that European modernism itself was of Islamic origin. The Ottomans, on the other hand, had deviated from true Islam and thus suffered decline. The reforming Ottoman and Egyptian governments were blamed for the situation because they attempted to borrow Western practices from the Europeans that were seen as unnatural and corrupt. The Arab patriots' view was that the Islamic governments should revive true Islam that would in turn, pave way for the establishment of constitutional representative government and freedom which, though Islamic in origin, was manifested in the West at the time.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>Arabism and regional patriotism (such as in Egypt or in the Levant) mixed and gained predominance over <a href="/wiki/Ottomanism" title="Ottomanism">Ottomanism</a> among some Arabs in <a href="/wiki/Syria" title="Syria">Syria</a> and <a href="/wiki/Lebanon" title="Lebanon">Lebanon</a>. <a href="/wiki/Ibrahim_al-Yazigi" title="Ibrahim al-Yazigi" class="mw-redirect">Ibrahim al-Yazigi</a>, a Syrian Christian philosopher, called for the Arabs to "recover their lost ancient vitality and throw off the yoke of the Turks" in 1868. A secret society promoting this goal was formed in the late 1870s, with al-Yazigi as a member. The group placed placards in <a href="/wiki/Beirut" title="Beirut">Beirut</a> calling for a rebellion against the Ottomans. Meanwhile, other Lebanese and <a href="/wiki/Damascus" title="Damascus">Damascus</a>-based notables, mostly Muslims, formed similar secret movements, although they differed as Christian groups who disfavoured Arabism called for a completely independent Lebanon while the Muslim Arab societies generally promoted an autonomous <a href="/wiki/Greater_Syria" title="Greater Syria">Greater Syria</a> still under Ottoman rule.<sup id="cite_ref-Khalidi8_11-0" class="reference"><a href="#cite_note-Khalidi8-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>As early as 1870, Syrian writer <a href="/wiki/Francis_Marrash" title="Francis Marrash">Francis Marrash</a> distinguished the notion of fatherland from that of nation; when applying the latter to <a href="/wiki/Greater_Syria" title="Greater Syria">Greater Syria</a>, he pointed to the role played by language, besides customs and belief in common interests, in defining national identity.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> This distinction between fatherland and nation was also made by Hasan al-Marsafi in 1881. By the beginning of the 20th century, groups of Muslim Arabs embraced an Arab nationalist "self-view" that would provide as the basis of the Arab nationalist ideology of the 20th century. This new version of Arab patriotism was directly influenced by the Islamic modernism and revivalism of <a href="/wiki/Muhammad_Abduh" title="Muhammad Abduh">Muhammad Abduh</a>, the <a href="/wiki/Egypt" title="Egypt">Egyptian</a> Muslim scholar. Abduh believed the Arabs' Muslim ancestors bestowed "rationality on mankind and created the essentials of modernity," borrowed by the West. Thus, while Europe advanced from adopting the modernist ideals of true Islam, the Muslims failed, corrupting and abandoning true Islam.<sup id="cite_ref-Khalidi8_11-1" class="reference"><a href="#cite_note-Khalidi8-11"><span>[</span>11<span>]</span></a></sup> Abduh influenced modern Arab nationalism in particular, because the revival of true Islam's ancestors (who were Arabs) would also become the revival of Arab culture and the restoration of the Arab position as the leaders of the Islamic world. One of Abduh's followers, <a href="/wiki/Abd_al-Rahman_al-Kawakibi" title="Abd al-Rahman al-Kawakibi">Abd al-Rahman al-Kawakibi</a>, openly declared that the Ottoman Empire should be both Turkish and Arab, with the latter exercising religious and cultural leadership.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Rise_of_modern_Arab_nationalism">Rise of modern Arab nationalism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit&amp;section=4" title="Edit section: Rise of modern Arab nationalism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Fatat_Members_outside_of_Damascus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Fatat_Members_outside_of_Damascus.jpg/220px-Fatat_Members_outside_of_Damascus.jpg" width="220" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Fatat_Members_outside_of_Damascus.jpg/330px-Fatat_Members_outside_of_Damascus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Fatat_Members_outside_of_Damascus.jpg/440px-Fatat_Members_outside_of_Damascus.jpg 2x" data-file-width="594" data-file-height="450" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Fatat_Members_outside_of_Damascus.jpg" class="internal" title="Enlarge"></a></div>
+The members of al-Fatat at a resort near <a href="/wiki/Damascus" title="Damascus">Damascus</a>. Bottom row (left to right): Tawfiq al-Hayyani, Fayez al-Shihabi, <a href="/wiki/Rafiq_al-Tamimi" title="Rafiq al-Tamimi">Rafiq al-Tamimi</a>, <a href="/wiki/Awni_Abd_al-Hadi" title="Awni Abd al-Hadi">Awni Abd al-Hadi</a>, Ahmad Qadri, <a href="/wiki/Mu%27in_al-Madi" title="Mu'in al-Madi">Mu'in al-Madi</a>, Tawfiq al-Yazagi, and Sa'id Talab. Middle row (L to R): <a href="/wiki/Wasfi_al-Atassi" title="Wasfi al-Atassi">Wasfi al-Atassi</a>, Ahmad Muraywed, <a href="/wiki/Shukri_al-Quwatli" title="Shukri al-Quwatli">Shukri al-Quwatli</a>, Bahjat al-Shihabi, Saleem al-Attar, Zaki al-Tamimi, Husni al-Barazi. Top Row (L to R): Adil al-Azma, Rushdi al-Husami, <a href="/wiki/Riad_as-Solh" title="Riad as-Solh" class="mw-redirect">Riad as-Solh</a>, <a href="/wiki/Saadallah_al-Jabiri" title="Saadallah al-Jabiri">Saadallah al-Jabiri</a>, Afif as-Solh, <a href="/wiki/Izzat_Darwaza" title="Izzat Darwaza">Izzat Darwaza</a>.</div>
+</div>
+</div>
+<p>In 1911, Muslim intellectuals and politicians from throughout the Levant formed <a href="/wiki/Al-Fatat" title="Al-Fatat">al-Fatat</a> ("the Young Arab Society"), a small Arab nationalist club, in Paris. Its stated aim was "raising the level of the Arab nation to the level of modern nations." In the first few years of its existence, al-Fatat called for greater autonomy within a unified Ottoman state rather than Arab independence from the empire. Al-Fatat hosted the <a href="/wiki/Arab_Congress_of_1913" title="Arab Congress of 1913">Arab Congress of 1913</a> in Paris, the purpose of which was to discuss desired reforms with other dissenting individuals from the Arab world. They also requested that Arab conscripts to the Ottoman army not be required to serve in non-Arab regions except in time of war. However, as the Ottoman authorities cracked down on the organization's activities and members, al-Fatat went underground and demanded the complete independence and unity of the Arab provinces.<sup id="cite_ref-Choueiri166_14-0" class="reference"><a href="#cite_note-Choueiri166-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>Nationalist individuals became more prominent during the waning years of Ottoman authority, but the idea of Arab nationalism had virtually no impact on the majority of Arabs as they considered themselves loyal subjects of the Ottoman Empire.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> The British, for their part, incited the <a href="/wiki/Sharif_of_Mecca" title="Sharif of Mecca">Sharif of Mecca</a> to launch the <a href="/wiki/Arab_Revolt" title="Arab Revolt">Arab Revolt</a> during the First World War.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> The Ottomans were defeated and the rebel forces, loyal to the Sharif's son <a href="/wiki/Faysal_I_of_Iraq" title="Faysal I of Iraq" class="mw-redirect">Faysal ibn al-Husayn</a> entered Damascus in 1918. By now, Faysal along with many Iraqi intellectuals and military officers had joined al-Fatat which would form the backbone of the newly created Arab state that consisted of much of the Levant and the <a href="/wiki/Hejaz" title="Hejaz">Hejaz</a>.<sup id="cite_ref-Choueiri166_14-1" class="reference"><a href="#cite_note-Choueiri166-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>Damascus became the coordinating center of the Arab nationalist movement as it was seen as the birthplace of the ideology, the seat of Faysal—the first Arab "sovereign" after nearly 400 years of Turkish suzerainty—and because the nationalists of the entire Mashreq region were familiar with it. Nonetheless, <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a>, <a href="/wiki/Beirut" title="Beirut">Beirut</a>, and <a href="/wiki/Baghdad" title="Baghdad">Baghdad</a> remained significant bases of support. Following the creation of Faysal's state, a serious tension within the Arab nationalist movement became visible; the conflict between the ideology's highest ideal of forming a single independent unit comprising all countries that shared the Arabic language and heritage, and the tendency to give precedence to local ambitions.<sup id="cite_ref-Choueiri171_17-0" class="reference"><a href="#cite_note-Choueiri171-17"><span>[</span>17<span>]</span></a></sup></p>
+<p>To further tensions, a rift formed between the older nationalist members of various Syrian urban-class families and the generally younger nationalists who became close to Faysal—his Hejazi troops, Iraqi and Syrian military officers, and Palestinian and Syrian intellectuals. The older guard was mainly represented by <a href="/wiki/Rida_Pasha_al-Rikabi" title="Rida Pasha al-Rikabi" class="mw-redirect">Rida Pasha al-Rikabi</a>, who served as Faysal's prime minister, while the younger guard did not have one particular leader.<sup id="cite_ref-Choueiri171_17-1" class="reference"><a href="#cite_note-Choueiri171-17"><span>[</span>17<span>]</span></a></sup> However, the youth within al-Fatat founded the <a href="/wiki/Independence_Party_(Palestine)" title="Independence Party (Palestine)" class="mw-redirect">Arab Independence Party</a> ("al-Istiqlal") in February 1919. Its goal was to achieve unity and complete Arab independence. Prominent members included <a href="/wiki/Izzat_Darwaza" title="Izzat Darwaza">Izzat Darwaza</a> and <a href="/wiki/Shukri_al-Quwatli" title="Shukri al-Quwatli">Shukri al-Quwatli</a>. Centered in Damascus with branches in various cities throughout the Levant, al-Istiqlal received political and financial support from Faysal, but relied on the inner circle of al-Fatat to survive.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></p>
+<p>During the war, Britain had been a major sponsor of Arab nationalist thought and ideology, primarily as a weapon to use against the power of the Ottoman Empire. Although the Arab forces were promised a state that included much of the Arabian Peninsula and the <a href="/wiki/Fertile_Crescent" title="Fertile Crescent">Fertile Crescent</a> the secret <a href="/wiki/Sykes-Picot_Agreement" title="Sykes-Picot Agreement" class="mw-redirect">Sykes-Picot Agreement</a> between Britain and France provided for the territorial division of much of that region between the two imperial powers. During the inter-war years and the <a href="/wiki/British_Mandate_of_Palestine" title="British Mandate of Palestine" class="mw-redirect">British Mandate</a> period, when Arab lands were under French and British control, Arab nationalism became an important anti-imperial opposition movement against European rule.</p>
+<h3><span class="mw-headline" id="Growth_of_the_movement">Growth of the movement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit&amp;section=5" title="Edit section: Growth of the movement">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sultan_al-Atrash.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sultan_al-Atrash.jpg/220px-Sultan_al-Atrash.jpg" width="220" height="202" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sultan_al-Atrash.jpg/330px-Sultan_al-Atrash.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Sultan_al-Atrash.jpg/440px-Sultan_al-Atrash.jpg 2x" data-file-width="489" data-file-height="450" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sultan_al-Atrash.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Sultan_Pasha_al-Atrash" title="Sultan Pasha al-Atrash" class="mw-redirect">Sultan Pasha al-Atrash</a> leading his forces against the <a href="/wiki/French_Mandate" title="French Mandate" class="mw-redirect">French Mandate</a> authorities in <a href="/wiki/Syria" title="Syria">Syria</a>, 1926</div>
+</div>
+</div>
+<p>A number of Arab revolts against the European powers took place following the establishment of the British and French mandates.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> Resentment of British rule culminated in the <a href="/wiki/Iraqi_revolt_against_the_British" title="Iraqi revolt against the British">Iraqi revolt</a> of 1920. The uprising which was carried out by the urban population as well as the rural tribes of Iraq ended in 1921. The British drastically changed their policy in Iraq afterwards. Although the mandate was still in place officially, the British role was virtually reduced to an advisory one.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> In 1925, the <a href="/wiki/Druze" title="Druze">Druze</a> of southern Syria under the leadership of <a href="/wiki/Sultan_Pasha_al-Atrash" title="Sultan Pasha al-Atrash" class="mw-redirect">Sultan Pasha al-Atrash</a> revolted against French rule. The revolt subsequently spread throughout Syria, particularly in Damascus where an uprising by the citizens took place. The French responded by systematically bombarding the city, resulting in thousands of deaths. The revolt was put down by the end of the year, but it is credited with forcing the French to take more steps to ensure Syrian independence.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup> In <a href="/wiki/Egypt" title="Egypt">Egypt</a>, resentment of British hegemony led to wide-scale <a href="/wiki/Egyptian_Revolution_of_1919" title="Egyptian Revolution of 1919">revolts across the country</a> in 1919. As a result of three-year negotiations following the uprising, the British agreed to allow Egypt's official independence in 1922, but their military still held great influence in the country. It should also be noted that the political leaders of the Egyptian revolution espoused <a href="/wiki/Egyptian_nationalism" title="Egyptian nationalism">Egyptian nationalism</a>, rather than an Arab nationalist alternative.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p>
+<p>The relative independence of Egypt, Iraq, <a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a> and <a href="/wiki/North_Yemen" title="North Yemen">North Yemen</a> encouraged Arab nationalists to put forward programs of action against colonial powers in the region. According to historian Youssef Choueiri, the "first public glimmerings" of a pan-Arab approach occurred in 1931, during the convention of a pan-Islamic conference in <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a> which highlighted Muslim fears of the increasing growth of <a href="/wiki/Zionism" title="Zionism">Zionism</a> in Palestine. Arab delegates held a separate conference and for the first time delegates from North Africa, Egypt, the Arabian Peninsula and the Fertile Crescent convened together to discuss Arab matters. A <a href="/wiki/Pan-Arabism" title="Pan-Arabism">pan-Arabist</a> covenant was proclaimed centering on three main articles:</p>
+<ul>
+<li>The Arab countries form an integral and indivisible whole. Hence the Arab nation does not accept or recognize the divisions of whatever nature to which it has been subjected.</li>
+<li>All efforts in every Arab country are to be directed towards the achievement of total independence within one single unity. Every endeavor which confines political activities to local or regional issues is to be fought against.</li>
+<li>Since colonialism is, in all its forms and manifestations, incompatible with the dignity and paramount aims of the Arab nation, the Arab nation rejects it and will resist it with all the means at its disposal.</li>
+</ul>
+<p>Plans for a near-future conference were made, but never came into play due to Faysal's death in 1933 (delegates chose Faysal of Iraq to be their patron and he agreed to provide moral and material support for the movement) and fierce British opposition. However, the <a href="/wiki/Independence_Party_(Palestine)" title="Independence Party (Palestine)" class="mw-redirect">Arab Independence Party</a> was formed by Palestinian and Iraqi activists from al-Fatat as a direct result of the Jerusalem conference on 13 August 1932. Most of the AIP's activities were centered in the Palestinian political field, but the party also worked towards achieving Arab unity and solidarity as a means to strengthen Arab resistance against the British Mandate in Palestine and increased Jewish settlement occurring there. In August 1933, the <a href="/wiki/League_of_Nationalist_Action" title="League of Nationalist Action">League of Nationalist Action</a> (LNA) was founded in <a href="/wiki/Lebanon" title="Lebanon">Lebanon</a> by Western-educated professional civil service groups with the aims of creating a common Arab market and industrial base as well as the abolishment of customs barriers between the Arab countries.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup> By proposing agrarian reforms to limit the power of landowners, abolishing what they considered "<a href="/wiki/Feudalism" title="Feudalism">feudalism</a>" and promoting the growth of an industry, the LNA sought to undermine the <a href="/wiki/Absentee_landlord" title="Absentee landlord">absentee landlords</a> in the Levant who tended to encourage local nationalism and were open to working with European authorities or Jewish land purchasers. The LNA enjoyed a level of popularity throughout the 1930s, but did not survive into the 1940s.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Palest_against_british.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Palest_against_british.gif/220px-Palest_against_british.gif" width="220" height="138" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Palest_against_british.gif/330px-Palest_against_british.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Palest_against_british.gif/440px-Palest_against_british.gif 2x" data-file-width="640" data-file-height="401" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Palest_against_british.gif" class="internal" title="Enlarge"></a></div>
+Arab rebels during the <a href="/wiki/1936%E2%80%9339_Arab_revolt_in_Palestine" title="1936–39 Arab revolt in Palestine">1936–39 Arab revolt in Palestine</a></div>
+</div>
+</div>
+<p>Following the killing of the Syrian Arab guerrilla leader <a href="/wiki/Izz_al-Din_al-Qassam" title="Izz al-Din al-Qassam" class="mw-redirect">Izz al-Din al-Qassam</a> by British forces in <a href="/wiki/Ya%27bad" title="Ya'bad">Ya'bad</a>, Arab-Jewish tensions in Palestine reached a climax. <a href="/wiki/Anti-Zionism" title="Anti-Zionism">Anti-Zionist</a> sentiments reached a boiling point on 15 April 1936, when an armed group of Arabs killed a Jewish civilian after intercepting his car near the village of <a href="/wiki/Bal%27a" title="Bal'a">Bal'a</a>. After Jews retaliated by killing two Arab farmers near <a href="/wiki/Jaffa" title="Jaffa">Jaffa</a>, this sparked an <a href="/wiki/1936%E2%80%9339_Arab_revolt_in_Palestine" title="1936–39 Arab revolt in Palestine">Arab revolt</a> in Palestine. The AIP along with Palestinian notables selected popular leader and <a href="/wiki/Grand_Mufti_of_Jerusalem" title="Grand Mufti of Jerusalem">Grand Mufti of Jerusalem</a>, <a href="/wiki/Mohammed_Amin_al-Husayni" title="Mohammed Amin al-Husayni" class="mw-redirect">Hajj Amin al-Husayni</a> to lead the uprising.<sup id="cite_ref-Nafi192_25-0" class="reference"><a href="#cite_note-Nafi192-25"><span>[</span>25<span>]</span></a></sup> The <a href="/wiki/Arab_Higher_Committee" title="Arab Higher Committee">Arab Higher Committee</a> (AHC), a national committee bringing together Arab factions in Palestine, was established to coordinate the uprising. To protest increased <a href="/wiki/Aliyah" title="Aliyah">Jewish immigration</a>, a <a href="/wiki/Palestinian_general_strike" title="Palestinian general strike">general strike</a> was declared and a political, economic, and social boycott of Jews soon ensued.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></p>
+<p>The events in Palestine followed similar anti-colonial activities in Egypt and Syria which helped inspire the uprising. In Egypt, week-long anti-British demonstrations had eventually resulted in the restoration of the Egyptian constitution while in Syria, a general strike held in January–February 1936 led to major negotiations for an independence deal with the French government.<sup id="cite_ref-Nafi192_25-1" class="reference"><a href="#cite_note-Nafi192-25"><span>[</span>25<span>]</span></a></sup> The British took a firm stance against the nationalist revolt in Palestine, dissolving the AHC forcing al-Husayni into exile in Lebanon in 1937.<sup id="cite_ref-Choueiri97_27-0" class="reference"><a href="#cite_note-Choueiri97-27"><span>[</span>27<span>]</span></a></sup> Al-Husayni, who leaned more towards <a href="/wiki/Palestinian_nationalism" title="Palestinian nationalism">Palestinian nationalism</a> and <a href="/wiki/Islamism" title="Islamism">Islamism</a>, was instrumental in organizing the pan-Arab <a href="/wiki/Bloudan_Conference_(1937)" title="Bloudan Conference (1937)">Bloudan Conference</a> on 9 September 1937 in Syria which gathered 524 delegates from across the Arab world, although al-Husayni himself was not in attendance.<sup id="cite_ref-Choueiri98_28-0" class="reference"><a href="#cite_note-Choueiri98-28"><span>[</span>28<span>]</span></a></sup> According to author Adeeb Dawisha, although the uprising had been quelled by 1939, it greatly "contributed to the growth of Arab nationalist sentiment" and began the development of "solidarity" between Arab governments.<sup id="cite_ref-Dawisha117_29-0" class="reference"><a href="#cite_note-Dawisha117-29"><span>[</span>29<span>]</span></a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:115px;"><a href="/wiki/File:Ghazi.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/4/49/Ghazi.jpg" width="113" height="164" class="thumbimage" data-file-width="113" data-file-height="164" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ghazi.jpg" class="internal" title="Enlarge"></a></div>
+King <a href="/wiki/Ghazi_of_Iraq" title="Ghazi of Iraq">Ghazi of Iraq</a> was a strong supporter of Arab nationalism. He died in a car accident in 1939, but his death was blamed on the British by <a href="/wiki/Iraq" title="Iraq">Iraqi</a> army officers loyal to him</div>
+</div>
+</div>
+<p>Meanwhile, a clandestine Arab nationalist society was formed in Iraq in 1938 which came to be known as Arab Nationalist Party (ANP). The ANP typically confined itself to influencing events and leaders in Iraq rather than taking the lead of a mass nationalist movement. King <a href="/wiki/Ghazi_of_Iraq" title="Ghazi of Iraq">Ghazi of Iraq</a> was one such leader. Ghazi intended to build a strong Iraqi army and actively sought to annex <a href="/wiki/Kuwait" title="Kuwait">Kuwait</a>. Many Arab nationalist politicians from Kuwait, who favored independence particularly after the discovery of oil there in 1938, were provided safe haven in Iraq after being repressed by the quasi-rulers of the <a href="/wiki/Sheikhdom" title="Sheikhdom">sheikhdom</a>, the <a href="/wiki/Al-Sabah" title="Al-Sabah" class="mw-redirect">al-Sabah</a> family (Kuwait was still a British territory at the time.) Ghazi died in a car accident in 1939, prompting a number of his army officers to allege the king was assassinated by British forces.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup> That same year, al-Husayni arrived in Baghdad after escaping from Lebanon, giving a morale boost to the pan-Arab dimension in Iraqi politics. The prime minister at the time, <a href="/wiki/Nuri_al-Said" title="Nuri al-Said">Nuri al-Said</a> and the regent king <a href="/wiki/Abdul_Illah" title="Abdul Illah" class="mw-redirect">Abdul Illah</a>, did not harbor the pan-Arabist sympathies Ghazi espoused.<sup id="cite_ref-Choueiri98_28-1" class="reference"><a href="#cite_note-Choueiri98-28"><span>[</span>28<span>]</span></a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rashid_Ali_al-Gaylani_and_Haj_Amin_al-Husseini_at_anniversary_of_the_1941_coup_in_Iraq.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rashid_Ali_al-Gaylani_and_Haj_Amin_al-Husseini_at_anniversary_of_the_1941_coup_in_Iraq.jpg/220px-Rashid_Ali_al-Gaylani_and_Haj_Amin_al-Husseini_at_anniversary_of_the_1941_coup_in_Iraq.jpg" width="220" height="210" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rashid_Ali_al-Gaylani_and_Haj_Amin_al-Husseini_at_anniversary_of_the_1941_coup_in_Iraq.jpg/330px-Rashid_Ali_al-Gaylani_and_Haj_Amin_al-Husseini_at_anniversary_of_the_1941_coup_in_Iraq.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Rashid_Ali_al-Gaylani_and_Haj_Amin_al-Husseini_at_anniversary_of_the_1941_coup_in_Iraq.jpg/440px-Rashid_Ali_al-Gaylani_and_Haj_Amin_al-Husseini_at_anniversary_of_the_1941_coup_in_Iraq.jpg 2x" data-file-width="443" data-file-height="422" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Rashid_Ali_al-Gaylani_and_Haj_Amin_al-Husseini_at_anniversary_of_the_1941_coup_in_Iraq.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Mohammad_Amin_al-Husayni" title="Mohammad Amin al-Husayni" class="mw-redirect">Hajj Amin al-Husayni</a> (center, wearing headress) and <a href="/wiki/Rashid_Ali_al-Gaylani" title="Rashid Ali al-Gaylani">Rashid Ali al-Gaylani</a> (to al-Husayni's left) commemorating the anniversary of the 1941 Iraq coup in Berlin, Germany</div>
+</div>
+</div>
+<p><a href="/wiki/Rashid_Ali_al-Gaylani" title="Rashid Ali al-Gaylani">Rashid Ali al-Gaylani</a> succeeded al-Said as Prime Minister in March 1940 and took a neutral position regarding <a href="/wiki/World_War_II" title="World War II">World War II</a>, opening dialogue with the German government which was at war with Britain. Under great pressure from the latter, al-Gaylani resigned on 31 January 1941 and al-Said took his place. The perceived British interjection in Iraq's internal affairs angered Arab nationalist officers in the army, leading a group of them to overthrow the government in April and install al-Gaylani as Prime Minister.<sup id="cite_ref-Dawisha117_29-1" class="reference"><a href="#cite_note-Dawisha117-29"><span>[</span>29<span>]</span></a></sup> To counter a British military response to the coup, al-Gaylani enlisted the support of Germany, but the German military did not arrive to aid the Arab nationalist government. With pro-German <a href="/wiki/Vichy_France" title="Vichy France">Vichy France</a> having taken control of neighboring Syria, Britain reoccupied Iraq in May to prevent it from joining the <a href="/wiki/Axis_Powers" title="Axis Powers" class="mw-redirect">Axis Powers</a>. By 1 June, al-Gaylani and al-Husayni fled to the country for Germany, while the army officers who carried out the coup were captured and executed.<sup id="cite_ref-Choueiri98_28-2" class="reference"><a href="#cite_note-Choueiri98-28"><span>[</span>28<span>]</span></a></sup></p>
+<p>Al-Husayni became <a href="/wiki/Nazi_relations_with_the_Arab_world" title="Nazi relations with the Arab world" class="mw-redirect">increasingly acquainted</a> with <a href="/wiki/Hitler" title="Hitler" class="mw-redirect">Hitler</a>, the <a href="/wiki/Nazi_Party" title="Nazi Party">Nazi</a> leader of Germany, and other Nazi officials and attempted to coordinate Nazi and Arab policies to solve what he believed was the "<a href="/wiki/Jewish_problem" title="Jewish problem" class="mw-redirect">Jewish problem</a>" in Palestine.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup> In one of the mufti's speeches he asked Arabs to unite and "kill the Jews wherever you find them."<sup id="cite_ref-icon_32-0" class="reference"><a href="#cite_note-icon-32"><span>[</span>32<span>]</span></a></sup><sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup> Throughout World War II, the Nazi government, seeking to take advantage of widespread anti-imperialist feelings in the Middle East, had broadcast anti-Semitic messages tailored to Arabic-speaking Muslims in the Middle East via radio.<sup id="cite_ref-Herf_35-0" class="reference"><a href="#cite_note-Herf-35"><span>[</span>35<span>]</span></a></sup></p>
+<p>The conflict in Iraq provoked anger and frustration throughout the Arab world and the British acknowledged the rapid growth of Arab nationalist feeling among the Arab population,<sup id="cite_ref-Choueiri99_36-0" class="reference"><a href="#cite_note-Choueiri99-36"><span>[</span>36<span>]</span></a></sup> large segments of which saw the events in Iraq as a valiant struggle against imperialism.<sup id="cite_ref-Dawisha118_37-0" class="reference"><a href="#cite_note-Dawisha118-37"><span>[</span>37<span>]</span></a></sup> British Foreign Secretary, <a href="/wiki/Anthony_Eden" title="Anthony Eden">Anthony Eden</a>, officially stated Britain's support of strong pan-Arab ties in a bid to ease anti-British sentiments in the region.<sup id="cite_ref-Choueiri99_36-1" class="reference"><a href="#cite_note-Choueiri99-36"><span>[</span>36<span>]</span></a></sup> The events of the region influenced the creation of the Arab Union Club in Egypt in 1942 which called for developing stronger ties between Egypt and the Arab world. Branches were subsequently opened in Baghdad, Beirut, Jaffa and Damascus, and Egyptian Prime Minister <a href="/wiki/Nahas_Pasha" title="Nahas Pasha" class="mw-redirect">Nahas Pasha</a> adopted its platform, pledging to help protect "the interests and rights" of the "sister Arab nations" and explore the "question of Arab unity."<sup id="cite_ref-Dawisha118_37-1" class="reference"><a href="#cite_note-Dawisha118-37"><span>[</span>37<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Establishment_of_the_Arab_League">Establishment of the Arab League</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit&amp;section=6" title="Edit section: Establishment of the Arab League">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rivalry for the leadership of the Arab world developed mostly between the political establishments of Iraq and Egypt in the period following the failure of Rashid Ali coup. Eden's stated support for increased Arab ties encouraged Nuri al-Said of Iraq to propose his own plan for Arab unity in January 1943, dubbed the "<a href="/wiki/Fertile_Crescent_Plan" title="Fertile Crescent Plan">Fertile Crescent Union</a>." The plan recognized the linguistic, cultural and economic ties between the states of the <a href="/wiki/Fertile_Crescent" title="Fertile Crescent">Fertile Crescent</a> region as well as the differences between their inhabitants. It sought to unify those states in a stage-based process whereby the initial stage would see Syria, Transjordan, Palestine and Lebanon unite with limited autonomy given to the Jews in Palestine and special rights for the Christians in Lebanon.<sup id="cite_ref-Dawisha.2C_p._119_38-0" class="reference"><a href="#cite_note-Dawisha.2C_p._119-38"><span>[</span>38<span>]</span></a></sup> Afterward the <a href="/wiki/Levant" title="Levant">Levantine</a> state and Iraq would form an "Arab League," to which other Arab states could join, that would oversee matters of defense, foreign policy, customs, currency and the safeguarding of minorities. The proposal reflected a combination of factors, namely the expansionist ambitions of the Hashemites, the attempt by Iraq's political establishment to secure the mantle of Arab leadership in their rivalry with Egypt and a genuine embrace of Arab identity by Iraq's leaders.<sup id="cite_ref-Dawisha.2C_p._119_38-1" class="reference"><a href="#cite_note-Dawisha.2C_p._119-38"><span>[</span>38<span>]</span></a></sup></p>
+<p>The Egyptian government of <a href="/wiki/Mustafa_el-Nahhas" title="Mustafa el-Nahhas">Nahas Pasha</a> also launched an effort to establish closer inter-Arab relations, sending delegations to several Arab states. Influential Arab nationalist figures in the country sought to emphasize Egypt's Arabic character, the most of prominent of them, <a href="/wiki/Abdul_Rahman_Hassan_Azzam" title="Abdul Rahman Hassan Azzam">Abdul Rahman al-Azzam</a>, even writing "Egypt was an Arab country before Christ." The apparent Egyptian embrace of Arabism was met with general Arab excitement at the popular level and Pasha's efforts gained more traction among the various Arab governments than al-Said's Fertile Crescent proposal.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup> Reasons for this ranged from the antipathy of the <a href="/wiki/House_of_Saud" title="House of Saud">Saudi royal family</a> and the Damascus political establishment to the leadership ambitions of the rival Hashemite family to the belief by Lebanon's Maronite Christian community that Egypt's plan would not require conceding future independence. Between 25 September-8 October 1944, the leaders of Iraq, Syria, Saudi Arabia, Lebanon, Transjordan, Yemen and the Palestinian Arab community convened in <a href="/wiki/Alexandria" title="Alexandria">Alexandria</a>, Egypt in a meeting hosted by the Egyptian government which ended with an agreement known as the "<a href="/wiki/Alexandria_Protocol" title="Alexandria Protocol">Alexandria Protocol</a>."<sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>40<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Peak_under_Egyptian_leadership">Peak under Egyptian leadership</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit&amp;section=7" title="Edit section: Peak under Egyptian leadership">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nasser_cheered_by_supporters_in_1956.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nasser_cheered_by_supporters_in_1956.jpg/220px-Nasser_cheered_by_supporters_in_1956.jpg" width="220" height="158" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nasser_cheered_by_supporters_in_1956.jpg/330px-Nasser_cheered_by_supporters_in_1956.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nasser_cheered_by_supporters_in_1956.jpg/440px-Nasser_cheered_by_supporters_in_1956.jpg 2x" data-file-width="1167" data-file-height="840" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Nasser_cheered_by_supporters_in_1956.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Egypt" title="Egypt">Egyptian</a> president <a href="/wiki/Gamal_Abdel_Nasser" title="Gamal Abdel Nasser">Gamal Abdel Nasser</a> returns to cheering crowds in <a href="/wiki/Cairo" title="Cairo">Cairo</a> after announcing the nationalization of the <a href="/wiki/Suez_Canal" title="Suez Canal">Suez Canal</a> Company, August 1956</div>
+</div>
+</div>
+<p>After the Second World War, <a href="/wiki/Gamal_Abdel_Nasser" title="Gamal Abdel Nasser">Gamal Abdel Nasser</a>, the leader of Egypt, was a significant player in the rise of Arab nationalism.<sup id="cite_ref-Sela153_7-1" class="reference"><a href="#cite_note-Sela153-7"><span>[</span>7<span>]</span></a></sup> Opposed to the British control of the Suez Canal Zone and concerned at Egypt becoming a Cold War battleground Nasser pushed for a collective Arab security pact within the framework of the <a href="/wiki/Arab_League" title="Arab League">Arab League</a>. A key aspect of this was the need for economic aid that was not dependent on peace with Israel and the establishment of U.S. or British military bases within Arab countries. Nasser nationalized the Suez Canal and directly challenged the dominance of the Western powers in the region. At the same time he opened Egypt up as a Cold War zone by receiving aid and arms shipments from the Soviet bloc countries that were not dependent on treaties, bases and peace accords. However, because of the connotations for Cold War dominance of the region, Egypt also received aid from the U.S.A., who sought to promote the emerging Arab nationalism as a barrier to communism.</p>
+<p>The question of Palestine and opposition to <a href="/wiki/Zionism" title="Zionism">Zionism</a> became a rallying point for Arab nationalism from both a religious perspective and a military perspective. The fact that the Zionists were Jewish promoted a religious flavor to the xenophobic rhetoric and strengthened Islam as a defining feature of Arab nationalism. The humiliating defeat in the <a href="/wiki/1948_Arab-Israeli_War" title="1948 Arab-Israeli War" class="mw-redirect">1948 Arab-Israeli War</a> strengthened the Arabs' resolve to unite in favor of a <a href="/wiki/Pan-Arab" title="Pan-Arab" class="mw-redirect">pan-Arab</a> nationalist ideal.<sup id="cite_ref-Sela153_7-2" class="reference"><a href="#cite_note-Sela153-7"><span>[</span>7<span>]</span></a></sup> With the advent of <a href="/wiki/Palestinian_nationalism" title="Palestinian nationalism">Palestinian nationalism</a>, a debate circled between those who believed that pan-Arab unity would bring about destruction of Israel (the view advocated by the <a href="/wiki/Arab_Nationalist_Movement" title="Arab Nationalist Movement">Arab Nationalist Movement</a>) or whether the destruction of Israel would bring about pan-Arab unity (the view advocated by <a href="/wiki/Fatah" title="Fatah">Fatah</a>).<sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>41<span>]</span></a></sup></p>
+<p>Arab nationalists generally rejected religion as a main element in political identity, and promoted the unity of Arabs regardless of sectarian identity. However, the fact that most Arabs were Muslims was used by some as an important building block in creating a new Arab national identity. An example of this was <a href="/wiki/Michel_Aflaq" title="Michel Aflaq">Michel Aflaq</a>, founder along with <a href="/wiki/Salah_al-Din_al-Bitar" title="Salah al-Din al-Bitar">Salah al-Din al-Bitar</a> and <a href="/wiki/Zaki_al-Arsuzi" title="Zaki al-Arsuzi">Zaki al-Arsuzi</a> of the Ba'ath Party in Syria in the 1940s.<sup id="cite_ref-Sela153_7-3" class="reference"><a href="#cite_note-Sela153-7"><span>[</span>7<span>]</span></a></sup> Aflaq, though himself a Christian, viewed Islam as a testament to the "Arab genius", and once said "Muhammed was the epitome of all the Arabs. So let all the Arabs today be Muhammed." Since the Arabs had reached their greatest glories through the expansion of Islam, Islam was seen as a universal message as well as an expression of secular genius on the part of the Arab peoples. Islam had given the Arabs a "glorious past", which was very different from the "shameful present". In effect, the troubles of the Arab presence were because the Arabs had diverged from their "eternal and perfect symbol", Islam. The Arabs needed to have a "resurrection" (<i>ba'ath</i> in Arabic). After the Ba'thist military coups in Iraq and Syria in the 1960s, the Ba'thists "contributed very little to the development of all-Arab nationalism, which was its original <i>raison d'etre</i>."<sup id="cite_ref-Sela154_8-2" class="reference"><a href="#cite_note-Sela154-8"><span>[</span>8<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Decline">Decline</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit&amp;section=8" title="Edit section: Decline">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After the defeat of the Arab coalition by Israel during the 1967 <a href="/wiki/Six-Day_War" title="Six-Day War">Six-Day War</a>—which the reigning Arab nationalist leader Nasser had dubbed <i>al-Ma‘raka al-Masiriya</i>, (the battle of destiny)—the Arab nationalist movement is said to have suffered an "irreversible" slide towards "political marginality". The formerly pro-Nasser <a href="/wiki/Arab_Nationalist_Movement" title="Arab Nationalist Movement">Arab Nationalist Movement</a>, publicly abandoned "Nasserism" in favor of <a href="/wiki/Marxism%E2%80%93Leninism" title="Marxism–Leninism">Marxism–Leninism</a> and <a href="/wiki/Islamism" title="Islamism">Islamism</a>. Aside from the 1967 defeat, factors credited with weakening the movement include:</p>
+<ul>
+<li>the elimination of many of the irritants that stoked nationalist passion as imperialism and pro-Westernism waned in the Arab world during the 1950s and early 1960s;</li>
+</ul>
+<dl>
+<dd>The historian Adeed Dawisha said:</dd>
+<dd>
+<blockquote>
+<p>"The British presence in Egypt and Iraq had been eliminated; the <a href="/wiki/Baghdad_Pact" title="Baghdad Pact" class="mw-redirect">Baghdad Pact</a> had been defeated; Jordan's British chief of staff, Sir <a href="/wiki/John_Bagot_Glubb" title="John Bagot Glubb">John Bagot Glubb</a>, had been dismissed; Lebanon's pro-Western president, <a href="/wiki/Camille_Chamoun" title="Camille Chamoun">Camille Chamoun</a>, had been replaced by the independent <a href="/wiki/Fuad_Chehab" title="Fuad Chehab">Fu'ad Shihab</a>; and the Algerians, sacrificing a million dead in a <a href="/wiki/Algerian_War" title="Algerian War">heroic struggle</a>, had triumphed over French colonial power."<sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>42<span>]</span></a></sup></p>
+</blockquote>
+</dd>
+</dl>
+<ul>
+<li>regional attachments such as Iraqi president Abd al-Karim Qasim's "Iraq first" policy;</li>
+<li>attachments to tribes and "deeply-ingrained tribal values";</li>
+<li>suspicion of Arab unity by minority groups such as <a href="/wiki/Kurds" title="Kurds">Kurds</a> in Iraq who were non-Arab, or <a href="/wiki/Shia_Islam" title="Shia Islam">Shia</a> Muslims in Iraq who feared Arab nationalism was actually "a <a href="/wiki/Sunni" title="Sunni" class="mw-redirect">Sunni</a> project" to establish "Sunni hegemony";</li>
+<li>the <a href="/wiki/Islamic_revival" title="Islamic revival">Islamic revival</a>, which grew as Arab nationalism declined, and whose adherents were very hostile towards nationalism in general, believing it had no place in Islam;</li>
+<li>lack of interest by the movement in pluralism, separation of powers, freedom of political expression and other democratic concepts which might have "resuscitated" the ideology in its moment of weakness.</li>
+</ul>
+<p>King <a href="/wiki/Faisal_of_Saudi_Arabia" title="Faisal of Saudi Arabia">Faisal of Saudi Arabia</a> sought to counter the influences of Marxism–Leninism and Arab nationalism in the region by promoting <a href="/wiki/Islamism" title="Islamism">Islamism</a> as an alternative. He called for the establishment of the Muslim World League, visiting several Muslim countries to advocate the idea. He also engaged in a propaganda and media war with Egypt's pan-Arabist president, Gamal Abdel Nasser.</p>
+<h2><span class="mw-headline" id="Attempts_at_unity">Attempts at unity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit&amp;section=9" title="Edit section: Attempts at unity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:NasserQuwatliUAR.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/NasserQuwatliUAR.jpg/220px-NasserQuwatliUAR.jpg" width="220" height="159" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/NasserQuwatliUAR.jpg/330px-NasserQuwatliUAR.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/NasserQuwatliUAR.jpg/440px-NasserQuwatliUAR.jpg 2x" data-file-width="600" data-file-height="433" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:NasserQuwatliUAR.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Egypt" title="Egypt">Egyptian</a> president Gamal Abdel Nasser signing unity pact with <a href="/wiki/Syria" title="Syria">Syrian</a> president <a href="/wiki/Shukri_al-Quwatli" title="Shukri al-Quwatli">Shukri al-Quwatli</a>, forming the <a href="/wiki/United_Arab_Republic" title="United Arab Republic">United Arab Republic</a>, February 1958</div>
+</div>
+</div>
+<p>In the 1940s, rulers such as <a href="/wiki/Abdullah_I_of_Jordan" title="Abdullah I of Jordan">Abdullah I of Jordan</a> and <a href="/wiki/Nuri_as-Said" title="Nuri as-Said" class="mw-redirect">Nuri as-Said</a> of Iraq sought to create an expanded Arab empire constructed out of the smaller nation-states that had been created in the mandate period. Abdullah's dream was to be king of a <a href="/wiki/Greater_Syria" title="Greater Syria">Greater Syria</a> while as-Said's dream was for a <a href="/wiki/Fertile_Crescent_Plan" title="Fertile Crescent Plan">Fertile Crescent Federation</a>. These aspirations, however, were unpopular and met with suspicion in the countries they sought to conquer. The creation of the Arab League and its insistence on the territorial integrity and respect for sovereignty of each member state, the <a href="/wiki/Abdullah_I_of_Jordan#Assassination" title="Abdullah I of Jordan">assassination of Abdullah</a>, and the <a href="/wiki/14_July_Revolution" title="14 July Revolution">14 July Revolution</a> weakened the political feasibility of these ideas.<sup id="cite_ref-Sela153_7-4" class="reference"><a href="#cite_note-Sela153-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>During much of the 20th century, the rivalry between Syria and Nasser in Egypt for who would lead the union undermined the effort of forming a united Arab state.<sup id="cite_ref-43" class="reference"><a href="#cite_note-43"><span>[</span>43<span>]</span></a></sup> In 1958, <a href="/wiki/Egypt" title="Egypt">Egypt</a> and <a href="/wiki/Syria" title="Syria">Syria</a> temporarily joined to create the <a href="/wiki/United_Arab_Republic" title="United Arab Republic">United Arab Republic</a>. It was accompanied by attempts to include <a href="/wiki/Iraq" title="Iraq">Iraq</a> and <a href="/wiki/United_Arab_States" title="United Arab States">North Yemen in the union</a>. This very exercise, while fostering Egypt's position at the centre of Arab politics, led to the weakening of Syria.</p>
+<p>With the <a href="/wiki/14_July_Revolution" title="14 July Revolution">14 July Revolution</a> taking place in Iraq the same year, Western powers feared the fallouts of a powerful Arab nationalism in the region. Foreign powers were not only concerned about the possible spread of such revolutionary movements in other Arab states, but also worried about losing the control and monopoly over the region's natural oil resources. However, due to discontent over the hegemony of Egypt and after a coup in Syria that introduced a more radical government to power, the United Arab Republic collapsed in 1961. The term <i>United Arab Republic</i> continued to be used in Egypt until 1971, after the death of Nasser.</p>
+<p>Another unsuccessful attempt at union occurred in 1963. That year the Arab nationalist Ba'ath Party came to power in Syria and Iraq and talks were held on uniting the two countries with Egypt. On 17 April an agreement to unite the countries was signed, but Ba'ath leaders complained of what they considered Egyptian president Nasser's "patronizing, bullying tone" and his insistence on a single centralized party structure under his leadership.<sup id="cite_ref-Seale_44-0" class="reference"><a href="#cite_note-Seale-44"><span>[</span>44<span>]</span></a></sup> In Syria, pro-Nasserists were purged from the Syrian military and cabinet. In response, large pro-Nasser riots erupted in <a href="/wiki/Damascus" title="Damascus">Damascus</a> and <a href="/wiki/Aleppo" title="Aleppo">Aleppo</a> but were crushed with 50 rioters killed. A pro-Nasser coup attempt on 18 July 1963 in Syria also ended unsuccessfully. Hundreds of people killed or wounded in an attempt to take over the Damascus radio station and army headquarters, and 27 rebel officers were summarily executed. Nasser then formally withdrew from the union agreement, denouncing the Syrian Ba'athists as "fascists and murderers".<sup id="cite_ref-Seale_44-1" class="reference"><a href="#cite_note-Seale-44"><span>[</span>44<span>]</span></a></sup></p>
+<p>In 1964, Egypt, Iraq and North Yemen formed a <a href="/wiki/Unified_Political_Command" title="Unified Political Command">Unified Political Command</a> in order to prepare the gradual merger in a new <i>United Arab Republic</i>, however, both projects failed in 1966 and 1967. In 1971 and 1972 <a href="/wiki/Muammar_Gaddafi" title="Muammar Gaddafi">Muammar Gaddafi</a> attempted to unite Libya, Egypt, Sudan and Syria to form the <a href="/wiki/Federation_of_Arab_Republics" title="Federation of Arab Republics">Federation of Arab Republics</a>.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45"><span>[</span>45<span>]</span></a></sup> This loose union lasted until 1977 when it split due to political and territorial disputes between the republics' leadership. In 1974, Muammar Gaddafi and <a href="/wiki/Habib_Bourgiba" title="Habib Bourgiba" class="mw-redirect">Habib Bourgiba</a> attempted their two nations of Libya and Tunisia to form the <a href="/wiki/Arab_Islamic_Republic" title="Arab Islamic Republic">Arab Islamic Republic</a>. The plan was rejected by Bourgiba due to his realization of unity of the <a href="/wiki/Maghreb" title="Maghreb" class="mw-redirect">Maghreb</a> states. This would later become the <a href="/wiki/Arab_Maghreb_Union" title="Arab Maghreb Union">Arab Maghreb Union</a>.</p>
+<h2><span class="mw-headline" id="Notable_Arab_nationalists">Notable Arab nationalists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit&amp;section=10" title="Edit section: Notable Arab nationalists">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Thinkers">Thinkers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit&amp;section=11" title="Edit section: Thinkers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Michel_Aflaq" title="Michel Aflaq">Michel Aflaq</a></li>
+<li><a href="/wiki/George_Antonius" title="George Antonius">George Antonius</a></li>
+<li><a href="/wiki/Shakib_Arslan" title="Shakib Arslan">Shakib Arslan</a></li>
+<li><a href="/wiki/Zaki_al-Arsuzi" title="Zaki al-Arsuzi">Zaki al-Arsuzi</a></li>
+<li><a href="/wiki/Butrus_al-Bustani" title="Butrus al-Bustani">Butrus al-Bustani</a></li>
+<li><a href="/wiki/Izzat_Darwaza" title="Izzat Darwaza">Izzat Darwaza</a></li>
+<li><a href="/wiki/George_Habash" title="George Habash">George Habash</a></li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Sati%27_al-Husri" title="Sati' al-Husri">Sati' al-Husri</a></li>
+<li><a href="/wiki/Adnan_Pachachi" title="Adnan Pachachi">Adnan Pachachi</a></li>
+<li><a href="/wiki/Abd_al-Rahman_al-Kawakibi" title="Abd al-Rahman al-Kawakibi">Abd al-Rahman al-Kawakibi</a></li>
+<li><a href="/wiki/Ameen_Rihani" title="Ameen Rihani">Ameen Rihani</a></li>
+<li><a href="/wiki/Ibrahim_al-Yaziji" title="Ibrahim al-Yaziji">Ibrahim al-Yaziji</a></li>
+<li><a href="/wiki/Constantin_Zureiq" title="Constantin Zureiq">Constantin Zureiq</a></li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;"></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="National_leaders">National leaders</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit&amp;section=12" title="Edit section: National leaders">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Ahmed_Ben_Bella" title="Ahmed Ben Bella">Ahmed Ben Bella</a> (President of Algeria)</li>
+<li><a href="/wiki/Gaafar_Nimeiry" title="Gaafar Nimeiry">Gaafar Nimeiry</a> (President of Sudan)</li>
+<li><a href="/wiki/Gamal_Abdel_Nasser" title="Gamal Abdel Nasser">Gamal Abdel Nasser</a> (President of Egypt/UAR)</li>
+<li><a href="/wiki/Hafez_al-Assad" title="Hafez al-Assad">Hafez al-Assad</a> (President of Syria)</li>
+<li><a href="/wiki/Hussein_bin_Ali,_Sharif_of_Mecca" title="Hussein bin Ali, Sharif of Mecca">Hussein bin Ali</a> (Sharif of Mecca)</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><a href="/wiki/Abdullah_al-Sallal" title="Abdullah al-Sallal">Abdullah al-Sallal</a> (President of <a href="/wiki/North_Yemen" title="North Yemen">North Yemen</a>)</li>
+<li><a href="/wiki/Muammar_Gaddafi" title="Muammar Gaddafi">Muammar Gaddafi</a><sup id="cite_ref-Sela154_8-3" class="reference"><a href="#cite_note-Sela154-8"><span>[</span>8<span>]</span></a></sup> (Leader of Libya)</li>
+<li><a href="/wiki/Saeb_Salam" title="Saeb Salam">Saeb Salam</a> (Prime Minister of Lebanon)</li>
+<li><a href="/wiki/Saddam_Hussein" title="Saddam Hussein">Saddam Hussein</a><sup id="cite_ref-Requiem_1-2" class="reference"><a href="#cite_note-Requiem-1"><span>[</span>1<span>]</span></a></sup> (President of Iraq)</li>
+<li><a href="/wiki/Shukri_al-Quwatli" title="Shukri al-Quwatli">Shukri al-Quwatli</a> (President of Syria)</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;"></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Algerian_nationalism" title="Algerian nationalism">Algerian nationalism</a></li>
+<li><a href="/wiki/Iraqi_nationalism" title="Iraqi nationalism">Iraqi nationalism</a></li>
+<li><a href="/wiki/Lebanese_nationalism" title="Lebanese nationalism">Lebanese nationalism</a></li>
+<li><a href="/wiki/Libyan_nationalism" title="Libyan nationalism">Libyan nationalism</a></li>
+<li><a href="/wiki/Nasserism" title="Nasserism">Nasserism</a></li>
+<li><a href="/wiki/Palestinian_nationalism" title="Palestinian nationalism">Palestinian nationalism</a></li>
+<li><a href="/wiki/Syrian_nationalism" title="Syrian nationalism">Syrian nationalism</a></li>
+<li><a href="/wiki/Tunisian_nationalism" title="Tunisian nationalism">Tunisian nationalism</a></li>
+<li><a href="/wiki/Arab_socialism" title="Arab socialism">Arab socialism</a></li>
+<li><a href="/wiki/Berberism" title="Berberism">Berberism</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit&amp;section=14" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Requiem-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Requiem_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Requiem_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Requiem_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.meforum.org/518/requiem-for-arab-nationalism">Requiem for Arab Nationalism</a>" by Adeed Dawisha, <i>Middle East Quarterly</i>, Winter 2003</span></li>
+<li id="cite_note-smith-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-smith_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-smith_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Charles Smith, The Arab-Israeli Conflict, in <i>International Relations in the Middle East</i> by Louise Fawcett, p. 220.</span></li>
+<li id="cite_note-Sela151-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sela151_3-0">^</a></b></span> <span class="reference-text">Sela, 151</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Choueri, p.23.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Choueri, p.25.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Choueiri, p.26.</span></li>
+<li id="cite_note-Sela153-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sela153_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sela153_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Sela153_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Sela153_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Sela153_7-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Sela, 153</span></li>
+<li id="cite_note-Sela154-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sela154_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sela154_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Sela154_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Sela154_8-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Sela, 154</span></li>
+<li id="cite_note-Khalidi6-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Khalidi6_9-0">^</a></b></span> <span class="reference-text">Khalidi, p.6.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Khalidi, p.7.</span></li>
+<li id="cite_note-Khalidi8-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Khalidi8_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Khalidi8_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Khalidi, p.8.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Suleiman, Yasir (2003). <i>The Arabic Language and National Identity: a Study in Ideology</i>. Edinburgh University Press. p.&#160;114.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArab+nationalism&amp;rft.aufirst=Yasir&amp;rft.aulast=Suleiman&amp;rft.btitle=The+Arabic+Language+and+National+Identity%3A+a+Study+in+Ideology&amp;rft.date=2003&amp;rft.genre=book&amp;rft.pages=114&amp;rft.pub=Edinburgh+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Khalidi, p.9.</span></li>
+<li id="cite_note-Choueiri166-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Choueiri166_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Choueiri166_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Choueiri, pp.166–168.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Karsh, <i>Islamic Imperialism</i>, 229</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Karsh, <i>Islamic Imperialism</i>, 8–9</span></li>
+<li id="cite_note-Choueiri171-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Choueiri171_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Choueiri171_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Choueiri, pp.171–173.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Choueiri, pp.175–176.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Choueiri, p.92.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Dodge, pp.8–10.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Cavandish, p.126-127.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Gershoni and Jankowski, pp.40–41.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Choueiri, p.93.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Choueiri, p.94.</span></li>
+<li id="cite_note-Nafi192-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-Nafi192_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Nafi192_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Nafi, pp. 192–193.</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Nafi, p. 194.</span></li>
+<li id="cite_note-Choueiri97-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Choueiri97_27-0">^</a></b></span> <span class="reference-text">Choueiri, p.97.</span></li>
+<li id="cite_note-Choueiri98-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-Choueiri98_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Choueiri98_28-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Choueiri98_28-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Choueiri, p. 98.</span></li>
+<li id="cite_note-Dawisha117-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dawisha117_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dawisha117_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Dawisha, p. 117.</span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">Choueiri, pp. 95–96.</span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><i>The Israel-Arab reader: a documentary history of the Middle East conflict</i> by Walter Laqueur, Barry M. Rubin 2001, p. 51.</span></li>
+<li id="cite_note-icon-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-icon_32-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/David_G._Dalin" title="David G. Dalin">Dalin, David G.</a> &amp; <a href="/wiki/John_Rothmann" title="John Rothmann">Rothmann, John F.</a> (2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=QMts5Z36kjAC"><i>Icon of Evil: Hitler's Mufti and the Rise of Radical Islam</i></a>. New York: <a href="/wiki/Random_House" title="Random House">Random House</a>. p.&#160;4. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4000-6653-7" title="Special:BookSources/978-1-4000-6653-7">978-1-4000-6653-7</a><span class="reference-accessdate">. Retrieved <span class="nowrap">18 March</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArab+nationalism&amp;rft.aufirst=David+G.&amp;rft.aulast=Dalin&amp;rft.au=Rothmann%2C+John+F.&amp;rft.btitle=Icon+of+Evil%3A+Hitler%27s+Mufti+and+the+Rise+of+Radical+Islam&amp;rft.date=2008&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DQMts5Z36kjAC&amp;rft.isbn=978-1-4000-6653-7&amp;rft.pages=4&amp;rft.place=New+York&amp;rft.pub=Random+House&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.reuters.com/article/idUSLDE62P0OF20100326">Israelis not welcome to derelict Jerusalem hotel</a>, Douglas Hamilton, <a href="/wiki/Reuters" title="Reuters">Reuters</a>, 26 March 2010. Retrieved 16 November 2010.</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://nl.newsbank.com/nl-search/we/Archives?p_product=PBPB&amp;p_theme=pbpb&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=0EAF86EF66F26B9E&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM">"History Shows That True Peace Is Not Possible With Arabs"</a>, Joshua P. Feiler, <i><a href="/wiki/The_Palm_Beach_Post" title="The Palm Beach Post">The Palm Beach Post</a></i>, 9 May 1994. Retrieved 16 November 2010.</span></li>
+<li id="cite_note-Herf-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-Herf_35-0">^</a></b></span> <span class="reference-text">Herf, Jeffrey. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=YzQNSTvHv-sC&amp;pg=PA261">"Nazi Propaganda for the Arab World."</a> <i>Google Books</i>. 30 January 2013.</span></li>
+<li id="cite_note-Choueiri99-36"><span class="mw-cite-backlink">^ <a href="#cite_ref-Choueiri99_36-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Choueiri99_36-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Choueiri, p.99.</span></li>
+<li id="cite_note-Dawisha118-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dawisha118_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dawisha118_37-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Dawisha, p. 118.</span></li>
+<li id="cite_note-Dawisha.2C_p._119-38"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dawisha.2C_p._119_38-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dawisha.2C_p._119_38-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Dawisha, p. 119.</span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">Dawisha, p. 122.</span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text">Dawisha, p. 123.</span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text">Karsh, <i>Arafat's War</i>, 35–36</span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dawisha, Adeed (Winter 2003). <a rel="nofollow" class="external text" href="http://www.meforum.org/518/requiem-for-arab-nationalism">"Requiem for Arab Nationalism"</a>. <i><a href="/wiki/Middle_East_Quarterly" title="Middle East Quarterly">Middle East Quarterly</a></i> (<a href="/wiki/Middle_East_Forum" title="Middle East Forum">Middle East Forum</a>)<span class="reference-accessdate">. Retrieved <span class="nowrap">23 July</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArab+nationalism&amp;rft.atitle=Requiem+for+Arab+Nationalism&amp;rft.aufirst=Adeed&amp;rft.aulast=Dawisha&amp;rft.date=Winter+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.meforum.org%2F518%2Frequiem-for-arab-nationalism&amp;rft.jtitle=Middle+East+Quarterly&amp;rft.pub=Middle+East+Forum&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text">Charles Smith. "The Arab-Israeli Conflict". (<i>International Relations of the Middle East</i> by Louise Fawcett), p. 220.</span></li>
+<li id="cite_note-Seale-44"><span class="mw-cite-backlink">^ <a href="#cite_ref-Seale_44-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Seale_44-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Seale, Patrick, <i>Asad, the Struggle for the Middle East</i>, University of California Press, 1989, p.83</span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text">Sela, 155</span></li>
+</ol>
+<p><strong class="error mw-ext-cite-error">Cite error: Invalid <code>&lt;ref&gt;</code> tag; name "Sela154" defined multiple times with different content</strong></p>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Choueiri, Youssef (2000). <a rel="nofollow" class="external text" href="https://books.google.com/?id=4xiI0Q-fHzEC&amp;pg=PA25&amp;dq=Izzat+Darwazah"><i>Arab Nationalism – A History: Nation and State in the Arab World</i></a>. Wiley-Blackwell. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-631-21729-9" title="Special:BookSources/978-0-631-21729-9">978-0-631-21729-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArab+nationalism&amp;rft.aufirst=Youssef&amp;rft.aulast=Choueiri&amp;rft.btitle=Arab+Nationalism+%E2%80%93+A+History%3A+Nation+and+State+in+the+Arab+World&amp;rft.date=2000&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D4xiI0Q-fHzEC%26pg%3DPA25%26dq%3DIzzat%2BDarwazah&amp;rft.isbn=978-0-631-21729-9&amp;rft.pub=Wiley-Blackwell&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Hinnebusch, Raymond (2003). <i>The International Politics of the Middle East</i>. Manchester University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArab+nationalism&amp;rft.aufirst=Raymond&amp;rft.aulast=Hinnebusch&amp;rft.btitle=The+International+Politics+of+the+Middle+East&amp;rft.date=2003&amp;rft.genre=book&amp;rft.pub=Manchester+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book"><a href="/wiki/Rashid_Khalidi" title="Rashid Khalidi">Khalidi, Rashid</a> (1993). <a rel="nofollow" class="external text" href="https://books.google.com/?id=21v9mTP_jsUC&amp;pg=PA175&amp;dq=Izzat+Darwaza"><i>The Origins of Arab Nationalism</i></a>. Columbia University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-231-07435-3" title="Special:BookSources/978-0-231-07435-3">978-0-231-07435-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArab+nationalism&amp;rft.aufirst=Rashid&amp;rft.aulast=Khalidi&amp;rft.btitle=The+Origins+of+Arab+Nationalism&amp;rft.date=1993&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D21v9mTP_jsUC%26pg%3DPA175%26dq%3DIzzat%2BDarwaza&amp;rft.isbn=978-0-231-07435-3&amp;rft.pub=Columbia+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a href="/wiki/Dilip_Hiro" title="Dilip Hiro">Hiro, Dilip</a>. "Arab nationalism." <i>Dictionary of the Middle East</i>. New York: St. Martin's Press, 1996. pp.&#160;24–25.</li>
+<li><cite class="citation book">Humphreys, R. Stephen (2005). <i>Between Memory and Desire: The Middle East in a Troubled Age</i>. University of California Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArab+nationalism&amp;rft.aufirst=R.+Stephen&amp;rft.aulast=Humphreys&amp;rft.btitle=Between+Memory+and+Desire%3A+The+Middle+East+in+a+Troubled+Age&amp;rft.date=2005&amp;rft.genre=book&amp;rft.pub=University+of+California+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a href="/wiki/Efraim_Karsh" title="Efraim Karsh">Karsh, Efraim</a>. <i>Arafat's War: The Man and His Battle for Israeli Conquest</i>. New York: Grove Press, 2003.</li>
+<li>Karsh, Efraim. <i>Islamic Imperialism: A History</i>. New Haven: Yale University Press, 2006.</li>
+<li><a href="/wiki/Avraham_Sela" title="Avraham Sela">Sela, Avraham</a>. "Arab Nationalism." <i>The Continuum Political Encyclopedia of the Middle East</i>. Ed. Sela. New York: Continuum, 2002. pp.&#160;151–155</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.al-islam.org/al-tawhid/arabnationalism.htm">"Islamic critique of Arab Nationalism"</a> by Muhammad Yahya, <i>Al-Tawhid</i>, Vol III, No. 2, 1986.</li>
+<li><a rel="nofollow" class="external text" href="http://www.martinkramer.org/sandbox/reader/archives/arab-nationalism-mistaken-identity/">"Arab Nationalism: Mistaken Identity"</a> by <a href="/wiki/Martin_Kramer" title="Martin Kramer">Martin Kramer</a>, <i>Daedalus</i>, Summer 1993, pp.&#160;171–206.</li>
+<li><a rel="nofollow" class="external text" href="http://www.meforum.org/518/requiem-for-arab-nationalism">"Requiem for Arab Nationalism"</a> by Adeed Dawisha, <i>Middle East Quarterly</i>, Winter 2003, pp.&#160;25–41.</li>
+<li><a rel="nofollow" class="external text" href="http://www.codexnews.com/codex/contents.nsf/WNPPrintArticles/7C28F115C645291BC2257853003A73AC?open">"The Rise of Arab Nationalism in the Sudan"</a> by Mohamed Hassan Fadlalla, Codex Online S.A.</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Arab_nationalism" title="Template:Arab nationalism"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Arab_nationalism" title="Template talk:Arab nationalism"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Arab_nationalism&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><strong class="selflink">Arab nationalism</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Ideology</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arab_socialism" title="Arab socialism">Arab socialism</a></li>
+<li><a href="/wiki/Ba%27athism" title="Ba'athism">Ba'athism</a></li>
+<li><a href="/wiki/Nasserism" title="Nasserism">Nasserism</a></li>
+<li><a href="/wiki/Pan-Arabism" title="Pan-Arabism">Pan-Arabism</a></li>
+<li><a href="/wiki/Third_International_Theory" title="Third International Theory">Third International Theory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">History</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arabization" title="Arabization">Arabization</a></li>
+<li><a href="/wiki/Arab_Revolt" title="Arab Revolt">Arab Revolt</a></li>
+<li><a href="/wiki/Intercommunal_conflict_in_Mandatory_Palestine" title="Intercommunal conflict in Mandatory Palestine">Intercommunal conflict in Mandatory Palestine</a></li>
+<li><a href="/wiki/Iraqi_revolt_against_the_British" title="Iraqi revolt against the British">Iraqi revolt against the British</a></li>
+<li><a href="/wiki/Great_Syrian_Revolt" title="Great Syrian Revolt">Great Syrian Revolt</a></li>
+<li><a href="/wiki/1936%E2%80%9339_Arab_revolt_in_Palestine" title="1936–39 Arab revolt in Palestine">1936–39 Arab revolt in Palestine</a></li>
+<li><a href="/wiki/1941_Iraqi_coup_d%27%C3%A9tat" title="1941 Iraqi coup d'état">1941 Iraqi coup d'état</a></li>
+<li><a href="/wiki/Arab%E2%80%93Israeli_conflict" title="Arab–Israeli conflict">Arab–Israeli conflict</a></li>
+<li><a href="/wiki/Egyptian_Revolution_of_1952" title="Egyptian Revolution of 1952">Egyptian Revolution of 1952</a></li>
+<li><a href="/wiki/United_Arab_Republic" title="United Arab Republic">United Arab Republic</a></li>
+<li><a href="/wiki/Arab_Federation" title="Arab Federation">Arab Federation</a></li>
+<li><a href="/wiki/14_July_Revolution" title="14 July Revolution">14 July Revolution</a></li>
+<li><a href="/wiki/1959_Mosul_uprising" title="1959 Mosul uprising">1959 Mosul uprising</a></li>
+<li><a href="/wiki/Arab_Cold_War" title="Arab Cold War">Arab Cold War</a></li>
+<li><a href="/wiki/North_Yemen_Civil_War" title="North Yemen Civil War">North Yemen Civil War</a></li>
+<li><a href="/wiki/Dhofar_Rebellion" title="Dhofar Rebellion">Dhofar Rebellion</a></li>
+<li><a href="/wiki/Ramadan_Revolution" title="Ramadan Revolution">Ramadan Revolution</a></li>
+<li><a href="/wiki/1961_Syrian_coup_d%27%C3%A9tat" title="1961 Syrian coup d'état">1961 Syrian coup d'état</a></li>
+<li><a href="/wiki/1963_Syrian_coup_d%27%C3%A9tat" title="1963 Syrian coup d'état">1963 Syrian coup d'état</a></li>
+<li><a href="/wiki/November_1963_Iraqi_coup_d%27%C3%A9tat" title="November 1963 Iraqi coup d'état">November 1963 Iraqi coup d'état</a></li>
+<li><a href="/wiki/Aden_Emergency" title="Aden Emergency">Aden Emergency</a></li>
+<li><a href="/wiki/Unified_Political_Command" title="Unified Political Command">Unified Political Command</a></li>
+<li><a href="/wiki/1966_Syrian_coup_d%27%C3%A9tat" title="1966 Syrian coup d'état">1966 Syrian coup d'état</a></li>
+<li><a href="/wiki/Six-Day_War" title="Six-Day War">Six-Day War</a></li>
+<li><a href="/wiki/17_July_Revolution" title="17 July Revolution">17 July Revolution</a></li>
+<li><a href="/wiki/Ba%27athist_Iraq" title="Ba'athist Iraq">Ba'athist Iraq</a></li>
+<li><a href="/wiki/1969_Libyan_coup_d%27%C3%A9tat" title="1969 Libyan coup d'état">1969 Libyan coup d'état</a></li>
+<li><a href="/wiki/Federation_of_Arab_Republics" title="Federation of Arab Republics">Federation of Arab Republics</a></li>
+<li><a href="/wiki/Arab_separatism_in_Khuzestan" title="Arab separatism in Khuzestan">Arab separatism in Khuzestan</a></li>
+<li><a href="/wiki/1979_Khuzestan_uprising" title="1979 Khuzestan uprising">1979 Khuzestan uprising</a></li>
+<li><a href="/wiki/Popular_Arab_and_Islamic_Congress" title="Popular Arab and Islamic Congress">Popular Arab and Islamic Congress</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arabs#Identity" title="Arabs">Arab identity</a></li>
+<li><a href="/wiki/Arab_Union" title="Arab Union">Arab Union</a></li>
+<li><a href="/wiki/Greater_Syria" title="Greater Syria">Greater Syria</a></li>
+<li><a href="/wiki/Rejectionism" title="Rejectionism">Rejectionism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Arab_nationalists" title="Category:Arab nationalists">Personalities</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Michel_Aflaq" title="Michel Aflaq">Michel Aflaq</a></li>
+<li><a href="/wiki/Jassem_Alwan" title="Jassem Alwan">Jassem Alwan</a></li>
+<li><a href="/wiki/Abdul_Rahman_Arif" title="Abdul Rahman Arif">Abdul Rahman Arif</a></li>
+<li><a href="/wiki/Abdul_Salam_Arif" title="Abdul Salam Arif">Abdul Salam Arif</a></li>
+<li><a href="/wiki/Zaki_al-Arsuzi" title="Zaki al-Arsuzi">Zaki al-Arsuzi</a></li>
+<li><a href="/wiki/Bashar_al-Assad" title="Bashar al-Assad">Bashar al-Assad</a></li>
+<li><a href="/wiki/Hafez_al-Assad" title="Hafez al-Assad">Hafez al-Assad</a></li>
+<li><a href="/wiki/Jamal_al-Atassi" title="Jamal al-Atassi">Jamal al-Atassi</a></li>
+<li><a href="/wiki/Lu%27ay_al-Atassi" title="Lu'ay al-Atassi">Lu'ay al-Atassi</a></li>
+<li><a href="/wiki/Sultan_al-Atrash" title="Sultan al-Atrash">Sultan al-Atrash</a></li>
+<li><a href="/wiki/Tariq_Aziz" title="Tariq Aziz">Tariq Aziz</a></li>
+<li><a href="/wiki/Ahmed_Hassan_al-Bakr" title="Ahmed Hassan al-Bakr">Ahmed Hassan al-Bakr</a></li>
+<li><a href="/wiki/Ahmed_Ben_Bella" title="Ahmed Ben Bella">Ahmed Ben Bella</a></li>
+<li><a href="/wiki/Salah_al-Din_al-Bitar" title="Salah al-Din al-Bitar">Salah al-Din al-Bitar</a></li>
+<li><a href="/wiki/Houari_Boumediene" title="Houari Boumediene">Houari Boumediene</a></li>
+<li><a href="/wiki/Izzat_Darwaza" title="Izzat Darwaza">Izzat Darwaza</a></li>
+<li><a href="/wiki/Izzat_Ibrahim_al-Douri" title="Izzat Ibrahim al-Douri">Izzat Ibrahim al-Douri</a></li>
+<li><a href="/wiki/Faisal_I_of_Iraq" title="Faisal I of Iraq">Faisal I of Iraq</a></li>
+<li><a href="/wiki/Muammar_Gaddafi" title="Muammar Gaddafi">Muammar Gaddafi</a></li>
+<li><a href="/wiki/Rashid_Ali_al-Gaylani" title="Rashid Ali al-Gaylani">Rashid Ali al-Gaylani</a></li>
+<li><a href="/wiki/George_Habash" title="George Habash">George Habash</a></li>
+<li><a href="/wiki/Hussein_bin_Ali,_Sharif_of_Mecca" title="Hussein bin Ali, Sharif of Mecca">Hussein bin Ali, Sharif of Mecca</a></li>
+<li><a href="/wiki/Saddam_Hussein" title="Saddam Hussein">Saddam Hussein</a></li>
+<li><a href="/wiki/Haj_Amin_al-Husseini" title="Haj Amin al-Husseini">Haj Amin al-Husseini</a></li>
+<li><a href="/wiki/Salah_Jadid" title="Salah Jadid">Salah Jadid</a></li>
+<li><a href="/wiki/Abd_al-Rahman_al-Kawakibi" title="Abd al-Rahman al-Kawakibi">Abd al-Rahman al-Kawakibi</a></li>
+<li><a href="/wiki/Gamal_Abdel_Nasser" title="Gamal Abdel Nasser">Gamal Abdel Nasser</a></li>
+<li><a href="/wiki/Abu_Nidal" title="Abu Nidal">Abu Nidal</a></li>
+<li><a href="/wiki/Adnan_Pachachi" title="Adnan Pachachi">Adnan Pachachi</a></li>
+<li><a href="/wiki/Shukri_al-Quwatli" title="Shukri al-Quwatli">Shukri al-Quwatli</a></li>
+<li><a href="/wiki/Fuad_al-Rikabi" title="Fuad al-Rikabi">Fuad al-Rikabi</a></li>
+<li><a href="/wiki/Abdullah_Rimawi" title="Abdullah Rimawi">Abdullah Rimawi</a></li>
+<li><a href="/wiki/Hamdeen_Sabahi" title="Hamdeen Sabahi">Hamdeen Sabahi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Arab_nationalist_organizations" title="Category:Arab nationalist organizations">Organizations</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Al-Awda_(guerrilla_organization)" title="Al-Awda (guerrilla organization)">Al-Awda</a></li>
+<li><a href="/wiki/Al-Fatat" title="Al-Fatat">Al-Fatat</a></li>
+<li><a href="/wiki/Al-Mourabitoun" title="Al-Mourabitoun">Al-Mourabitoun</a></li>
+<li><a href="/wiki/Amal_Movement" title="Amal Movement">Amal Movement</a></li>
+<li><a href="/wiki/Arab_Ba%27ath_Movement" title="Arab Ba'ath Movement">Arab Ba'ath Movement</a></li>
+<li><a href="/wiki/Arab_Higher_Committee" title="Arab Higher Committee">Arab Higher Committee</a></li>
+<li><a href="/wiki/Arab_Liberation_Army" title="Arab Liberation Army">Arab Liberation Army</a></li>
+<li><a href="/wiki/Arab_Nationalist_Movement" title="Arab Nationalist Movement">Arab Nationalist Movement</a></li>
+<li><a href="/wiki/Arab_Socialist_Action_Party" title="Arab Socialist Action Party">Arab Socialist Action Party</a></li>
+<li><a href="/wiki/Arab_Socialist_Union_(Egypt)" title="Arab Socialist Union (Egypt)">Arab Socialist Union (Egypt)</a></li>
+<li><a href="/wiki/Arab_Socialist_Union_(Iraq)" title="Arab Socialist Union (Iraq)">Arab Socialist Union (Iraq)</a></li>
+<li><a href="/wiki/Arabian_Peninsula_People%27s_Union" title="Arabian Peninsula People's Union">Arabian Peninsula People's Union</a></li>
+<li><a href="/wiki/Army_of_the_Men_of_the_Naqshbandi_Order" title="Army of the Men of the Naqshbandi Order">Army of the Men of the Naqshbandi Order</a></li>
+<li><a href="/wiki/Ba%27ath_Party" title="Ba'ath Party">Ba'ath Party</a></li>
+<li><a href="/wiki/Ba%27ath_Party_(Iraqi-dominated_faction)" title="Ba'ath Party (Iraqi-dominated faction)">Ba'ath Party (Iraqi-dominated faction)</a></li>
+<li><a href="/wiki/Ba%27ath_Party_(Syrian-dominated_faction)" title="Ba'ath Party (Syrian-dominated faction)">Ba'ath Party (Syrian-dominated faction)</a></li>
+<li><a href="/wiki/Egyptian_Revolutionary_Command_Council" title="Egyptian Revolutionary Command Council">Egyptian Revolutionary Command Council</a></li>
+<li><a href="/wiki/Free_Officers_Movement_(Egypt)" title="Free Officers Movement (Egypt)">Free Officers Movement (Egypt)</a></li>
+<li><a href="/wiki/Free_Princes_Movement" title="Free Princes Movement">Free Princes Movement</a></li>
+<li><a href="/wiki/General_Military_Council_for_Iraqi_Revolutionaries" title="General Military Council for Iraqi Revolutionaries">General Military Council for Iraqi Revolutionaries</a></li>
+<li><a href="/wiki/Independence_Party_(Palestine)" title="Independence Party (Palestine)" class="mw-redirect">Independence Party (Palestine)</a></li>
+<li><a href="/wiki/Islamic_Legion" title="Islamic Legion">Islamic Legion</a></li>
+<li><a href="/wiki/Libyan_Arab_Socialist_Union" title="Libyan Arab Socialist Union">Libyan Arab Socialist Union</a></li>
+<li><a href="/wiki/National_Liberation_Front_(Algeria)" title="National Liberation Front (Algeria)">National Liberation Front (Algeria)</a></li>
+<li><a href="/wiki/Popular_Front_for_the_Liberation_of_Palestine" title="Popular Front for the Liberation of Palestine">Popular Front for the Liberation of Palestine</a></li>
+<li><a href="/wiki/Rejectionist_Front" title="Rejectionist Front">Rejectionist Front</a></li>
+<li><a href="/wiki/Revolutionary_Command_Council_(Iraq)" title="Revolutionary Command Council (Iraq)">Revolutionary Command Council (Iraq)</a></li>
+<li><a href="/wiki/Supreme_Command_for_Jihad_and_Liberation" title="Supreme Command for Jihad and Liberation">Supreme Command for Jihad and Liberation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Literature</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Three_Whom_God_Should_Not_Have_Created:_Persians,_Jews,_and_Flies" title="Three Whom God Should Not Have Created: Persians, Jews, and Flies">Three Whom God Should Not Have Created: Persians, Jews, and Flies</a></i></li>
+<li><i><a href="/wiki/On_the_Way_of_Resurrection" title="On the Way of Resurrection">On the Way of Resurrection</a></i></li>
+<li><i><a href="/wiki/The_Battle_for_One_Destiny" title="The Battle for One Destiny">The Battle for One Destiny</a></i></li>
+<li><i><a href="/wiki/The_Green_Book_(Muammar_Gaddafi)" title="The Green Book (Muammar Gaddafi)">The Green Book</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Symbolism</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eagle_of_Saladin" title="Eagle of Saladin">Eagle of Saladin</a></li>
+<li><a href="/wiki/Flag_of_the_Arab_Revolt" title="Flag of the Arab Revolt">Flag of the Arab Revolt</a></li>
+<li><a href="/wiki/Hawk_of_Quraish" title="Hawk of Quraish">Hawk of Quraish</a></li>
+<li><a href="/wiki/Pan-Arab_colors" title="Pan-Arab colors">Pan-Arab colors</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algerian_nationalism" title="Algerian nationalism">Algerian nationalism</a></li>
+<li><a href="/wiki/Egyptian_nationalism" title="Egyptian nationalism">Egyptian nationalism</a></li>
+<li><a href="/wiki/Iraqi_nationalism" title="Iraqi nationalism">Iraqi nationalism</a></li>
+<li><a href="/wiki/Lebanese_nationalism" title="Lebanese nationalism">Lebanese nationalism</a></li>
+<li><a href="/wiki/Libyan_nationalism" title="Libyan nationalism">Libyan nationalism</a></li>
+<li><a href="/wiki/Palestinian_nationalism" title="Palestinian nationalism">Palestinian nationalism</a></li>
+<li><a href="/wiki/Somali_nationalism" title="Somali nationalism">Somali nationalism</a></li>
+<li><a href="/wiki/Syrian_nationalism" title="Syrian nationalism">Syrian nationalism</a></li>
+<li><a href="/wiki/Tunisian_nationalism" title="Tunisian nationalism">Tunisian nationalism</a></li>
+<li><a href="/wiki/Islamism" title="Islamism">Islamism</a></li>
+<li><a href="/wiki/Pan-Islamism" title="Pan-Islamism">Pan-Islamism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ethnic_nationalism" title="Template:Ethnic nationalism"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ethnic_nationalism" title="Template talk:Ethnic nationalism"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ethnic_nationalism&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Ethnic_nationalism" title="Ethnic nationalism">Ethnic nationalism</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/African_nationalism" title="African nationalism">Africa</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acholi_nationalism" title="Acholi nationalism">Acholi</a></li>
+<li><a href="/wiki/Afrikaner_nationalism" title="Afrikaner nationalism">Afrikaner</a></li>
+<li><a href="/wiki/Algerian_nationalism" title="Algerian nationalism">Algerian</a></li>
+<li><strong class="selflink">Arab</strong></li>
+<li><a href="/wiki/Berberism" title="Berberism">Berber</a></li>
+<li><a href="/wiki/Canarian_nationalism" title="Canarian nationalism">Canarian</a></li>
+<li><a href="/wiki/Congolese_nationalism_(Democratic_Republic_of_the_Congo)" title="Congolese nationalism (Democratic Republic of the Congo)">Congolese</a></li>
+<li><a href="/wiki/Egyptian_nationalism" title="Egyptian nationalism">Egyptian</a></li>
+<li><a href="/wiki/Ethiopian_nationalism" title="Ethiopian nationalism">Ethiopian</a></li>
+<li><a href="/wiki/Hutu_Power" title="Hutu Power">Hutu</a></li>
+<li><a href="/wiki/Libyan_nationalism" title="Libyan nationalism">Libyan</a></li>
+<li><a href="/wiki/Nigerian_nationalism" title="Nigerian nationalism">Nigerian</a></li>
+<li><a href="/wiki/Polisario_Front" title="Polisario Front">Sahrawi</a></li>
+<li><a href="/wiki/Somali_nationalism" title="Somali nationalism">Somali</a></li>
+<li><a href="/wiki/Tunisian_nationalism" title="Tunisian nationalism">Tunisian</a></li>
+<li><a href="/wiki/Ugandan_nationalism" title="Ugandan nationalism">Ugandan</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Pan-Asianism" title="Pan-Asianism">Asia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Arab</strong></li>
+<li><a href="/wiki/Armenian_nationalism" title="Armenian nationalism">Armenian</a></li>
+<li><a href="/wiki/Assam_separatist_movements" title="Assam separatist movements">Assamese</a></li>
+<li><a href="/wiki/Assyrian_nationalism" title="Assyrian nationalism">Assyrian</a></li>
+<li><a href="/wiki/Azerbaijani_nationalism" title="Azerbaijani nationalism">Azerbaijani</a></li>
+<li><a href="/wiki/Balkar_and_Karachay_nationalism" title="Balkar and Karachay nationalism">Balkar and Karachay</a></li>
+<li><a href="/wiki/Baloch_nationalism" title="Baloch nationalism">Baloch</a></li>
+<li><a href="/wiki/Bangladeshi_nationalism" title="Bangladeshi nationalism">Bangladeshi</a></li>
+<li><a href="/wiki/Bengali_nationalism" title="Bengali nationalism">Bengali</a></li>
+<li><a href="/wiki/Bodo_nationalism" title="Bodo nationalism">Bodo</a></li>
+<li><a href="/wiki/Thakins" title="Thakins">Burmese</a></li>
+<li><a href="/wiki/969_Movement" title="969 Movement">Burmese Buddhist</a></li>
+<li><a href="/wiki/Chinese_nationalism" title="Chinese nationalism">Chinese</a></li>
+<li><a href="/wiki/Circassian_nationalism" title="Circassian nationalism">Circassian</a></li>
+<li><a href="/wiki/Dalit_nationalism" title="Dalit nationalism">Dalit</a></li>
+<li><a href="/wiki/East_Turkestan_independence_movement" title="East Turkestan independence movement">East Turkestani</a></li>
+<li><a href="/wiki/Filipino_nationalism" title="Filipino nationalism">Filipino</a></li>
+<li><a href="/wiki/Gorkha_Janmukti_Morcha" title="Gorkha Janmukti Morcha">Gorkha</a></li>
+<li><a href="/wiki/Hindu_nationalism" title="Hindu nationalism">Hindu</a></li>
+<li><a href="/wiki/Indian_nationalism" title="Indian nationalism">Indian</a></li>
+<li><a href="/wiki/Indonesian_National_Awakening" title="Indonesian National Awakening">Indonesian</a></li>
+<li><a href="/wiki/Iranian_nationalism" title="Iranian nationalism">Iranian</a></li>
+<li><a href="/wiki/Iraqi_nationalism" title="Iraqi nationalism">Iraqi</a></li>
+<li><a href="/wiki/Japanese_nationalism" title="Japanese nationalism">Japanese</a></li>
+<li><a href="/wiki/Zionism" title="Zionism">Jewish</a></li>
+<li><a href="/wiki/Kashmiriyat" title="Kashmiriyat">Kashmiri</a></li>
+<li><a href="/wiki/Khmer_nationalism" title="Khmer nationalism">Khmer</a></li>
+<li><a href="/wiki/Korean_nationalism" title="Korean nationalism">Korean</a></li>
+<li><a href="/wiki/Kurdish_nationalism" title="Kurdish nationalism">Kurdish</a></li>
+<li><a href="/wiki/Lebanese_nationalism" title="Lebanese nationalism">Lebanese</a></li>
+<li><a href="/wiki/Lezgin_nationalism" title="Lezgin nationalism" class="mw-redirect">Lezgian</a></li>
+<li><a href="/wiki/Ketuanan_Melayu" title="Ketuanan Melayu">Malay</a></li>
+<li><a href="/wiki/HINDRAF" title="HINDRAF">Malaysian Hindu</a></li>
+<li><a href="/wiki/Manchurian_nationalism" title="Manchurian nationalism">Manchurian</a></li>
+<li><a href="/wiki/Marathi_nationalism" title="Marathi nationalism">Marathi</a></li>
+<li><a href="/wiki/Pan-Mongolism" title="Pan-Mongolism">Mongolian</a></li>
+<li><a href="/wiki/Naga_nationalism" title="Naga nationalism">Naga</a></li>
+<li><a href="/wiki/Pakistani_nationalism" title="Pakistani nationalism">Pakistani</a></li>
+<li><a href="/wiki/Palestinian_nationalism" title="Palestinian nationalism">Palestinian</a></li>
+<li><a href="/wiki/Ryukyu_independence_movement" title="Ryukyu independence movement">Ryukyu</a></li>
+<li><a href="/wiki/Saraikistan" title="Saraikistan">Saraiki</a></li>
+<li><a href="/wiki/Khalistan_movement" title="Khalistan movement">Sikh</a></li>
+<li><a href="/wiki/Sindhi_nationalism" title="Sindhi nationalism">Sindhi</a></li>
+<li><a href="/wiki/Sinhalese_Buddhist_nationalism" title="Sinhalese Buddhist nationalism">Sinhalese Buddhist</a></li>
+<li><a href="/wiki/Muslim_nationalism_in_South_Asia" title="Muslim nationalism in South Asia">South Asian Muslim</a></li>
+<li><a href="/wiki/Sri_Lankan_Tamil_nationalism" title="Sri Lankan Tamil nationalism">Sri Lankan Tamil</a></li>
+<li><a href="/wiki/Syrian_nationalism" title="Syrian nationalism">Syrian</a></li>
+<li><a href="/wiki/Taiwanese_nationalism" title="Taiwanese nationalism">Taiwanese</a></li>
+<li><a href="/wiki/Tamil_nationalism" title="Tamil nationalism">Tamil</a></li>
+<li><a href="/wiki/Thaification" title="Thaification">Thai</a></li>
+<li><a href="/wiki/Tibetan_independence_movement" title="Tibetan independence movement">Tibetan</a></li>
+<li><a href="/wiki/Tripuri_nationalism" title="Tripuri nationalism">Tripuri</a></li>
+<li><a href="/wiki/Pan-Turkism" title="Pan-Turkism">Turkic</a></li>
+<li><a href="/wiki/Turkish_nationalism" title="Turkish nationalism">Turkish</a></li>
+<li><a href="/wiki/Vietnamization" title="Vietnamization">Vietnamese</a></li>
+<li><a href="/wiki/Zaza_nationalism" title="Zaza nationalism">Zaza</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Pan-European_nationalism" title="Pan-European nationalism">Europe</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Albanian_nationalism" title="Albanian nationalism">Albanian</a></li>
+<li><a href="/wiki/Andalusian_nationalism" title="Andalusian nationalism">Andalusian</a></li>
+<li><a href="/wiki/Armenian_nationalism" title="Armenian nationalism">Armenian</a></li>
+<li><a href="/wiki/Asturian_nationalism" title="Asturian nationalism">Asturian</a></li>
+<li><a href="/wiki/Austrian_nationalism" title="Austrian nationalism">Austrian</a></li>
+<li><a href="/wiki/Azerbaijani_nationalism" title="Azerbaijani nationalism">Azerbaijani</a></li>
+<li><a href="/wiki/Balkar_and_Karachay_nationalism" title="Balkar and Karachay nationalism">Balkar and Karachay</a></li>
+<li><a href="/wiki/Basque_nationalism" title="Basque nationalism">Basque</a></li>
+<li><a href="/wiki/Bavarian_nationalism" title="Bavarian nationalism">Bavarian</a></li>
+<li><a href="/wiki/Bosnian_nationalism" title="Bosnian nationalism">Bosnian</a></li>
+<li><a href="/wiki/Breton_nationalism" title="Breton nationalism">Breton</a></li>
+<li><a href="/wiki/British_nationalism" title="British nationalism">British</a></li>
+<li><a href="/wiki/Canarian_nationalism" title="Canarian nationalism">Canarian</a></li>
+<li><a href="/wiki/Castilian_nationalism" title="Castilian nationalism">Castilian</a></li>
+<li><a href="/wiki/Catalan_nationalism" title="Catalan nationalism">Catalan</a></li>
+<li><a href="/wiki/Pan-Celticism" title="Pan-Celticism">Celtic</a></li>
+<li><a href="/wiki/Circassian_nationalism" title="Circassian nationalism">Circassian</a></li>
+<li><a href="/wiki/Cornish_nationalism" title="Cornish nationalism">Cornish</a></li>
+<li><a href="/wiki/Corsican_nationalism" title="Corsican nationalism">Corsican</a></li>
+<li><a href="/wiki/Croatian_nationalism" title="Croatian nationalism">Croatian</a></li>
+<li><a href="/wiki/Czechoslovakism" title="Czechoslovakism">Czechoslovak</a></li>
+<li><a href="/wiki/English_nationalism" title="English nationalism">English</a></li>
+<li><a href="/wiki/Estonian_nationalism" title="Estonian nationalism">Estonian</a></li>
+<li><a href="/wiki/Faroese_independence_movement" title="Faroese independence movement">Faroese</a></li>
+<li><a href="/wiki/Flemish_Movement" title="Flemish Movement">Flemish</a></li>
+<li><a href="/wiki/Finnish_nationalism" title="Finnish nationalism">Finnish</a></li>
+<li><a href="/wiki/French_nationalism" title="French nationalism">French</a></li>
+<li><a href="/wiki/Galician_nationalism" title="Galician nationalism">Galician</a></li>
+<li><a href="/wiki/German_nationalism" title="German nationalism">German</a> (<a href="/wiki/German_nationalism_in_Austria" title="German nationalism in Austria">in Austria</a>)</li>
+<li><a href="/wiki/Georgia_(country)" title="Georgia (country)">Georgian</a></li>
+<li><a href="/wiki/Greek_nationalism" title="Greek nationalism">Greek</a></li>
+<li><a href="/wiki/Hungarian_nationalism" title="Hungarian nationalism">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_nationalism" title="Icelandic nationalism">Icelandic</a></li>
+<li><a href="/wiki/Irish_nationalism" title="Irish nationalism">Irish</a></li>
+<li><a href="/wiki/Italian_nationalism" title="Italian nationalism">Italian</a></li>
+<li><a href="/wiki/Lezgistan#Political_concept" title="Lezgistan">Lezgian</a></li>
+<li><a href="/wiki/Macedonian_nationalism" title="Macedonian nationalism">Macedonian</a></li>
+<li><a href="/wiki/Moldovenism" title="Moldovenism">Moldovan</a></li>
+<li><a href="/wiki/Montenegrin_nationalism" title="Montenegrin nationalism">Montenegrin</a></li>
+<li><a href="/wiki/Norwegian_romantic_nationalism" title="Norwegian romantic nationalism">Norwegian</a></li>
+<li><a href="/wiki/Occitan_nationalism" title="Occitan nationalism">Occitan</a></li>
+<li><a href="/wiki/Polish_nationalism" title="Polish nationalism">Polish</a></li>
+<li><a href="/wiki/Prussian_nationalism" title="Prussian nationalism">Prussian</a></li>
+<li><a href="/wiki/Rhenish_nationalism" title="Rhenish nationalism">Rhenish</a></li>
+<li><a href="/wiki/Romanian_nationalism" title="Romanian nationalism">Romanian</a></li>
+<li><a href="/wiki/Russian_nationalism" title="Russian nationalism">Russian</a></li>
+<li><a href="/wiki/Scandinavism" title="Scandinavism">Scandinavian</a></li>
+<li><a href="/wiki/Sardinian_nationalism" title="Sardinian nationalism">Sardinian</a></li>
+<li><a href="/wiki/Scottish_nationalism" title="Scottish nationalism">Scottish</a></li>
+<li><a href="/wiki/Serbian_nationalism" title="Serbian nationalism">Serbian</a></li>
+<li><a href="/wiki/Sicilian_nationalism" title="Sicilian nationalism">Sicilian</a></li>
+<li><a href="/wiki/Pan-Slavism" title="Pan-Slavism">Slavic</a></li>
+<li><a href="/wiki/Slovenian_nationalism" title="Slovenian nationalism">Slovenian</a></li>
+<li><a href="/wiki/Soviet_socialist_patriotism" title="Soviet socialist patriotism">Soviet</a></li>
+<li><a href="/wiki/Spanish_nationalism" title="Spanish nationalism">Spanish</a></li>
+<li><a href="/wiki/Swabian_nationalism" title="Swabian nationalism">Swabian</a></li>
+<li><a href="/wiki/Pan-Turkism" title="Pan-Turkism">Turkic</a></li>
+<li><a href="/wiki/Turkish_nationalism" title="Turkish nationalism">Turkish</a></li>
+<li><a href="/wiki/Ukrainian_nationalism" title="Ukrainian nationalism">Ukrainian</a></li>
+<li><a href="/wiki/Ulster_nationalism" title="Ulster nationalism">Ulster</a></li>
+<li><a href="/wiki/Valencian_nationalism" title="Valencian nationalism">Valencian</a></li>
+<li><a href="/wiki/Venetian_nationalism" title="Venetian nationalism">Venetian</a></li>
+<li><a href="/wiki/Walloon_Movement" title="Walloon Movement">Walloon</a></li>
+<li><a href="/wiki/Welsh_nationalism" title="Welsh nationalism">Welsh</a></li>
+<li><a href="/wiki/Yugoslavism" title="Yugoslavism">Yugoslav</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">North America</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/American_nationalism" title="American nationalism">American</a></li>
+<li><a href="/wiki/Canadian_nationalism" title="Canadian nationalism">Canadian</a></li>
+<li><a href="/wiki/Chicano_nationalism" title="Chicano nationalism">Chicano</a></li>
+<li><a href="/wiki/Greenlandic_independence" title="Greenlandic independence">Greenlandic</a></li>
+<li><a href="/wiki/Quebec_nationalism" title="Quebec nationalism">Québécois</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">South America</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Argentine_nationalism" title="Argentine nationalism">Argentine</a></li>
+<li><a href="/wiki/Brazilian_nationalism" title="Brazilian nationalism">Brazilian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Oceania</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_Hawaiian_sovereignty_movement_groups" title="List of Hawaiian sovereignty movement groups">Hawaiian</a></li>
+<li><a href="/wiki/M%C4%81ori_protest_movement" title="Māori protest movement">Māori</a></li>
+<li><a href="/wiki/South_Island_nationalism" title="South Island nationalism">NZ South Islander</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black_nationalism" title="Black nationalism">Black</a></li>
+<li><a href="/wiki/Dominion_Theology" title="Dominion Theology">Christian</a></li>
+<li><a href="/wiki/Pan-Islamism" title="Pan-Islamism">Islamic</a></li>
+<li><a href="/wiki/White_nationalism" title="White nationalism">White</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><span class="wrap"><i><b>Note</b>: Forms of nationalism based primarily on <a href="/wiki/Ethnic_group" title="Ethnic group">ethnic groups</a> are listed above. This does not imply that all nationalists with a given ethnicity subscribe to that form of <a href="/wiki/Ethnic_nationalism" title="Ethnic nationalism">ethnic nationalism</a></i>.</span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1191
+Cached time: 20151015183533
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.550 seconds
+Real time usage: 0.654 seconds
+Preprocessor visited node count: 2793/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 143580/2097152 bytes
+Template argument size: 2518/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.135/10.000 seconds
+Lua memory usage: 3.46 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  411.175      1 - -total
+ 20.56%   84.525      1 - Template:Reflist
+ 19.85%   81.617      1 - Template:Life_in_the_Arab_League
+ 18.70%   76.872      1 - Template:Sidebar_with_collapsible_lists
+ 13.00%   53.448      9 - Template:Sidebar
+ 12.22%   50.231      1 - Template:Missing_information
+ 11.45%   47.087      6 - Template:Cite_book
+ 10.41%   42.790      1 - Template:Ambox
+  6.95%   28.585      1 - Template:See_also
+  6.72%   27.638      2 - Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:38667910-0!*!0!!en!4!* and timestamp 20151015183937 and revision id 685902773
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Arab_nationalism&amp;oldid=685902773">https://en.wikipedia.org/w/index.php?title=Arab_nationalism&amp;oldid=685902773</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Arab_nationalism" title="Category:Arab nationalism">Arab nationalism</a></li><li><a href="/wiki/Category:Arab_League" title="Category:Arab League">Arab League</a></li><li><a href="/wiki/Category:Nationalism_by_country_or_region" title="Category:Nationalism by country or region">Nationalism by country or region</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_to_be_expanded_from_July_2015" title="Category:Articles to be expanded from July 2015">Articles to be expanded from July 2015</a></li><li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2013" title="Category:Use dmy dates from April 2013">Use dmy dates from April 2013</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Arab+nationalism&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Arab+nationalism" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Arab_nationalism"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Arab_nationalism"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Arab_nationalism" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Arab_nationalism&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Arab_nationalism&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Arab_nationalism" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Arab_nationalism" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Arab_nationalism&amp;oldid=685902773" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Arab_nationalism&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q114213" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Arab_nationalism&amp;id=685902773" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Arab+nationalism">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Arab+nationalism&amp;returnto=Arab+nationalism&amp;oldid=685902773&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Arab_nationalism&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%82%D9%88%D9%85%D9%8A%D8%A9_%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9" title="قومية عربية – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%86%E0%A6%B0%E0%A6%AC_%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC%E0%A6%A4%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A6" title="আরব জাতীয়তাবাদ – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%8A%D0%BC" title="Арабски национализъм – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-cy"><a href="//cy.wikipedia.org/wiki/Cenedlaetholdeb_Arabaidd" title="Cenedlaetholdeb Arabaidd – Welsh" lang="cy" hreflang="cy">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Arabisk_nationalisme" title="Arabisk nationalisme – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Arabisches_Einheitsstreben" title="Arabisches Einheitsstreben – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Nationalisme_arabe" title="Nationalisme arabe – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Arapski_nacionalizam" title="Arapski nacionalizam – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Pan_Arabisme" title="Pan Arabisme – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Nazionalismo_arabo" title="Nazionalismo arabo – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%94%D7%9C%D7%90%D7%95%D7%9E%D7%99%D7%95%D7%AA_%D7%94%D7%A2%D7%A8%D7%91%D7%99%D7%AA" title="הלאומיות הערבית – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-arz"><a href="//arz.wikipedia.org/wiki/%D9%82%D9%88%D9%85%D9%8A%D9%87_%D8%B9%D8%B1%D8%A8%D9%8A%D9%87" title="قوميه عربيه – Egyptian Arabic" lang="arz" hreflang="arz">مصرى</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Arabisk_nasjonalisme" title="Arabisk nasjonalisme – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Nacionalismo_%C3%A1rabe" title="Nacionalismo árabe – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Na%C8%9Bionalism_arab" title="Naționalism arab – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC" title="Арабский национализм – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Arapski_nacionalizam" title="Arapski nacionalizam – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Arabinationalismi" title="Arabinationalismi – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%98%BF%E6%8B%89%E4%BC%AF%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89" title="阿拉伯民族主义 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q114213#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 October 2015, at 18:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Arab_nationalism&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1055"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

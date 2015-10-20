@@ -1,0 +1,1387 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Bahá'í calendar - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Bahá'í_calendar","wgTitle":"Bahá'í calendar","wgCurRevisionId":686583473,"wgRevisionId":686583473,"wgArticleId":206356,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with URL errors","Specific calendars","Solar calendars","Bahá'í practices"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bahá'í_calendar","wgRelevantArticleId":206356,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q373037","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bah%C3%A1%27%C3%AD_calendar" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bah%C3%A1%27%C3%AD_calendar" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Bahá_í_calendar skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Bahá'í calendar</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border:1px solid #000066;">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Bah%C3%A1%27%C3%AD_Faith" title="Category:Bahá'í Faith">a series</a> on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:150%;"><a href="/wiki/Bah%C3%A1%27%C3%AD_Faith" title="Bahá'í Faith">Bahá'í Faith</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em;padding:0 0.2em 0.8em;"><a href="/wiki/Bah%C3%A1%27%C3%AD_symbols#Nine-pointed_star" title="Bahá'í symbols#Nine-pointed star"><img alt="Bahai star.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bahai_star.svg/80px-Bahai_star.svg.png" width="80" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bahai_star.svg/120px-Bahai_star.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bahai_star.svg/160px-Bahai_star.svg.png 2x" data-file-width="400" data-file-height="400" /></a></td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#000066;color:white;">Central figures</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.3em;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Bah%C3%A1%27u%27ll%C3%A1h" title="Bahá'u'lláh">Bahá'u'lláh</a></li>
+<li><a href="/wiki/B%C3%A1b" title="Báb">The Báb</a></li>
+<li><a href="/wiki/%60Abdu%27l-Bah%C3%A1" title="`Abdu'l-Bahá">`Abdu'l-Bahá</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#000066;color:white;">Key scripture</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.3em;padding-bottom:0.6em;;font-style:italic;">
+<ul>
+<li><a href="/wiki/Kit%C3%A1b-i-Aqdas" title="Kitáb-i-Aqdas">Kitáb-i-Aqdas</a></li>
+<li><a href="/wiki/Kit%C3%A1b-i-%C3%8Dq%C3%A1n" title="Kitáb-i-Íqán">Kitáb-i-Íqán</a></li>
+<li><a href="/wiki/Hidden_Words" title="Hidden Words">The Hidden Words</a></li>
+<li><a href="/wiki/The_Seven_Valleys" title="The Seven Valleys">The Seven Valleys</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#000066;color:white;">Institutions</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.3em;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD_administration" title="Bahá'í administration">Administrative Order</a></li>
+<li><a href="/wiki/Shoghi_Effendi" title="Shoghi Effendi">The Guardianship</a></li>
+<li><a href="/wiki/Universal_House_of_Justice" title="Universal House of Justice">Universal House of Justice</a></li>
+<li><a href="/wiki/Spiritual_Assembly" title="Spiritual Assembly">Spiritual Assemblies</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#000066;color:white;"><a href="/wiki/History_of_the_Bah%C3%A1%27%C3%AD_Faith" title="History of the Bahá'í Faith"><span style="color:white">History</span></a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.3em;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD_timeline" title="Bahá'í timeline">Timeline</a></li>
+<li><a href="/wiki/B%C3%A1bism" title="Bábism">Bábís</a></li>
+<li><a href="/wiki/Shaykh_Ahmad" title="Shaykh Ahmad">Shaykh Ahmad</a></li>
+<li><a href="/wiki/Persecution_of_Bah%C3%A1%27%C3%ADs" title="Persecution of Bahá'ís">Persecution</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#000066;color:white;">People</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.3em;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Shoghi_Effendi" title="Shoghi Effendi">Shoghi Effendi</a></li>
+<li><a href="/wiki/Apostles_of_Bah%C3%A1%27u%27ll%C3%A1h" title="Apostles of Bahá'u'lláh">Apostles</a></li>
+<li><a href="/wiki/Hands_of_the_Cause" title="Hands of the Cause">Hands of the Cause</a></li>
+<li><a href="/wiki/Martha_Root" title="Martha Root">Martha Root</a></li>
+<li><a href="/wiki/T%C3%A1hirih" title="Táhirih">Táhirih</a></li>
+<li><a href="/wiki/Bad%C3%AD%E2%80%98" title="Badí‘">Badí‘</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#000066;color:white;">Holy sites</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.3em;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD_pilgrimage" title="Bahá'í pilgrimage">Pilgrimage</a></li>
+<li><a href="/wiki/Category:Baha%27i_holy_cities" title="Category:Baha'i holy cities">Holy cities</a></li>
+<li><a href="/wiki/Haifa" title="Haifa">Haifa</a></li>
+<li><a href="/wiki/Acre,_Israel" title="Acre, Israel">Acre</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#000066;color:white;">Other topics</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.3em;padding-bottom:0.6em;">
+<ul>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD_teachings" title="Bahá'í teachings">Teachings</a></li>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD_literature" title="Bahá'í literature">Texts</a></li>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD_symbols" title="Bahá'í symbols">Symbols</a></li>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD_laws" title="Bahá'í laws">Laws</a></li>
+<li><strong class="selflink">Calendar</strong></li>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD_divisions" title="Bahá'í divisions">Divisions</a></li>
+<li><a href="/wiki/Prayer_in_the_Bah%C3%A1%27%C3%AD_Faith" title="Prayer in the Bahá'í Faith">Prayer</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top:1px solid #000066;border-bottom:1px solid #000066;padding-bottom:0.4em;">
+<ul>
+<li><a href="/wiki/Category:Bah%C3%A1%27%C3%AD_Faith" title="Category:Bahá'í Faith">Category</a></li>
+<li><span class="nowrap"><span class="metadata"><a href="/wiki/File:Bahai_star.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bahai_star.svg/16px-Bahai_star.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bahai_star.svg/24px-Bahai_star.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bahai_star.svg/32px-Bahai_star.svg.png 2x" data-file-width="400" data-file-height="400" /></a></span> <a href="/wiki/Portal:Bah%C3%A1%27%C3%AD_Faith" title="Portal:Bahá'í Faith">Bahá'í Faith portal</a></span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bah%C3%A1%27%C3%AD_sidebar" title="Template:Bahá'í sidebar"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bah%C3%A1%27%C3%AD_sidebar" title="Template talk:Bahá'í sidebar"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bah%C3%A1%27%C3%AD_sidebar&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The <b>Bahá'í calendar</b>, also called the <b>Badí‘ calendar</b> (<i>badí‘</i> means <i>wondrous</i> or <i>unique</i>),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> used by <a href="/wiki/B%C3%A1bism" title="Bábism">Bábism</a> and the <a href="/wiki/Bah%C3%A1%27%C3%AD_Faith" title="Bahá'í Faith">Bahá'í Faith</a>, is a <a href="/wiki/Solar_calendar" title="Solar calendar">solar calendar</a> with years composed of 19 months of 19 days each, (361 days) plus an extra period of "<a href="/wiki/Intercalation_(timekeeping)" title="Intercalation (timekeeping)">Intercalary Days</a>". Years in the calendar begin at the <a href="/wiki/Vernal_equinox" title="Vernal equinox" class="mw-redirect">vernal equinox</a>, and are counted with the <a href="/wiki/Calendar_era" title="Calendar era">date notation</a> of BE (Bahá'í Era), with 21 March 1844 <a href="/wiki/Common_Era" title="Common Era">CE</a> being the first day of the first year, the year the <a href="/wiki/B%C3%A1b" title="Báb">Báb</a> proclaimed his religion.<sup id="cite_ref-Smith-calendar_2-0" class="reference"><a href="#cite_note-Smith-calendar-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>The Bahá'í calendar's implementation has changed over time. Initially the calendar was first implemented and used by the Bábí Faith and then adapted for use in the Bahá'í Faith, with some changes. However, the Bahá'í scriptures left a number of issues regarding the implementation of the calendar to be resolved by the <a href="/wiki/Universal_House_of_Justice" title="Universal House of Justice">Universal House of Justice</a>, the governing body of the Bahá'ís, before the calendar could be observed uniformly worldwide. Until 20 March 2015 the calendar was locked to the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a> with the new year always being March 21. However, on 10 July 2014 the Universal House of Justice announced provisions that enabled the common implementation of the calendar worldwide, beginning at sunset 20 March 2015. Since 21 March 2015 the calendar is no longer locked to the Gregorian calendar and the new year will start on the day of the <a href="/wiki/Vernal_equinox" title="Vernal equinox" class="mw-redirect">vernal equinox</a>.<sup id="cite_ref-momen-intro_3-0" class="reference"><a href="#cite_note-momen-intro-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>The period from 21 March 2015 to 20 March 2016 is the year 172 BE.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Before_2015"><span class="tocnumber">1.1</span> <span class="toctext">Before 2015</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#From_Naw-R.C3.BAz_2015"><span class="tocnumber">1.2</span> <span class="toctext">From Naw-Rúz 2015</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Years"><span class="tocnumber">2</span> <span class="toctext">Years</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Months"><span class="tocnumber">3</span> <span class="toctext">Months</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Ayy.C3.A1m-i-H.C3.A1"><span class="tocnumber">3.1</span> <span class="toctext">Ayyám-i-Há</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Month_Names"><span class="tocnumber">3.2</span> <span class="toctext">Month Names</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Weekdays"><span class="tocnumber">4</span> <span class="toctext">Weekdays</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Holy_days"><span class="tocnumber">5</span> <span class="toctext">Holy days</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Cycles"><span class="tocnumber">6</span> <span class="toctext">Cycles</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Primary_sources"><span class="tocnumber">9.1</span> <span class="toctext">Primary sources</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Secondary_sources"><span class="tocnumber">9.2</span> <span class="toctext">Secondary sources</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Bahá'í calendar started from the original Badí‘ calendar, created by the <a href="/wiki/B%C3%A1b" title="Báb">Báb</a> in the <i><a href="/wiki/Kitabu%27l-Asm%C3%A1%27" title="Kitabu'l-Asmá'">Kitabu'l-Asmá'</a></i> and the <i><a href="/wiki/Persian_Bay%C3%A1n" title="Persian Bayán">Persian Bayán</a></i> (5:3) in the 1840s.<sup id="cite_ref-taylor_4-0" class="reference"><a href="#cite_note-taylor-4"><span>[</span>4<span>]</span></a></sup> An early version of the calendar began to be implemented during his time.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> It used a scheme of 19 months of 19 days (19x19) for 361 days, plus intercalary days to make the calendar a <a href="/wiki/Solar_calendar" title="Solar calendar">solar calendar</a>. The first day of the early implementation of the calendar year was <a href="/wiki/Nowruz" title="Nowruz">Nowruz</a>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> while the intercalary days were assigned differently than the later Bahá'í implementation. The calendar contained symbolic connections to prophecies of the Báb about the next <a href="/wiki/Manifestation_of_God" title="Manifestation of God">Manifestation of God</a> termed <a href="/wiki/He_whom_God_shall_make_manifest" title="He whom God shall make manifest">He whom God shall make manifest</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p><a href="/wiki/Bah%C3%A1%27u%27ll%C3%A1h" title="Bahá'u'lláh">Bahá'u'lláh</a>, the founder of the Bahá'í Faith, who claimed to be the one prophesied by the Báb, confirmed and adopted this calendar. Around 1870, he instructed <a href="/wiki/Nab%C3%ADl-i-A%60zam" title="Nabíl-i-A`zam">Nabíl-i-A`zam</a>, the author of <i><a href="/wiki/The_Dawn-Breakers" title="The Dawn-Breakers">The Dawn-Breakers</a></i>, to write an overview of the Badí' calendar.<sup id="cite_ref-momen-intro_3-1" class="reference"><a href="#cite_note-momen-intro-3"><span>[</span>3<span>]</span></a></sup> In the <i><a href="/wiki/Kit%C3%A1b-i-Aqdas" title="Kitáb-i-Aqdas">Kitáb-i-Aqdas</a></i> (1873) Bahá’u'lláh made <a href="/wiki/Bah%C3%A1%27%C3%AD_Naw-R%C3%BAz" title="Bahá'í Naw-Rúz">Naw-Rúz</a> the first day of the year, and also clarified the position of the Intercalary days to immediately precede the last month.<sup id="cite_ref-taylor_4-1" class="reference"><a href="#cite_note-taylor-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-ka2_8-0" class="reference"><a href="#cite_note-ka2-8"><span>[</span>8<span>]</span></a></sup> Bahá'u'lláh set Naw-Rúz to the day on which the <a href="/wiki/First_Point_of_Aries" title="First Point of Aries">sun passes into the constellation Aries</a>. Bahá'ís interpret this formula as a specification of the <a href="/wiki/Vernal_equinox" title="Vernal equinox" class="mw-redirect">vernal equinox</a>, though where that should be determined was not defined.<sup id="cite_ref-ka2_8-1" class="reference"><a href="#cite_note-ka2-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>The calendar was first implemented in the West in 1907.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>The Bahá'í scriptures left some issues regarding the implementation of the Badi' calendar to be resolved by the <a href="/wiki/Universal_House_of_Justice" title="Universal House of Justice">Universal House of Justice</a> before the calendar can be observed uniformly worldwide. On 10 July 2014 the Universal House of Justice announced provisions that will enable the common implementation of the Badi' calendar worldwide, beginning at sunset 20 March 2015,<sup id="cite_ref-Clarifications_10-0" class="reference"><a href="#cite_note-Clarifications-10"><span>[</span>10<span>]</span></a></sup> coinciding with the completion of the ninth cycle of the calendar (see below).<sup id="cite_ref-nakhjavani2015_11-0" class="reference"><a href="#cite_note-nakhjavani2015-11"><span>[</span>11<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Before_2015">Before 2015</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit&amp;section=2" title="Edit section: Before 2015">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Bahá'í calendar in western countries was synchronized to the <a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian calendar</a>, meaning that the extra day of a leap year occurs simultaneously in both calendars so there would be 4 intercalary days in most years, and 5 intercalary days during a leap year. The practice in western countries has been to start the year at sunset on March 20, regardless of when the vernal equinox technically occurs.</p>
+<h3><span class="mw-headline" id="From_Naw-R.C3.BAz_2015">From Naw-Rúz 2015</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit&amp;section=3" title="Edit section: From Naw-Rúz 2015">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2014, the <a href="/wiki/Universal_House_of_Justice" title="Universal House of Justice">Universal House of Justice</a> selected <a href="/wiki/Tehran" title="Tehran">Tehran</a>, the birthplace of <a href="/wiki/Bah%C3%A1%27u%27ll%C3%A1h" title="Bahá'u'lláh">Bahá'u'lláh</a>, as the location to which the date of the <a href="/wiki/Vernal_equinox" title="Vernal equinox" class="mw-redirect">vernal equinox</a> is to be fixed, thereby "unlocking" the Badí' calendar from the Gregorian calendar. For determining the dates, astronomical tables from reliable sources are used.<sup id="cite_ref-momen-intro_3-2" class="reference"><a href="#cite_note-momen-intro-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-Clarifications_10-1" class="reference"><a href="#cite_note-Clarifications-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>In the same message the Universal House of Justice decided that the birthdays of the <a href="/wiki/B%C3%A1b" title="Báb">Báb</a> and <a href="/wiki/Bah%C3%A1%27u%27ll%C3%A1h" title="Bahá'u'lláh">Bahá'u'lláh</a> will be celebrated on "the first and the second day following the occurrence of the eighth <a href="/wiki/New_moon" title="New moon">new moon</a> after <a href="/wiki/Bah%C3%A1%27%C3%AD_Naw-R%C3%BAz" title="Bahá'í Naw-Rúz">Naw-Rúz</a>" (also with the use of astronomical tables) and fixed the dates of the Bahá'í Holy Days in the Bahá'í calendar, standardizing dates for Bahá'ís worldwide. These changes came into effect as of sunset on 20 March 2015.<sup id="cite_ref-momen-intro_3-3" class="reference"><a href="#cite_note-momen-intro-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Years">Years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit&amp;section=4" title="Edit section: Years">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Years in the Bahá'í calendar are counted from Thursday, 21 March 1844, the beginning of the Bahá'í <a href="/wiki/Calendar_era" title="Calendar era">Era</a> or Badí‘ Era (abbreviated <i>BE</i> or <i>B.E.</i>).<sup id="cite_ref-start_14-0" class="reference"><a href="#cite_note-start-14"><span>[</span>14<span>]</span></a></sup> Year 1 BE thus began at sundown 20 March 1844. Using the Bahá'í names for the weekday and month, day one of the Bahá'í Era was <i>Istijlál</i> (Majesty), 1 <i>Bahá</i> (Splendour) 1 BE. As detailed below, the names of the Bahá'í months and days reflect attributes of God.<sup id="cite_ref-bahai-us_15-0" class="reference"><a href="#cite_note-bahai-us-15"><span>[</span>15<span>]</span></a></sup> William Miller's polemical work against the Bahá'í Faith claims that the date the calendar was to begin was 1850 CE though most sources agree the date was with the <a href="/wiki/B%C3%A1b#Declaration_to_Mull.C3.A1_Husayn" title="Báb">Declaration of the Bab to Mullá Husayn</a>, on the evening of May 22, 1844 CE. (then the 7th of ‘Aẓamat)<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> The day is one of the Bahá'í holy days, remembered on the 8th day of ‘Aẓamat each year. The moment of the Declaration is celebrated two hours after the opening sunset (in the evening of May 22 or 23).</p>
+<h2><span class="mw-headline" id="Months">Months</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit&amp;section=5" title="Edit section: Months">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Bahá'í calendar is composed of 19 months, each with 19 days.<sup id="cite_ref-Smith-calendar_2-1" class="reference"><a href="#cite_note-Smith-calendar-2"><span>[</span>2<span>]</span></a></sup> The <a href="/wiki/Nineteen_Day_Fast" title="Nineteen Day Fast">Nineteen Day Fast</a> is held during the final month of ‘Alá’, and is preceded by the intercalary days, known as <a href="/wiki/Ayy%C3%A1m-i-H%C3%A1" title="Ayyám-i-Há">Ayyám-i-Há</a>. The month of fasting is followed by <a href="/wiki/Bah%C3%A1%27%C3%AD_Naw-R%C3%BAz" title="Bahá'í Naw-Rúz">Naw-Rúz</a>, the new year.</p>
+<h3><span class="mw-headline" id="Ayy.C3.A1m-i-H.C3.A1"><a href="/wiki/Ayy%C3%A1m-i-H%C3%A1" title="Ayyám-i-Há">Ayyám-i-Há</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit&amp;section=6" title="Edit section: Ayyám-i-Há">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The introduction of <a href="/wiki/Intercalation_(timekeeping)" title="Intercalation (timekeeping)">intercalation</a> marked an important break from <a href="/wiki/Islam" title="Islam">Islam</a>, as under the <a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic calendar</a> the practice of intercalation had been specifically prohibited in the <a href="/wiki/Qur%27an" title="Qur'an" class="mw-redirect">Qur'an</a>.<sup id="cite_ref-taylor_4-2" class="reference"><a href="#cite_note-taylor-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>The number of the intercalary days is determined in advance to ensure that the year ends on the day before the next vernal equinox. This usually results in 4 or 5 intercalary days and is unaffected by the Gregorian leap year.</p>
+<p>Before 2015, the intercalary days included 28 February and 1 March, so they automatically included the Gregorian leap day. There were four intercalary days in a regular year, and five in a leap year.<sup id="cite_ref-Smith-ayyam_17-0" class="reference"><a href="#cite_note-Smith-ayyam-17"><span>[</span>17<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Month_Names">Month Names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit&amp;section=7" title="Edit section: Month Names">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The names of the months were adopted by the Báb from the <a href="/wiki/Du%27ay-i-Sahar" title="Du'ay-i-Sahar" class="mw-redirect">Du'ay-i-Sahar</a>, a Ramadan dawn prayer by <a href="/wiki/Imam" title="Imam">Imam</a> <a href="/wiki/Muhammad_al-Baqir" title="Muhammad al-Baqir">Muhammad al-Baqir</a>, the fifth Imam of <a href="/wiki/Twelver" title="Twelver">Twelver Shi'ah Islam</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> These month names are described as describing attributes of God.</p>
+<p>In the <i><a href="/wiki/Persian_Bayan" title="Persian Bayan" class="mw-redirect">Persian Bayan</a></i> the Báb divides the months in four groups, of three, four, six and six months respectively.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> Robin Mirshahi suggests a possible link with four realms described in <a href="/wiki/Bah%C3%A1%27%C3%AD_cosmology" title="Bahá'í cosmology">Bahá'í cosmology</a>.<sup id="cite_ref-Mihrshahi_21-0" class="reference"><a href="#cite_note-Mihrshahi-21"><span>[</span>21<span>]</span></a></sup></p>
+<p>The days of the month have the same names as the names of the month - the 9th day of the month for example is the same as the 9th month - Asmá, or "Names". In the following table, the Gregorian date indicates the first full day of the month. The month begins at sunset of the Gregorian date previous to the one listed, after which time that month's <a href="/wiki/Nineteen_Day_Feast" title="Nineteen Day Feast">Nineteen Day Feast</a> may be celebrated.</p>
+<table class="wikitable">
+<tr style="background:#EFEFEF;">
+<th>Month</th>
+<th>Usual Gregorian dates<br />
+<small>(when Naw-Rúz coincides with 21 March)</small><sup id="cite_ref-Smith-calendar_2-2" class="reference"><a href="#cite_note-Smith-calendar-2"><span>[</span>2<span>]</span></a></sup></th>
+<th>Arabic name <sup id="cite_ref-Smith-calendar_2-3" class="reference"><a href="#cite_note-Smith-calendar-2"><span>[</span>2<span>]</span></a></sup></th>
+<th>Arabic script</th>
+<th>English name <sup id="cite_ref-Smith-calendar_2-4" class="reference"><a href="#cite_note-Smith-calendar-2"><span>[</span>2<span>]</span></a></sup></th>
+<th>Additional meanings in authorized English translations of Bahá'í scripture <sup id="cite_ref-Mihrshahi_21-1" class="reference"><a href="#cite_note-Mihrshahi-21"><span>[</span>21<span>]</span></a></sup></th>
+</tr>
+<tr>
+<td>1</td>
+<td>21 March<br />
+– 8 April</td>
+<td><b>Bahá</b></td>
+<td>بهاء</td>
+<td>Splendour</td>
+<td>glory, light, excellence</td>
+</tr>
+<tr>
+<td>2</td>
+<td>9 April<br />
+– 27 April</td>
+<td><b>Jalál</b></td>
+<td>جلال</td>
+<td>Glory</td>
+<td>majesty</td>
+</tr>
+<tr>
+<td>3</td>
+<td>28 April<br />
+– 16 May</td>
+<td><b>Jamál</b></td>
+<td>جمال</td>
+<td>Beauty</td>
+<td>charm</td>
+</tr>
+<tr>
+<td>4</td>
+<td>17 May<br />
+– 4 June</td>
+<td><b>‘Aẓamat</b></td>
+<td>عظمة</td>
+<td>Grandeur</td>
+<td>glory, majesty, dominion, greatness</td>
+</tr>
+<tr>
+<td>5</td>
+<td>5 June<br />
+– 23 June</td>
+<td><b>Núr</b></td>
+<td>نور</td>
+<td>Light</td>
+<td>radiance, brightness, splendour, effulgence, illumination</td>
+</tr>
+<tr>
+<td>6</td>
+<td>24 June<br />
+– 12 July</td>
+<td><b>Raḥmat</b></td>
+<td>رحمة</td>
+<td>Mercy</td>
+<td>blessing, grace, favour, loving kindness, providence, compassion</td>
+</tr>
+<tr>
+<td>7</td>
+<td>13 July<br />
+– 31 July</td>
+<td><b>Kalimát</b></td>
+<td>كلمات</td>
+<td>Words</td>
+<td>utterance, the word of God</td>
+</tr>
+<tr>
+<td>8</td>
+<td>1 August<br />
+– 19 August</td>
+<td><b>Kamál</b></td>
+<td>كمال</td>
+<td>Perfection</td>
+<td>excellence, fullness, consummation, maturity</td>
+</tr>
+<tr>
+<td>9</td>
+<td>20 August<br />
+– 7 September</td>
+<td><b>Asmá’</b></td>
+<td>اسماء</td>
+<td>Names</td>
+<td>titles, attributes, designations</td>
+</tr>
+<tr>
+<td>10</td>
+<td>8 September<br />
+– 26 September</td>
+<td><b>‘Izzat</b></td>
+<td>عزة</td>
+<td>Might</td>
+<td>glory, power, exaltation, honour, majesty, grandeur, strength, sovereignty, magnificence</td>
+</tr>
+<tr>
+<td>11</td>
+<td>27 September<br />
+– 15 October</td>
+<td><b>Ma<u>sh</u>íyyat</b></td>
+<td>مشية</td>
+<td>Will</td>
+<td>purpose, the primal will, the will of God</td>
+</tr>
+<tr>
+<td>12</td>
+<td>16 October<br />
+– 3 November</td>
+<td><b>‘Ilm</b></td>
+<td>علم</td>
+<td>Knowledge</td>
+<td>wisdom, divine knowledge, revelation</td>
+</tr>
+<tr>
+<td>13</td>
+<td>4 November<br />
+– 22 November</td>
+<td><b>Qudrat</b></td>
+<td>قدرة</td>
+<td>Power</td>
+<td>might, authority, dominion, celestial might, omnipotence, transcendent power, indomitable strength, all-pervading power, ascendancy, divine power</td>
+</tr>
+<tr>
+<td>14</td>
+<td>23 November<br />
+– 11 December</td>
+<td><b>Qawl</b></td>
+<td>قول</td>
+<td>Speech</td>
+<td>words, testimony</td>
+</tr>
+<tr>
+<td>15</td>
+<td>12 December<br />
+– 30 December</td>
+<td><b>Masá’il</b></td>
+<td>مسائل</td>
+<td>Questions</td>
+<td>principles, truths, matters, mysteries, subtleties, obscurities, intricacies, problems</td>
+</tr>
+<tr>
+<td>16</td>
+<td>31 December<br />
+– 18 January</td>
+<td><b><u>Sh</u>araf</b></td>
+<td>شرف</td>
+<td>Honour</td>
+<td>excellence, glory</td>
+</tr>
+<tr>
+<td>17</td>
+<td>19 January<br />
+– 6 February</td>
+<td><b>Sulṭán</b></td>
+<td>سلطان</td>
+<td>Sovereignty</td>
+<td>king, lord, majesty, sovereign, monarch, authority, potency, the power of sovereignty, the all-possessing, the most potent of rulers</td>
+</tr>
+<tr>
+<td>18</td>
+<td>7 February<br />
+– 25 February</td>
+<td><b>Mulk</b></td>
+<td>ملك</td>
+<td>Dominion</td>
+<td>sovereignty, kingdom, realm, universe</td>
+</tr>
+<tr style="background:#CCCCCC;">
+<td></td>
+<td>26 February<br />
+– 1 March</td>
+<td><b><a href="/wiki/Ayy%C3%A1m-i-H%C3%A1" title="Ayyám-i-Há">Ayyám-i-Há</a></b></td>
+<td>ايام الهاء</td>
+<td>The Days of Há</td>
+</tr>
+<tr>
+<td>19</td>
+<td>2 March<br />
+– 20 March<br />
+(<a href="/wiki/Nineteen_Day_Fast" title="Nineteen Day Fast">Month of fasting</a>)</td>
+<td><b>‘Alá’</b></td>
+<td>علاء</td>
+<td>Loftiness</td>
+<td>glory</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Weekdays">Weekdays</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit&amp;section=8" title="Edit section: Weekdays">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Bahá'í week starts on Saturday, and ends on Friday.<sup id="cite_ref-vahid0_22-0" class="reference"><a href="#cite_note-vahid0-22"><span>[</span>22<span>]</span></a></sup> Like <a href="/wiki/Judaism" title="Judaism">Judaism</a> and <a href="/wiki/Islam" title="Islam">Islam</a>, days begin at sunset on the previous <a href="/wiki/Solar_time" title="Solar time">solar day</a> and end at sunset of the present solar day. Bahá'í writings indicate that Friday is to be kept as a day of rest.<sup id="cite_ref-log_23-0" class="reference"><a href="#cite_note-log-23"><span>[</span>23<span>]</span></a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup> The practice of keeping Friday as a day of rest is currently not observed in all countries; for example, in the UK, the National Spiritual Assembly of the Bahá’ís confirmed it does not currently keep this practice.<sup id="cite_ref-UK_rest_25-0" class="reference"><a href="#cite_note-UK_rest-25"><span>[</span>25<span>]</span></a></sup></p>
+<table class="wikitable">
+<tr style="background:#EFEFEF;">
+<th>Arabic Name<sup id="cite_ref-Smith-calendar_2-5" class="reference"><a href="#cite_note-Smith-calendar-2"><span>[</span>2<span>]</span></a></sup></th>
+<th>Arabic Script</th>
+<th>English Translation<sup id="cite_ref-vahid0_22-1" class="reference"><a href="#cite_note-vahid0-22"><span>[</span>22<span>]</span></a></sup></th>
+<th>Day of the Week<sup id="cite_ref-Smith-calendar_2-6" class="reference"><a href="#cite_note-Smith-calendar-2"><span>[</span>2<span>]</span></a></sup></th>
+</tr>
+<tr>
+<td>Jalál</td>
+<td>جلال</td>
+<td>Glory</td>
+<td>Saturday</td>
+</tr>
+<tr>
+<td>Jamál</td>
+<td>جمال</td>
+<td>Beauty</td>
+<td>Sunday</td>
+</tr>
+<tr>
+<td>Kamál</td>
+<td>كمال</td>
+<td>Perfection</td>
+<td>Monday</td>
+</tr>
+<tr>
+<td>Fiḍál</td>
+<td>فضال</td>
+<td>Grace</td>
+<td>Tuesday</td>
+</tr>
+<tr>
+<td>‘Idál</td>
+<td>عدال</td>
+<td>Justice</td>
+<td>Wednesday</td>
+</tr>
+<tr>
+<td>Istijlál</td>
+<td>استجلال</td>
+<td>Majesty</td>
+<td>Thursday</td>
+</tr>
+<tr>
+<td>Istiqlál</td>
+<td>استقلال</td>
+<td>Independence</td>
+<td>Friday</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Holy_days">Holy days</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit&amp;section=9" title="Edit section: Holy days">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are eleven holy days in the Bahá'í calendar; on nine of these holy days, work is suspended.<sup id="cite_ref-nsausa_26-0" class="reference"><a href="#cite_note-nsausa-26"><span>[</span>26<span>]</span></a></sup> There is no fixed format for any of the holy days, and Bahá’í communities organize their own commemorative meetings.<sup id="cite_ref-holy-days_27-0" class="reference"><a href="#cite_note-holy-days-27"><span>[</span>27<span>]</span></a></sup> The <a href="/wiki/Festival_of_Ridv%C3%A1n" title="Festival of Ridván" class="mw-redirect">Festival of Ridván</a>, a twelve day festival that commemorates Bahá'u'lláh's announcement of prophethood, is the most holy Bahá'í festival to which Bahá'u'lláh referred as the "Most Great Festival."<sup id="cite_ref-ridvan_28-0" class="reference"><a href="#cite_note-ridvan-28"><span>[</span>28<span>]</span></a></sup></p>
+<p>The <a href="/wiki/Twin_Holy_Birthdays" title="Twin Holy Birthdays">Twin Holy Birthdays</a> are celebrated on the first and second day following the eighth <a href="/wiki/New_moon" title="New moon">new moon</a> after Naw-Rúz.<sup id="cite_ref-Clarifications_10-2" class="reference"><a href="#cite_note-Clarifications-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-momen-intro_3-4" class="reference"><a href="#cite_note-momen-intro-3"><span>[</span>3<span>]</span></a></sup> (In the Islamic lunar calendar, the births of the <a href="/wiki/B%C3%A1b" title="Báb">Báb</a> and <a href="/wiki/Bah%C3%A1%27u%27ll%C3%A1h" title="Bahá'u'lláh">Bahá'u'lláh</a> fall on consecutive days; the first and second day of <a href="/wiki/Muharram" title="Muharram">Muharram</a>, respectively.<sup id="cite_ref-holy-days_27-1" class="reference"><a href="#cite_note-holy-days-27"><span>[</span>27<span>]</span></a></sup><sup id="cite_ref-rob4_29-0" class="reference"><a href="#cite_note-rob4-29"><span>[</span>29<span>]</span></a></sup>)</p>
+<table class="wikitable">
+<caption>Holy Days</caption>
+<tr style="background:#EFEFEF;">
+<th>Name<sup id="cite_ref-holy-days_27-2" class="reference"><a href="#cite_note-holy-days-27"><span>[</span>27<span>]</span></a></sup></th>
+<th>Date on the Badí‘ Calendar</th>
+<th>Number of Days after Naw-Rúz</th>
+<th>Usual date on the Gregorian Calendar<br />
+<small>(when Naw-Rúz coincides with 21 March)</small></th>
+<th>Special time of celebration or commemoration<sup id="cite_ref-holy-days_27-3" class="reference"><a href="#cite_note-holy-days-27"><span>[</span>27<span>]</span></a></sup></th>
+<th>Work Suspended<sup id="cite_ref-holy-days_27-4" class="reference"><a href="#cite_note-holy-days-27"><span>[</span>27<span>]</span></a></sup></th>
+</tr>
+<tr>
+<td><a href="/wiki/Bah%C3%A1%27%C3%AD_Naw-R%C3%BAz" title="Bahá'í Naw-Rúz">Naw-Rúz</a> (Bahá'í New Year)</td>
+<td>Bahá 1</td>
+<td></td>
+<td>March 21</td>
+<td>-</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>First day of <a href="/wiki/Ridv%C3%A1n" title="Ridván">Riḍván</a></td>
+<td>Jalál 13</td>
+<td>31</td>
+<td>April 21</td>
+<td>3 p.m. (Standard Time)</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Ninth day of Riḍván</td>
+<td>Jamál 2</td>
+<td>39</td>
+<td>April 29</td>
+<td>-</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Twelfth day of Riḍván</td>
+<td>Jamál 5</td>
+<td>42</td>
+<td>May 2</td>
+<td>-</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Declaration of the <a href="/wiki/B%C3%A1b" title="Báb">Báb</a></td>
+<td>‘Aẓamat 8</td>
+<td>64</td>
+<td>May 24</td>
+<td>2 hours after starting sunset</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Ascension of <a href="/wiki/Bah%C3%A1%27u%27ll%C3%A1h" title="Bahá'u'lláh">Bahá'u'lláh</a></td>
+<td>‘Aẓamat 13</td>
+<td>69</td>
+<td>May 29</td>
+<td>3 a.m. (Standard Time)</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><a href="/wiki/Execution_of_the_B%C3%A1b" title="Execution of the Báb">Martyrdom of the Báb</a></td>
+<td>Raḥmat 17</td>
+<td>111</td>
+<td>July 10</td>
+<td>12 noon</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Birth of the Báb</td>
+<td colspan="3">First of the <a href="/wiki/Twin_Holy_Birthdays" title="Twin Holy Birthdays">Twin Holy Birthdays</a>; celebrated on the first day after the eighth new moon following Naw-Rúz (November 13, in 2015)<sup id="cite_ref-Clarifications_10-3" class="reference"><a href="#cite_note-Clarifications-10"><span>[</span>10<span>]</span></a></sup></td>
+<td>-</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><a href="/wiki/Birth_of_Bah%C3%A1%27u%27ll%C3%A1h" title="Birth of Bahá'u'lláh">Birth of Bahá'u'lláh</a></td>
+<td colspan="3">Second of the Twin Holy Birthdays; celebrated on the second day after the eighth new moon following Naw-Rúz (November 14, in 2015)<sup id="cite_ref-Clarifications_10-4" class="reference"><a href="#cite_note-Clarifications-10"><span>[</span>10<span>]</span></a></sup></td>
+<td>-</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><a href="/wiki/Day_of_the_Covenant_(Bah%C3%A1%27%C3%AD)" title="Day of the Covenant (Bahá'í)">Day of the Covenant</a></td>
+<td>Qawl 4</td>
+<td>250</td>
+<td>November 26</td>
+<td>-</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Ascension of <a href="/wiki/%60Abdu%27l-Bah%C3%A1" title="`Abdu'l-Bahá">`Abdu'l-Bahá</a></td>
+<td>Qawl 6</td>
+<td>252</td>
+<td>November 28</td>
+<td>1 a.m. (Standard Time)</td>
+<td>No</td>
+</tr>
+</table>
+<table class="wikitable">
+<caption>Holy Days (Historical dates, as celebrated before March 20, 2015)</caption>
+<tr style="background:#EFEFEF;">
+<th>Name<sup id="cite_ref-holy-days_27-5" class="reference"><a href="#cite_note-holy-days-27"><span>[</span>27<span>]</span></a></sup></th>
+<th>Gregorian Dates<sup id="cite_ref-holy-days_27-6" class="reference"><a href="#cite_note-holy-days-27"><span>[</span>27<span>]</span></a></sup></th>
+</tr>
+<tr>
+<td><a href="/wiki/Bah%C3%A1%27%C3%AD_Naw-R%C3%BAz" title="Bahá'í Naw-Rúz">Naw-Rúz</a> (Bahá'í New Year)</td>
+<td>March 21</td>
+</tr>
+<tr>
+<td>First day of <a href="/wiki/Ridv%C3%A1n" title="Ridván">Riḍván</a></td>
+<td>April 21</td>
+</tr>
+<tr>
+<td>Ninth day of Riḍván</td>
+<td>April 29</td>
+</tr>
+<tr>
+<td>Twelfth day of Riḍván</td>
+<td>May 2</td>
+</tr>
+<tr>
+<td>Declaration of the <a href="/wiki/B%C3%A1b" title="Báb">Báb</a></td>
+<td>May 23</td>
+</tr>
+<tr>
+<td>Ascension of <a href="/wiki/Bah%C3%A1%27u%27ll%C3%A1h" title="Bahá'u'lláh">Bahá'u'lláh</a></td>
+<td>May 29</td>
+</tr>
+<tr>
+<td><a href="/wiki/Execution_of_the_B%C3%A1b" title="Execution of the Báb">Martyrdom of the Báb</a></td>
+<td>July 9</td>
+</tr>
+<tr>
+<td>Birth of the Báb</td>
+<td>October 20</td>
+</tr>
+<tr>
+<td><a href="/wiki/Birth_of_Bah%C3%A1%27u%27ll%C3%A1h" title="Birth of Bahá'u'lláh">Birth of Bahá'u'lláh</a></td>
+<td>November 12</td>
+</tr>
+<tr>
+<td><a href="/wiki/Day_of_the_Covenant_(Bah%C3%A1%27%C3%AD)" title="Day of the Covenant (Bahá'í)">Day of the Covenant</a></td>
+<td>November 26</td>
+</tr>
+<tr>
+<td>Ascension of <a href="/wiki/%60Abdu%27l-Bah%C3%A1" title="`Abdu'l-Bahá">`Abdu'l-Bahá</a></td>
+<td>November 28</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Cycles">Cycles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit&amp;section=10" title="Edit section: Cycles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Also existing in the Bahá'í calendar system is a 19-year cycle called Váḥid and a 361-year (19x19) supercycle called Kull-i-<u>Sh</u>ay’ (literally, "All Things").<sup id="cite_ref-vahid0_22-2" class="reference"><a href="#cite_note-vahid0-22"><span>[</span>22<span>]</span></a></sup> Each of the 19 years in a Vahid has been given a name as shown in the table below.<sup id="cite_ref-vahid0_22-3" class="reference"><a href="#cite_note-vahid0-22"><span>[</span>22<span>]</span></a></sup></p>
+<p>The 10th Váḥid of the 1st Kull-i-<u>Sh</u>ay’ started on 21 March 2015, and the 11th Váḥid will begin in 2034.<sup id="cite_ref-vahid_30-0" class="reference"><a href="#cite_note-vahid-30"><span>[</span>30<span>]</span></a></sup></p>
+<p>The current Bahá'í year, year 172 BE (21 March 2015 - 20 March 2016), is year Alif (A) of the 10th Váḥid of the 1st Kull-i-<u>Sh</u>ay’.<sup id="cite_ref-vahid_30-1" class="reference"><a href="#cite_note-vahid-30"><span>[</span>30<span>]</span></a></sup> The 2nd Kull-i-<u>Sh</u>ay’ will begin in 2205.<sup id="cite_ref-vahid_30-2" class="reference"><a href="#cite_note-vahid-30"><span>[</span>30<span>]</span></a></sup></p>
+<p>The concept of a 19-year cycle has existed in some form since the 4th century BC. The <a href="/wiki/Metonic_cycle" title="Metonic cycle">Metonic cycle</a> represents an invented measure that approximately correlates solar and lunar markings of time and which appears in several calendar systems.</p>
+<dl>
+<dt>Years in a Váḥid</dt>
+</dl>
+<table class="wikitable">
+<tr style="background:#EFEFEF;">
+<th>No.</th>
+<th>Persian Name</th>
+<th>Arabic Script</th>
+<th>English Translation</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Alif</td>
+<td>ألف</td>
+<td>A</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Bá’</td>
+<td>باء</td>
+<td>B</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Ab</td>
+<td>أب</td>
+<td>Father</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Dál</td>
+<td>دﺍﻝ</td>
+<td>D</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Báb</td>
+<td>باب</td>
+<td>Gate</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Váv</td>
+<td>وﺍو</td>
+<td>V</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Abad</td>
+<td>أبد</td>
+<td>Eternity</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Jád</td>
+<td>جاد</td>
+<td>Generosity</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Bahá'</td>
+<td>بهاء</td>
+<td>Splendour</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Ḥubb</td>
+<td>حب</td>
+<td>Love</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Bahháj</td>
+<td>بهاج</td>
+<td>Delightful</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Javáb</td>
+<td>جواب</td>
+<td>Answer</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Aḥad</td>
+<td>احد</td>
+<td>Single</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Vahháb</td>
+<td>وﻫﺎب</td>
+<td>Bountiful</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Vidád</td>
+<td>وداد</td>
+<td>Affection</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Badí‘</td>
+<td>بدیع</td>
+<td>Beginning</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Bahí</td>
+<td>بهي</td>
+<td>Luminous</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Abhá</td>
+<td>ابهى</td>
+<td>Most Luminous</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Váḥid</td>
+<td>واحد</td>
+<td>Unity</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Calendar" title="Calendar">Calendar</a></li>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD_Faith" title="Bahá'í Faith">Bahá'í Faith</a></li>
+<li><a href="/wiki/Intercalation_(timekeeping)" title="Intercalation (timekeeping)">Intercalation (timekeeping)</a></li>
+<li><a href="/wiki/19_(number)" title="19 (number)">19 (number)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Buck, Christopher and Melton, J. Gordon (2011). "<a rel="nofollow" class="external text" href="http://bahai-library.com/pdf/b/buck_celebrations_bahai_calendar.pdf">Bahā’ī Calendar and Rhythms of Worship</a>." <i>Religious Celebrations: An Encyclopedia of Holidays, Festivals, Solemn Observances, and Spiritual Commemorations</i>. By J. Gordon Melton, with James A. Beverley, Christopher Buck, and Constance A. Jones. Santa Barbara, CA: ABC-CLIO. (1:79–86.).</span></li>
+<li id="cite_note-Smith-calendar-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Smith-calendar_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Smith-calendar_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Smith-calendar_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Smith-calendar_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Smith-calendar_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Smith-calendar_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Smith-calendar_2-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation encyclopaedia">Smith, Peter (2000). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=pYfrAQAAQBAJ">"calendar"</a>. <i>A concise encyclopedia of the Bahá'í Faith</i>. Oxford: Oneworld Publications. pp.&#160;98–100. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-85168-184-1" title="Special:BookSources/1-85168-184-1">1-85168-184-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.atitle=calendar&amp;rft.aufirst=Peter&amp;rft.aulast=Smith&amp;rft.btitle=A+concise+encyclopedia+of+the+Bah%C3%A1%27%C3%AD+Faith&amp;rft.date=2000&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DpYfrAQAAQBAJ&amp;rft.isbn=1-85168-184-1&amp;rft.pages=98-100&amp;rft.place=Oxford&amp;rft.pub=Oneworld+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-momen-intro-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-momen-intro_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-momen-intro_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-momen-intro_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-momen-intro_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-momen-intro_3-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Momen, Moojan (2014). <a rel="nofollow" class="external text" href="http://wi.bahai.us/2014/11/29/the-badi-bahai-calendar-an-introduction">The Badí` (Bahá'í) Calendar: An Introduction</a>.</span></li>
+<li id="cite_note-taylor-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-taylor_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-taylor_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-taylor_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Taylor, John (2000-09-01). <a rel="nofollow" class="external text" href="http://bahai-library.com/taylor_novelty_badi_calendar">"On Novelty in Ayyám-i-Há and the Badí Calendar"</a>. bahai-library.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-09-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.aufirst=John&amp;rft.aulast=Taylor&amp;rft.btitle=On+Novelty+in+Ayy%C3%A1m-i-H%C3%A1+and+the+Bad%C3%AD+Calendar&amp;rft.date=2000-09-01&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbahai-library.com%2Ftaylor_novelty_badi_calendar&amp;rft.pub=bahai-library.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">MacEoin, Denis (1994). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=4Bpd0xhUKewC"><i>Rituals in Babism and Baha'ism</i></a>. Pembroke Persian Papers. Volume 2 (illustrated‌ ed.). British Academic Press. p.&#160;107. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-85043-654-6" title="Special:BookSources/978-1-85043-654-6">978-1-85043-654-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.aufirst=Denis&amp;rft.aulast=MacEoin&amp;rft.btitle=Rituals+in+Babism+and+Baha%27ism&amp;rft.date=1994&amp;rft.edition=illustrated%26zwnj%3B&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D4Bpd0xhUKewC&amp;rft.isbn=978-1-85043-654-6&amp;rft.pages=107&amp;rft.pub=British+Academic+Press&amp;rft.series=Pembroke+Persian+Papers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=Volume+2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mottahedeh, Negar (1998). "The Mutilated Body of the Modern Nation: Qurrat al-‘AynTahirah’s Unveiling and the Iranian Massacre of the Babis". <i>Comparative Studies of south Asia,Africa and the Middle East</i> <b>18</b> (2): 43. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1215%2F1089201X-18-2-38">10.1215/1089201X-18-2-38</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.atitle=The+Mutilated+Body+of+the+Modern+Nation%3A+Qurrat+al-%E2%80%98AynTahirah%E2%80%99s+Unveiling+and+the+Iranian+Massacre+of+the+Babis&amp;rft.aufirst=Negar&amp;rft.aulast=Mottahedeh&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1215%2F1089201X-18-2-38&amp;rft.issue=2&amp;rft.jtitle=Comparative+Studies+of+south+Asia%2CAfrica+and+the+Middle+East&amp;rft.pages=43&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mihrshahi, Robin (2004) [1991]. <a rel="nofollow" class="external text" href="http://www.intellectbooks.co.uk/journals/view-Article,id=7872/">"Symbolism in the Badi‘ Calendar"</a>. <i>Baha'i Studies Review</i> <b>12</b> (1). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1386%2Fbsre.12.1.15">10.1386/bsre.12.1.15</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1354-8697">1354-8697</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-05-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.atitle=Symbolism+in+the+Badi%E2%80%98+Calendar&amp;rft.aufirst=Robin&amp;rft.aulast=Mihrshahi&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.intellectbooks.co.uk%2Fjournals%2Fview-Article%2Cid%3D7872%2F&amp;rft_id=info%3Adoi%2F10.1386%2Fbsre.12.1.15&amp;rft.issn=13548697&amp;rft.issue=1&amp;rft.jtitle=Baha%27i+Studies+Review&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ka2-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-ka2_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ka2_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Universal_House_of_Justice" title="Universal House of Justice">Universal House of Justice</a> (1992). <a rel="nofollow" class="external text" href="http://reference.bahai.org/en/t/b/KA/ka-43.html#gr2"><i>Notes of the Kitáb-i-Aqdas</i></a>. Wilmette, Illinois, USA: Bahá'í Publishing Trust. pp.&#160;178–179. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-85398-999-0" title="Special:BookSources/0-85398-999-0">0-85398-999-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.au=Universal+House+of+Justice&amp;rft.btitle=Notes+of+the+Kit%C3%A1b-i-Aqdas&amp;rft.date=1992&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Freference.bahai.org%2Fen%2Ft%2Fb%2FKA%2Fka-43.html%23gr2&amp;rft.isbn=0-85398-999-0&amp;rft.pages=178-179&amp;rft.place=Wilmette%2C+Illinois%2C+USA&amp;rft.pub=Bah%C3%A1%27%C3%AD+Publishing+Trust&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book">Cameron, Glenn; Momen, Wendy (1996). <a rel="nofollow" class="external text" href="http://bahai-library.com/chronology"><i>A Basic Bahá'í Chronology</i></a>. Oxford, UK: George Ronald. p.&#160;165. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-85398-404-2" title="Special:BookSources/0-85398-404-2">0-85398-404-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.au=Cameron%2C+Glenn&amp;rft.au=Momen%2C+Wendy&amp;rft.btitle=A+Basic+Bah%C3%A1%27%C3%AD+Chronology&amp;rft.date=1996&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbahai-library.com%2Fchronology&amp;rft.isbn=0-85398-404-2&amp;rft.pages=165&amp;rft.place=Oxford%2C+UK&amp;rft.pub=George+Ronald&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Clarifications-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Clarifications_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Clarifications_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Clarifications_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Clarifications_10-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Clarifications_10-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">The Universal House of Justice (2014-07-10). <a rel="nofollow" class="external text" href="http://universalhouseofjustice.bahai.org/activities-bahai-community/20140710_001">"To the Bahá’ís of the World"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-07-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.au=The+Universal+House+of+Justice&amp;rft.btitle=To+the+Bah%C3%A1%E2%80%99%C3%ADs+of+the+World&amp;rft.date=2014-07-10&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Funiversalhouseofjustice.bahai.org%2Factivities-bahai-community%2F20140710_001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nakhjavani2015-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-nakhjavani2015_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Ali_Nakhjavani" title="Ali Nakhjavani">Nakhjavani, Ali</a> (January 2015). "The ninth cycle of the Bahá’í calendar". <i>The American Bahá'í</i>: 23–27.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.atitle=The+ninth+cycle+of+the+Bah%C3%A1%E2%80%99%C3%AD+calendar&amp;rft.aufirst=Ali&amp;rft.aulast=Nakhjavani&amp;rft.date=January+2015&amp;rft.genre=article&amp;rft.jtitle=The+American+Bah%C3%A1%27%C3%AD&amp;rft.pages=23-27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">For calculating the dates, data provided by <a href="/wiki/HM_Nautical_Almanac_Office" title="HM Nautical Almanac Office">HM Nautical Almanac Office</a> in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> is used by the Bahá'í World Centre. The <a href="/wiki/World_Geodetic_System_1984" title="World Geodetic System 1984" class="mw-redirect">World Geodetic System 1984</a> is used to determine the point of reference for Tehran.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Purushotma, Shastri <i><a rel="nofollow" class="external text" href="http://m.huffpost.com/us/entry/5579806">Baha'is to Implement New Calendar Worldwide</a></i>. Huffington Post. 14-07-2014.</span></li>
+<li id="cite_note-start-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-start_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Curtis, Larry (2004-03-06). <a rel="nofollow" class="external text" href="http://www.bcca.org/bahaivision/docs/today.html">"A Day in the Bahá'í Calendar"</a>. bcca.org. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20061002101423/http://www.bcca.org/bahaivision/docs/today.html">Archived</a> from the original on 2 October 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-09-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.aufirst=Larry&amp;rft.aulast=Curtis&amp;rft.btitle=A+Day+in+the+Bah%C3%A1%27%C3%AD+Calendar&amp;rft.date=2004-03-06&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bcca.org%2Fbahaivision%2Fdocs%2Ftoday.html&amp;rft.pub=bcca.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bahai-us-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-bahai-us_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web">National Spiritual Assembly of the United States (2006-03-05). <a rel="nofollow" class="external text" href="http://www.bahai.us/bahai-calendar">"The Bahá'í Calendar"</a>. bahai.us. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20060928212500/http://www.bahai.us/bahai-calendar">Archived</a> from the original on 28 September 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-09-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.au=National+Spiritual+Assembly+of+the+United+States&amp;rft.btitle=The+Bah%C3%A1%27%C3%AD+Calendar&amp;rft.date=2006-03-05&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bahai.us%2Fbahai-calendar&amp;rft.pub=bahai.us&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation book">Bayat, Mangol (2000). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=5A90fE_96ToC&amp;lpg=PA108&amp;ots=1i_QVVfswX&amp;pg=PA88#v=onepage&amp;q&amp;f=false"><i>Mysticism and Dissent: Socioreligious Thought in Qajar Iran</i></a>. Modern Intellectual and Political History of the Middle East (reprint ed.). Syracuse University Press. p.&#160;88. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8156-2853-8" title="Special:BookSources/978-0-8156-2853-8">978-0-8156-2853-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.aufirst=Mangol&amp;rft.aulast=Bayat&amp;rft.btitle=Mysticism+and+Dissent%3A+Socioreligious+Thought+in+Qajar+Iran&amp;rft.date=2000&amp;rft.edition=reprint&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D5A90fE_96ToC%26lpg%3DPA108%26ots%3D1i_QVVfswX%26pg%3DPA88%23v%3Donepage%26q%26f%3Dfalse&amp;rft.isbn=978-0-8156-2853-8&amp;rft.pages=88&amp;rft.pub=Syracuse+University+Press&amp;rft.series=Modern+Intellectual+and+Political+History+of+the+Middle+East&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Smith-ayyam-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Smith-ayyam_17-0">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Smith, Peter (2000). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=pYfrAQAAQBAJ">"Ayyám-i-Há"</a>. <i>A concise encyclopedia of the Bahá'í Faith</i>. Oxford: Oneworld Publications. p.&#160;53. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-85168-184-1" title="Special:BookSources/1-85168-184-1">1-85168-184-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.atitle=Ayy%C3%A1m-i-H%C3%A1&amp;rft.aufirst=Peter&amp;rft.aulast=Smith&amp;rft.btitle=A+concise+encyclopedia+of+the+Bah%C3%A1%27%C3%AD+Faith&amp;rft.date=2000&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DpYfrAQAAQBAJ&amp;rft.isbn=1-85168-184-1&amp;rft.pages=53&amp;rft.place=Oxford&amp;rft.pub=Oneworld+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Adib_Taherzadeh" title="Adib Taherzadeh">Taherzadeh, A.</a> (1976). <a rel="nofollow" class="external text" href="http://www.peyman.info/cl/Baha'i/Others/ROB/V1/p105-152Ch09.html#p109"><i>The Revelation of Bahá'u'lláh, Volume 1: Baghdad 1853-63</i></a>. Oxford, UK: George Ronald. pp.&#160;116–7. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-85398-270-8" title="Special:BookSources/0-85398-270-8">0-85398-270-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.aufirst=A.&amp;rft.aulast=Taherzadeh&amp;rft.btitle=The+Revelation+of+Bah%C3%A1%27u%27ll%C3%A1h%2C+Volume+1%3A+Baghdad+1853-63&amp;rft.date=1976&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.peyman.info%2Fcl%2FBaha%27i%2FOthers%2FROB%2FV1%2Fp105-152Ch09.html%23p109&amp;rft.isbn=0-85398-270-8&amp;rft.pages=116-7&amp;rft.place=Oxford%2C+UK&amp;rft.pub=George+Ronald&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Stephen N. Lambden. <i><a rel="nofollow" class="external text" href="http://www.hurqalya.pwp.blueyonder.co.uk/03-Biblical-islam-BBst/dawnP.htm">The Du'á Sahar or Supplication of Glory-Beauty (al-bahá')</a></i></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite id="CITEREFSaiedi2008" class="citation book">Saiedi, Nader (2008). <a rel="nofollow" class="external text" href="http://books.google.com/?id=XTfoaK15t64C"><i>Gate of the Heart: Understanding the Writings of the Báb</i></a>. Canada: Wilfrid Laurier University Press. pp.&#160;327–328. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-55458-056-9" title="Special:BookSources/978-1-55458-056-9">978-1-55458-056-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.aufirst=Nader&amp;rft.aulast=Saiedi&amp;rft.btitle=Gate+of+the+Heart%3A+Understanding+the+Writings+of+the+B%C3%A1b&amp;rft.date=2008&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DXTfoaK15t64C&amp;rft.isbn=978-1-55458-056-9&amp;rft.pages=327-328&amp;rft.place=Canada&amp;rft.pub=Wilfrid+Laurier+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Mihrshahi-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mihrshahi_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mihrshahi_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Mihrshahi, Robin (2013). <i><a rel="nofollow" class="external text" href="http://bahai-library.com/mihrshahi_wondrous_new_day">A Wondrous New Day: The Numerology of Creation and 'All Things' in the Badí' Calendar</a></i>.</span></li>
+<li id="cite_note-vahid0-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-vahid0_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-vahid0_22-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-vahid0_22-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-vahid0_22-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Shoghi_Effendi" title="Shoghi Effendi">Effendi, Shoghi</a> (1950). <a rel="nofollow" class="external text" href="http://bahai-library.com/shoghieffendi_statistics_1844-1950"><i>The Bahá'í Faith: 1844-1950</i></a>. <a href="/wiki/Wilmette,_Illinois" title="Wilmette, Illinois">Wilmette, Illinois</a>: Bahá'í Publishing Committee.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.aufirst=Shoghi&amp;rft.aulast=Effendi&amp;rft.btitle=The+Bah%C3%A1%27%C3%AD+Faith%3A+1844-1950&amp;rft.date=1950&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbahai-library.com%2Fshoghieffendi_statistics_1844-1950&amp;rft.place=Wilmette%2C+Illinois&amp;rft.pub=Bah%C3%A1%27%C3%AD+Publishing+Committee&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-log-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-log_23-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">"Letter written on behalf of the Guardian to an individual believer". <i><a href="/wiki/Bah%C3%A1%27%C3%AD_News" title="Bahá'í News">Bahá'í News</a></i> (162, April 1943): 5. 1939-07-10.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.atitle=Letter+written+on+behalf+of+the+Guardian+to+an+individual+believer&amp;rft.date=1939-07-10&amp;rft.genre=article&amp;rft.issue=162%2C+April+1943&amp;rft.jtitle=Bah%C3%A1%27%C3%AD+News&amp;rft.pages=5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> In <cite class="citation book"><a href="/wiki/Shoghi_Effendi" title="Shoghi Effendi">Effendi, Shoghi</a>; <a href="/wiki/Bah%C3%A1%27u%27llah" title="Bahá'u'llah" class="mw-redirect">Bahá'u'llah</a>; <a href="/wiki/%27Abdu%27l-Bah%C3%A1" title="'Abdu'l-Bahá" class="mw-redirect">'Abdu'l-Bahá</a>; The Universal House of Justice (1983). Hornby, Helen, ed. <a rel="nofollow" class="external text" href="http://bahai-library.com/hornby_lights_guidance&amp;chapter=2#n372"><i>Lights of Guidance: A Bahá'í Reference File</i></a>. <a href="/wiki/New_Delhi,_India" title="New Delhi, India" class="mw-redirect">New Delhi, India</a>: Bahá'í Publishing Trust. p.&#160;109. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-81-85091-46-4" title="Special:BookSources/978-81-85091-46-4">978-81-85091-46-4</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-15</span></span>. <q>III. Bahá'í: E. Miscellaneous Subjects: 372. Friday is Day of Rest in Bahá'í Calendar.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.au=%27Abdu%27l-Bah%C3%A1&amp;rft.au=Bah%C3%A1%27u%27llah&amp;rft.aufirst=Shoghi&amp;rft.aulast=Effendi&amp;rft.au=The+Universal+House+of+Justice&amp;rft.btitle=Lights+of+Guidance%3A+A+Bah%C3%A1%27%C3%AD+Reference+File&amp;rft.date=1983&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbahai-library.com%2Fhornby_lights_guidance%26chapter%3D2%23n372&amp;rft.isbn=978-81-85091-46-4&amp;rft.pages=109&amp;rft.place=New+Delhi%2C+India&amp;rft.pub=Bah%C3%A1%27%C3%AD+Publishing+Trust&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation book">Bellenir, Karen (2004). <i>Religious Holidays and Calendars: An Encyclopedic Handbook</i> (3rd ed.). Omnigraphics. p.&#160;154. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7808-0665-4" title="Special:BookSources/0-7808-0665-4">0-7808-0665-4</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.au=Bellenir%2C+Karen&amp;rft.btitle=Religious+Holidays+and+Calendars%3A+An+Encyclopedic+Handbook&amp;rft.date=2004&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=0-7808-0665-4&amp;rft.pages=154&amp;rft.pub=Omnigraphics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-UK_rest-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-UK_rest_25-0">^</a></b></span> <span class="reference-text">National Spiritual Assembly of the Bahá’ís of the United Kingdom. <a rel="nofollow" class="external text" href="http://www.faithwales.co.uk/media/images/GC-26330_Council_for_Wales_Friday_rest_day.pdf">Letter from the NSA to the Bahá’í Council for Wales</a> Retrieved July 11, 2014.</span></li>
+<li id="cite_note-nsausa-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-nsausa_26-0">^</a></b></span> <span class="reference-text"><cite class="citation web">National Spiritual Assembly of the United States (2006-03-05). <a rel="nofollow" class="external text" href="http://www.bahai.us/system/files/BahaiCalendarOptimized.pdf">"The Badi Calendar"</a> <span style="font-size:85%;">(PDF)</span>. bahai.us. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20060928212618/http://www.bahai.us/system/files/BahaiCalendarOptimized.pdf">Archived</a> <span style="font-size:85%;">(PDF)</span> from the original on 28 September 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-09-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.au=National+Spiritual+Assembly+of+the+United+States&amp;rft.btitle=The+Badi+Calendar&amp;rft.date=2006-03-05&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bahai.us%2Fsystem%2Ffiles%2FBahaiCalendarOptimized.pdf&amp;rft.pub=bahai.us&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-holy-days-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-holy-days_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-holy-days_27-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-holy-days_27-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-holy-days_27-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-holy-days_27-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-holy-days_27-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-holy-days_27-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation encyclopaedia">Smith, Peter (2000). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=pYfrAQAAQBAJ">"holy days"</a>. <i>A concise encyclopedia of the Bahá'í Faith</i>. Oxford: Oneworld Publications. pp.&#160;182–183. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-85168-184-1" title="Special:BookSources/1-85168-184-1">1-85168-184-1</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.atitle=holy+days&amp;rft.aufirst=Peter&amp;rft.aulast=Smith&amp;rft.btitle=A+concise+encyclopedia+of+the+Bah%C3%A1%27%C3%AD+Faith&amp;rft.date=2000&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DpYfrAQAAQBAJ&amp;rft.isbn=1-85168-184-1&amp;rft.pages=182-183&amp;rft.place=Oxford&amp;rft.pub=Oneworld+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ridvan-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-ridvan_28-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Walbridge, John (2003-10-02). <a rel="nofollow" class="external text" href="http://bahai-library.com/walbridge_encyclopedia_ridvan">"Ridvan"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-09-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.aufirst=John&amp;rft.aulast=Walbridge&amp;rft.btitle=Ridvan&amp;rft.date=2003-10-02&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbahai-library.com%2Fwalbridge_encyclopedia_ridvan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rob4-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-rob4_29-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Adib_Taherzadeh" title="Adib Taherzadeh">Taherzadeh, Adib</a> (1987). <a rel="nofollow" class="external text" href="http://www.peyman.info/cl/Baha%27i/Others/ROB/V4/p329-350Ch22.html"><i>The Revelation of Bahá'u'lláh, Volume 4: Mazra'ih &amp; Bahji 1877-92</i></a>. Oxford, UK: George Ronald. p.&#160;334. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-85398-270-8" title="Special:BookSources/0-85398-270-8">0-85398-270-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.au=Taherzadeh%2C+Adib&amp;rft.btitle=The+Revelation+of+Bah%C3%A1%27u%27ll%C3%A1h%2C+Volume+4%3A+Mazra%27ih+%26+Bahji+1877-92&amp;rft.date=1987&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.peyman.info%2Fcl%2FBaha%2527i%2FOthers%2FROB%2FV4%2Fp329-350Ch22.html&amp;rft.isbn=0-85398-270-8&amp;rft.pages=334&amp;rft.place=Oxford%2C+UK&amp;rft.pub=George+Ronald&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-vahid-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-vahid_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-vahid_30-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-vahid_30-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Bolhuis, Arjen (2006-03-23). <a rel="nofollow" class="external text" href="http://bahai-library.com/bolhuis_kull_shay">"The first Kull-i-Shay' of the Bahá'í Era"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-09-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.aufirst=Arjen&amp;rft.aulast=Bolhuis&amp;rft.btitle=The+first+Kull-i-Shay%27+of+the+Bah%C3%A1%27%C3%AD+Era&amp;rft.date=2006-03-23&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbahai-library.com%2Fbolhuis_kull_shay&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit&amp;section=13" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Primary_sources">Primary sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit&amp;section=14" title="Edit section: Primary sources">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>"<a rel="nofollow" class="external text" href="http://bahai-library.com/bw18_calendar_festivals_dates">Additional material gleaned from Nabíl’s Narrative (vol. II), regarding the Bahá’í Calendar.</a>" in: <i>Bahá'í World, vol. III (1928 — 1930) until vol. XX (1986 — 1992).</i> <a href="/wiki/Bah%C3%A1%E2%80%99%C3%AD_World_Centre" title="Bahá’í World Centre" class="mw-redirect">Bahá’í World Centre</a>, Haifa.</li>
+</ul>
+<ul>
+<li><cite class="citation book"><a href="/wiki/Shoghi_Effendi" title="Shoghi Effendi">Effendi, Shoghi</a> (1976). <a rel="nofollow" class="external text" href="http://bahai-library.com/compilation_principles_bahai_administration#The">Origin of the Bahá'í Calendar <i>Principles of Bahá'í Administration</i></a> <span style="font-size:100%" class="error citation-comment">Check <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> scheme (<a href="/wiki/Help:CS1_errors#bad_url" title="Help:CS1 errors">help</a>)</span> (4th ed.). London, UK: Bahá'í Publishing Trust. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-900125-13-6" title="Special:BookSources/0-900125-13-6">0-900125-13-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.aufirst=Shoghi&amp;rft.aulast=Effendi&amp;rft.btitle=Principles+of+Bah%C3%A1%27%C3%AD+Administration&amp;rft.date=1976&amp;rft.edition=4th&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbahai-library.com%2Fcompilation_principles_bahai_administration%23The+Origin+of+the+Bah%C3%A1%27%C3%AD+Calendar&amp;rft.isbn=0-900125-13-6&amp;rft.place=London%2C+UK&amp;rft.pub=Bah%C3%A1%27%C3%AD+Publishing+Trust&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<ul>
+<li>"<a rel="nofollow" class="external text" href="http://universalhouseofjustice.bahai.org/activities-bahai-community/20140710_001">Letter of the Universal House of Justice</a>", 10 July 2014</li>
+</ul>
+<h3><span class="mw-headline" id="Secondary_sources">Secondary sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit&amp;section=15" title="Edit section: Secondary sources">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><cite id="CITEREFKeil2008" class="citation book">Keil, Gerald (2008). <a rel="nofollow" class="external text" href="https://openlibrary.org/books/OL25615805M/Time_and_the_Bahá'í_Era"><i>Time and the Bahá’í Era</i></a>. UK: George Ronald. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-85398-527-3" title="Special:BookSources/978-0-85398-527-3">978-0-85398-527-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.aufirst=Gerald&amp;rft.aulast=Keil&amp;rft.btitle=Time+and+the+Bah%C3%A1%E2%80%99%C3%AD+Era&amp;rft.date=2008&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fopenlibrary.org%2Fbooks%2FOL25615805M%2FTime_and_the_Bah%C3%A1%27%C3%AD_Era&amp;rft.isbn=978-0-85398-527-3&amp;rft.place=UK&amp;rft.pub=George+Ronald&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<ul>
+<li><cite id="CITEREFKeil2010" class="citation book">Keil, Gerald (2010). "Textual Context and Literary Criticism: A Case Study based on a Letter from Shoghi Effendi". <a rel="nofollow" class="external text" href="http://bahai-library.com/keil_literary_criticism"><i>Irfan Colloquia</i></a> <b>11</b>. Wilmette, IL: Irfan Colloquia. pp.&#160;55–98. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9783942426039" title="Special:BookSources/9783942426039">9783942426039</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABah%C3%A1%27%C3%AD+calendar&amp;rft.atitle=Textual+Context+and+Literary+Criticism%3A+A+Case+Study+based+on+a+Letter+from+Shoghi+Effendi&amp;rft.aufirst=Gerald&amp;rft.aulast=Keil&amp;rft.btitle=Irfan+Colloquia&amp;rft.date=2010&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbahai-library.com%2Fkeil_literary_criticism&amp;rft.isbn=9783942426039&amp;rft.pages=55-98&amp;rft.place=Wilmette%2C+IL&amp;rft.pub=Irfan+Colloquia&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<ul>
+<li>Mihrshahi, Robin (2013). <i><a rel="nofollow" class="external text" href="http://bahai-library.com/mihrshahi_wondrous_new_day">A Wondrous New Day: The Numerology of Creation and 'All Things' in the Badí' Calendar</a></i>.</li>
+</ul>
+<ul>
+<li>Momen, Moojan (2014). <a rel="nofollow" class="external text" href="http://wi.bahai.us/2014/11/29/the-badi-bahai-calendar-an-introduction">The Badí` (Bahá'í) Calendar: An Introduction</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://r20.rs6.net/tn.jsp?f=001ydauJzH7RLt_sVcTIZ5Ib5fkUnHYmTLUrDLErQq6iXwntjye2Gz3dmlXWUWxhAajCY6DKfuhpKNL-fW4WQswY23JmfLgD8HTkg62Q4nwiLjVVPMz7NRqABrBZ928AmQBsW6IQGYRFDHzuFz2_tZFZqr3COQxNylNHahqv2iuFWwtvQzdDzxD2LHXb1zpaStZISQf5yrEALviDu2-UHAEy4qhTJ9gmPGLaFhVoiICmGGZGH2fZPrjew==&amp;c=nLuaBVXjZULIPjEqSJxXS6aqpvY-l1dhWwIw84b0VG3TYErh2YIA0w==&amp;ch=MAz6CcFujgMDlr46syEHxQ2dyCwFzTJodpBFytg6ap-brCmf845wrA==">Significant Bahá’í Dates 172 B.E. (2015–2016, prepared by the Baha'i World Centre)</a></li>
+<li><a rel="nofollow" class="external text" href="http://r20.rs6.net/tn.jsp?f=001ydauJzH7RLt_sVcTIZ5Ib5fkUnHYmTLUrDLErQq6iXwntjye2Gz3dmlXWUWxhAajqOT4SejYClYvJBZnhlm3y4o60zBD3WrIA8mS8mCHEAYVDkRh3rHnwSa6Og8bwwprP05VzkfxkKCMUKdBS5RKKgAYhTDC89MdjVl6kiNXAt19D-BYA4kakHsqFT9BgCyj9qQkL1PWowd9wOJvqu8ZklTbn47ZhbhBFWCc1_OivcM4qSzk-GJdegHRdq7KdCHq&amp;c=nLuaBVXjZULIPjEqSJxXS6aqpvY-l1dhWwIw84b0VG3TYErh2YIA0w==&amp;ch=MAz6CcFujgMDlr46syEHxQ2dyCwFzTJodpBFytg6ap-brCmf845wrA==">Bahá'í Dates 172 to 221 B.E. (2015 - 2065; prepared by the Baha'i World Centre)</a></li>
+<li><a rel="nofollow" class="external text" href="https://itunes.apple.com/app/id979525013">Bahá’í Calendar app for iOS</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.badi-calendar.com/">Badí' Calendar Calculator</a></li>
+<li><a rel="nofollow" class="external text" href="https://chrome.google.com/webstore/detail/bad%C3%AD-calendar/egekinjjpolponbbfjimifpgfdmphomp">Google Chrome Extension showing today's date in the Badí' Calendar</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.slideshare.net/glen91/introduction-to-the-bad-calendar">Slide Show: Introduction to the Badí' Calendar</a></li>
+<li><a rel="nofollow" class="external text" href="http://individual.utoronto.ca/kalendis/bahai/index.htm">Arithmetic of the Bahá'í Calendar, and Variants</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bahaical.org">Bahá'í Calendar, Bahá'í Events and Holy Days</a> (types: Persian, Islamic, Gregorian)</li>
+<li><a rel="nofollow" class="external text" href="http://calgary-bahai.org/index.php/calendar/dates">Feasts &amp; Holy Days</a> (dynamic display of Holy Days, adjusted by year for your position - correct before and after 2015)</li>
+<li><a rel="nofollow" class="external text" href="http://calendar.bahaiq.com">BahaIQ: The Bahá'í Calendar (Badi Calendar)</a> (needs updating for 2015)</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Calendars" title="Template:Calendars"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Calendars" title="Template talk:Calendars"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Calendars&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Calendar" title="Calendar">Calendars</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Systems</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lunar_calendar" title="Lunar calendar">Lunar</a></li>
+<li><a href="/wiki/Lunisolar_calendar" title="Lunisolar calendar">Lunisolar</a></li>
+<li><a href="/wiki/Solar_calendar" title="Solar calendar">Solar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">In wide use</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Astronomical_year_numbering" title="Astronomical year numbering">Astronomical</a></li>
+<li><a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese</a></li>
+<li><a href="/wiki/Ethiopian_calendar" title="Ethiopian calendar">Ethiopian</a></li>
+<li><a href="/wiki/Gregorian_calendar" title="Gregorian calendar">Gregorian</a></li>
+<li><a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Hebrew</a></li>
+<li><a href="/wiki/Hindu_calendar" title="Hindu calendar">Hindu</a></li>
+<li><a href="/wiki/Iranian_calendars" title="Iranian calendars">Iranian</a></li>
+<li><a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic</a></li>
+<li><a href="/wiki/ISO_week_date" title="ISO week date">ISO</a></li>
+<li><a href="/wiki/Unix_time" title="Unix time">Unix time</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">In more<br />
+limited use</div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Akan_calendar" title="Akan calendar">Akan</a></li>
+<li><a href="/wiki/Armenian_calendar" title="Armenian calendar">Armenian</a></li>
+<li><a href="/wiki/Assyrian_calendar" title="Assyrian calendar">Assyrian</a></li>
+<li><strong class="selflink">Bahá'í <span style="font-size:90%;">(Badí‘)</span></strong></li>
+<li><a href="/wiki/Balinese_pawukon_calendar" title="Balinese pawukon calendar" class="mw-redirect">Balinese pawukon</a></li>
+<li><a href="/wiki/Balinese_saka_calendar" title="Balinese saka calendar">Balinese saka</a></li>
+<li><a href="/wiki/Bengali_calendar" title="Bengali calendar">Bengali</a></li>
+<li><a href="/wiki/Berber_calendar" title="Berber calendar">Berber</a></li>
+<li><a href="/wiki/Buddhist_calendar" title="Buddhist calendar">Buddhist</a></li>
+<li><a href="/wiki/Burmese_calendar" title="Burmese calendar">Burmese</a></li>
+<li><a href="/wiki/Chinese_calendar" title="Chinese calendar">Chinese</a></li>
+<li><a href="/wiki/Coptic_calendar" title="Coptic calendar">Coptic</a></li>
+<li><a href="/wiki/Georgian_calendar" title="Georgian calendar">Georgian</a></li>
+<li><a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Hebrew</a></li>
+<li><a href="/wiki/Igbo_calendar" title="Igbo calendar">Igbo</a></li>
+<li><a href="/wiki/Indian_national_calendar" title="Indian national calendar">Indian</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Fasli_calendar" title="Fasli calendar" class="mw-redirect">Fasli</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Hindu_calendar" title="Hindu calendar">Hindu</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Vira_Nirvana_Samvat" title="Vira Nirvana Samvat">Jain</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Kollam_era" title="Kollam era">Malayalam</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Indian_national_calendar" title="Indian national calendar">Saka</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Tamil_calendar" title="Tamil calendar">Tamil</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Vikram_Samvat" title="Vikram Samvat">Vikram Samvat</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Vira_Nirvana_Samvat" title="Vira Nirvana Samvat">Vira Nirvana Samvat</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Iranian_calendars" title="Iranian calendars">Iranian</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Jalali_calendar" title="Jalali calendar">Jalali <span style="font-size:90%;">(medieval)</span></a></span></li>
+<li><a href="/wiki/Solar_Hijri_calendar" title="Solar Hijri calendar">Hijri <span style="font-size:90%;">(modern)</span></a></li>
+<li><a href="/wiki/Zoroastrian_calendar" title="Zoroastrian calendar">Zoroastrian</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Irish_calendar" title="Irish calendar" class="mw-redirect">Irish</a></li>
+<li><a href="/wiki/Islamic_calendar" title="Islamic calendar">Islamic</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Tabular_Islamic_calendar" title="Tabular Islamic calendar">Tabular</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Japanese_calendar" title="Japanese calendar">Japanese</a></li>
+<li><a href="/wiki/Javanese_calendar" title="Javanese calendar">Javanese</a></li>
+<li><a href="/wiki/North_Korean_calendar" title="North Korean calendar"><i>Juche</i> <span style="font-size:90%;">(North Korean)</span></a></li>
+<li><a href="/wiki/Korean_calendar" title="Korean calendar">Korean</a></li>
+<li><a href="/wiki/Kurdish_calendar" title="Kurdish calendar">Kurdish</a></li>
+<li><a href="/wiki/Mongolian_calendar" title="Mongolian calendar">Mongolian</a></li>
+<li><a href="/wiki/Nanakshahi_calendar" title="Nanakshahi calendar">Nanakshahi</a></li>
+<li><a href="/wiki/Nepal_Sambat" title="Nepal Sambat">Nepal Sambat</a></li>
+<li><a href="/wiki/Oromo_calendar" title="Oromo calendar" class="mw-redirect">Oromo</a></li>
+<li><a href="/wiki/Somali_calendar" title="Somali calendar">Somali</a></li>
+<li><a href="/wiki/Sesotho_calendar" title="Sesotho calendar" class="mw-redirect">Sesotho</a></li>
+<li><a href="/wiki/Thai_lunar_calendar" title="Thai lunar calendar">Thai lunar</a></li>
+<li><a href="/wiki/Thai_solar_calendar" title="Thai solar calendar">Thai solar</a></li>
+<li><a href="/wiki/Tibetan_calendar" title="Tibetan calendar">Tibetan</a></li>
+<li><a href="/wiki/Vietnamese_calendar" title="Vietnamese calendar">Vietnamese</a></li>
+<li><a href="/wiki/Xhosa_calendar" title="Xhosa calendar">Xhosa</a></li>
+<li><a href="/wiki/Yoruba_calendar" title="Yoruba calendar">Yoruba</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Types</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Runic_calendar" title="Runic calendar">Runic</a></li>
+<li><a href="/wiki/Mesoamerican_calendars" title="Mesoamerican calendars">Mesoamerican</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Mesoamerican_Long_Count_calendar" title="Mesoamerican Long Count calendar">Long Count</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Calendar_round" title="Calendar round" class="mw-redirect">Calendar round</a></span></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Christian variants</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Julian_calendar" title="Julian calendar">Julian</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Revised_Julian_calendar" title="Revised Julian calendar">Revised</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Liturgical_year" title="Liturgical year">Liturgical year</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Eastern_Orthodox_liturgical_calendar" title="Eastern Orthodox liturgical calendar">Eastern Orthodox</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Saints</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Historical</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Attic_calendar" title="Attic calendar">Attic</a></li>
+<li><a href="/wiki/Aztec_calendar" title="Aztec calendar">Aztec</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Tonalpohualli" title="Tonalpohualli">Tonalpohualli</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Xiuhpohualli" title="Xiuhpohualli">Xiuhpohualli</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Babylonian_calendar" title="Babylonian calendar">Babylonian</a></li>
+<li><a href="/wiki/Bulgar_calendar" title="Bulgar calendar">Bulgar</a></li>
+<li><a href="/wiki/Byzantine_calendar" title="Byzantine calendar">Byzantine</a></li>
+<li><a href="/wiki/Celtic_calendar" title="Celtic calendar">Celtic</a></li>
+<li><a href="/wiki/Chula_Sakarat" title="Chula Sakarat">Culāsakaraj</a></li>
+<li><a href="/wiki/Egyptian_calendar" title="Egyptian calendar">Egyptian</a></li>
+<li><a href="/wiki/Florentine_calendar" title="Florentine calendar">Florentine</a></li>
+<li><a href="/wiki/French_Republican_Calendar" title="French Republican Calendar">French Republican</a></li>
+<li><a href="/wiki/Germanic_calendar" title="Germanic calendar">Germanic</a></li>
+<li><a href="/wiki/Hellenic_calendars" title="Hellenic calendars">Hellenic</a></li>
+<li><a href="/wiki/Hindu_calendar" title="Hindu calendar">Hindu</a></li>
+<li><a href="/wiki/Inca_calendar" title="Inca calendar" class="mw-redirect">Inca</a></li>
+<li><a href="/wiki/Maya_calendar" title="Maya calendar">Maya</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Haab%27" title="Haab'">Haab'</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Tzolk%27in" title="Tzolk'in">Tzolk'in</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Pentecontad_calendar" title="Pentecontad calendar">Pentecontad</a></li>
+<li><a href="/wiki/Pisan_calendar" title="Pisan calendar">Pisan</a></li>
+<li><a href="/wiki/Rapa_Nui_calendar" title="Rapa Nui calendar">Rapa Nui</a></li>
+<li><a href="/wiki/Roman_calendar" title="Roman calendar">Roman calendar</a></li>
+<li><a href="/wiki/Rumi_calendar" title="Rumi calendar">Rumi</a></li>
+<li><a href="/wiki/Soviet_calendar" title="Soviet calendar">Soviet</a></li>
+<li><a href="/wiki/Swedish_calendar" title="Swedish calendar">Swedish</a></li>
+<li><a href="/wiki/Renaming_of_Turkmen_months_and_days_of_week,_2002" title="Renaming of Turkmen months and days of week, 2002">Turkmen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">By specialty</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Holocene_calendar" title="Holocene calendar">Holocene</a>&#160;<span style="font-size:90%;">(<a href="/wiki/Anthropology" title="Anthropology">anthropological</a>)</span></li>
+<li><a href="/wiki/Proleptic_Gregorian_calendar" title="Proleptic Gregorian calendar">Proleptic Gregorian</a>&#160;/ <a href="/wiki/Proleptic_Julian_calendar" title="Proleptic Julian calendar">Proleptic Julian</a>&#160;<span style="font-size:90%;">(<a href="/wiki/Historiography" title="Historiography">historiographical</a>)</span></li>
+<li><a href="/wiki/Darian_calendar" title="Darian calendar">Darian</a>&#160;<span style="font-size:90%;">(<a href="/wiki/Mars" title="Mars">Martian</a>)</span></li>
+<li><a href="/wiki/Dreamspell" title="Dreamspell">Dreamspell</a>&#160;<span style="font-size:90%;">(<a href="/wiki/New_Age" title="New Age">New Age</a>)</span></li>
+<li><a href="/wiki/Discordian_calendar" title="Discordian calendar">Discordian</a>&#160;/ <a href="/wiki/%27Pataphysics#Pataphysical_calendar" title="'Pataphysics">Pataphysical</a>&#160;<span style="font-size:90%;">(<a href="/wiki/Surrealism" title="Surrealism">surreal</a>)</span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Proposed_calendars" title="Category:Proposed calendars">Proposals</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Calendar_reform" title="Calendar reform">Calendar reform</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Hanke-Henry_Permanent_Calendar" title="Hanke-Henry Permanent Calendar">Hanke-Henry Permanent</a></li>
+<li><a href="/wiki/International_Fixed_Calendar" title="International Fixed Calendar">International Fixed</a></li>
+<li><a href="/wiki/Pax_Calendar" title="Pax Calendar">Pax</a></li>
+<li><a href="/wiki/Positivist_calendar" title="Positivist calendar">Positivist</a></li>
+<li><a href="/wiki/Symmetry454" title="Symmetry454">Symmetry454</a></li>
+<li><a href="/wiki/Tranquility_Calendar" title="Tranquility Calendar">Tranquility</a></li>
+<li><a href="/wiki/The_World_Calendar" title="The World Calendar">World</a>
+<ul>
+<li><a href="/wiki/New_Earth_Time" title="New Earth Time">New Earth Time</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Fictional</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Discworld_(world)#Calendar" title="Discworld (world)">Discworld</a></li>
+<li><a href="/wiki/Greyhawk_Calendar" title="Greyhawk Calendar">Greyhawk</a></li>
+<li><a href="/wiki/Middle-earth_calendar" title="Middle-earth calendar">Middle-earth</a></li>
+<li><a href="/wiki/Stardate" title="Stardate">Stardate</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Displays and<br />
+applications</div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Calendaring_software" title="Calendaring software">Electronic</a></li>
+<li><a href="/wiki/Perpetual_calendar" title="Perpetual calendar">Perpetual</a></li>
+<li><a href="/wiki/Wall_calendar" title="Wall calendar">Wall</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Year naming<br />
+and<br />
+numbering</div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Terminology</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Calendar_era" title="Calendar era">Era</a></li>
+<li><a href="/wiki/Epoch_(reference_date)" title="Epoch (reference date)">Epoch</a></li>
+<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
+<li><a href="/wiki/Regnal_year" title="Regnal year">Regnal year</a></li>
+<li><a href="/wiki/Year_zero" title="Year zero" class="mw-redirect">Year zero</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;font-weight:normal;">
+<div style="padding:0em 0.75em;">Systems</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ab_urbe_condita" title="Ab urbe condita">Ab urbe condita</a></li>
+<li><a href="/wiki/Anno_Domini" title="Anno Domini">Anno Domini</a>&#160;(<a href="/wiki/Common_Era" title="Common Era">Common Era</a>)</li>
+<li><a href="/wiki/Anno_Mundi" title="Anno Mundi">Anno Mundi</a></li>
+<li><a href="/wiki/Eponym_dating_system" title="Eponym dating system">Assyrian</a></li>
+<li><a href="/wiki/Before_Present" title="Before Present">Before Present</a></li>
+<li><a href="/wiki/Chinese_era_name" title="Chinese era name">Chinese Imperial</a></li>
+<li><a href="/wiki/Minguo_calendar" title="Minguo calendar">Chinese Minguo</a></li>
+<li><a href="/wiki/Human_Era" title="Human Era" class="mw-redirect">Human Era</a></li>
+<li><a href="/wiki/Japanese_era_name" title="Japanese era name">Japanese</a></li>
+<li><a href="/wiki/Korean_era_name" title="Korean era name">Korean</a></li>
+<li><a href="/wiki/Seleucid_era" title="Seleucid era">Seleucid</a></li>
+<li><a href="/wiki/Spanish_era" title="Spanish era">Spanish</a></li>
+<li><a href="/wiki/Yuga" title="Yuga">Yugas</a>
+<ul>
+<li><span style="font-size:90%;"><a href="/wiki/Satya_Yuga" title="Satya Yuga">Satya</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Treta_Yuga" title="Treta Yuga">Treta</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Dvapara_Yuga" title="Dvapara Yuga">Dvapara</a></span></li>
+<li><span style="font-size:90%;"><a href="/wiki/Kali_Yuga" title="Kali Yuga">Kali</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Vietnamese_era_name" title="Vietnamese era name">Vietnamese</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b><a href="/wiki/List_of_calendars" title="List of calendars">List of calendars</a></b></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1147
+Cached time: 20151020032238
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.604 seconds
+Real time usage: 0.660 seconds
+Preprocessor visited node count: 3280/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 111859/2097152 bytes
+Template argument size: 7300/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 0/500
+Lua time usage: 0.173/10.000 seconds
+Lua memory usage: 3.15 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  472.220      1 - -total
+ 48.49%  228.976      1 - Template:Reflist
+ 22.13%  104.500      3 - Template:Navbox
+ 16.59%   78.340      1 - Template:Calendars
+ 13.87%   65.510      1 - Template:Bahá'í_sidebar
+ 13.66%   64.528     13 - Template:Cite_book
+ 13.00%   61.376      1 - Template:Sidebar
+ 10.01%   47.258      3 - Template:Cite_encyclopedia
+  8.43%   39.829      2 - Template:Navbox_subgroup
+  7.81%   36.877      7 - Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:206356-0!*!0!!en!4!* and timestamp 20151020032238 and revision id 686583473
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bahá%27í_calendar&amp;oldid=686583473">https://en.wikipedia.org/w/index.php?title=Bahá%27í_calendar&amp;oldid=686583473</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Specific_calendars" title="Category:Specific calendars">Specific calendars</a></li><li><a href="/wiki/Category:Solar_calendars" title="Category:Solar calendars">Solar calendars</a></li><li><a href="/wiki/Category:Bah%C3%A1%27%C3%AD_practices" title="Category:Bahá'í practices">Bahá'í practices</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_URL_errors" title="Category:Pages with URL errors">Pages with URL errors</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bah%C3%A1%27%C3%AD+calendar&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bah%C3%A1%27%C3%AD+calendar" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Bah%C3%A1%27%C3%AD_calendar"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Bah%C3%A1%27%C3%AD_calendar"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Bah%C3%A1%27%C3%AD_calendar" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bah%C3%A1%27%C3%AD_calendar" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bah%C3%A1%27%C3%AD_calendar" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;oldid=686583473" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q373037" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bah%C3%A1%27%C3%AD_calendar&amp;id=686583473" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bah%C3%A1%27%C3%AD+calendar">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Bah%C3%A1%27%C3%AD+calendar&amp;returnto=Bah%C3%A1%27%C3%AD+calendar&amp;oldid=686583473&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AA%D9%82%D9%88%D9%8A%D9%85_%D8%A8%D9%87%D8%A7%D8%A6%D9%8A" title="تقويم بهائي – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8F%D0%BD%D0%B4%D0%B0%D1%80_%D0%91%D0%B0%D0%B3%D0%B0%D1%96" title="Каляндар Багаі – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-br"><a href="//br.wikipedia.org/wiki/Deiziadur_Bah%C3%A1%27%C3%AD" title="Deiziadur Bahá'í – Breton" lang="br" hreflang="br">Brezhoneg</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Bah%C3%A1%E2%80%99%C3%AD_kalend%C3%A1%C5%99" title="Bahá’í kalendář – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Badi-Kalender" title="Badi-Kalender – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Calendario_baha%C3%AD" title="Calendario bahaí – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Bahaa_kalendaro" title="Bahaa kalendaro – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Bah%C3%A1%27%C3%AD_egutegia" title="Bahá'í egutegia – Basque" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DA%AF%D8%A7%D9%87%E2%80%8C%D8%B4%D9%85%D8%A7%D8%B1%DB%8C_%D8%A8%D9%87%D8%A7%D8%A6%DB%8C" title="گاه‌شماری بهائی – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Calendrier_bad%C4%AB%CA%BF" title="Calendrier badīʿ – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%B0%94%ED%95%98%EC%9D%B4%EB%A0%A5" title="바하이력 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-io"><a href="//io.wikipedia.org/wiki/Bah%C3%A1%27u%27ll%C3%A1h-kalendario" title="Bahá'u'lláh-kalendario – Ido" lang="io" hreflang="io">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Kalender_Baha%27i" title="Kalender Baha'i – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Calendario_bahai" title="Calendario bahai – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9C%D7%95%D7%97_%D7%94%D7%A9%D7%A0%D7%94_%D7%94%D7%91%D7%94%D7%90%D7%99" title="לוח השנה הבהאי – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Bahaj%C5%B3_kalendorius" title="Bahajų kalendorius – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Bah%C3%A1i_napt%C3%A1r" title="Bahái naptár – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-arz"><a href="//arz.wikipedia.org/wiki/%D8%AA%D9%82%D9%88%D9%8A%D9%85_%D8%A8%D9%87%D8%A7%D8%A6%D9%89" title="تقويم بهائى – Egyptian Arabic" lang="arz" hreflang="arz">مصرى</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Bah%C3%A1%27%C3%AD-kalender" title="Bahá'í-kalender – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Bah%C3%A1%27%C3%AD-kalenderen" title="Bahá'í-kalenderen – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Calend%C3%A1rio_bah%C3%A1%27%C3%AD" title="Calendário bahá'í – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Calendarul_Bah%C3%A1%27%C3%AD" title="Calendarul Bahá'í – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C_%D0%B1%D0%B0%D1%85%D0%B0%D0%B8" title="Календарь бахаи – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Bah%C3%A1%27%C3%AD_calendar" title="Bahá'í calendar – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Bahaisti%C4%8Dki_kalendar" title="Bahaistički kalendar – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Bahai-kalenteri" title="Bahai-kalenteri – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Bahaikalendern" title="Bahaikalendern – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80_%D0%B1%D0%B0%D1%85%D0%B0%D1%97" title="Календар бахаї – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%B7%B4%E5%93%88%E4%BC%8A%E5%8E%86%E6%B3%95" title="巴哈伊历法 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q373037#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 October 2015, at 00:56.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bah%C3%A1%27%C3%AD_calendar&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1176"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Portal, Arizona - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Portal,_Arizona","wgTitle":"Portal, Arizona","wgCurRevisionId":672052288,"wgRevisionId":672052288,"wgArticleId":27997343,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Unincorporated communities in Cochise County, Arizona","Unincorporated communities in Arizona"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Portal,_Arizona","wgRelevantArticleId":27997343,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/USA_Arizona_location_map.svg/81px-USA_Arizona_location_map.svg.png","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":31.913611111111,"lon":-109.14138888889},"wgWikibaseItemId":"Q7231465","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Portal,_Arizona" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Portal,_Arizona&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Portal,_Arizona&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Portal,_Arizona" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Portal_Arizona skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Portal, Arizona</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org">Portal, Arizona</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><span class="category"><a href="/wiki/Unincorporated_area" title="Unincorporated area">Unincorporated community</a></span></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:250px;padding:0">
+<div style="position:relative;width:250px"><a href="/wiki/File:USA_Arizona_location_map.svg" class="image" title="Portal, Arizona is located in Arizona"><img alt="Portal, Arizona is located in Arizona" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/USA_Arizona_location_map.svg/250px-USA_Arizona_location_map.svg.png" width="250" height="308" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/USA_Arizona_location_map.svg/375px-USA_Arizona_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/USA_Arizona_location_map.svg/500px-USA_Arizona_location_map.svg.png 2x" data-file-width="893" data-file-height="1099" /></a>
+<div style="position:absolute;top:86.877%;left:92.994%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Portal, Arizona" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Portal, Arizona" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right"><span style="padding:1px;float:right">Portal, Arizona</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span style="white-space:nowrap"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Portal%2C_Arizona&amp;params=31_54_49_N_109_08_29_W_type:city_region:US-AZ"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">31°54′49″N</span> <span class="longitude">109°08′29″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">31.91361°N 109.14139°W</span><span style="display:none">﻿ / <span class="geo">31.91361; -109.14139</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Portal%2C_Arizona&amp;params=31_54_49_N_109_08_29_W_type:city_region:US-AZ"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">31°54′49″N</span> <span class="longitude">109°08′29″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">31.91361°N 109.14139°W</span><span style="display:none">﻿ / <span class="geo">31.91361; -109.14139</span></span></span></a></span></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_countries" title="List of countries" class="mw-redirect">Country</a></th>
+<td><a href="/wiki/United_States" title="United States">United States</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Political_divisions_of_the_United_States" title="Political divisions of the United States">State</a></th>
+<td><a href="/wiki/Arizona" title="Arizona">Arizona</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_counties_in_Arizona" title="List of counties in Arizona">County</a></th>
+<td><a href="/wiki/Cochise_County,_Arizona" title="Cochise County, Arizona">Cochise</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>4,760&#160;ft (1,450&#160;m)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Mountain_Time_Zone" title="Mountain Time Zone">Mountain (MST)</a> (<a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC-7</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Telephone_numbering_plan" title="Telephone numbering plan">Area code(s)</a></th>
+<td><a href="/wiki/Area_code_520" title="Area code 520">520</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Geographic_Names_Information_System" title="Geographic Names Information System">GNIS</a> feature ID</th>
+<td>9657<sup id="cite_ref-gnis_1-0" class="reference"><a href="#cite_note-gnis-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+</table>
+<p><b>Portal</b> is an <a href="/wiki/Unincorporated_area" title="Unincorporated area">unincorporated community</a> in <a href="/wiki/Cochise_County,_Arizona" title="Cochise County, Arizona">Cochise County</a>, <a href="/wiki/Arizona" title="Arizona">Arizona</a>, <a href="/wiki/United_States" title="United States">United States</a>. It lies 25 miles (40&#160;km) south-southeast of <a href="/wiki/San_Simon,_Arizona" title="San Simon, Arizona">San Simon</a> and at the mouth of Cave Creek Canyon on the east side of the <a href="/wiki/Chiricahua_Mountains" title="Chiricahua Mountains">Chiricahua Mountains</a>. Often called the Yosemite of Arizona, the rock walled canyon is composed of fused volcanic tuff.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>The community is a popular location for birding in southeastern Arizona. It is also home to the <a href="/wiki/American_Museum_of_Natural_History" title="American Museum of Natural History">American Museum of Natural History</a> <a href="/w/index.php?title=Southwest_Research_Station&amp;action=edit&amp;redlink=1" class="new" title="Southwest Research Station (page does not exist)">Southwest Research Station</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> The writer <a href="/wiki/Nancy_Farmer" title="Nancy Farmer">Nancy Farmer</a> also lives there currently with her husband.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Portal_Peak_Store.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Portal_Peak_Store.JPG/220px-Portal_Peak_Store.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Portal_Peak_Store.JPG/330px-Portal_Peak_Store.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Portal_Peak_Store.JPG/440px-Portal_Peak_Store.JPG 2x" data-file-width="3072" data-file-height="2304" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Portal_Peak_Store.JPG" class="internal" title="Enlarge"></a></div>
+Portal Peak Store</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Portal_Peak_in_the_Chiricahua_Mountains.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Portal_Peak_in_the_Chiricahua_Mountains.JPG/220px-Portal_Peak_in_the_Chiricahua_Mountains.JPG" width="220" height="113" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Portal_Peak_in_the_Chiricahua_Mountains.JPG/330px-Portal_Peak_in_the_Chiricahua_Mountains.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Portal_Peak_in_the_Chiricahua_Mountains.JPG/440px-Portal_Peak_in_the_Chiricahua_Mountains.JPG 2x" data-file-width="3456" data-file-height="1770" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Portal_Peak_in_the_Chiricahua_Mountains.JPG" class="internal" title="Enlarge"></a></div>
+Portal Peak in the Chiricahua Mountains</div>
+</div>
+</div>
+<p><br /></p>
+<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Portal,_Arizona&amp;action=edit&amp;section=1" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Typical of upland Arizona, Portal has a <a href="/wiki/Semi-arid_climate" title="Semi-arid climate">semi-arid climate</a> (<a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Köppen</a> <i>BSk</i>) with warm to hot days followed generally by quite cool nights. Frequent <a href="/wiki/Frost" title="Frost">frosts</a> in winter give way to mild days, whilst most rain comes from summer thunderstorms.</p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<div style="width:70%;">
+<table class="wikitable collapsible" style="width:90%; text-align:center; font-size:90%; line-height: 1.2em; margin:auto;">
+<tr>
+<th colspan="14">Climate data for Portal, Arizona</th>
+</tr>
+<tr>
+<th>Month</th>
+<th>Jan</th>
+<th>Feb</th>
+<th>Mar</th>
+<th>Apr</th>
+<th>May</th>
+<th>Jun</th>
+<th>Jul</th>
+<th>Aug</th>
+<th>Sep</th>
+<th>Oct</th>
+<th>Nov</th>
+<th>Dec</th>
+<th style="border-left-width:medium">Year</th>
+</tr>
+<tr>
+<th height="16">Record high °F (°C)</th>
+<td style="background:#FF7100;color:#000000;text-align:center;">77<br />
+(25)</td>
+<td style="background:#FF7800;color:#000000;text-align:center;">76<br />
+(24)</td>
+<td style="background:#FF5600;color:#000000;text-align:center;">85<br />
+(29)</td>
+<td style="background:#FF3A00;color:#000000;text-align:center;">92<br />
+(33)</td>
+<td style="background:#FF1F00;color:#000000;text-align:center;">99<br />
+(37)</td>
+<td style="background:#FF1100;color:#FFFFFF;text-align:center;">102<br />
+(39)</td>
+<td style="background:#FF1100;color:#FFFFFF;text-align:center;">102<br />
+(39)</td>
+<td style="background:#FF1F00;color:#000000;text-align:center;">99<br />
+(37)</td>
+<td style="background:#FF1800;color:#FFFFFF;text-align:center;">101<br />
+(38)</td>
+<td style="background:#FF3A00;color:#000000;text-align:center;">91<br />
+(33)</td>
+<td style="background:#FF4F00;color:#000000;text-align:center;">86<br />
+(30)</td>
+<td style="background:#FF7F00;color:#000000;text-align:center;">74<br />
+(23)</td>
+<td style="background:#FF1100;color:#FFFFFF;text-align:center; border-left-width:medium">102<br />
+(39)</td>
+</tr>
+<tr>
+<th height="16">Average high °F (°C)</th>
+<td style="background:#FFC58C;color:#000000;text-align:center;">55.0<br />
+(12.8)</td>
+<td style="background:#FFB46A;color:#000000;text-align:center;">59.5<br />
+(15.3)</td>
+<td style="background:#FF9F3F;color:#000000;text-align:center;">65.1<br />
+(18.4)</td>
+<td style="background:#FF7A00;color:#000000;text-align:center;">74.7<br />
+(23.7)</td>
+<td style="background:#FF5F00;color:#000000;text-align:center;">81.8<br />
+(27.7)</td>
+<td style="background:#FF3D00;color:#000000;text-align:center;">90.7<br />
+(32.6)</td>
+<td style="background:#FF4000;color:#000000;text-align:center;">89.8<br />
+(32.1)</td>
+<td style="background:#FF4B00;color:#000000;text-align:center;">87.1<br />
+(30.6)</td>
+<td style="background:#FF5300;color:#000000;text-align:center;">85.0<br />
+(29.4)</td>
+<td style="background:#FF7700;color:#000000;text-align:center;">75.3<br />
+(24.1)</td>
+<td style="background:#FFA144;color:#000000;text-align:center;">64.4<br />
+(18)</td>
+<td style="background:#FFC081;color:#000000;text-align:center;">56.4<br />
+(13.6)</td>
+<td style="background:#FF7E00;color:#000000;text-align:center; border-left-width:medium">73.7<br />
+(23.2)</td>
+</tr>
+<tr>
+<th height="16">Average low °F (°C)</th>
+<td style="background:#D8D8FF;color:#000000;text-align:center;">27.4<br />
+(−2.6)</td>
+<td style="background:#DEDEFF;color:#000000;text-align:center;">29.3<br />
+(−1.5)</td>
+<td style="background:#EAEAFF;color:#000000;text-align:center;">33.3<br />
+(0.7)</td>
+<td style="background:#FFF8F2;color:#000000;text-align:center;">41.8<br />
+(5.4)</td>
+<td style="background:#FFE8D2;color:#000000;text-align:center;">45.8<br />
+(7.7)</td>
+<td style="background:#FFC58C;color:#000000;text-align:center;">55.1<br />
+(12.8)</td>
+<td style="background:#FFB163;color:#000000;text-align:center;">60.4<br />
+(15.8)</td>
+<td style="background:#FFB871;color:#000000;text-align:center;">58.7<br />
+(14.8)</td>
+<td style="background:#FFC790;color:#000000;text-align:center;">54.5<br />
+(12.5)</td>
+<td style="background:#FFF0E2;color:#000000;text-align:center;">43.9<br />
+(6.6)</td>
+<td style="background:#EAEAFF;color:#000000;text-align:center;">33.3<br />
+(0.7)</td>
+<td style="background:#DADAFF;color:#000000;text-align:center;">27.8<br />
+(−2.3)</td>
+<td style="background:#FFF5EB;color:#000000;text-align:center; border-left-width:medium">42.6<br />
+(5.9)</td>
+</tr>
+<tr>
+<th height="16">Record low °F (°C)</th>
+<td style="background:#7A7AFF;color:#000000;text-align:center;">−4<br />
+(−20)</td>
+<td style="background:#8585FF;color:#000000;text-align:center;">−1<br />
+(−18)</td>
+<td style="background:#ABABFF;color:#000000;text-align:center;">12<br />
+(−11)</td>
+<td style="background:#BBBBFF;color:#000000;text-align:center;">18<br />
+(−8)</td>
+<td style="background:#D6D6FF;color:#000000;text-align:center;">26<br />
+(−3)</td>
+<td style="background:#ECECFF;color:#000000;text-align:center;">33<br />
+(1)</td>
+<td style="background:#FCFCFF;color:#000000;text-align:center;">40<br />
+(4)</td>
+<td style="background:#FFF4EA;color:#000000;text-align:center;">42<br />
+(6)</td>
+<td style="background:#E1E1FF;color:#000000;text-align:center;">31<br />
+(−1)</td>
+<td style="background:#CBCBFF;color:#000000;text-align:center;">23<br />
+(−5)</td>
+<td style="background:#9595FF;color:#000000;text-align:center;">5<br />
+(−15)</td>
+<td style="background:#A0A0FF;color:#000000;text-align:center;">8<br />
+(−13)</td>
+<td style="background:#7A7AFF;color:#000000;text-align:center; border-left-width:medium">−4<br />
+(−20)</td>
+</tr>
+<tr>
+<th height="16">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> inches (mm)</th>
+<td style="background:#D6FFD6;color:#000000;text-align:center;">1.06<br />
+(26.9)</td>
+<td style="background:#CFFFCF;color:#000000;text-align:center;">1.14<br />
+(29)</td>
+<td style="background:#DDFFDD;color:#000000;text-align:center;">0.88<br />
+(22.4)</td>
+<td style="background:#E7FFE7;color:#000000;text-align:center;">0.60<br />
+(15.2)</td>
+<td style="background:#F2FFF2;color:#000000;text-align:center;">0.33<br />
+(8.4)</td>
+<td style="background:#E5FFE5;color:#000000;text-align:center;">0.64<br />
+(16.3)</td>
+<td style="background:#7FFF7F;color:#000000;text-align:center;">3.37<br />
+(85.6)</td>
+<td style="background:#74FF74;color:#000000;text-align:center;">3.66<br />
+(93)</td>
+<td style="background:#AEFFAE;color:#000000;text-align:center;">2.05<br />
+(52.1)</td>
+<td style="background:#D6FFD6;color:#000000;text-align:center;">1.08<br />
+(27.4)</td>
+<td style="background:#D2FFD2;color:#000000;text-align:center;">1.15<br />
+(29.2)</td>
+<td style="background:#C9FFC9;color:#000000;text-align:center;">1.41<br />
+(35.8)</td>
+<td style="background:#C7FFC7;color:#000000;text-align:center; border-left-width:medium">17.37<br />
+(441.3)</td>
+</tr>
+<tr>
+<th height="16">Average snowfall inches (cm)</th>
+<td style="background:#7E7EFF;color:#000000;text-align:center;">3.4<br />
+(8.6)</td>
+<td style="background:#C3C3FF;color:#000000;text-align:center;">1.4<br />
+(3.6)</td>
+<td style="background:#E8E8FF;color:#000000;text-align:center;">0.6<br />
+(1.5)</td>
+<td style="background:#F2F2FF;color:#000000;text-align:center;">0.3<br />
+(0.8)</td>
+<td style="background:#FFFFFF;color:#000000;text-align:center;">0<br />
+(0)</td>
+<td style="background:#FFFFFF;color:#000000;text-align:center;">0<br />
+(0)</td>
+<td style="background:#FFFFFF;color:#000000;text-align:center;">0<br />
+(0)</td>
+<td style="background:#FFFFFF;color:#000000;text-align:center;">0<br />
+(0)</td>
+<td style="background:#FFFFFF;color:#000000;text-align:center;">0<br />
+(0)</td>
+<td style="background:#F3F3FF;color:#000000;text-align:center;">0.3<br />
+(0.8)</td>
+<td style="background:#D3D3FF;color:#000000;text-align:center;">1.1<br />
+(2.8)</td>
+<td style="background:#9C9CFF;color:#000000;text-align:center;">2.6<br />
+(6.6)</td>
+<td style="background:#DFDFFF;color:#000000;text-align:center; border-left-width:medium">9.7<br />
+(24.7)</td>
+</tr>
+<tr>
+<th height="16">Average precipitation days <span style="font-size:90%;" class="nowrap">(≥ 0.01 inch)</span></th>
+<td style="background:#CDCDFF;color:#000000;text-align:center;">4</td>
+<td style="background:#C8C8FF;color:#000000;text-align:center;">4</td>
+<td style="background:#CDCDFF;color:#000000;text-align:center;">4</td>
+<td style="background:#D8D8FF;color:#000000;text-align:center;">3</td>
+<td style="background:#E6E6FF;color:#000000;text-align:center;">2</td>
+<td style="background:#D8D8FF;color:#000000;text-align:center;">3</td>
+<td style="background:#8383FF;color:#000000;text-align:center;">10</td>
+<td style="background:#8383FF;color:#000000;text-align:center;">10</td>
+<td style="background:#B2B2FF;color:#000000;text-align:center;">6</td>
+<td style="background:#CDCDFF;color:#000000;text-align:center;">4</td>
+<td style="background:#D8D8FF;color:#000000;text-align:center;">3</td>
+<td style="background:#CDCDFF;color:#000000;text-align:center;">4</td>
+<td style="background:#C3C3FF;color:#000000;text-align:center; border-left-width:medium">57</td>
+</tr>
+<tr>
+<td colspan="14" style="text-align:center;font-size:95%;">Source: <sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+</table>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Portal,_Arizona&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-gnis-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-gnis_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://geonames.usgs.gov/apex/f?p=gnispq:3:::NO::P3_FID:9657">U.S. Geological Survey Geographic Names Information System: Portal, Arizona</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nps.gov/history/history/online_books/geology/publications/bul/845/sec21a.htm">USGS Geological Survey Bulletin 845</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.paysonroundup.com/news/2010/mar/26/towers_stone_canyons_history/">Payson Roundup</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sabo.org/birding.htm">Southeastern Arizona Bird Observatory</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://research.amnh.org/swrs/">Southwest Research Station</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.nancyfarmerwebsite.com/blog.html">http://www.nancyfarmerwebsite.com/blog.html</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wrcc.dri.edu/cgi-bin/cliMAIN.pl?az6706">"PORTAL, ARIZONA (026706)"</a>. <a href="/w/index.php?title=Western_Regional_Climate_Center&amp;action=edit&amp;redlink=1" class="new" title="Western Regional Climate Center (page does not exist)">Western Regional Climate Center</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APortal%2C+Arizona&amp;rft.btitle=PORTAL%2C+ARIZONA+%28026706%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.wrcc.dri.edu%2Fcgi-bin%2FcliMAIN.pl%3Faz6706&amp;rft.pub=Western+Regional+Climate+Center&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Portal,_Arizona&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.portalrodeo.com/">Portal, Arizona</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.arizonaskyvillage.com/">Arizona Sky Village</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cochise_County,_Arizona" title="Template:Cochise County, Arizona"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cochise_County,_Arizona" title="Template talk:Cochise County, Arizona"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cochise_County,_Arizona&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="adr" style="font-size:114%">Municipalities and communities of <a href="/wiki/Cochise_County,_Arizona" title="Cochise County, Arizona"><span class="region">Cochise County, Arizona</span></a>, <span class="country-name">United States</span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div><a href="/wiki/County_seat" title="County seat"><span>County seat</span></a>: <b><a href="/wiki/Bisbee,_Arizona" title="Bisbee, Arizona"><span>Bisbee</span></a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/City_(Arizona)" title="City (Arizona)" class="mw-redirect">Cities</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Benson,_Arizona" title="Benson, Arizona">Benson</a></li>
+<li><a href="/wiki/Bisbee,_Arizona" title="Bisbee, Arizona">Bisbee</a></li>
+<li><a href="/wiki/Douglas,_Arizona" title="Douglas, Arizona">Douglas</a></li>
+<li><a href="/wiki/Sierra_Vista,_Arizona" title="Sierra Vista, Arizona">Sierra Vista</a></li>
+<li><a href="/wiki/Tombstone,_Arizona" title="Tombstone, Arizona">Tombstone</a></li>
+<li><a href="/wiki/Willcox,_Arizona" title="Willcox, Arizona">Willcox</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div>
+<div class="center">
+<div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Map_of_Arizona_highlighting_Cochise_County.svg/61px-Map_of_Arizona_highlighting_Cochise_County.svg.png" width="61" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Map_of_Arizona_highlighting_Cochise_County.svg/92px-Map_of_Arizona_highlighting_Cochise_County.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Map_of_Arizona_highlighting_Cochise_County.svg/122px-Map_of_Arizona_highlighting_Cochise_County.svg.png 2x" data-file-width="893" data-file-height="1099" /></div>
+</div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Town" title="Town">Towns</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Huachuca_City,_Arizona" title="Huachuca City, Arizona">Huachuca City</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Census-designated_place" title="Census-designated place">CDPs</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bowie,_Arizona" title="Bowie, Arizona">Bowie</a></li>
+<li><a href="/wiki/Dragoon,_Arizona" title="Dragoon, Arizona">Dragoon</a></li>
+<li><a href="/wiki/Elfrida,_Arizona" title="Elfrida, Arizona">Elfrida</a></li>
+<li><a href="/wiki/McNeal,_Arizona" title="McNeal, Arizona">McNeal</a></li>
+<li><a href="/wiki/Mescal,_Arizona" title="Mescal, Arizona">Mescal</a></li>
+<li><a href="/wiki/Miracle_Valley,_Arizona" title="Miracle Valley, Arizona">Miracle Valley</a></li>
+<li><a href="/wiki/Naco,_Arizona" title="Naco, Arizona">Naco</a></li>
+<li><a href="/wiki/Palominas,_Arizona" title="Palominas, Arizona">Palominas</a></li>
+<li><a href="/wiki/Pirtleville,_Arizona" title="Pirtleville, Arizona">Pirtleville</a></li>
+<li><a href="/wiki/St._David,_Arizona" title="St. David, Arizona">St. David</a></li>
+<li><a href="/wiki/San_Simon,_Arizona" title="San Simon, Arizona">San Simon</a></li>
+<li><a href="/wiki/Sierra_Vista_Southeast,_Arizona" title="Sierra Vista Southeast, Arizona">Southeast Sierra Vista</a></li>
+<li><a href="/wiki/Sunizona,_Arizona" title="Sunizona, Arizona">Sunizona</a></li>
+<li><a href="/wiki/Whetstone,_Arizona" title="Whetstone, Arizona">Whetstone</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Unincorporated_area" title="Unincorporated area">Unincorporated<br />
+communities</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Bay_Acres,_Arizona&amp;action=edit&amp;redlink=1" class="new" title="Bay Acres, Arizona (page does not exist)">Bay Acres</a></li>
+<li><a href="/wiki/Cochise,_Arizona" title="Cochise, Arizona">Cochise</a></li>
+<li><a href="/wiki/Dos_Cabezas,_Arizona" title="Dos Cabezas, Arizona">Dos Cabezas</a></li>
+<li><a href="/w/index.php?title=Fry_Townsite,_Arizona&amp;action=edit&amp;redlink=1" class="new" title="Fry Townsite, Arizona (page does not exist)">Fry Townsite</a></li>
+<li><a href="/wiki/Hereford,_Arizona" title="Hereford, Arizona">Hereford</a></li>
+<li><a href="/w/index.php?title=Lower_Huachuca_City,_Arizona&amp;action=edit&amp;redlink=1" class="new" title="Lower Huachuca City, Arizona (page does not exist)">Lower Huachuca City</a></li>
+<li><a href="/wiki/Pearce,_Arizona" title="Pearce, Arizona">Sunsites</a></li>
+<li><a href="/wiki/Pomerene,_Arizona" title="Pomerene, Arizona">Pomerene</a></li>
+<li><strong class="selflink">Portal</strong></li>
+<li><a href="/w/index.php?title=Winchester_Heights,_Arizona&amp;action=edit&amp;redlink=1" class="new" title="Winchester Heights, Arizona (page does not exist)">Winchester Heights</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Ghost_town" title="Ghost town">Ghost towns</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Boquillas,_Arizona&amp;action=edit&amp;redlink=1" class="new" title="Boquillas, Arizona (page does not exist)">Boquillas</a></li>
+<li><a href="/wiki/Cascabel,_Arizona" title="Cascabel, Arizona">Cascabel</a></li>
+<li><a href="/wiki/Charleston,_Arizona" title="Charleston, Arizona">Charleston</a></li>
+<li><a href="/wiki/Contention_City,_Arizona" title="Contention City, Arizona">Contention City</a></li>
+<li><a href="/w/index.php?title=Cottonwood,_Cochise_County,_Arizona&amp;action=edit&amp;redlink=1" class="new" title="Cottonwood, Cochise County, Arizona (page does not exist)">Cottonwood</a></li>
+<li><a href="/wiki/Courtland,_Arizona" title="Courtland, Arizona">Courtland</a></li>
+<li><a href="/w/index.php?title=Black_Diamond,_Arizona&amp;action=edit&amp;redlink=1" class="new" title="Black Diamond, Arizona (page does not exist)">Black Diamond</a></li>
+<li><a href="/wiki/Dragoon_Springs,_Arizona" title="Dragoon Springs, Arizona">Dragoon Springs</a></li>
+<li><a href="/wiki/Ewell_Station" title="Ewell Station">Ewell Station</a></li>
+<li><a href="/wiki/Fairbank,_Arizona" title="Fairbank, Arizona">Fairbank</a></li>
+<li><a href="/wiki/Fort_Bowie" title="Fort Bowie">Fort Bowie</a></li>
+<li><a href="/wiki/Fort_Newell" title="Fort Newell" class="mw-redirect">Fort Newell</a></li>
+<li><a href="/wiki/Fort_Rucker,_Arizona" title="Fort Rucker, Arizona">Fort Rucker</a></li>
+<li><a href="/w/index.php?title=Garces,_Arizona&amp;action=edit&amp;redlink=1" class="new" title="Garces, Arizona (page does not exist)">Garces</a></li>
+<li><a href="/w/index.php?title=Galeyville,_Arizona&amp;action=edit&amp;redlink=1" class="new" title="Galeyville, Arizona (page does not exist)">Galeyville</a></li>
+<li><a href="/w/index.php?title=Johnson,_Arizona&amp;action=edit&amp;redlink=1" class="new" title="Johnson, Arizona (page does not exist)">Johnson</a></li>
+<li><a href="/wiki/Lowell,_Arizona" title="Lowell, Arizona" class="mw-redirect">Lowell</a></li>
+<li><a href="/wiki/Pearce,_Arizona" title="Pearce, Arizona">Fittsburg</a></li>
+<li><a href="/wiki/Gleeson,_Arizona" title="Gleeson, Arizona">Gleeson</a></li>
+<li><a href="/w/index.php?title=Hamburg,_Arizona&amp;action=edit&amp;redlink=1" class="new" title="Hamburg, Arizona (page does not exist)">Hamburg</a></li>
+<li><a href="/w/index.php?title=Middlemarch,_Arizona&amp;action=edit&amp;redlink=1" class="new" title="Middlemarch, Arizona (page does not exist)">Middlemarch</a></li>
+<li><a href="/wiki/Paradise,_Arizona" title="Paradise, Arizona">Paradise</a></li>
+<li><a href="/wiki/Pearce,_Arizona" title="Pearce, Arizona">Pearce</a></li>
+<li><a href="/w/index.php?title=Russellville,_Arizona&amp;action=edit&amp;redlink=1" class="new" title="Russellville, Arizona (page does not exist)">Russellville</a></li>
+<li><a href="/wiki/Presidio_Santa_Cruz_de_Terrenate" title="Presidio Santa Cruz de Terrenate">Presidio Santa Cruz de Terrenate</a></li>
+<li><a href="/w/index.php?title=Stark,_Arizona&amp;action=edit&amp;redlink=1" class="new" title="Stark, Arizona (page does not exist)">Stark</a></li>
+<li><a href="/w/index.php?title=Sunnyside,_Arizona&amp;action=edit&amp;redlink=1" class="new" title="Sunnyside, Arizona (page does not exist)">Sunnyside</a></li>
+<li><a href="/wiki/Tres_Alamos,_Arizona" title="Tres Alamos, Arizona">Tres Alamos</a></li>
+<li><a href="/wiki/Warren,_Arizona" title="Warren, Arizona" class="mw-redirect">Warren</a></li>
+<li><a href="/w/index.php?title=Webb,_Arizona&amp;action=edit&amp;redlink=1" class="new" title="Webb, Arizona (page does not exist)">Webb</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Arizona" title="Template:Arizona"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Arizona" title="Template talk:Arizona"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Arizona&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/23px-Flag_of_Arizona.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/35px-Flag_of_Arizona.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arizona.svg/46px-Flag_of_Arizona.svg.png 2x" data-file-width="900" data-file-height="600" /></span>&#160;<a href="/wiki/U.S._state" title="U.S. state">State</a> of <a href="/wiki/Arizona" title="Arizona">Arizona</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b><a href="/wiki/Phoenix,_Arizona" title="Phoenix, Arizona">Phoenix</a></b> (capital)</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Outline_of_Arizona" title="Outline of Arizona">Topics</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Index_of_Arizona-related_articles" title="Index of Arizona-related articles">Index</a></li>
+<li><a href="/wiki/Arizona#Climate" title="Arizona">Climate</a></li>
+<li><a href="/wiki/United_States_congressional_delegations_from_Arizona" title="United States congressional delegations from Arizona">Delegations</a></li>
+<li><a href="/wiki/Geography_of_Arizona" title="Geography of Arizona">Geography</a></li>
+<li><a href="/wiki/Government_of_Arizona" title="Government of Arizona">Government</a></li>
+<li><a href="/wiki/History_of_Arizona" title="History of Arizona">History</a>
+<ul>
+<li><a href="/wiki/Arizona_during_World_War_II" title="Arizona during World War II">World War II</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_museums_in_Arizona" title="List of museums in Arizona">Museums</a></li>
+<li><a href="/wiki/Music_of_Arizona" title="Music of Arizona">Music</a></li>
+<li><a href="/wiki/List_of_people_from_Arizona" title="List of people from Arizona">People</a></li>
+<li><a href="/wiki/Transportation_in_Arizona" title="Transportation in Arizona">Transportation</a></li>
+<li><a href="/wiki/Category:Visitor_attractions_in_Arizona" title="Category:Visitor attractions in Arizona">Visitor attractions</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Society</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Culture_of_Arizona" title="Culture of Arizona">Culture</a></li>
+<li><a href="/wiki/Crime_in_Arizona" title="Crime in Arizona">Crime</a></li>
+<li><a href="/wiki/Demographics_of_Arizona" title="Demographics of Arizona">Demographics</a></li>
+<li><a href="/wiki/Economy_of_Arizona" title="Economy of Arizona" class="mw-redirect">Economy</a></li>
+<li><a href="/wiki/Education_in_Arizona" title="Education in Arizona" class="mw-redirect">Education</a></li>
+<li><a href="/wiki/Politics_of_Arizona" title="Politics of Arizona" class="mw-redirect">Politics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_regions_of_Arizona" title="List of regions of Arizona">Regions</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arizona_Strip" title="Arizona Strip">Arizona Strip</a></li>
+<li><a href="/wiki/Arizona_Sun_Corridor" title="Arizona Sun Corridor">Arizona Sun Corridor</a></li>
+<li><a href="/wiki/Coconino_Plateau" title="Coconino Plateau">Coconino Plateau</a></li>
+<li><a href="/wiki/Colorado_Plateau" title="Colorado Plateau">Colorado Plateau</a></li>
+<li><a href="/wiki/Grand_Canyon" title="Grand Canyon">Grand Canyon</a></li>
+<li><a href="/wiki/Kaibab_Plateau" title="Kaibab Plateau">Kaibab Plateau</a></li>
+<li><a href="/wiki/Mogollon_Plateau" title="Mogollon Plateau">Mogollon Plateau</a></li>
+<li><a href="/wiki/Mogollon_Rim" title="Mogollon Rim">Mogollon Rim</a></li>
+<li><a href="/wiki/Mojave_Desert" title="Mojave Desert">Mojave Desert</a></li>
+<li><a href="/wiki/Monument_Valley" title="Monument Valley">Monument Valley</a></li>
+<li><a href="/wiki/North_Central_Arizona" title="North Central Arizona">North Central Arizona</a></li>
+<li><a href="/wiki/Northeast_Arizona" title="Northeast Arizona">Northeast Arizona</a></li>
+<li><a href="/wiki/Northern_Arizona" title="Northern Arizona">Northern Arizona</a></li>
+<li><a href="/wiki/Oak_Creek_Canyon" title="Oak Creek Canyon">Oak Creek Canyon</a></li>
+<li><a href="/wiki/Phoenix_metropolitan_area" title="Phoenix metropolitan area">Phoenix Metropolitan Area</a></li>
+<li><a href="/wiki/Safford_micropolitan_area" title="Safford micropolitan area" class="mw-redirect">Safford area</a></li>
+<li><a href="/wiki/San_Francisco_volcanic_field" title="San Francisco volcanic field">San Francisco Volcanic Field</a></li>
+<li><a href="/wiki/Sonoran_Desert" title="Sonoran Desert">Sonoran Desert</a></li>
+<li><a href="/wiki/Southern_Arizona" title="Southern Arizona">Southern Arizona</a> (<a href="/wiki/Traditional_Arizona" title="Traditional Arizona">Traditional Arizona</a>)</li>
+<li><a href="/wiki/Arizona_transition_zone" title="Arizona transition zone">Transition zone</a></li>
+<li><a href="/wiki/Verde_Valley" title="Verde Valley">Verde Valley</a></li>
+<li><a href="/wiki/White_Mountains_(Arizona)" title="White Mountains (Arizona)">White Mountains</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_counties_in_Arizona" title="List of counties in Arizona">Counties</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apache_County,_Arizona" title="Apache County, Arizona">Apache</a></li>
+<li><a href="/wiki/Cochise_County,_Arizona" title="Cochise County, Arizona">Cochise</a></li>
+<li><a href="/wiki/Coconino_County,_Arizona" title="Coconino County, Arizona">Coconino</a></li>
+<li><a href="/wiki/Gila_County,_Arizona" title="Gila County, Arizona">Gila</a></li>
+<li><a href="/wiki/Graham_County,_Arizona" title="Graham County, Arizona">Graham</a></li>
+<li><a href="/wiki/Greenlee_County,_Arizona" title="Greenlee County, Arizona">Greenlee</a></li>
+<li><a href="/wiki/La_Paz_County,_Arizona" title="La Paz County, Arizona">La Paz</a></li>
+<li><a href="/wiki/Maricopa_County,_Arizona" title="Maricopa County, Arizona">Maricopa</a></li>
+<li><a href="/wiki/Mohave_County,_Arizona" title="Mohave County, Arizona">Mohave</a></li>
+<li><a href="/wiki/Navajo_County,_Arizona" title="Navajo County, Arizona">Navajo</a></li>
+<li><a href="/wiki/Pima_County,_Arizona" title="Pima County, Arizona">Pima</a></li>
+<li><a href="/wiki/Pinal_County,_Arizona" title="Pinal County, Arizona">Pinal</a></li>
+<li><a href="/wiki/Santa_Cruz_County,_Arizona" title="Santa Cruz County, Arizona">Santa Cruz</a></li>
+<li><a href="/wiki/Yavapai_County,_Arizona" title="Yavapai County, Arizona">Yavapai</a></li>
+<li><a href="/wiki/Yuma_County,_Arizona" title="Yuma County, Arizona">Yuma</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_cities_and_towns_in_Arizona" title="List of cities and towns in Arizona">Cities</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chandler,_Arizona" title="Chandler, Arizona">Chandler</a></li>
+<li><a href="/wiki/Flagstaff,_Arizona" title="Flagstaff, Arizona">Flagstaff</a></li>
+<li><a href="/wiki/Gilbert,_Arizona" title="Gilbert, Arizona">Gilbert</a></li>
+<li><a href="/wiki/Glendale,_Arizona" title="Glendale, Arizona">Glendale</a></li>
+<li><a href="/wiki/Kingman,_Arizona" title="Kingman, Arizona">Kingman</a></li>
+<li><a href="/wiki/Lake_Havasu_City,_Arizona" title="Lake Havasu City, Arizona">Lake Havasu City</a></li>
+<li><a href="/wiki/Mesa,_Arizona" title="Mesa, Arizona">Mesa</a></li>
+<li><a href="/wiki/Peoria,_Arizona" title="Peoria, Arizona">Peoria</a></li>
+<li><a href="/wiki/Phoenix,_Arizona" title="Phoenix, Arizona">Phoenix</a></li>
+<li><a href="/wiki/Prescott,_Arizona" title="Prescott, Arizona">Prescott</a></li>
+<li><a href="/wiki/Scottsdale,_Arizona" title="Scottsdale, Arizona">Scottsdale</a></li>
+<li><a href="/wiki/Sierra_Vista,_Arizona" title="Sierra Vista, Arizona">Sierra Vista</a></li>
+<li><a href="/wiki/Tempe,_Arizona" title="Tempe, Arizona">Tempe</a></li>
+<li><a href="/wiki/Tucson,_Arizona" title="Tucson, Arizona">Tucson</a></li>
+<li><a href="/wiki/Yuma,_Arizona" title="Yuma, Arizona">Yuma</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1036
+Cached time: 20151014163617
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.659 seconds
+Real time usage: 0.757 seconds
+Preprocessor visited node count: 3924/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 94786/2097152 bytes
+Template argument size: 6917/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 2/500
+Lua time usage: 0.216/10.000 seconds
+Lua memory usage: 4.29 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  612.973      1 - -total
+ 53.33%  326.907      1 - Template:Infobox_settlement
+ 37.48%  229.744      2 - Template:Infobox
+ 20.86%  127.847      1 - Template:Weather_box
+  7.84%   48.054      1 - Template:Convert
+  7.57%   46.407      1 - Template:Reflist
+  7.39%   45.294      1 - Template:Geobox_coor
+  6.34%   38.862      2 - Template:Navbox
+  5.14%   31.526      1 - Template:Arizona
+  4.95%   30.323      1 - Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:27997343-0!*!0!!*!4!* and timestamp 20151014163616 and revision id 672052288
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Portal,_Arizona&amp;oldid=672052288">https://en.wikipedia.org/w/index.php?title=Portal,_Arizona&amp;oldid=672052288</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Unincorporated_communities_in_Cochise_County,_Arizona" title="Category:Unincorporated communities in Cochise County, Arizona">Unincorporated communities in Cochise County, Arizona</a></li><li><a href="/wiki/Category:Unincorporated_communities_in_Arizona" title="Category:Unincorporated communities in Arizona">Unincorporated communities in Arizona</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Portal%2C+Arizona&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Portal%2C+Arizona" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Portal,_Arizona"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Portal,_Arizona"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Portal,_Arizona" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Portal,_Arizona&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Portal,_Arizona&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Portal,_Arizona" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Portal,_Arizona" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Portal,_Arizona&amp;oldid=672052288" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Portal,_Arizona&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q7231465" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Portal%2C_Arizona&amp;id=672052288" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Portal%2C+Arizona">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Portal%2C+Arizona&amp;returnto=Portal%2C+Arizona&amp;oldid=672052288&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Portal,_Arizona&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ht"><a href="//ht.wikipedia.org/wiki/Portal,_Arizona" title="Portal, Arizona – Haitian" lang="ht" hreflang="ht">Kreyòl ayisyen</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q7231465#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 18 July 2015, at 22:37.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Portal,_Arizona&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1174"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

@@ -1,0 +1,1248 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>President of Belarus - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"President_of_Belarus","wgTitle":"President of Belarus","wgCurRevisionId":686173329,"wgRevisionId":686173329,"wgArticleId":2631957,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Russian-language external links","Interlanguage link template link number","Articles with Belarusian-language external links","Articles containing Belarusian-language text","Articles containing Russian-language text","Articles containing potentially dated statements from 2014","All articles containing potentially dated statements","Good articles","1994 establishments in Belarus","Government of Belarus","Heads of state","Presidents of Belarus"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"President_of_Belarus","wgRelevantArticleId":2631957,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Presidential_Standard_of_Belarus.svg/100px-Presidential_Standard_of_Belarus.svg.png","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1049659","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/President_of_Belarus" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=President_of_Belarus&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=President_of_Belarus&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/President_of_Belarus" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-President_of_Belarus skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+<div id="mw-indicator-good-star" class="mw-indicator"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png" width="19" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/29px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/39px-Symbol_support_vote.svg.png 2x" data-file-width="180" data-file-height="185" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">President of Belarus</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">President of<br />
+the Republic of Belarus</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding-bottom:0.4em; border-bottom:solid 1px #ccd2d9;"><a href="/wiki/File:Presidential_Standard_of_Belarus.svg" class="image"><img alt="Presidential Standard of Belarus.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Presidential_Standard_of_Belarus.svg/125px-Presidential_Standard_of_Belarus.svg.png" width="125" height="104" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Presidential_Standard_of_Belarus.svg/188px-Presidential_Standard_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Presidential_Standard_of_Belarus.svg/250px-Presidential_Standard_of_Belarus.svg.png 2x" data-file-width="540" data-file-height="450" /></a>
+<div>Presidential Standard</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">
+<div style="padding-bottom:0.4em; border-bottom:solid 1px #ccd2d9; line-height:1.4em;">
+<div style="padding-bottom:0.4em;"><a href="/wiki/File:Alexander_Lukashenko_crop.jpeg" class="image"><img alt="Alexander Lukashenko crop.jpeg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alexander_Lukashenko_crop.jpeg/165px-Alexander_Lukashenko_crop.jpeg" width="165" height="222" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alexander_Lukashenko_crop.jpeg/248px-Alexander_Lukashenko_crop.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alexander_Lukashenko_crop.jpeg/330px-Alexander_Lukashenko_crop.jpeg 2x" data-file-width="1225" data-file-height="1646" /></a></div>
+<b>Incumbent<br />
+<a href="/wiki/Alexander_Lukashenko" title="Alexander Lukashenko">Alexander Lukashenko</a></b><br />
+since&#160;July 20, 1994</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Official_residence" title="Official residence">Residence</a></th>
+<td><a href="/w/index.php?title=Residence_of_the_President_of_the_Republic_of_Belarus&amp;action=edit&amp;redlink=1" class="new" title="Residence of the President of the Republic of Belarus (page does not exist)">Residence of the President of the Republic of Belarus</a><sup class="noprint" style="font-style: normal;">[<a href="//be.wikipedia.org/wiki/%D0%A0%D1%8D%D0%B7%D1%96%D0%B4%D1%8D%D0%BD%D1%86%D1%8B%D1%8F_%D0%9F%D1%80%D1%8D%D0%B7%D1%96%D0%B4%D1%8D%D0%BD%D1%82%D0%B0_%D0%A0%D1%8D%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D1%96%D0%BA%D1%96_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C" class="extiw" title="be:Рэзідэнцыя Прэзідэнта Рэспублікі Беларусь">be</a>]</sup>, <a href="/wiki/Minsk" title="Minsk">Minsk</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Term_of_office" title="Term of office">Term length</a></th>
+<td>Five years, unlimited terms</td>
+</tr>
+<tr>
+<th scope="row">Inaugural holder</th>
+<td><a href="/wiki/Alexander_Lukashenko" title="Alexander Lukashenko">Alexander Lukashenko</a></td>
+</tr>
+<tr>
+<th scope="row">Formation</th>
+<td>1994</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Belarusian)</span> <a rel="nofollow" class="external text" href="http://www.president.gov.by/by/">http://www.president.gov.by/by</a><br />
+<span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Russian)</span> <a rel="nofollow" class="external text" href="http://www.president.gov.by/">http://www.president.gov.by</a><br />
+<span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(English)</span> <a rel="nofollow" class="external text" href="http://www.president.gov.by/en/">http://www.president.gov.by/en</a></td>
+</tr>
+</table>
+<p>The office of <b>President of Belarus</b> (<a href="/wiki/Belarusian_language" title="Belarusian language">Belarusian</a>: <span lang="be" xml:lang="be">Прэзідэнт Рэспублікі Беларусь</span>, <a href="/wiki/Russian_language" title="Russian language">Russian</a>: <span lang="ru" xml:lang="ru">Президент Республики Беларусь</span>) is the <a href="/wiki/Head_of_state" title="Head of state">head of state</a> of <a href="/wiki/Belarus" title="Belarus">Belarus</a>. The <a href="/wiki/Office" title="Office">office</a> was created in 1994 with the passing of the <a href="/wiki/Constitution_of_Belarus" title="Constitution of Belarus">Constitution of Belarus</a> by the <a href="/wiki/Supreme_Soviet" title="Supreme Soviet">Supreme Soviet</a>. This replaced the office of <a href="/wiki/Chairman_of_the_Supreme_Soviet" title="Chairman of the Supreme Soviet" class="mw-redirect">Chairman of the Supreme Soviet</a> as the head of state. The tasks of the president including executing <a href="/wiki/Foreign_policy" title="Foreign policy">foreign</a> and <a href="/wiki/Domestic_policy" title="Domestic policy">domestic policy</a>, defend the rights and general welfare of citizens and residents and to uphold the Constitution. The president is mandated by the Constitution to serve as a leader in the social affairs of the country and to act as its main representative abroad. The duties, responsibilities and other transitional clauses dealing with the presidency are listed in Chapter Three, Articles 79 through 89, of the Constitution.</p>
+<p>The <a href="/wiki/Term_of_office" title="Term of office">term</a> for the president is five years, but due to a <a href="/wiki/Belarusian_referendum,_1996" title="Belarusian referendum, 1996">1996 referendum</a>, <a href="/wiki/Belarusian_presidential_election,_2001" title="Belarusian presidential election, 2001">the election</a> that was supposed to occur in 1999 was pushed back to 2001. Under the 1994 constitution, the president could only serve for two terms as president, but due to <a href="/wiki/Belarusian_referendum,_2004" title="Belarusian referendum, 2004">a change in the constitution</a>, term limits were eliminated. During the course of the office, three elections were held in <a href="/wiki/Belarusian_presidential_election,_1994" title="Belarusian presidential election, 1994">1994</a>, <a href="/wiki/Belarusian_presidential_election,_2001" title="Belarusian presidential election, 2001">2001</a> and <a href="/wiki/Belarusian_presidential_election,_2006" title="Belarusian presidential election, 2006">2006</a>. The last election was held on December 19, 2010. <a href="/wiki/Alexander_Lukashenko" title="Alexander Lukashenko">Alexander Lukashenko</a> has been the only person who has served as president since the elections in 1994.</p>
+<p>The Presidential office is located in the Republic Palace in <a href="/wiki/Minsk" title="Minsk">Minsk</a>, while the presidential residence is located in <a href="/wiki/Zaslawye" title="Zaslawye">Zaslawye</a> (Заслаўе), Minsk District.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Historical_background"><span class="tocnumber">1</span> <span class="toctext">Historical background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Constitutional_status"><span class="tocnumber">2</span> <span class="toctext">Constitutional status</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Selection_process"><span class="tocnumber">3</span> <span class="toctext">Selection process</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Eligibility"><span class="tocnumber">3.1</span> <span class="toctext">Eligibility</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Election"><span class="tocnumber">3.2</span> <span class="toctext">Election</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Powers_and_duties"><span class="tocnumber">4</span> <span class="toctext">Powers and duties</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Oath_of_office"><span class="tocnumber">5</span> <span class="toctext">Oath of office</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Removal"><span class="tocnumber">6</span> <span class="toctext">Removal</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Privileges"><span class="tocnumber">7</span> <span class="toctext">Privileges</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Symbols"><span class="tocnumber">8</span> <span class="toctext">Symbols</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#List_of_Presidents_of_Belarus_.281994.E2.80.93present.29"><span class="tocnumber">9</span> <span class="toctext">List of Presidents of Belarus (1994–present)</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Latest_election"><span class="tocnumber">10</span> <span class="toctext">Latest election</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Historical_background">Historical background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=President_of_Belarus&amp;action=edit&amp;section=1" title="Edit section: Historical background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="vertical-navbox vcard" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:auto;">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">
+<div class="adr" style="font-size:smaller"><span class="fn org country-name"><a href="/wiki/Belarus" title="Belarus">Belarus</a></span></div>
+</th>
+</tr>
+<tr>
+<td><a href="/wiki/File:Coat_of_arms_of_Belarus.svg" class="image"><img alt="Coat of arms of Belarus.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Coat_of_arms_of_Belarus.svg/125px-Coat_of_arms_of_Belarus.svg.png" width="125" height="124" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Coat_of_arms_of_Belarus.svg/188px-Coat_of_arms_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Coat_of_arms_of_Belarus.svg/250px-Coat_of_arms_of_Belarus.svg.png 2x" data-file-width="1700" data-file-height="1690" /></a></td>
+</tr>
+<tr>
+<td style="border-bottom: #aaa 1px solid">This article is part of a series on the<br />
+<span style="font-weight:bold"><a href="/wiki/Politics_of_Belarus" title="Politics of Belarus">politics and government of<br />
+Belarus</a></span></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;text-align:left;border-bottom:1px #aaa solid">
+<ul>
+<li><a href="/wiki/Constitution_of_Belarus" title="Constitution of Belarus">Constitution</a></li>
+<li><strong class="selflink">President</strong>
+<dl>
+<dd><a href="/wiki/Alexander_Lukashenko" title="Alexander Lukashenko">Alexander Lukashenko</a></dd>
+</dl>
+</li>
+<li><a href="/wiki/Government_of_Belarus" title="Government of Belarus">Government</a>
+<dl>
+<dd><a href="/wiki/List_of_Prime_Ministers_of_Belarus" title="List of Prime Ministers of Belarus">Prime Minister</a>: <a href="/wiki/Andrei_Kobyakov" title="Andrei Kobyakov">Andrei Kobyakov</a></dd>
+</dl>
+</li>
+<li><a href="/wiki/National_Assembly_of_Belarus" title="National Assembly of Belarus">National Assembly</a>
+<dl>
+<dd><a href="/wiki/Council_of_the_Republic_of_Belarus" title="Council of the Republic of Belarus">Council of the Republic</a></dd>
+<dd><a href="/wiki/House_of_Representatives_of_Belarus" title="House of Representatives of Belarus">House of Representatives</a></dd>
+</dl>
+</li>
+<li><a href="/wiki/All_Belarusian_People%27s_Assembly" title="All Belarusian People's Assembly">All Belarusian People's Assembly</a></li>
+<li>Judiciary
+<ul>
+<li><a href="/wiki/Constitutional_Court_of_Belarus" title="Constitutional Court of Belarus">Constitutional Court</a></li>
+<li><a href="/wiki/Supreme_Court_of_Belarus" title="Supreme Court of Belarus">Supreme Court</a></li>
+<li><a href="/wiki/Economic_Court_of_Belarus" title="Economic Court of Belarus">Economic Court</a></li>
+</ul>
+</li>
+<li>Recent <a href="/wiki/Elections_in_Belarus" title="Elections in Belarus">elections</a>
+<dl>
+<dd>
+<div class="hlist">
+<ul>
+<li>Presidential: <a href="/wiki/Belarusian_presidential_election,_2006" title="Belarusian presidential election, 2006">2006</a></li>
+<li><a href="/wiki/Belarusian_presidential_election,_2010" title="Belarusian presidential election, 2010">2010</a></li>
+<li><a href="/wiki/Belarusian_presidential_election,_2015" title="Belarusian presidential election, 2015">2015</a></li>
+</ul>
+</div>
+</dd>
+<dd>
+<div class="hlist">
+<ul>
+<li>Parliamentary: <a href="/wiki/Belarusian_parliamentary_election,_2008" title="Belarusian parliamentary election, 2008">2008</a></li>
+<li><a href="/wiki/Belarusian_parliamentary_election,_2012" title="Belarusian parliamentary election, 2012">2012</a></li>
+</ul>
+</div>
+</dd>
+</dl>
+</li>
+<li><a href="/wiki/List_of_political_parties_in_Belarus" title="List of political parties in Belarus">Political parties</a></li>
+<li><a href="/wiki/Foreign_relations_of_Belarus" title="Foreign relations of Belarus">Foreign relations</a></li>
+<li><a href="/wiki/Regions_of_Belarus" title="Regions of Belarus">Administrative divisions</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold">
+<div class="hlist" style="text-align:center;font-size:90%;font-weight:normal;">
+<ul>
+<li><a href="/wiki/Outline_of_political_science#Politics_by_region" title="Outline of political science">Other countries</a></li>
+<li><a href="//commons.wikimedia.org/wiki/Atlas_of_Belarus" class="extiw" title="commons:Atlas of Belarus">Atlas</a></li>
+</ul>
+<p><span class="metadata"><a href="/wiki/File:A_coloured_voting_box.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/16px-A_coloured_voting_box.svg.png" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/24px-A_coloured_voting_box.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/32px-A_coloured_voting_box.svg.png 2x" data-file-width="160" data-file-height="160" /></a></span> <a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></p>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Politics_of_Belarus" title="Template:Politics of Belarus"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Politics_of_Belarus" title="Template talk:Politics of Belarus"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Politics_of_Belarus&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The Republic of Belarus was formed in 1991 shortly after declaring itself independent of the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>. Under the government of the <a href="/wiki/Byelorussian_SSR" title="Byelorussian SSR" class="mw-redirect">Byelorussian SSR</a>, the <a href="/wiki/De_facto" title="De facto">de facto</a> leader of the Soviet Republic was the first secretaries of the <a href="/wiki/Communist_Party_of_Byelorussia" title="Communist Party of Byelorussia">Communist Party of Byelorussia</a>, the only legal party in Soviet Belarus. From independence until passage of the Constitution in 1994, the Chairman of the Supreme Soviet was the head of state and the <a href="/wiki/List_of_Belarusian_Prime_Ministers" title="List of Belarusian Prime Ministers" class="mw-redirect">Prime Minister</a> as the head of government. When the office of the presidency was created, the role of the prime minister was reduced to assisting the president and resulted in the dissolution of the Supreme Soviet, along with its Chairman, in 1996.<sup id="cite_ref-byind_1-0" class="reference"><a href="#cite_note-byind-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-cnn96_2-0" class="reference"><a href="#cite_note-cnn96-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>In the first set of elections for the office of president, the Prime Minister of Belarus, <a href="/wiki/Vyachaslaw_Kyebich" title="Vyachaslaw Kyebich" class="mw-redirect">Vyachaslaw Kyebich</a>, was defeated in a runoff vote by Alexander Lukashenko, resulting in Lukashenko becoming the first president.<sup id="cite_ref-byind_1-1" class="reference"><a href="#cite_note-byind-1"><span>[</span>1<span>]</span></a></sup> In elections of 2001 and 2006, which were contested by international observers, <a href="/wiki/Western_powers" title="Western powers" class="mw-redirect">Western powers</a> and internal opposition parties due for failing to meet democratic and fair standards,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> the incumbent Lukashenko defeated the other candidates within the first ballot. As of 2014<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=President_of_Belarus&amp;action=edit">[update]</a></sup>, he is the only person to have served as President of Belarus.<sup id="cite_ref-bbc_4-0" class="reference"><a href="#cite_note-bbc-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Constitutional_status">Constitutional status</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=President_of_Belarus&amp;action=edit&amp;section=2" title="Edit section: Constitutional status">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Article 79 of the <a href="/wiki/Constitution_of_Belarus" title="Constitution of Belarus">Constitution of Belarus</a> gives the status of <a href="/wiki/Head_of_state" title="Head of state">head of state</a> to the President of the Republic of Belarus. He is also considered the guardian of the Constitution and the rights and freedoms of those who claim Belarusian citizenship or residency. The President is the personification of unification of the Belarusian state when conducting foreign or internal affairs and shall be the main representative when dealing with other nations or international organizations. The President is also entrusted with the safety, prosperity and stability of the country and acts as an intermediary between the bodies of the national government.<sup id="cite_ref-s4_5-0" class="reference"><a href="#cite_note-s4-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Selection_process">Selection process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=President_of_Belarus&amp;action=edit&amp;section=3" title="Edit section: Selection process">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Eligibility">Eligibility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=President_of_Belarus&amp;action=edit&amp;section=4" title="Edit section: Eligibility">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In order to be able to run for office, a candidate must be a Belarusian citizen by birth that is over thirty-five years old. The candidate must also reside within the Republic for ten years and he or she must be able to cast a ballot legally. The provisions are set down in Article 80 of the Constitution.<sup id="cite_ref-s4_5-1" class="reference"><a href="#cite_note-s4-5"><span>[</span>5<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Election">Election</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=President_of_Belarus&amp;action=edit&amp;section=5" title="Edit section: Election">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Elections_in_Belarus" title="Elections in Belarus">Elections</a> for president occur every five years by a national vote. Candidates, as soon as they are deemed eligible under Article 80 of the Constitution, are tasked with collecting signatures from eligible voters. After 100,000 signatures are collected and certified, the candidate is declared to be official by the Central Elections Committee. In the voting, the secret ballots are collected directly from eligible voters. During the first round of voting, if a candidate earns fifty percent plus one of the votes, they are declared the President-elect. If no one has achieved that number during the first round, then a <a href="/wiki/Two-round_system" title="Two-round system">run-off election</a> will occur between two candidates who won the most votes. The person who wins the most votes in the run-off is declared the President-elect.<sup id="cite_ref-s4_5-2" class="reference"><a href="#cite_note-s4-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>In the event the office is vacant, the election to replace the president must occur between thirty and seventy days after the vacancy occurred. During normal election cycles, the elections must occur before the last two months of the current president. In either situation, the government body that calls for elections is the <a href="/wiki/House_of_Representatives_of_Belarus" title="House of Representatives of Belarus">House of Representatives</a>.<sup id="cite_ref-s4_5-3" class="reference"><a href="#cite_note-s4-5"><span>[</span>5<span>]</span></a></sup> The next set of <a href="/wiki/Presidential_elections" title="Presidential elections" class="mw-redirect">presidential elections</a> <a href="/wiki/Belarusian_presidential_election,_2015" title="Belarusian presidential election, 2015">will occur in 2015</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> President Lukashenko, when addressing the press in February 2007, stated his health will determine if he will run in 2011 or step down at that time.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Powers_and_duties">Powers and duties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=President_of_Belarus&amp;action=edit&amp;section=6" title="Edit section: Powers and duties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Articles 84 and 85 states the official political, social and national defense duties that are rested with the president Other than the enumerated powers, Number 30 allows the president to use other powers granted to him either from national law or from other sections of the Constitution.<sup id="cite_ref-s4_5-4" class="reference"><a href="#cite_note-s4-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Part of the prerogative of the president is the right to call national <a href="/wiki/Referendum" title="Referendum">referendums</a>, and to call regular and extraordinary elections to the House of Representatives, the <a href="/wiki/Council_of_the_Republic_of_Belarus" title="Council of the Republic of Belarus">Council of the Republic</a> and local representative bodies. He can also dissolve the chambers of the Parliament, as the Constitution permits. It is his duty to appoint the <a href="/wiki/List_of_Belarusian_Prime_Ministers" title="List of Belarusian Prime Ministers" class="mw-redirect">Prime minister of the Republic of Belarus</a> with the consent of the House of Representatives, and to decide the structure of the <a href="/wiki/Government_of_Belarus" title="Government of Belarus">Government of the Republic of Belarus</a>. The President signs bills, and has the right to return it, fully or in parts, with objections to the House of Representatives. He also appoints– and can dismiss– the deputy Prime ministers, the ministers and the other members of the Government, and he decides in cases of resignation of the Government, or any of its members. With the consent of the Council of the Republic, the President appoints the Chairperson of the <a href="/wiki/Supreme_Court_of_Belarus" title="Supreme Court of Belarus">Supreme Court</a>, and can dismiss this Chairperson and other judges. The president is supposed to deliver annual messages to the Parliament, and has the right to participate in the sessions of Parliament and its bodies. In instances of strike, the president has the right, in instances specified in the law, to defer or suspend a strike for a period not exceeding three months. In international affairs, it is the President's duty to conduct negotiations and sign international treaties, and to appoint and recall diplomatic representatives of the Republic.<sup id="cite_ref-s4_5-5" class="reference"><a href="#cite_note-s4-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Not only the president is the head of government, he is the social leader of Belarus. The president delivers messages to the citizens several times a year and can issue decrees to establish red letter days and national holidays. The president is the main authority for the granting of Belarusian citizen and can present <a href="/wiki/Orders,_decorations,_and_medals_of_Belarus" title="Orders, decorations, and medals of Belarus">state decorations</a> to honored individuals. The president also has the ability to determine the status of asylum seekers and grant <a href="/wiki/Pardon" title="Pardon">pardons</a> to convicted citizens.<sup id="cite_ref-s4_5-6" class="reference"><a href="#cite_note-s4-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>As the Supreme <a href="/wiki/Commander-in-Chief" title="Commander-in-Chief" class="mw-redirect">Commander-in-Chief</a> of the Belarusian Armed Forces, the President has the duty to protect the Belarusian territory from internal and external forces. The president can call for a <a href="/wiki/State_of_emergency" title="State of emergency">state of emergency</a> in the following cases: natural disasters, a catastrophe, or unrest involving violence or the threat of violence. Regardless if the declaration affects the entire country or sections of it, the <a href="/wiki/Council_of_the_Republic_of_Belarus" title="Council of the Republic of Belarus">Council of the Republic</a> must be notified by the President and must seek their approval within three days of notification. The same rules applies if the President issues a state of <a href="/wiki/Martial_law" title="Martial law">martial law</a> in the event of a possible military action against Belarus. The President has to form and head the Security Council of the Republic of Belarus, and can appoint and dismiss the State Secretary of the Security Council and the Supreme Command of the Armed Forces.<sup id="cite_ref-s4_5-7" class="reference"><a href="#cite_note-s4-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Oath_of_office">Oath of office</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=President_of_Belarus&amp;action=edit&amp;section=7" title="Edit section: Oath of office">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Before any person can assume the office officially, an <a href="/wiki/Oath" title="Oath">oath</a> must be sworn within two months of the election results being finalized. The text of the oath is as follows:</p>
+<table class="cquote" role="presentation" style="margin:auto; border-collapse: collapse; border: none; background-color: transparent; width: auto;">
+<tr>
+<td style="width: 20px; vertical-align: top; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: left; padding: 10px 10px;">“</td>
+<td style="vertical-align: top; border: none; padding: 4px 10px;"><i>Assuming the office of President of the Republic of Belarus, I solemnly swear to faithfully serve the people of the Republic of Belarus, to respect and safeguard the rights and liberties of man and citizen, to abide by and protect the Constitution of the Republic of Belarus, and to discharge strictly and conscientiously the lofty duties that have been bestowed upon me.</i></td>
+<td style="width: 20px; vertical-align: bottom; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: right; padding: 10px 10px;">”</td>
+</tr>
+</table>
+<p>During the inauguration ceremony, members of both houses of the <a href="/wiki/National_Assembly_of_the_Republic_of_Belarus" title="National Assembly of the Republic of Belarus" class="mw-redirect">National Assembly</a>, government ministers, officials and judges from the <a href="/wiki/Constitutional_Court_of_Belarus" title="Constitutional Court of Belarus">Constitutional</a>, <a href="/wiki/Supreme_Court_of_Belarus" title="Supreme Court of Belarus">Supreme</a> and <a href="/wiki/Economic_Court_of_Belarus" title="Economic Court of Belarus">Economic Court</a> must be present. Upon reading of the oath, any powers held by a previous president will be transferred to the president-elect. The text of the oath can be found in Article 83 of the Constitution.<sup id="cite_ref-s4_5-8" class="reference"><a href="#cite_note-s4-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Removal">Removal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=President_of_Belarus&amp;action=edit&amp;section=8" title="Edit section: Removal">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Articles 87 through 89 of the Constitution deal with how the presidency can change hands in-between election cycles. The President has the ability to resign from office at anytime under Article 87. The letter of resignation is sent to the <a href="/wiki/House_of_Representatives_of_Belarus" title="House of Representatives of Belarus">House of Representatives</a> and is accepted by them. The President has the ability to be removed from office if his physical or mental health is impaired under Article 88. In order for this to happen, a two-thirds majority must be reached in the House of Representatives and the <a href="/wiki/Council_of_the_Republic_of_Belarus" title="Council of the Republic of Belarus">Council of the Republic</a> on the resolution to remove the President. An <a href="/wiki/Ad_hoc" title="Ad hoc">ad hoc</a> committee is formed and must make the determination about the state of health before any motion can begin. If the President has committed a grave crime, such as <a href="/wiki/Treason" title="Treason">treason</a>, one-third of the House must bring charges against the President formally. The investigation of the charges will be conducted by the Council of the Republic. In order to evict the President from office, a two-thirds majority is needed to vote in favor of conviction. The criminal case is further sent to the Supreme Court for review. The actions of either option must occur one month after the resolution is passed or the action will be considered void by the Constitution.<sup id="cite_ref-s4_5-9" class="reference"><a href="#cite_note-s4-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Privileges">Privileges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=President_of_Belarus&amp;action=edit&amp;section=9" title="Edit section: Privileges">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Under Article 79 of the Constitution, the president is immune from arrest, with exception to the treason/grave crimes clauses listed in Article 88 in the same document. Also under Article 79, the honor and dignity of the president will be protected by national law.<sup id="cite_ref-s4_5-10" class="reference"><a href="#cite_note-s4-5"><span>[</span>5<span>]</span></a></sup> Information, either printed in the news or reported on <a href="/wiki/Television_in_Belarus" title="Television in Belarus" class="mw-redirect">television</a>, that is considered <a href="/wiki/Defamation" title="Defamation">defamation</a> against the president is illegal under Article 5 of the Belarusian Law on Press.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>The president also has an official residence in <a href="/wiki/Minsk" title="Minsk">Minsk</a> surrounded by the streets of <a href="/wiki/Karl_Marx" title="Karl Marx">Marx</a>, <a href="/wiki/Friedrich_Engels" title="Friedrich Engels">Engels</a>, <a href="/wiki/Sergey_Kirov" title="Sergey Kirov">Kirov</a> and <a href="/wiki/Komsomol" title="Komsomol">Komsomol</a>. Like the American <a href="/wiki/White_House" title="White House">White House</a>, the streets close to the residence are closed off to vehicular traffic and are patrolled by police forces.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Symbols">Symbols</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=President_of_Belarus&amp;action=edit&amp;section=10" title="Edit section: Symbols">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:117px;"><a href="/wiki/File:Presidential_Standard_of_Belarus.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Presidential_Standard_of_Belarus.svg/115px-Presidential_Standard_of_Belarus.svg.png" width="115" height="96" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Presidential_Standard_of_Belarus.svg/173px-Presidential_Standard_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Presidential_Standard_of_Belarus.svg/230px-Presidential_Standard_of_Belarus.svg.png 2x" data-file-width="540" data-file-height="450" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Presidential_Standard_of_Belarus.svg" class="internal" title="Enlarge"></a></div>
+Presidential standard</div>
+</div>
+</div>
+<p>Officially, the only symbol denoting the presence of the President is the standard of the office (Штандар Прэзідэнта Рэспублікі Беларусь). The standard, which has been in use since March 27, 1997, was adopted by a decree called "Concerning the Standard of the President of Republic of Belarus." signed into law by President Lukashenko.</p>
+<p>The standard's design is an exact copy of the <a href="/wiki/Flag_of_Belarus" title="Flag of Belarus">national flag</a>, with the addition of the <a href="/wiki/National_emblem_of_Belarus" title="National emblem of Belarus">Belarusian national emblem</a> in gold. The standard's ratio of 5:6 differs from that of the national flag, making the standard almost square. The standard is bordered by a golden <a href="/wiki/Fringe_(trim)" title="Fringe (trim)">fringe</a>. There are several copies of the standard; the original is kept in the office of the President while other copies are used on buildings, residences and vehicles to denote his presence.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="List_of_Presidents_of_Belarus_.281994.E2.80.93present.29">List of Presidents of Belarus (1994–present)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=President_of_Belarus&amp;action=edit&amp;section=11" title="Edit section: List of Presidents of Belarus (1994–present)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dd><i>For leaders before independence, see <a href="/wiki/List_of_national_leaders_of_Belarus" title="List of national leaders of Belarus">List of national leaders of Belarus</a></i></dd>
+</dl>
+<table class="wikitable" width="100%" style="text-align:center;">
+<tr>
+<th>#</th>
+<th colspan="2">President</th>
+<th>Took office</th>
+<th>Left office</th>
+<th>Party</th>
+</tr>
+<tr>
+<th><b>1</b></th>
+<td width="50px"><a href="/wiki/File:Alexander_Lukashenko_crop.jpeg" class="image"><img alt="Alexander Lukashenko crop.jpeg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alexander_Lukashenko_crop.jpeg/75px-Alexander_Lukashenko_crop.jpeg" width="75" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alexander_Lukashenko_crop.jpeg/113px-Alexander_Lukashenko_crop.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alexander_Lukashenko_crop.jpeg/150px-Alexander_Lukashenko_crop.jpeg 2x" data-file-width="1225" data-file-height="1646" /></a></td>
+<td><a href="/wiki/Alexander_Lukashenko" title="Alexander Lukashenko">Alexander Lukashenko</a></td>
+<td>20 July 1994</td>
+<td>Present</td>
+<td><a href="/wiki/Independent_(politician)" title="Independent (politician)" class="mw-redirect">Independent</a> / <a href="/wiki/Non-partisan" title="Non-partisan" class="mw-redirect">Non-partisan</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Latest_election">Latest election</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=President_of_Belarus&amp;action=edit&amp;section=12" title="Edit section: Latest election">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Belarusian_presidential_election,_2015" title="Belarusian presidential election, 2015">Belarusian presidential election, 2015</a></div>
+<table class="wikitable" style="text-align:right">
+<tr>
+<th colspan="2">Candidate</th>
+<th>Party</th>
+<th>Votes</th>
+<th>%</th>
+</tr>
+<tr>
+<td bgcolor="#A52A2A"></td>
+<td align="left"><a href="/wiki/Alexander_Lukashenko" title="Alexander Lukashenko">Alexander Lukashenko</a></td>
+<td align="left">Independent</td>
+<td>5,102,478</td>
+<td>83.47</td>
+</tr>
+<tr>
+<td bgcolor="#F0004D"></td>
+<td align="left"><a href="/wiki/Tatsiana_Karatkevich" title="Tatsiana Karatkevich">Tatsiana Karatkevich</a></td>
+<td align="left">People's Referendum</td>
+<td>271,426</td>
+<td>4.44</td>
+</tr>
+<tr>
+<td bgcolor="#0000FA"></td>
+<td align="left"><a href="/wiki/Sergei_Gaidukevich" title="Sergei Gaidukevich">Sergei Gaidukevich</a></td>
+<td align="left"><a href="/wiki/Liberal_Democratic_Party_(Belarus)" title="Liberal Democratic Party (Belarus)">Liberal Democratic Party</a></td>
+<td>201,945</td>
+<td>3.30</td>
+</tr>
+<tr>
+<td bgcolor="#000088"></td>
+<td align="left">Nikolai Ulakhovich</td>
+<td align="left"><a href="/wiki/Belarusian_Patriotic_Party" title="Belarusian Patriotic Party">Belarusian Patriotic Party</a></td>
+<td>102,131</td>
+<td>1.67</td>
+</tr>
+<tr>
+<td align="left" colspan="3">Against all</td>
+<td>386,225</td>
+<td>6.32</td>
+</tr>
+<tr>
+<td align="left" colspan="3">Invalid/blank votes</td>
+<td>48,808</td>
+<td>0.80</td>
+</tr>
+<tr>
+<td align="left" colspan="3"><b>Total</b></td>
+<td><b>6,113,013</b></td>
+<td><b>100</b></td>
+</tr>
+<tr>
+<td align="left" colspan="3">Registered voters/turnout</td>
+<td>7,008,682</td>
+<td>87.22</td>
+</tr>
+<tr>
+<td align="left" colspan="5">Source: <a rel="nofollow" class="external text" href="http://www.belta.by/politics/view/tsik-belarusi-utverdil-itogi-vyborov-prezidenta-166921-2015/">Belta</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=President_of_Belarus&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_rulers_of_Belarus" title="List of rulers of Belarus">List of rulers of Belarus</a></li>
+<li><a href="/wiki/List_of_national_leaders_of_Belarus" title="List of national leaders of Belarus">List of national leaders of Belarus</a></li>
+<li><a href="/wiki/Academy_of_Public_Administration_(Belarus)" title="Academy of Public Administration (Belarus)">Academy of Public Administration</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=President_of_Belarus&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-byind-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-byind_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-byind_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Country Studies <a rel="nofollow" class="external text" href="http://countrystudies.us/belarus/39.htm">Belarus - Prelude to Independence</a>. Library of Congress. Retrieved July 12, 2007.</span></li>
+<li id="cite_note-cnn96-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-cnn96_2-0">^</a></b></span> <span class="reference-text">CNN <a rel="nofollow" class="external text" href="https://web.archive.org/web/20050124012146/http://edition.cnn.com/WORLD/9611/26/belarus/index.html">Belarus president convenes new parliament</a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> (archived January 24, 2005). Published November 26, 1996. Retrieved June 7, 2007.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.osce.org/documents/html/pdftohtml/18437_en.pdf.html">"Presidential Election, Republic of Belarus"</a> <span style="font-size:85%;">(PDF)</span>. Organization for Security and Co-operation in Europe. 2006-03-20.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APresident+of+Belarus&amp;rft.atitle=Presidential+Election%2C+Republic+of+Belarus&amp;rft.date=2006-03-20&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.osce.org%2Fdocuments%2Fhtml%2Fpdftohtml%2F18437_en.pdf.html&amp;rft.pub=Organization+for+Security+and+Co-operation+in+Europe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bbc-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-bbc_4-0">^</a></b></span> <span class="reference-text"><a href="/wiki/British_Broadcasting_Corporation" title="British Broadcasting Corporation" class="mw-redirect">British Broadcasting Corporation</a> News <a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/europe/country_profiles/1118391.stm">Timeline of Belarus</a>. Published March 27, 2007. Retrieved July 12, 2007.</span></li>
+<li id="cite_note-s4-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-s4_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-s4_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-s4_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-s4_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-s4_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-s4_5-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-s4_5-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-s4_5-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-s4_5-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-s4_5-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-s4_5-10"><sup><i><b>k</b></i></sup></a></span> <span class="reference-text">Webportal of the President of the Republic of Belarus <a rel="nofollow" class="external text" href="http://www.president.gov.by/en/press19332.html">Section 4 of the Constitution</a>. Published 1994, amended in 1996. Retrieved June 7, 2007.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.belta.by/en/main_news?id=580390">Belarus sets date of presidential election for 19 December 2010</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">MosNews. <a rel="nofollow" class="external text" href="http://www.data.minsk.by/belarusnews/022007/218.html">Rightist Group Promote Belarus Dictator Lukashenko as Russian Presidential Candidate</a>. Published February 28, 2007. Retrieved July 11, 2007.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Global Campaign of Free Expression <a rel="nofollow" class="external text" href="http://www.article19.org/pdfs/analysis/belarus-supreme-economic-court-decision-on-def.pdf">Comment on the Decision of the Supreme Economic Court of the Republic of Belarus: Case 1-9/2002 of 13 June 2002</a>. Published August 2002. Retrieved July 12, 2007.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Law of the Republic of Belarus <a rel="nofollow" class="external text" href="http://law.by/work/EnglPortal.nsf/6e1a652fbefce34ac2256d910056d559/1f80c30387b1623dc2256dc00051dc63?OpenDocument">Legal Acts - On Press and Other Mass Media</a>. Passed 1995, amended in 2006. Retrieved July 12, 2007.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Haaretz.com <a rel="nofollow" class="external text" href="http://www.haaretz.com/hasen/pages/ShArt.jhtml?itemNo=769008">Two Steps Back</a>. Published by Lior Kodner on February 10, 2007. Retrieved July 12, 2007.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.pravo.by/webnpa/text_txt.asp?RN=P39700217">Decree dated March 27, 1997, creating the presidential standard</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Russian)</span>. <a rel="nofollow" class="external text" href="http://www.vexillography.narod.ru/belarus/_presid.htm">English summary of decree</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://geraldika.ru/symbols/2071">Указ Президента Республики Беларусь О штандарте (флаге) Президента Республики Беларусь</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=President_of_Belarus&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.president.gov.by/en/">Official website</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(English)</span> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Belarusian)</span> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Russian)</span></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Belarus_topics" title="Template:Belarus topics"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Belarus_topics" title="Template talk:Belarus topics"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Belarus_topics&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Belarus" title="Belarus">Belarus</a>&#160;<a href="/wiki/Index_of_Belarus-related_articles" title="Index of Belarus-related articles" class="mw-redirect">articles</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/History_of_Belarus" title="History of Belarus">History</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kievan_Rus%27" title="Kievan Rus'">Kievan Rus'</a></li>
+<li><a href="/wiki/Principality_of_Polotsk" title="Principality of Polotsk">Principality of Polotsk</a></li>
+<li><a href="/wiki/Grand_Duchy_of_Lithuania" title="Grand Duchy of Lithuania">Grand Duchy of Lithuania</a></li>
+<li><a href="/wiki/Polish%E2%80%93Lithuanian_Commonwealth" title="Polish–Lithuanian Commonwealth">Polish–Lithuanian Commonwealth</a></li>
+<li><a href="/wiki/Russian_Empire" title="Russian Empire">Russian Empire</a></li>
+<li><a href="/wiki/Belarusian_People%27s_Republic" title="Belarusian People's Republic">Belarus National Republic</a></li>
+<li><a href="/wiki/Byelorussian_Soviet_Socialist_Republic" title="Byelorussian Soviet Socialist Republic">Byelorussian Soviet Socialist Republic</a></li>
+<li><a href="/wiki/History_of_Belarus#Republic_of_Belarus" title="History of Belarus">Republic of Belarus</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/Belarus" title="Belarus"><img alt="Belarus stub blank.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Belarus_stub_blank.svg/120px-Belarus_stub_blank.svg.png" width="120" height="102" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Belarus_stub_blank.svg/180px-Belarus_stub_blank.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Belarus_stub_blank.svg/240px-Belarus_stub_blank.svg.png 2x" data-file-width="2000" data-file-height="1701" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Geography_of_Belarus" title="Geography of Belarus">Geography</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_cities_and_towns_in_Belarus" title="List of cities and towns in Belarus">Cities</a></li>
+<li><a href="/wiki/Protected_areas_of_Belarus" title="Protected areas of Belarus">Protected areas</a>
+<ul>
+<li><a href="/wiki/World_Network_of_Biosphere_Reserves_in_Europe_and_North_America#Belarus" title="World Network of Biosphere Reserves in Europe and North America">Biosphere Reserves</a></li>
+<li><a href="/wiki/List_of_national_parks_of_Belarus" title="List of national parks of Belarus">National parks</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_rivers_of_Belarus" title="List of rivers of Belarus">Rivers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Politics_of_Belarus" title="Politics of Belarus">Politics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Administrative_divisions_of_Belarus" title="Administrative divisions of Belarus" class="mw-redirect">Administrative divisions</a></li>
+<li><a href="/wiki/Constitution_of_Belarus" title="Constitution of Belarus">Constitution</a></li>
+<li><a href="/wiki/Elections_in_Belarus" title="Elections in Belarus">Elections</a></li>
+<li><a href="/wiki/Foreign_relations_of_Belarus" title="Foreign relations of Belarus">Foreign relations</a></li>
+<li><a href="/wiki/Government_of_Belarus" title="Government of Belarus">Government</a></li>
+<li><a href="/wiki/Human_rights_in_Belarus" title="Human rights in Belarus">Human rights</a></li>
+<li><a href="/wiki/Law_enforcement_in_Belarus" title="Law enforcement in Belarus">Law enforcement</a></li>
+<li><a href="/wiki/LGBT_history_in_Belarus" title="LGBT history in Belarus">LGBT history</a></li>
+<li><a href="/wiki/Armed_Forces_of_Belarus" title="Armed Forces of Belarus">Military</a></li>
+<li><a href="/wiki/National_Assembly_of_Belarus" title="National Assembly of Belarus">Parliament</a></li>
+<li><a href="/wiki/List_of_political_parties_in_Belarus" title="List of political parties in Belarus">Political parties</a></li>
+<li><strong class="selflink">President</strong></li>
+<li><a href="/wiki/List_of_Prime_Ministers_of_Belarus" title="List of Prime Ministers of Belarus">Prime Minister</a></li>
+<li><a href="/wiki/Union_State" title="Union State">Union of Russia and Belarus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Economy_of_Belarus" title="Economy of Belarus">Economy</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agriculture_in_Belarus" title="Agriculture in Belarus">Agriculture</a></li>
+<li><a href="/wiki/Banking_in_Belarus" title="Banking in Belarus" class="mw-redirect">Banking</a>
+<ul>
+<li><a href="/wiki/National_Bank_of_the_Republic_of_Belarus" title="National Bank of the Republic of Belarus">Central bank</a></li>
+<li><a href="/wiki/Belarusian_ruble" title="Belarusian ruble">Belarusian ruble</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Telecommunications_in_Belarus" title="Telecommunications in Belarus">Telecommunications</a></li>
+<li><a href="/wiki/Belarusian_ruble" title="Belarusian ruble">Currency</a></li>
+<li><a href="/wiki/Energy_in_Belarus" title="Energy in Belarus">Energy</a></li>
+<li><a href="/wiki/Belarusian_Currency_and_Stock_Exchange" title="Belarusian Currency and Stock Exchange">Stock exchange</a></li>
+<li><a href="/wiki/Transport_in_Belarus" title="Transport in Belarus">Transport</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Belarusian_society" title="Category:Belarusian society">Society</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Demographics_of_Belarus" title="Demographics of Belarus">Demographics</a></li>
+<li><a href="/wiki/Belarusians" title="Belarusians">Belarusians</a></li>
+<li><a href="/wiki/Education_in_Belarus" title="Education in Belarus">Education</a></li>
+<li><a href="/wiki/Healthcare_in_Belarus" title="Healthcare in Belarus">Healthcare</a></li>
+<li><a href="/wiki/Belarusian_language" title="Belarusian language">Language</a></li>
+<li><a href="/wiki/Religion_in_Belarus" title="Religion in Belarus">Religion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Belarus" title="Culture of Belarus">Culture</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Orders,_decorations,_and_medals_of_Belarus" title="Orders, decorations, and medals of Belarus">Awards and decorations</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian names</a></li>
+<li><a href="/wiki/Belarusian_cuisine" title="Belarusian cuisine">Cuisine</a></li>
+<li><a href="/wiki/Languages_of_Belarus" title="Languages of Belarus">Languages</a></li>
+<li><a href="/wiki/Belarusian_literature" title="Belarusian literature">Literature</a></li>
+<li><a href="/wiki/Telecommunications_in_Belarus" title="Telecommunications in Belarus">Media</a></li>
+<li><a href="/wiki/Music_of_Belarus" title="Music of Belarus">Music</a></li>
+<li><a href="/wiki/National_symbols_of_Belarus" title="National symbols of Belarus">National symbols</a></li>
+<li><a href="/wiki/Public_holidays_in_Belarus" title="Public holidays in Belarus">Public holidays</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+<div>
+<div style="margin-bottom:-0.4em;">
+<ul>
+<li><span style="font-weight:normal;"><a href="/wiki/Outline_of_Belarus" title="Outline of Belarus">Outline</a></span></li>
+<li><span style="font-weight:normal;"><a href="/wiki/Index_of_Belarus-related_articles" title="Index of Belarus-related articles" class="mw-redirect">Index</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Book:Belarus" title="Book:Belarus">Book</a></li>
+<li><a href="/wiki/Category:Belarus" title="Category:Belarus">Category</a></li>
+<li><a href="/wiki/Portal:Belarus" title="Portal:Belarus">Portal</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Belarus" title="Wikipedia:WikiProject Belarus">WikiProject</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:BelarusPres" title="Template:BelarusPres"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:BelarusPres" title="Template talk:BelarusPres"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:BelarusPres&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/List_of_national_leaders_of_Belarus" title="List of national leaders of Belarus">Leaders of Belarus</a> since 1918</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/File:Flag_of_Belarus_(1918,_1991-1995).svg" class="image"><img alt="Flag of Belarus (1918, 1991-1995).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_Belarus_%281918%2C_1991-1995%29.svg/30px-Flag_of_Belarus_%281918%2C_1991-1995%29.svg.png" width="30" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_Belarus_%281918%2C_1991-1995%29.svg/45px-Flag_of_Belarus_%281918%2C_1991-1995%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_Belarus_%281918%2C_1991-1995%29.svg/60px-Flag_of_Belarus_%281918%2C_1991-1995%29.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:15em; background:#ddf; text-align:left; line-height:1.2em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Belarusian_People%27s_Republic" title="Belarusian People's Republic">Belarusian People's Republic<br />
+(1918–1919)</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jan_Sierada" title="Jan Sierada">Sierada</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/File:Flag_of_Belarus_(1918,_1991-1995).svg" class="image"><img alt="Flag of Belarus (1918, 1991-1995).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_Belarus_%281918%2C_1991-1995%29.svg/30px-Flag_of_Belarus_%281918%2C_1991-1995%29.svg.png" width="30" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_Belarus_%281918%2C_1991-1995%29.svg/45px-Flag_of_Belarus_%281918%2C_1991-1995%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_Belarus_%281918%2C_1991-1995%29.svg/60px-Flag_of_Belarus_%281918%2C_1991-1995%29.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:15em; background:#ddf; text-align:left; line-height:1.2em;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Belarusian_People%27s_Republic" title="Belarusian People's Republic">Belarusian People's Republic</a><br />
+in <a href="/wiki/Government-in-exile" title="Government-in-exile" class="mw-redirect">exile (since 1919)</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pyotra_Krecheuski" title="Pyotra Krecheuski">Krecheuski</a></li>
+<li><a href="/wiki/Vasil_Zacharka" title="Vasil Zacharka">Zakharka</a></li>
+<li><a href="/wiki/Mikola_Abramchyk" title="Mikola Abramchyk">Abramchyk</a></li>
+<li><a href="/wiki/Vincent_Zhuk-Hryshkevich" title="Vincent Zhuk-Hryshkevich">Zhuk-Hryshkyevich</a></li>
+<li><a href="/wiki/Jazep_Sa%C5%BEy%C4%8D" title="Jazep Sažyč">Sazhych</a></li>
+<li><a href="/wiki/Barys_Rahula" title="Barys Rahula">Rahula</a>*</li>
+<li><a href="/wiki/Ivonka_Survilla" title="Ivonka Survilla">Survilla</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/File:Flag_of_Byelorussian_SSR.svg" class="image"><img alt="Flag of Byelorussian SSR.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Byelorussian_SSR.svg/30px-Flag_of_Byelorussian_SSR.svg.png" width="30" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Byelorussian_SSR.svg/45px-Flag_of_Byelorussian_SSR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flag_of_Byelorussian_SSR.svg/60px-Flag_of_Byelorussian_SSR.svg.png 2x" data-file-width="900" data-file-height="450" /></a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:15em; background:#ddf; text-align:left; line-height:1.2em;">
+<div style="padding:0em 0.75em;">First Secretary of the<br />
+<a href="/wiki/Communist_Party_of_Byelorussia" title="Communist Party of Byelorussia">Communist Party</a> of the<br />
+<a href="/wiki/Byelorussian_Soviet_Socialist_Republic" title="Byelorussian Soviet Socialist Republic">Byelorussian SSR (1919–1991)</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vilgelm_Knorinsh" title="Vilgelm Knorinsh" class="mw-redirect">Knorinsh</a></li>
+<li><a href="/wiki/Aleksandr_Osatkin-Vladimirsky" title="Aleksandr Osatkin-Vladimirsky">Osatkin-Vladimirsky</a></li>
+<li><a href="/wiki/Alexander_Krinitsky" title="Alexander Krinitsky">Krinitsky</a></li>
+<li><a href="/wiki/Nikolay_Goloded" title="Nikolay Goloded">Goloded</a></li>
+<li><a href="/wiki/Vilgelm_Knorinsh" title="Vilgelm Knorinsh" class="mw-redirect">Knorinsh</a></li>
+<li><a href="/wiki/Yan_Gamarnik" title="Yan Gamarnik">Gamarnik</a></li>
+<li><a href="/wiki/Konstantin_Gey" title="Konstantin Gey">Gey</a></li>
+<li><a href="/wiki/Nikolay_Gikalo" title="Nikolay Gikalo" class="mw-redirect">Gikalo</a></li>
+<li><a href="/wiki/Vasily_Sharangovich" title="Vasily Sharangovich">Sharangovich</a></li>
+<li><a href="/wiki/Yakov_Yakovlev" title="Yakov Yakovlev">Yakovlev</a>*</li>
+<li><a href="/wiki/Aleksei_Alekseyevich_Volkov" title="Aleksei Alekseyevich Volkov" class="mw-redirect">Volkov</a></li>
+<li><a href="/wiki/Panteleimon_Ponomarenko" title="Panteleimon Ponomarenko">Ponomarenko</a></li>
+<li><a href="/wiki/Nikolai_Gusarov" title="Nikolai Gusarov">Gusarov</a></li>
+<li><a href="/wiki/Nikolai_Patolichev" title="Nikolai Patolichev">Patolichev</a></li>
+<li><a href="/wiki/Kirill_Mazurov" title="Kirill Mazurov">Mazurov</a></li>
+<li><a href="/wiki/Pyotr_Masherov" title="Pyotr Masherov">Masherov</a></li>
+<li><a href="/wiki/Tikhon_Kiselyov" title="Tikhon Kiselyov">Kiselyov</a></li>
+<li><a href="/wiki/Nikolay_Slyunkov" title="Nikolay Slyunkov">Slyunkov</a></li>
+<li><a href="/wiki/Yefrem_Sokolov" title="Yefrem Sokolov">Sokolov</a></li>
+<li><a href="/wiki/Anatoly_Malofeyev" title="Anatoly Malofeyev">Malofeyev</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/File:Flag_of_Belarus_(1918,_1991-1995).svg" class="image"><img alt="Flag of Belarus (1918, 1991-1995).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_Belarus_%281918%2C_1991-1995%29.svg/30px-Flag_of_Belarus_%281918%2C_1991-1995%29.svg.png" width="30" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_Belarus_%281918%2C_1991-1995%29.svg/45px-Flag_of_Belarus_%281918%2C_1991-1995%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_Belarus_%281918%2C_1991-1995%29.svg/60px-Flag_of_Belarus_%281918%2C_1991-1995%29.svg.png 2x" data-file-width="1000" data-file-height="500" /></a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:15em; background:#ddf; text-align:left; line-height:1.2em;">
+<div style="padding:0em 0.75em;">Chairman of the <a href="/wiki/Supreme_Soviet_of_Belarus" title="Supreme Soviet of Belarus">Supreme<br />
+Soviet</a> of <a href="/wiki/Belarus" title="Belarus">Belarus (1991–1994)</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Stanislau_Shushkevich" title="Stanislau Shushkevich" class="mw-redirect">Shushkevich</a></li>
+<li><a href="/wiki/Vyacheslav_Nikolayevich_Kuznetsov" title="Vyacheslav Nikolayevich Kuznetsov">Kuznetsov</a>*</li>
+<li><a href="/wiki/Myechyslaw_Hryb" title="Myechyslaw Hryb">Hryb</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/File:Flag_of_Belarus_(1918,_1991-1995).svg" class="image"><img alt="Flag of Belarus (1918, 1991-1995).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_Belarus_%281918%2C_1991-1995%29.svg/30px-Flag_of_Belarus_%281918%2C_1991-1995%29.svg.png" width="30" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_Belarus_%281918%2C_1991-1995%29.svg/45px-Flag_of_Belarus_%281918%2C_1991-1995%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_Belarus_%281918%2C_1991-1995%29.svg/60px-Flag_of_Belarus_%281918%2C_1991-1995%29.svg.png 2x" data-file-width="1000" data-file-height="500" /></a> / <a href="/wiki/File:Flag_of_Belarus.svg" class="image"><img alt="Flag of Belarus.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/30px-Flag_of_Belarus.svg.png" width="30" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/45px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/60px-Flag_of_Belarus.svg.png 2x" data-file-width="900" data-file-height="450" /></a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;width:15em; background:#ddf; text-align:left; line-height:1.2em;">
+<div style="padding:0em 0.75em;"><strong class="selflink">President</strong> of <a href="/wiki/Belarus" title="Belarus">Belarus</a> (since 1994)</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:auto;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alexander_Lukashenko" title="Alexander Lukashenko">Lukashenko</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>* acting</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Europe_heads_of_state_and_government" title="Template:Europe heads of state and government"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Europe_heads_of_state_and_government" title="Template talk:Europe heads of state and government"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Europe_heads_of_state_and_government&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%">Heads of state and government of Europe</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="line-height: 1.1em; text-align: center;"><a href="/wiki/Head_of_state" title="Head of state">Heads<br />
+of state</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;line-height: 1.1em;">
+<div style="padding:0em 0.75em;">UN members &#160;<br />
+and observers</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/President_of_Albania" title="President of Albania">Albania</a></li>
+<li><a href="/wiki/Co-Princes_of_Andorra" title="Co-Princes of Andorra">Andorra</a></li>
+<li><a href="/wiki/President_of_Armenia" title="President of Armenia">Armenia</a><sup>1</sup></li>
+<li><a href="/wiki/President_of_Austria" title="President of Austria">Austria</a></li>
+<li><a href="/wiki/President_of_Azerbaijan" title="President of Azerbaijan">Azerbaijan</a><sup>1</sup></li>
+<li><strong class="selflink">Belarus</strong></li>
+<li><a href="/wiki/Monarchy_of_Belgium" title="Monarchy of Belgium">Belgium</a></li>
+<li><a href="/wiki/Presidency_of_Bosnia_and_Herzegovina" title="Presidency of Bosnia and Herzegovina">Bosnia and Herzegovina</a></li>
+<li><a href="/wiki/President_of_Bulgaria" title="President of Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/President_of_Croatia" title="President of Croatia">Croatia</a></li>
+<li><a href="/wiki/President_of_Cyprus" title="President of Cyprus">Cyprus</a><sup>1</sup></li>
+<li><a href="/wiki/President_of_the_Czech_Republic" title="President of the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Monarchy_of_Denmark" title="Monarchy of Denmark">Denmark</a></li>
+<li><a href="/wiki/President_of_Estonia" title="President of Estonia">Estonia</a></li>
+<li><a href="/wiki/President_of_Finland" title="President of Finland">Finland</a></li>
+<li><a href="/wiki/President_of_France" title="President of France">France</a></li>
+<li><a href="/wiki/President_of_Georgia" title="President of Georgia">Georgia</a><sup>1</sup></li>
+<li><a href="/wiki/President_of_Germany" title="President of Germany">Germany</a></li>
+<li><a href="/wiki/President_of_Greece" title="President of Greece">Greece</a></li>
+<li><a href="/wiki/List_of_heads_of_state_of_Hungary" title="List of heads of state of Hungary">Hungary</a></li>
+<li><a href="/wiki/President_of_Iceland" title="President of Iceland">Iceland</a></li>
+<li><a href="/wiki/President_of_Ireland" title="President of Ireland">Ireland</a></li>
+<li><a href="/wiki/President_of_Italy" title="President of Italy">Italy</a></li>
+<li><a href="/wiki/List_of_leaders_of_Kazakhstan" title="List of leaders of Kazakhstan">Kazakhstan</a><sup>1</sup></li>
+<li><a href="/wiki/President_of_Latvia" title="President of Latvia">Latvia</a></li>
+<li><a href="/wiki/Monarchy_of_Liechtenstein" title="Monarchy of Liechtenstein">Liechtenstein</a></li>
+<li><a href="/wiki/List_of_rulers_of_Lithuania" title="List of rulers of Lithuania">Lithuania</a></li>
+<li><a href="/wiki/Grand_Duke_of_Luxembourg" title="Grand Duke of Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/President_of_the_Republic_of_Macedonia" title="President of the Republic of Macedonia">Macedonia</a></li>
+<li><a href="/wiki/President_of_Malta" title="President of Malta">Malta</a></li>
+<li><a href="/wiki/President_of_Moldova" title="President of Moldova">Moldova</a></li>
+<li><a href="/wiki/Prince_of_Monaco" title="Prince of Monaco">Monaco</a></li>
+<li><a href="/wiki/President_of_Montenegro" title="President of Montenegro">Montenegro</a></li>
+<li><a href="/wiki/Monarchy_of_the_Netherlands" title="Monarchy of the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Monarchy_of_Norway" title="Monarchy of Norway">Norway</a></li>
+<li><a href="/wiki/President_of_Poland" title="President of Poland">Poland</a></li>
+<li><a href="/wiki/President_of_Portugal" title="President of Portugal">Portugal</a></li>
+<li><a href="/wiki/President_of_Romania" title="President of Romania">Romania</a></li>
+<li><a href="/wiki/President_of_Russia" title="President of Russia">Russian Federation</a><sup>1</sup></li>
+<li><a href="/wiki/Captains_Regent" title="Captains Regent">San Marino</a></li>
+<li><a href="/wiki/President_of_Serbia" title="President of Serbia">Serbia</a></li>
+<li><a href="/wiki/President_of_Slovakia" title="President of Slovakia">Slovakia</a></li>
+<li><a href="/wiki/President_of_Slovenia" title="President of Slovenia">Slovenia</a></li>
+<li><a href="/wiki/Monarchy_of_Spain" title="Monarchy of Spain">Spain</a></li>
+<li><a href="/wiki/Monarchy_of_Sweden" title="Monarchy of Sweden">Sweden</a></li>
+<li><a href="/wiki/Federal_Council_(Switzerland)" title="Federal Council (Switzerland)" class="mw-redirect">Switzerland</a></li>
+<li><a href="/wiki/President_of_Turkey" title="President of Turkey">Turkey</a><sup>1</sup></li>
+<li><a href="/wiki/President_of_Ukraine" title="President of Ukraine">Ukraine</a></li>
+<li><a href="/wiki/Monarchy_of_the_United_Kingdom" title="Monarchy of the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Pope" title="Pope">Vatican City</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;line-height: 1.1em;">
+<div style="padding:0em 0.75em;">Partially recognised<sup>2</sup></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/President_of_Abkhazia" title="President of Abkhazia">Abkhazia</a><sup>1</sup></li>
+<li><a href="/wiki/President_of_Kosovo" title="President of Kosovo">Kosovo</a></li>
+<li><a href="/wiki/President_of_Northern_Cyprus" title="President of Northern Cyprus">Northern Cyprus</a><sup>1</sup></li>
+<li><a href="/wiki/President_of_South_Ossetia" title="President of South Ossetia">South Ossetia</a><sup>1</sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;line-height: 1.1em;">
+<div style="padding:0em 0.75em;">Unrecognised states<sup>3</sup></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/President_of_the_Nagorno-Karabakh_Republic" title="President of the Nagorno-Karabakh Republic">Nagorno-Karabakh</a><sup>1</sup></li>
+<li><a href="/wiki/President_of_Transnistria" title="President of Transnistria">Transnistria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="line-height: 1.1em; text-align: center;"><a href="/wiki/Head_of_government" title="Head of government">Heads of<br />
+government</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;line-height: 1.1em;">
+<div style="padding:0em 0.75em;">UN members &#160;<br />
+and observers</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Prime_Minister_of_Albania" title="Prime Minister of Albania">Albania</a></li>
+<li><a href="/wiki/List_of_heads_of_government_of_Andorra" title="List of heads of government of Andorra">Andorra</a></li>
+<li><a href="/wiki/Prime_Minister_of_Armenia" title="Prime Minister of Armenia">Armenia</a><sup>1</sup></li>
+<li><a href="/wiki/Chancellor_of_Austria" title="Chancellor of Austria">Austria</a></li>
+<li><a href="/wiki/Prime_Minister_of_Azerbaijan" title="Prime Minister of Azerbaijan">Azerbaijan</a><sup>1</sup></li>
+<li><a href="/wiki/List_of_Prime_Ministers_of_Belarus" title="List of Prime Ministers of Belarus">Belarus</a></li>
+<li><a href="/wiki/Prime_Minister_of_Belgium" title="Prime Minister of Belgium">Belgium</a></li>
+<li><a href="/wiki/Chairman_of_the_Council_of_Ministers_of_Bosnia_and_Herzegovina" title="Chairman of the Council of Ministers of Bosnia and Herzegovina">Bosnia and Herzegovina</a></li>
+<li><a href="/wiki/Prime_Minister_of_Bulgaria" title="Prime Minister of Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Prime_Minister_of_Croatia" title="Prime Minister of Croatia">Croatia</a></li>
+<li><a href="/wiki/President_of_Cyprus" title="President of Cyprus">Cyprus</a><sup>1</sup></li>
+<li><a href="/wiki/Prime_Minister_of_the_Czech_Republic" title="Prime Minister of the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Prime_Minister_of_Denmark" title="Prime Minister of Denmark">Denmark</a></li>
+<li><a href="/wiki/Prime_Minister_of_Estonia" title="Prime Minister of Estonia">Estonia</a></li>
+<li><a href="/wiki/Prime_Minister_of_Finland" title="Prime Minister of Finland">Finland</a></li>
+<li><a href="/wiki/Prime_Minister_of_France" title="Prime Minister of France">France</a></li>
+<li><a href="/wiki/Prime_Minister_of_Georgia" title="Prime Minister of Georgia">Georgia</a><sup>1</sup></li>
+<li><a href="/wiki/Federal_Chancellor_of_the_Federal_Republic_of_Germany" title="Federal Chancellor of the Federal Republic of Germany" class="mw-redirect">Germany</a></li>
+<li><a href="/wiki/Prime_Minister_of_Greece" title="Prime Minister of Greece">Greece</a></li>
+<li><a href="/wiki/Prime_Minister_of_Hungary" title="Prime Minister of Hungary">Hungary</a></li>
+<li><a href="/wiki/Prime_Minister_of_Iceland" title="Prime Minister of Iceland">Iceland</a></li>
+<li><a href="/wiki/Taoiseach" title="Taoiseach">Ireland</a></li>
+<li><a href="/wiki/Prime_Minister_of_Italy" title="Prime Minister of Italy">Italy</a></li>
+<li><a href="/wiki/Prime_Minister_of_Kazakhstan" title="Prime Minister of Kazakhstan">Kazakhstan</a><sup>1</sup></li>
+<li><a href="/wiki/Prime_Minister_of_Latvia" title="Prime Minister of Latvia">Latvia</a></li>
+<li><a href="/wiki/List_of_heads_of_government_of_Liechtenstein" title="List of heads of government of Liechtenstein">Liechtenstein</a></li>
+<li><a href="/wiki/Prime_Minister_of_Lithuania" title="Prime Minister of Lithuania">Lithuania</a></li>
+<li><a href="/wiki/List_of_Prime_Ministers_of_Luxembourg" title="List of Prime Ministers of Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Prime_Minister_of_the_Republic_of_Macedonia" title="Prime Minister of the Republic of Macedonia">Macedonia</a></li>
+<li><a href="/wiki/Prime_Minister_of_Malta" title="Prime Minister of Malta">Malta</a></li>
+<li><a href="/wiki/Prime_Minister_of_Moldova" title="Prime Minister of Moldova">Moldova</a></li>
+<li><a href="/wiki/Minister_of_State_(Monaco)" title="Minister of State (Monaco)">Monaco</a></li>
+<li><a href="/wiki/Prime_Minister_of_Montenegro" title="Prime Minister of Montenegro">Montenegro</a></li>
+<li><a href="/wiki/Prime_Minister_of_the_Netherlands" title="Prime Minister of the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Prime_Minister_of_Norway" title="Prime Minister of Norway">Norway</a></li>
+<li><a href="/wiki/Prime_Minister_of_Poland" title="Prime Minister of Poland">Poland</a></li>
+<li><a href="/wiki/Prime_Minister_of_Portugal" title="Prime Minister of Portugal">Portugal</a></li>
+<li><a href="/wiki/Prime_Minister_of_Romania" title="Prime Minister of Romania">Romania</a></li>
+<li><a href="/wiki/Prime_Minister_of_Russia" title="Prime Minister of Russia">Russian Federation</a><sup>1</sup></li>
+<li><a href="/wiki/Captains_Regent" title="Captains Regent">San Marino</a></li>
+<li><a href="/wiki/Prime_Minister_of_Serbia" title="Prime Minister of Serbia">Serbia</a></li>
+<li><a href="/wiki/Prime_Minister_of_Slovakia" title="Prime Minister of Slovakia">Slovakia</a></li>
+<li><a href="/wiki/Prime_Minister_of_Slovenia" title="Prime Minister of Slovenia">Slovenia</a></li>
+<li><a href="/wiki/Prime_Minister_of_Spain" title="Prime Minister of Spain">Spain</a></li>
+<li><a href="/wiki/Prime_Minister_of_Sweden" title="Prime Minister of Sweden">Sweden</a></li>
+<li><a href="/wiki/Federal_Council_(Switzerland)" title="Federal Council (Switzerland)" class="mw-redirect">Switzerland</a></li>
+<li><a href="/wiki/Prime_Minister_of_Turkey" title="Prime Minister of Turkey">Turkey</a><sup>1</sup></li>
+<li><a href="/wiki/Prime_Minister_of_Ukraine" title="Prime Minister of Ukraine">Ukraine</a></li>
+<li><a href="/wiki/Prime_Minister_of_the_United_Kingdom" title="Prime Minister of the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/President_of_the_Pontifical_Commission_for_Vatican_City_State" title="President of the Pontifical Commission for Vatican City State">Vatican City</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;line-height: 1.1em;">
+<div style="padding:0em 0.75em;">Partially recognised<sup>2</sup></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Prime_Minister_of_Abkhazia" title="Prime Minister of Abkhazia">Abkhazia</a><sup>1</sup></li>
+<li><a href="/wiki/Prime_Minister_of_Kosovo" title="Prime Minister of Kosovo">Kosovo</a></li>
+<li><a href="/wiki/Prime_Minister_of_Northern_Cyprus" title="Prime Minister of Northern Cyprus">Northern Cyprus</a><sup>1</sup></li>
+<li><a href="/wiki/Prime_Minister_of_South_Ossetia" title="Prime Minister of South Ossetia">South Ossetia</a><sup>1</sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;line-height: 1.1em;">
+<div style="padding:0em 0.75em;">Unrecognised states<sup>3</sup></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Prime_Minister_of_the_Nagorno-Karabakh_Republic" title="Prime Minister of the Nagorno-Karabakh Republic">Nagorno-Karabakh</a><sup>1</sup></li>
+<li><a href="/wiki/Prime_Minister_of_Transnistria" title="Prime Minister of Transnistria">Transnistria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="text-align:left;">
+<div>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ol>
+<li>Partially or entirely in Asia, depending on the definition of the Europe–Asia border.</li>
+<li>States recognised by at least one United Nations member.</li>
+<li>States not recognised by any United Nations members.</li>
+</ol>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Belarusian_elections" title="Template:Belarusian elections"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Belarusian_elections" title="Template talk:Belarusian elections"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Belarusian_elections&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><span class="flagicon"><a href="/wiki/Belarus" title="Belarus"><img alt="Belarus" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/35px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/46px-Flag_of_Belarus.svg.png 2x" data-file-width="900" data-file-height="450" /></a></span> <a href="/wiki/Elections_in_Belarus" title="Elections in Belarus">Elections and referendums in Belarus</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><strong class="selflink">Presidential elections</strong></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Belarusian_presidential_election,_1994" title="Belarusian presidential election, 1994">1994</a></li>
+<li><a href="/wiki/Belarusian_presidential_election,_2001" title="Belarusian presidential election, 2001">2001</a></li>
+<li><a href="/wiki/Belarusian_presidential_election,_2006" title="Belarusian presidential election, 2006">2006</a></li>
+<li><a href="/wiki/Belarusian_presidential_election,_2010" title="Belarusian presidential election, 2010">2010</a></li>
+<li><a href="/wiki/Belarusian_presidential_election,_2015" title="Belarusian presidential election, 2015">2015</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/National_Assembly_of_Belarus" title="National Assembly of Belarus">Parliamentary elections</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Belarusian_parliamentary_election,_1937&amp;action=edit&amp;redlink=1" class="new" title="Belarusian parliamentary election, 1937 (page does not exist)">1937</a></li>
+<li><a href="/wiki/Elections_to_the_People%27s_Assemblies_of_Western_Ukraine_and_Western_Belarus" title="Elections to the People's Assemblies of Western Ukraine and Western Belarus">1939 (West Belarus)</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1947&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1947 (page does not exist)">1947</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1951&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1951 (page does not exist)">1951</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1955&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1955 (page does not exist)">1955</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1959&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1959 (page does not exist)">1959</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1963&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1963 (page does not exist)">1963</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1967&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1967 (page does not exist)">1967</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1971&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1971 (page does not exist)">1971</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1975&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1975 (page does not exist)">1975</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1980&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1980 (page does not exist)">1980</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1985&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1985 (page does not exist)">1985</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1990&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1990 (page does not exist)">1990</a></li>
+<li><a href="/wiki/Belarusian_parliamentary_election,_1995" title="Belarusian parliamentary election, 1995">1995</a></li>
+<li><a href="/wiki/Belarusian_parliamentary_election,_2000" title="Belarusian parliamentary election, 2000">2000</a></li>
+<li><a href="/wiki/Belarusian_parliamentary_election,_2004" title="Belarusian parliamentary election, 2004">2004</a></li>
+<li><a href="/wiki/Belarusian_parliamentary_election,_2008" title="Belarusian parliamentary election, 2008">2008</a></li>
+<li><a href="/wiki/Belarusian_parliamentary_election,_2012" title="Belarusian parliamentary election, 2012">2012</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Referendums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Belarusian_referendum,_1995" title="Belarusian referendum, 1995">1995</a></li>
+<li><a href="/wiki/Belarusian_referendum,_1996" title="Belarusian referendum, 1996">1996</a></li>
+<li><a href="/wiki/Belarusian_referendum,_2004" title="Belarusian referendum, 2004">2004</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1197
+Cached time: 20151019203404
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.719 seconds
+Real time usage: 0.979 seconds
+Preprocessor visited node count: 5486/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 160125/2097152 bytes
+Template argument size: 24305/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 29/500
+Lua time usage: 0.183/10.000 seconds
+Lua memory usage: 3.78 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  760.061      1 - -total
+ 28.41%  215.946      1 - Template:Infobox_Political_post
+ 27.16%  206.457      1 - Template:Infobox
+ 23.86%  181.375     10 - Template:Navbox
+ 15.51%  117.910      1 - Template:Belarus_topics
+ 14.84%  112.799      5 - Template:Navbox_with_striping
+ 14.55%  110.595      1 - Template:Country_topics
+ 11.60%   88.136      4 - Template:Language_icon
+ 10.67%   81.064      1 - Template:Reflist
+  9.67%   73.516      7 - Template:Navbox_subgroup
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2631957-0!*!0!!en!4!* and timestamp 20151019203404 and revision id 686173329
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=President_of_Belarus&amp;oldid=686173329">https://en.wikipedia.org/w/index.php?title=President_of_Belarus&amp;oldid=686173329</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1994_establishments_in_Belarus" title="Category:1994 establishments in Belarus">1994 establishments in Belarus</a></li><li><a href="/wiki/Category:Government_of_Belarus" title="Category:Government of Belarus">Government of Belarus</a></li><li><a href="/wiki/Category:Heads_of_state" title="Category:Heads of state">Heads of state</a></li><li><a href="/wiki/Category:Presidents_of_Belarus" title="Category:Presidents of Belarus">Presidents of Belarus</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_Russian-language_external_links" title="Category:Articles with Russian-language external links">Articles with Russian-language external links</a></li><li><a href="/wiki/Category:Interlanguage_link_template_link_number" title="Category:Interlanguage link template link number">Interlanguage link template link number</a></li><li><a href="/wiki/Category:Articles_with_Belarusian-language_external_links" title="Category:Articles with Belarusian-language external links">Articles with Belarusian-language external links</a></li><li><a href="/wiki/Category:Articles_containing_Belarusian-language_text" title="Category:Articles containing Belarusian-language text">Articles containing Belarusian-language text</a></li><li><a href="/wiki/Category:Articles_containing_Russian-language_text" title="Category:Articles containing Russian-language text">Articles containing Russian-language text</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2014" title="Category:Articles containing potentially dated statements from 2014">Articles containing potentially dated statements from 2014</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=President+of+Belarus&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=President+of+Belarus" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/President_of_Belarus"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:President_of_Belarus"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/President_of_Belarus" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=President_of_Belarus&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=President_of_Belarus&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/President_of_Belarus" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/President_of_Belarus" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=President_of_Belarus&amp;oldid=686173329" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=President_of_Belarus&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1049659" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=President_of_Belarus&amp;id=686173329" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=President+of+Belarus">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=President+of+Belarus&amp;returnto=President+of+Belarus&amp;oldid=686173329&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=President_of_Belarus&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B1%D8%A6%D9%8A%D8%B3_%D8%A8%D9%8A%D9%84%D8%A7%D8%B1%D9%88%D8%B3%D9%8A%D8%A7" title="رئيس بيلاروسيا – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%9F%D1%80%D1%8D%D0%B7%D1%96%D0%B4%D1%8D%D0%BD%D1%82_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%96" title="Прэзідэнт Беларусі – Belarusian" lang="be" hreflang="be">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%9F%D1%80%D1%8D%D0%B7%D1%8B%D0%B4%D1%8D%D0%BD%D1%82_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%96" title="Прэзыдэнт Беларусі – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/President_de_Bielor%C3%BAssia" title="President de Bielorússia – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Liste_der_Pr%C3%A4sidenten_von_Wei%C3%9Frussland" title="Liste der Präsidenten von Weißrussland – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Presidente_de_Bielorrusia" title="Presidente de Bielorrusia – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B1%D8%A6%DB%8C%D8%B3_%D8%AC%D9%85%D9%87%D9%88%D8%B1_%D8%A8%D9%84%D8%A7%D8%B1%D9%88%D8%B3" title="رئیس جمهور بلاروس – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Pr%C3%A9sident_de_la_R%C3%A9publique_de_Bi%C3%A9lorussie" title="Président de la République de Biélorussie – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%B2%A8%EB%9D%BC%EB%A3%A8%EC%8A%A4%EC%9D%98_%EB%8C%80%ED%86%B5%EB%A0%B9" title="벨라루스의 대통령 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-io"><a href="//io.wikipedia.org/wiki/Listo_di_prezidanti_di_Bielorusia" title="Listo di prezidanti di Bielorusia – Ido" lang="io" hreflang="io">Ido</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A0%D7%A9%D7%99%D7%90_%D7%91%D7%9C%D7%90%D7%A8%D7%95%D7%A1" title="נשיא בלארוס – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%91%E1%83%94%E1%83%9A%E1%83%90%E1%83%A0%E1%83%A3%E1%83%A1%E1%83%98%E1%83%A1_%E1%83%9E%E1%83%A0%E1%83%94%E1%83%96%E1%83%98%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%98" title="ბელარუსის პრეზიდენტი – Georgian" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Baltarusijos_prezidentai" title="Baltarusijos prezidentai – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-xmf"><a href="//xmf.wikipedia.org/wiki/%E1%83%91%E1%83%94%E1%83%9A%E1%83%90%E1%83%A0%E1%83%A3%E1%83%A1%E1%83%98%E1%83%A8_%E1%83%9E%E1%83%A0%E1%83%94%E1%83%96%E1%83%98%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%98" title="ბელარუსიშ პრეზიდენტი – Mingrelian" lang="xmf" hreflang="xmf">მარგალური</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%99%E3%83%A9%E3%83%AB%E3%83%BC%E3%82%B7%E3%81%AE%E5%A4%A7%E7%B5%B1%E9%A0%98" title="ベラルーシの大統領 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Presidente_da_Bielorr%C3%BAssia" title="Presidente da Bielorrússia – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C" title="Президент Республики Беларусь – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/President_of_Belarus" title="President of Belarus – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%98%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA_%D0%A0%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B5_%D0%91%D1%98%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D0%B8%D1%98%D0%B5" title="Предсједник Републике Бјелорусије – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Valko-Ven%C3%A4j%C3%A4n_presidentti" title="Valko-Venäjän presidentti – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D1%96%D0%BA%D0%B8_%D0%91%D1%96%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%8C" title="Президент Республіки Білорусь – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F" title="白俄罗斯总统 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1049659#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 17 October 2015, at 13:48.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=President_of_Belarus&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1237"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

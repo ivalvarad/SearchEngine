@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Arranged marriage - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Arranged_marriage","wgTitle":"Arranged marriage","wgCurRevisionId":686456141,"wgRevisionId":686456141,"wgArticleId":26503411,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with local link same as on Wikidata","Arranged marriage","Matchmaking"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Arranged_marriage","wgRelevantArticleId":26503411,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/9/92/V.V.Pukirev_-_The_Arranged_Marriage.jpg/77px-V.V.Pukirev_-_The_Arranged_Marriage.jpg","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1923231","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Arranged_marriage" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Arranged_marriage&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Arranged_marriage&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Arranged_marriage" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Arranged_marriage skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Arranged marriage</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:262px;"><a href="/wiki/File:V.V.Pukirev_-_The_Arranged_Marriage.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/V.V.Pukirev_-_The_Arranged_Marriage.jpg/260px-V.V.Pukirev_-_The_Arranged_Marriage.jpg" width="260" height="335" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/V.V.Pukirev_-_The_Arranged_Marriage.jpg/390px-V.V.Pukirev_-_The_Arranged_Marriage.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/V.V.Pukirev_-_The_Arranged_Marriage.jpg/520px-V.V.Pukirev_-_The_Arranged_Marriage.jpg 2x" data-file-width="1011" data-file-height="1304" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:V.V.Pukirev_-_The_Arranged_Marriage.jpg" class="internal" title="Enlarge"></a></div>
+Unequal marriage, a 19th-century painting by Russian artist <a href="/wiki/Pukirev" title="Pukirev" class="mw-redirect">Pukirev</a>. It depicts an arranged marriage where a young girl is forced to marry someone she doesn't want to.</div>
+</div>
+</div>
+<p><b>Arranged marriage</b> is a type of marital union where the bride and groom are selected by a third party rather than by each other.<sup id="cite_ref-jo2008_1-0" class="reference"><a href="#cite_note-jo2008-1"><span>[</span>1<span>]</span></a></sup> It was common worldwide until the 18th century.<sup id="cite_ref-jo2008_1-1" class="reference"><a href="#cite_note-jo2008-1"><span>[</span>1<span>]</span></a></sup> In more recent times, arranged marriage is common in <a href="/wiki/South_Asia" title="South Asia">South Asia</a>, <a href="/wiki/Africa" title="Africa">Africa</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Voluntarism_and_Marriage_3-0" class="reference"><a href="#cite_note-Voluntarism_and_Marriage-3"><span>[</span>3<span>]</span></a></sup> the <a href="/wiki/Middle_East" title="Middle East">Middle East</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-Somervill.2C_Barbara_2007_page_41-43_5-0" class="reference"><a href="#cite_note-Somervill.2C_Barbara_2007_page_41-43-5"><span>[</span>5<span>]</span></a></sup> <a href="/wiki/Latin_America" title="Latin America">Latin America</a>,<sup id="cite_ref-Voluntarism_and_Marriage_3-1" class="reference"><a href="#cite_note-Voluntarism_and_Marriage-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> and parts of <a href="/wiki/East_Asia" title="East Asia">East Asia</a>;<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> elsewhere in developed countries, arranged marriage has continued in some <a href="/wiki/Monarchy" title="Monarchy">royal</a> families,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> parts of <a href="/wiki/Japan" title="Japan">Japan</a>,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> among immigrant and minority ethnic groups.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> Other groups that practice this custom include the <a href="/wiki/Unification_Church" title="Unification Church">Unification Church</a>.</p>
+<p>Arranged marriage should not be confused with the practice of <a href="/wiki/Forced_marriage" title="Forced marriage">forced marriage</a> such as <a href="/wiki/Vani_(custom)" title="Vani (custom)"><i>vani</i></a>. In an arranged marriage, while the meeting of the spouses is arranged by family members, relatives or friends, the spouses agree of their own free will to marry. By contrast, in a forced marriage, one or both spouses are coerced into the marriage - the union takes place without their freely given consent (under duress, threats, psychological pressure etc.).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>Arranged marriage differs from <i>autonomous marriage</i> - called <i>love marriage</i> in some parts of the world - where the individuals find and select their own spouses; arranged marriages, in contrast, are usually set up by the parents or an older family member. In some cases, arranged marriage involves a <a href="/wiki/Matchmaking" title="Matchmaking">matchmaker</a> such as priest or religious leader, <a href="/wiki/Marriage_websites" title="Marriage websites" class="mw-redirect">matrimonial site</a>, mutual friends or a trusted third party.</p>
+<p>Arranged marriages vary in nature and in how much time passes between first introduction and <a href="/wiki/Engagement" title="Engagement">engagement</a>. In an "introduction only" arranged marriage, also known as quasi-arranged<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> marriages or assisted<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> marriages, the parents or guardians introduce a potential spouse. From that point on, it is up to the two individuals to develop the relationship and make a final choice. There is no set time period. This is increasingly common in Japan, parts of Latin America and Africa, South Asia and East Asia.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Comparison"><span class="tocnumber">2</span> <span class="toctext">Comparison</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Types"><span class="tocnumber">2.1</span> <span class="toctext">Types</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Causes_and_prevalence_of_arranged_marriage"><span class="tocnumber">3</span> <span class="toctext">Causes and prevalence of arranged marriage</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Child_marriage"><span class="tocnumber">3.1</span> <span class="toctext">Child marriage</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Poverty"><span class="tocnumber">3.2</span> <span class="toctext">Poverty</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Late_marriage"><span class="tocnumber">3.3</span> <span class="toctext">Late marriage</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Limited_choices"><span class="tocnumber">3.4</span> <span class="toctext">Limited choices</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Physical_disabilities"><span class="tocnumber">3.5</span> <span class="toctext">Physical disabilities</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Tradition"><span class="tocnumber">3.6</span> <span class="toctext">Tradition</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Custom"><span class="tocnumber">3.7</span> <span class="toctext">Custom</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Politics"><span class="tocnumber">3.8</span> <span class="toctext">Politics</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Wealth_and_inheritance_issues"><span class="tocnumber">3.9</span> <span class="toctext">Wealth and inheritance issues</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Bride-wealth"><span class="tocnumber">3.10</span> <span class="toctext">Bride-wealth</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Religion"><span class="tocnumber">3.11</span> <span class="toctext">Religion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Controversy"><span class="tocnumber">4</span> <span class="toctext">Controversy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Sham_marriages"><span class="tocnumber">4.1</span> <span class="toctext">Sham marriages</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Arranged_marriages_and_human_rights"><span class="tocnumber">4.2</span> <span class="toctext">Arranged marriages and human rights</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Stability"><span class="tocnumber">4.3</span> <span class="toctext">Stability</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Love_and_respect_in_arranged_versus_autonomous_marital_life"><span class="tocnumber">4.4</span> <span class="toctext">Love and respect in arranged versus autonomous marital life</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Arranged marriages were very common throughout the world until the 18th century.<sup id="cite_ref-jo2008_1-2" class="reference"><a href="#cite_note-jo2008-1"><span>[</span>1<span>]</span></a></sup> Typically, marriages everywhere were arranged by parents, grandparents or other relatives. Some historical exceptions are known, such as courtship and betrothal rituals during Renaissance period of Italy<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> and <a href="/wiki/Gandharva_marriage" title="Gandharva marriage">Gandharva marriages</a> in Vedic period of India.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<p>In China, arranged marriages (baoban hunyin, 包辦婚姻) - sometimes called blind marriages (manghun, 盲婚) - were the norm before the mid 20th century. A marriage was a negotiation and decision between parents and other older members of two families. The boy and girl, were typically told to get married, without a right to consent, even if they had never met each other until the wedding day.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p>
+<p>Arranged marriages were the norm in Russia before the early 20th century, most of which were <a href="/wiki/Endogamous" title="Endogamous" class="mw-redirect">endogamous</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></p>
+<p>Until the first half of the 20th century, arranged marriages were common in migrant families in the United States.<sup id="cite_ref-rs_22-0" class="reference"><a href="#cite_note-rs-22"><span>[</span>22<span>]</span></a></sup> They were sometimes called <i>picture-bride marriages</i> among Japanese American immigrants because the bride and groom knew each other only through the exchange of photographs before the day of their marriage. These marriages among immigrants were typically arranged by parents, or relatives from the country of their origin. As immigrants settled in and melted into a new culture, arranged marriages shifted first to quasi-arranged marriages where parents or friends made introductions and the couple met before the marriage; over time, the marriages among the descendants of these immigrants shifted to autonomous marriages driven by individual's choice, dating and courtship preferences, along with an increase in interracial marriages.<sup id="cite_ref-rs_22-1" class="reference"><a href="#cite_note-rs-22"><span>[</span>22<span>]</span></a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup> Similar historical dynamics are claimed in other parts of the world.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></p>
+<p>Arranged marriages have declined in prosperous countries with social mobility, ascendancy of individualism and the nuclear family; nevertheless, arranged marriages are still seen in countries of Europe and North America, among royal families, aristocrats and minority religious groups such as in <a href="/wiki/Placement_marriage" title="Placement marriage">placement marriage</a> among Fundamentalist Mormon groups of the United States. In most other parts of the world, arranged marriages continue to varying degrees and increasingly in quasi-arranged form, along with autonomous marriages.<sup id="cite_ref-jo2008_1-3" class="reference"><a href="#cite_note-jo2008-1"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Comparison">Comparison</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=2" title="Edit section: Comparison">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:The_Ambitious_Mother_and_the_Obliging_Clergyman.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/The_Ambitious_Mother_and_the_Obliging_Clergyman.jpg/250px-The_Ambitious_Mother_and_the_Obliging_Clergyman.jpg" width="250" height="174" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/The_Ambitious_Mother_and_the_Obliging_Clergyman.jpg/375px-The_Ambitious_Mother_and_the_Obliging_Clergyman.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/The_Ambitious_Mother_and_the_Obliging_Clergyman.jpg/500px-The_Ambitious_Mother_and_the_Obliging_Clergyman.jpg 2x" data-file-width="640" data-file-height="445" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:The_Ambitious_Mother_and_the_Obliging_Clergyman.jpg" class="internal" title="Enlarge"></a></div>
+The Ambitious Mother and the Obliging Clergyman - a cartoon by <a href="/wiki/Charles_Dana_Gibson" title="Charles Dana Gibson">Charles Dana Gibson</a> caricaturing arranged marriages in early 20th century United States. A parent insists their daughter marry a man on grounds of wealth or aristocratic title, without considering the girl's wishes. The clergyman is caricatured officiating the marriage with a blindfold.</div>
+</div>
+</div>
+<p>Marriages have been categorized into four groups in scholarly studies:<sup id="cite_ref-jo2008_1-4" class="reference"><a href="#cite_note-jo2008-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></p>
+<ul>
+<li>parents or guardians select, the individuals are neither consulted nor have any say before the marriage (forced arranged marriage)</li>
+<li>parents or guardians select, then the individuals are consulted, who consider and consent, and each individual has the power to refuse; sometimes, the individuals meet - in family setting or privately - before engagement and marriage as in <i><a href="/wiki/Shidduch" title="Shidduch">shidduch</a></i> custom among Orthodox Jews</li>
+<li>individuals select, then parents or guardians are consulted, who consider and consent, and parents have the power to refuse</li>
+<li>individuals select, the parents or guardians are neither consulted nor have any say before the marriage (autonomous marriage)</li>
+</ul>
+<p>Gary Lee and Lorene Stone suggest that most adult marriages in recent modern history, are some gradation between extreme example of either ideal arranged or ideal autonomous marriage, in part because marriage is a social institution.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup> Similarly, Broude and Greene, after studying 142 cultures worldwide, have reported that 130 cultures have elements of arranged marriage.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup></p>
+<p>Extreme examples of forced arranged marriage have been observed in some societies, particularly in child marriages of girls below age 12. Illustrations include <a href="/wiki/Vani_(custom)" title="Vani (custom)"><i>vani</i></a> which is currently seen in some tribal / rural parts of Pakistan, and <a href="/wiki/Shim-pua_marriage" title="Shim-pua marriage">Shim-pua marriage</a> in Taiwan before the 1970s (Tongyangxi in China).</p>
+<h3><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=3" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are many kinds of arranged marriages, some of these are:<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup></p>
+<ul>
+<li>Arranged exogamous marriage: is one where a third party finds and selects the bride and groom irrespective of their social, economic and cultural group.</li>
+<li>Arranged endogamous marriage: is one where a third party finds and selects the bride and groom from a particular social, economic and cultural group.</li>
+<li><a href="/wiki/Consanguinity" title="Consanguinity">Consanguineous</a> marriage: is a type of arranged endogamous marriage.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup> It is one where the bride and groom share a grandparent or near ancestor. Examples of these include first cousin marriages, uncle-niece marriages, second cousin marriages, and so on. The most common consanguineous marriages are first cousin marriages, followed by second cousin and uncle-niece marriages. This type of arranged marriages are most common in Muslim communities of the world. Between 25 to 40% of all marriages in parts of Saudi Arabia and Pakistan are first cousin marriages; while overall consanguineous arranged marriages exceed 65 to 80% in various regions of the Middle East, North Africa and Islamic Central Asia.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup><sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup></li>
+</ul>
+<p>The bride and groom in all of the above types of arranged marriages, usually do have the right to consent; if the bride or the groom or both do not have a right to consent, it is called a forced marriage.</p>
+<p>Non-consanguineous arranged marriage is one where the bride and groom do not share a grandparent or near ancestor. This type of arranged marriages is common in Hindu and Buddhist South Asia, Southeast Asia, East Asia and Christian Latin America and sub-Saharan Africa.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></p>
+<p>Consanguineous marriages are against the law in many parts of United States and Europe.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup> While consanguineous arranged marriages are common and culturally preferred in Islamic countries and migrants from Muslim countries to other parts of the world, they are culturally forbidden or considered undesirable in most Christian, Hindu and Buddhist societies.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup> Consanguineous arranged marriages were common in Jewish communities before the 20th century, but have declined to less than 10% in modern times.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup><sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>40<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Causes_and_prevalence_of_arranged_marriage">Causes and prevalence of arranged marriage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=4" title="Edit section: Causes and prevalence of arranged marriage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Over human history through modern times, the practice of arranged marriages have been encouraged by a combination of factors such as the practice of child marriage,<sup id="cite_ref-Child_Marriages_41-0" class="reference"><a href="#cite_note-Child_Marriages-41"><span>[</span>41<span>]</span></a></sup> late marriage, tradition,<sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>42<span>]</span></a></sup><sup id="cite_ref-43" class="reference"><a href="#cite_note-43"><span>[</span>43<span>]</span></a></sup> culture, religion, poverty and limited choice, disabilities,<sup id="cite_ref-Ghai.2C_A._2001_pages_26-37_44-0" class="reference"><a href="#cite_note-Ghai.2C_A._2001_pages_26-37-44"><span>[</span>44<span>]</span></a></sup> wealth and inheritance issues, politics, social and ethnic conflicts.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45"><span>[</span>45<span>]</span></a></sup><sup id="cite_ref-46" class="reference"><a href="#cite_note-46"><span>[</span>46<span>]</span></a></sup><sup id="cite_ref-47" class="reference"><a href="#cite_note-47"><span>[</span>47<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Child_marriage">Child marriage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=5" title="Edit section: Child marriage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Marriage_A-la-Mode_1,_The_Marriage_Settlement_-_William_Hogarth.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Marriage_A-la-Mode_1%2C_The_Marriage_Settlement_-_William_Hogarth.jpg/250px-Marriage_A-la-Mode_1%2C_The_Marriage_Settlement_-_William_Hogarth.jpg" width="250" height="190" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Marriage_A-la-Mode_1%2C_The_Marriage_Settlement_-_William_Hogarth.jpg/375px-Marriage_A-la-Mode_1%2C_The_Marriage_Settlement_-_William_Hogarth.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Marriage_A-la-Mode_1%2C_The_Marriage_Settlement_-_William_Hogarth.jpg/500px-Marriage_A-la-Mode_1%2C_The_Marriage_Settlement_-_William_Hogarth.jpg 2x" data-file-width="5557" data-file-height="4225" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Marriage_A-la-Mode_1,_The_Marriage_Settlement_-_William_Hogarth.jpg" class="internal" title="Enlarge"></a></div>
+"<a href="/wiki/Marriage_%C3%A0-la-mode_(Hogarth)" title="Marriage à-la-mode (Hogarth)">Marriage à-la-mode</a>" by <a href="/wiki/William_Hogarth" title="William Hogarth">William Hogarth</a>: a satire on arranged marriages and prediction of ensuing disaster</div>
+</div>
+</div>
+<p>Child marriage, particularly those below the age of 12, does not prepare or provide the individual much opportunity to make an informed, free choice about matrimony. These child marriages are implicitly arranged marriages.<sup id="cite_ref-48" class="reference"><a href="#cite_note-48"><span>[</span>48<span>]</span></a></sup> In rural areas of sub-Saharan Africa, South Asia and Latin America, poverty and lack of options such as being able to attend school leave little choice to children other than be in early arranged marriages.<sup id="cite_ref-Child_Marriages_41-1" class="reference"><a href="#cite_note-Child_Marriages-41"><span>[</span>41<span>]</span></a></sup></p>
+<p>According to Warner, in nations with the highest rates of child marriages, the marriage of the girl is almost always arranged by her parents or guardians.<sup id="cite_ref-49" class="reference"><a href="#cite_note-49"><span>[</span>49<span>]</span></a></sup> The nations with the highest rates of arranged child marriages are: Niger, Chad, Mali, Bangladesh, Guinea, Central African Republic, Afghanistan, Yemen, and Pakistan. Arranged child marriages are also observed in parts of the Americas.<sup id="cite_ref-50" class="reference"><a href="#cite_note-50"><span>[</span>50<span>]</span></a></sup><sup id="cite_ref-51" class="reference"><a href="#cite_note-51"><span>[</span>51<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Poverty">Poverty</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=6" title="Edit section: Poverty">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In impoverished communities, every adult mouth to feed becomes a continuing burden. Arranging a marriage of a daughter, scholars say,<sup id="cite_ref-52" class="reference"><a href="#cite_note-52"><span>[</span>52<span>]</span></a></sup> is a means to reduce this burden. Poverty, thus, is a driver of arranged marriage.</p>
+<p>This theory,<sup id="cite_ref-53" class="reference"><a href="#cite_note-53"><span>[</span>53<span>]</span></a></sup><sup id="cite_ref-54" class="reference"><a href="#cite_note-54"><span>[</span>54<span>]</span></a></sup> is supported by the observed rapid drop in arranged marriages in fast growing economies of Asia. The benefit parents received from the contributions from their earning single daughters has been cited<sup id="cite_ref-55" class="reference"><a href="#cite_note-55"><span>[</span>55<span>]</span></a></sup> as a reason for their growing reluctance to see their daughters marry at too early an age.</p>
+<h3><span class="mw-headline" id="Late_marriage">Late marriage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=7" title="Edit section: Late marriage">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Late marriage, particularly past the age of 30, reduces the pool of available bachelors for autonomous marriages. Introductions and arranged marriages become a productive option.<sup id="cite_ref-56" class="reference"><a href="#cite_note-56"><span>[</span>56<span>]</span></a></sup></p>
+<p>For example, in part due to economic prosperity, about 40% of modern Japanese women reach the age of 29 and have never been married. To assist late marriages, the traditional custom of arranged marriages called <a href="/wiki/Miai" title="Miai">Miai-kekkon</a> is re-emerging. It involves the prospective bride and groom, family, friends and a matchmaker (nakōdo, 仲人); the pair is selected by a process with the individuals and family involved (iegara, 家柄); and typically the couple meet three times, in public or private, before deciding if they want to get engaged.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57"><span>[</span>57<span>]</span></a></sup><sup id="cite_ref-58" class="reference"><a href="#cite_note-58"><span>[</span>58<span>]</span></a></sup><sup id="cite_ref-hendry_59-0" class="reference"><a href="#cite_note-hendry-59"><span>[</span>59<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Limited_choices">Limited choices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=8" title="Edit section: Limited choices">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Migrant minority ethnic populations have limited choice of partners, particularly when they are stereotyped, segregated or avoided by the majority population. This encourages <a href="/wiki/Homogamy_(sociology)" title="Homogamy (sociology)">homogamy</a> and arranged marriages within the ethnic group. Examples of this dynamic include Sikh marriages between 1910 to 1980 in Canada,<sup id="cite_ref-60" class="reference"><a href="#cite_note-60"><span>[</span>60<span>]</span></a></sup> homogamous quasi-arranged marriages between European descent South Africans,<sup id="cite_ref-61" class="reference"><a href="#cite_note-61"><span>[</span>61<span>]</span></a></sup> arranged marriages among Hasidic Jews,<sup id="cite_ref-62" class="reference"><a href="#cite_note-62"><span>[</span>62<span>]</span></a></sup><sup id="cite_ref-63" class="reference"><a href="#cite_note-63"><span>[</span>63<span>]</span></a></sup> and arranged marriages among Japanese American immigrants before the 1960s, who would travel back to Japan, to marry the spouse arranged by the family, and then return married. In other cases, a girl from Japan would arrive in the United States as a <i>picture bride</i>, pre-arranged to marry the Japanese American man on arrival, whom she had never met.<sup id="cite_ref-64" class="reference"><a href="#cite_note-64"><span>[</span>64<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Physical_disabilities">Physical disabilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=9" title="Edit section: Physical disabilities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Certain physical disabilities increase the likelihood of arranged, even forced marriages in some parts of the world.<sup id="cite_ref-Ghai.2C_A._2001_pages_26-37_44-1" class="reference"><a href="#cite_note-Ghai.2C_A._2001_pages_26-37-44"><span>[</span>44<span>]</span></a></sup><sup id="cite_ref-65" class="reference"><a href="#cite_note-65"><span>[</span>65<span>]</span></a></sup> Okonjo says that a physical disability in a bride, and even more so, a groom is one of the reasons for early arranged marriages in Nigeria.<sup id="cite_ref-66" class="reference"><a href="#cite_note-66"><span>[</span>66<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Tradition">Tradition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=10" title="Edit section: Tradition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Many cultures traditionally seek endogamous marriages. A prominent example of this practice is the <a href="/wiki/Hindu" title="Hindu">Hindu</a> culture where the bride and groom belong to the same caste, but are non-consanguineous, that is the bride and groom are not blood relatives nor extended family members. Other examples of cultures following the endogamous arranged marriage tradition include <a href="/wiki/Amish" title="Amish">Amish</a> people in United States,<sup id="cite_ref-67" class="reference"><a href="#cite_note-67"><span>[</span>67<span>]</span></a></sup><sup id="cite_ref-68" class="reference"><a href="#cite_note-68"><span>[</span>68<span>]</span></a></sup> <a href="/wiki/Orthodox_Judaism" title="Orthodox Judaism">Orthodox</a> Jews in Canada, the United States, Israel, and Western Europe,<sup id="cite_ref-69" class="reference"><a href="#cite_note-69"><span>[</span>69<span>]</span></a></sup><sup id="cite_ref-70" class="reference"><a href="#cite_note-70"><span>[</span>70<span>]</span></a></sup> <a href="/wiki/Arab_Christians" title="Arab Christians">Arab Christians</a><sup id="cite_ref-71" class="reference"><a href="#cite_note-71"><span>[</span>71<span>]</span></a></sup> such as <a href="/wiki/Coptic_Christians" title="Coptic Christians" class="mw-redirect">Coptic Christians</a> in Egypt.<sup id="cite_ref-Somervill.2C_Barbara_2007_page_41-43_5-1" class="reference"><a href="#cite_note-Somervill.2C_Barbara_2007_page_41-43-5"><span>[</span>5<span>]</span></a></sup> Arranged marriage is also the tradition of many Islamic nations of West Asia and North Africa, but with the difference that between 17% to majority of all marriages in these countries are also consanguineous marriages.<sup id="cite_ref-72" class="reference"><a href="#cite_note-72"><span>[</span>72<span>]</span></a></sup><sup id="cite_ref-73" class="reference"><a href="#cite_note-73"><span>[</span>73<span>]</span></a></sup><sup id="cite_ref-74" class="reference"><a href="#cite_note-74"><span>[</span>74<span>]</span></a></sup><sup id="cite_ref-75" class="reference"><a href="#cite_note-75"><span>[</span>75<span>]</span></a></sup></p>
+<p>Endogamous non-consanguineous marriages limit the number of potential partners available, particularly when population size for the religion or caste or group is small; a limited marriagable pool makes locating potential partners challenging, and encourages arranged or quasi-arranged marriages.<sup id="cite_ref-76" class="reference"><a href="#cite_note-76"><span>[</span>76<span>]</span></a></sup><sup id="cite_ref-77" class="reference"><a href="#cite_note-77"><span>[</span>77<span>]</span></a></sup></p>
+<p>The practice of endogamous consanguineous marriage, dramatically limits the marriagable pool; it inherently encourages marriages arranged according to tradition and birth. Over 1.3 billion people, predominantly of Islamic faith practice endogamous consanguineous arranged marriages.<sup id="cite_ref-hamamy_78-0" class="reference"><a href="#cite_note-hamamy-78"><span>[</span>78<span>]</span></a></sup><sup id="cite_ref-79" class="reference"><a href="#cite_note-79"><span>[</span>79<span>]</span></a></sup> Consanguineous arranged marriages are presently also observed, though to a much lesser extent, in some ethnic groups of Africa, India, Indonesia, Polynesia and South America.<sup id="cite_ref-80" class="reference"><a href="#cite_note-80"><span>[</span>80<span>]</span></a></sup> In Pakistan and Saudi Arabia, majority (65%+) of all marriages are endogamous and consanguineous arranged marriages. More than 40% of all marriages are endogamous and consanguineous in Iraq, Iran, Jordan, Syria, Yemen, Kuwait, UAE, Oman, Sudan, Libya and Mauritania; and over 1 in 5 marriages in Turkey, Egypt, Algeria, regions of Nigeria, India and Malaysia with high Muslim populations are endogamous and consanguineous arranged marriages.<sup id="cite_ref-hamamy_78-1" class="reference"><a href="#cite_note-hamamy-78"><span>[</span>78<span>]</span></a></sup><sup id="cite_ref-81" class="reference"><a href="#cite_note-81"><span>[</span>81<span>]</span></a></sup> Among these Islamic populations, arranged marriages include endogamous and non-consanguineous marriages, and therefore exceed the above observed rates of endogamous and consanguineous marriages.</p>
+<h3><span class="mw-headline" id="Custom">Custom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=11" title="Edit section: Custom">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The consequence of some customs is arranged marriage. For example, in rural and tribal parts of Pakistan and Afghanistan, disputes, unpaid debts in default and crimes such as murder are settled by a council of village elders, called <i>jirga</i>.<sup id="cite_ref-nyt2012_82-0" class="reference"><a href="#cite_note-nyt2012-82"><span>[</span>82<span>]</span></a></sup> A typical punishment for a crime committed by males involves requiring the guilty family to marry their virgin girl between 5 to 12 year old to the other family. This custom requires no consent from the girl, or even her parents. Such arranged child marriages are called <a href="/wiki/Vani_(custom)" title="Vani (custom)">vani (custom)</a>, swara and sak in different regional languages of Pakistan.<sup id="cite_ref-83" class="reference"><a href="#cite_note-83"><span>[</span>83<span>]</span></a></sup><sup id="cite_ref-hk2004_84-0" class="reference"><a href="#cite_note-hk2004-84"><span>[</span>84<span>]</span></a></sup><sup id="cite_ref-85" class="reference"><a href="#cite_note-85"><span>[</span>85<span>]</span></a></sup></p>
+<p>Another custom in certain Islamic nations,<sup id="cite_ref-86" class="reference"><a href="#cite_note-86"><span>[</span>86<span>]</span></a></sup><sup id="cite_ref-87" class="reference"><a href="#cite_note-87"><span>[</span>87<span>]</span></a></sup> such as Pakistan, is <a href="/wiki/Watta_satta" title="Watta satta">watta satta</a>, where brother-sister pair of one family are swapped as spouses of brother-sister pair of another family. In other words, the wife is also the sister-in-law for the males in two families. This custom inherently leads to arranged form of marriage. About 30% of all marriages in western rural regions of Pakistan are by custom <i>watta-satta</i> marriages, and 75% of these Muslim marriages are between cousins and other blood relatives.<sup id="cite_ref-wb2007_88-0" class="reference"><a href="#cite_note-wb2007-88"><span>[</span>88<span>]</span></a></sup><sup id="cite_ref-89" class="reference"><a href="#cite_note-89"><span>[</span>89<span>]</span></a></sup><sup id="cite_ref-90" class="reference"><a href="#cite_note-90"><span>[</span>90<span>]</span></a></sup> Some immigrant families prefer customary practice of arranged marriage.<sup id="cite_ref-91" class="reference"><a href="#cite_note-91"><span>[</span>91<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=12" title="Edit section: Politics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Mariage_du_duc_de_Bourgogne_le_7_d%C3%A9cembre_1697,_tableau_d%27Antoine_Dieu._Versailles.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mariage_du_duc_de_Bourgogne_le_7_d%C3%A9cembre_1697%2C_tableau_d%27Antoine_Dieu._Versailles.jpg/250px-Mariage_du_duc_de_Bourgogne_le_7_d%C3%A9cembre_1697%2C_tableau_d%27Antoine_Dieu._Versailles.jpg" width="250" height="159" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mariage_du_duc_de_Bourgogne_le_7_d%C3%A9cembre_1697%2C_tableau_d%27Antoine_Dieu._Versailles.jpg/375px-Mariage_du_duc_de_Bourgogne_le_7_d%C3%A9cembre_1697%2C_tableau_d%27Antoine_Dieu._Versailles.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mariage_du_duc_de_Bourgogne_le_7_d%C3%A9cembre_1697%2C_tableau_d%27Antoine_Dieu._Versailles.jpg/500px-Mariage_du_duc_de_Bourgogne_le_7_d%C3%A9cembre_1697%2C_tableau_d%27Antoine_Dieu._Versailles.jpg 2x" data-file-width="750" data-file-height="478" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Mariage_du_duc_de_Bourgogne_le_7_d%C3%A9cembre_1697,_tableau_d%27Antoine_Dieu._Versailles.jpg" class="internal" title="Enlarge"></a></div>
+The arranged marriage in 1697, of <a href="/wiki/Marie_Ad%C3%A9la%C3%AFde_of_Savoy" title="Marie Adélaïde of Savoy">Marie Adélaïde of Savoy</a>, age 12 to <a href="/wiki/Louis,_Duke_of_Burgundy" title="Louis, Duke of Burgundy">Louis, Duke of Burgundy</a>, heir apparent to the throne of France, as a result of the <a href="/wiki/Treaty_of_Turin_(1696)" title="Treaty of Turin (1696)">Treaty of Turin (1696)</a>. The marriage created an alliance between <a href="/wiki/Louis_XIV" title="Louis XIV" class="mw-redirect">Louis XIV</a> of France and the <a href="/wiki/Victor_Amadeus_I_of_Sardinia" title="Victor Amadeus I of Sardinia" class="mw-redirect">Duke of Savoy</a>.</div>
+</div>
+</div>
+<p>Arranged marriages across feudal lords, city states and kingdoms, as a means of establishing political alliances, trade and peace were common in human history.<sup id="cite_ref-hendry_59-1" class="reference"><a href="#cite_note-hendry-59"><span>[</span>59<span>]</span></a></sup><sup id="cite_ref-92" class="reference"><a href="#cite_note-92"><span>[</span>92<span>]</span></a></sup><sup id="cite_ref-93" class="reference"><a href="#cite_note-93"><span>[</span>93<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Wealth_and_inheritance_issues">Wealth and inheritance issues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=13" title="Edit section: Wealth and inheritance issues">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Throughout most of human history, marriage has been a social institution that produced children and organized inheritance of property from one generation to next. Various cultures, particularly some wealthy royals and aristocratic families, arranged marriages in part to conserve or streamline the inheritance of their wealth.<sup id="cite_ref-94" class="reference"><a href="#cite_note-94"><span>[</span>94<span>]</span></a></sup></p>
+<p>Tongyangxi, also known as <a href="/wiki/Shim-pua_marriage" title="Shim-pua marriage">Shim-pua marriage</a> in Taiwanese - literally child or little daughter-in-law - was a tradition of arranged marriage, in which a poor family would arrange and marry a pre-adolescent daughter into a richer family as a servant.<sup id="cite_ref-95" class="reference"><a href="#cite_note-95"><span>[</span>95<span>]</span></a></sup> The little girl provided slave-like free labour, and also the daughter-in-law to the adoptive family's son. This sort of arranged marriage, in theory, enabled the girl to escape poverty and wealthy family to get free labour and a daughter-in-law. Zhaozhui was a related custom by which a wealthy family that lacked an heir would arrange marriage of a boy child from another family. The boy would move in with the wealthy family, take on the surname of the new family, and marry the family's daughter. Such arranged marriages helped maintain inheritance bloodlines.<sup id="cite_ref-lyj_96-0" class="reference"><a href="#cite_note-lyj-96"><span>[</span>96<span>]</span></a></sup> Similar uxorilocal arranged marriages to preserve wealth inheritance were common in Korea, Japan and other parts of the world.<sup id="cite_ref-97" class="reference"><a href="#cite_note-97"><span>[</span>97<span>]</span></a></sup><sup id="cite_ref-98" class="reference"><a href="#cite_note-98"><span>[</span>98<span>]</span></a></sup><sup id="cite_ref-99" class="reference"><a href="#cite_note-99"><span>[</span>99<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Bride-wealth">Bride-wealth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=14" title="Edit section: Bride-wealth">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In many cultures, particularly in parts of Africa and the Middle East, daughters are valuable on the marriage market, because the groom and his family must pay cash and property for the right to marry the daughter. This is termed as bride-wealth and locally, by various names such as Lobola and Wine Carrying.<sup id="cite_ref-100" class="reference"><a href="#cite_note-100"><span>[</span>100<span>]</span></a></sup><sup id="cite_ref-101" class="reference"><a href="#cite_note-101"><span>[</span>101<span>]</span></a></sup> The bride-wealth is typically kept by the bride's family, after the marriage, and is a source of income to poor families. The brothers, father and male relatives of the bride typically take keen interest in arranging her marriage to a man who is willing to pay the most wealth in exchange for the right to marry her.<sup id="cite_ref-102" class="reference"><a href="#cite_note-102"><span>[</span>102<span>]</span></a></sup><sup id="cite_ref-103" class="reference"><a href="#cite_note-103"><span>[</span>103<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=15" title="Edit section: Religion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some religious dominations recognize marriages only within the faith. Of the major religions of the world, only Islam forbids marriage of girls born to a devout parent to a man who does not belong to that religion. In other words, Islam forbids marriage of Muslim girls to non-Muslim men,<sup id="cite_ref-104" class="reference"><a href="#cite_note-104"><span>[</span>104<span>]</span></a></sup> and the religious punishment for those who marry outside might be severe.<sup id="cite_ref-105" class="reference"><a href="#cite_note-105"><span>[</span>105<span>]</span></a></sup> This is one of the motivations of arranged marriages in Islamic minority populations in Europe.<sup id="cite_ref-106" class="reference"><a href="#cite_note-106"><span>[</span>106<span>]</span></a></sup><sup id="cite_ref-107" class="reference"><a href="#cite_note-107"><span>[</span>107<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Controversy">Controversy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=16" title="Edit section: Controversy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Arranged marriages are actively debated between scholars. The questions debated include whether arranged marriages are being used to abuse international immigration system; whether arranged marriages inherently violate human rights, particularly women's rights;<sup id="cite_ref-Bunch.2C_Charlotte_1995_pages_15-16_108-0" class="reference"><a href="#cite_note-Bunch.2C_Charlotte_1995_pages_15-16-108"><span>[</span>108<span>]</span></a></sup> whether they yield more stable marriages for raising children, the next generation;<sup id="cite_ref-109" class="reference"><a href="#cite_note-109"><span>[</span>109<span>]</span></a></sup> and whether there is more or less loving, respectful relationship for the married couple.<sup id="cite_ref-nytimes2013_110-0" class="reference"><a href="#cite_note-nytimes2013-110"><span>[</span>110<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Sham_marriages">Sham marriages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=17" title="Edit section: Sham marriages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the United Kingdom, public discussion<sup id="cite_ref-rgch3_111-0" class="reference"><a href="#cite_note-rgch3-111"><span>[</span>111<span>]</span></a></sup> has questioned whether international arranged marriages are a sham, a convenient means to get residency and European citizenship to some male or female immigrants, who would otherwise be denied a visa to enter the country. These fears have been stoked by observed divorces once the minimum married residence period requirement is met. Ann Cryer has alleged examples of such abuse by West Asian Muslim families in her motion to the UK's House of Commons.<sup id="cite_ref-112" class="reference"><a href="#cite_note-112"><span>[</span>112<span>]</span></a></sup> The United States has seen a similar controversy with sham arranged marriages.<sup id="cite_ref-113" class="reference"><a href="#cite_note-113"><span>[</span>113<span>]</span></a></sup><sup id="cite_ref-114" class="reference"><a href="#cite_note-114"><span>[</span>114<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Arranged_marriages_and_human_rights">Arranged marriages and human rights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=18" title="Edit section: Arranged marriages and human rights">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Various international organizations, including UNICEF, have campaigned for laws to ban arranged marriages of children, as well as forced arranged marriages.<sup id="cite_ref-115" class="reference"><a href="#cite_note-115"><span>[</span>115<span>]</span></a></sup> Article 15 and 16 of <i>The Convention on the Elimination of All Forms of Discrimination Against Women</i> (CEDAW) specifically cover marriage and family law, which support such as ban.<sup id="cite_ref-116" class="reference"><a href="#cite_note-116"><span>[</span>116<span>]</span></a></sup><sup id="cite_ref-117" class="reference"><a href="#cite_note-117"><span>[</span>117<span>]</span></a></sup></p>
+<p>Arranged marriages are a matter of debate and disagreements. Activists such as Charlotte Bunch suggest that marriages arranged by parents and other family members, typically assume heterosexual preference and involve emotional pressure; this drives some individuals into marriages that they consent under duress.<sup id="cite_ref-Bunch.2C_Charlotte_1995_pages_15-16_108-1" class="reference"><a href="#cite_note-Bunch.2C_Charlotte_1995_pages_15-16-108"><span>[</span>108<span>]</span></a></sup> Bunch suggests that marriages should be autonomous.</p>
+<p>In contrast, preventing arranged marriages may harm many individuals who want to get married and can benefit from parental participation in finding and selecting a mate. For example, Willoughby suggests<sup id="cite_ref-nytimes2013_110-1" class="reference"><a href="#cite_note-nytimes2013-110"><span>[</span>110<span>]</span></a></sup> that arranged marriages work because they remove anxiety in process of finding Mr. and Ms. Right. Parents, families and friends provide an independent perspective when they participate in learning and evaluating the other person, past history, behavior, as well as the couple's mutual compatibility. Willoughby further suggests that parents and family provide more than input in the screening and selection process; often, they provide financial support for the wedding, housing, emotional support and other valuable resources for the couple as they navigate past the wedding into married life, and help raise their children.</p>
+<p>Michael Rosenfeld says<sup id="cite_ref-nytimes2013_110-2" class="reference"><a href="#cite_note-nytimes2013-110"><span>[</span>110<span>]</span></a></sup> that the differences between autonomous marriages and arranged marriages are empirically small; many people meet, date and choose to marry or cohabit with those who are similar in background, age, interests and social class they feel most similar to, screening factors most parents would have used for them anyway, according to Rosenfeld. Assuming the pool from which mates are screened and selected is large, Rosenfeld suggests that the differences between the two approaches to marriages are not as great as some imagine them to be.<sup id="cite_ref-nytimes2013_110-3" class="reference"><a href="#cite_note-nytimes2013-110"><span>[</span>110<span>]</span></a></sup> Others<sup id="cite_ref-118" class="reference"><a href="#cite_note-118"><span>[</span>118<span>]</span></a></sup> have expressed sentiments similar to Rosenfeld.</p>
+<h3><span class="mw-headline" id="Stability">Stability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=19" title="Edit section: Stability">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Divorce rates have climbed in Europe and United States, with increase in autonomous marriage rates. The lowest divorce rates in the world are in cultures with high rates of arranged marriages such as Amish culture of United States (1%),<sup id="cite_ref-119" class="reference"><a href="#cite_note-119"><span>[</span>119<span>]</span></a></sup> Hindus of India (3%),<sup id="cite_ref-nytimes2013_110-4" class="reference"><a href="#cite_note-nytimes2013-110"><span>[</span>110<span>]</span></a></sup> and Ultra-Orthodox Jews of Israel (7%).<sup id="cite_ref-120" class="reference"><a href="#cite_note-120"><span>[</span>120<span>]</span></a></sup> In contrast, over 50% of self-arranged marriages in many parts of Europe and United States end up in divorce.<sup id="cite_ref-121" class="reference"><a href="#cite_note-121"><span>[</span>121<span>]</span></a></sup><sup id="cite_ref-122" class="reference"><a href="#cite_note-122"><span>[</span>122<span>]</span></a></sup> This has led scholars to ask if arranged marriages are more stable than autonomous marriages, and whether this stability matters. Others suggest that the low divorce rates may not reflect stability, rather it may reflect the difficulty in divorce process and social ostracism to the individuals, who choose to live in a dysfunctional marriage rather than face the consequences of a divorce.<sup id="cite_ref-nytimes2013_110-5" class="reference"><a href="#cite_note-nytimes2013-110"><span>[</span>110<span>]</span></a></sup>Also, the perception of high divorse rates attributed to self-arranged marriages in the United States is being called into question<sup id="cite_ref-123" class="reference"><a href="#cite_note-123"><span>[</span>123<span>]</span></a></sup> and no authoritative data is available to support the theory that Hindus of India continue to enjoy low divorse rates.</p>
+<p>There is a difference in observed divorce rates between various types of arranged marriages. The divorce rates in Islamic countries with consanguineous arranged marriages such as Saudi Arabia, Turkey, Egypt, Qatar, Jordan is between 20% to 35%,<sup id="cite_ref-124" class="reference"><a href="#cite_note-124"><span>[</span>124<span>]</span></a></sup> in contrast to less than 10% divorce rates in non-consanguineous arranged marriages among Amish people, Hindus and Orthodox Jews.</p>
+<h3><span class="mw-headline" id="Love_and_respect_in_arranged_versus_autonomous_marital_life">Love and respect in arranged versus autonomous marital life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=20" title="Edit section: Love and respect in arranged versus autonomous marital life">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Various small sample surveys have been done to ascertain if arranged marriages or autonomous marriages have a more satisfying married life. The results are mixed - some state marriage satisfaction is higher in autonomous marriages, others find no significant differences.<sup id="cite_ref-GuptaSingh1982_125-0" class="reference"><a href="#cite_note-GuptaSingh1982-125"><span>[</span>125<span>]</span></a></sup> Johnson and Bachan have questioned the small sample size and conclusions derived from them.<sup id="cite_ref-JohnsonBachan2013_126-0" class="reference"><a href="#cite_note-JohnsonBachan2013-126"><span>[</span>126<span>]</span></a></sup></p>
+<p>Scholars<sup id="cite_ref-nytimes2013_110-6" class="reference"><a href="#cite_note-nytimes2013-110"><span>[</span>110<span>]</span></a></sup><sup id="cite_ref-127" class="reference"><a href="#cite_note-127"><span>[</span>127<span>]</span></a></sup> ask whether love and respect in marital life is greater in arranged marriages than autonomous marriages. Epstein suggests that in many arranged marriages, love emerges over time. Neither autonomous nor arranged marriages offer any guarantees. Many arranged marriages also end up being cold and dysfunctional as well, with reports of abuse.<sup id="cite_ref-128" class="reference"><a href="#cite_note-128"><span>[</span>128<span>]</span></a></sup><sup id="cite_ref-129" class="reference"><a href="#cite_note-129"><span>[</span>129<span>]</span></a></sup><sup id="cite_ref-130" class="reference"><a href="#cite_note-130"><span>[</span>130<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=21" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Dowry" title="Dowry">Dowry</a></li>
+<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
+<li><a href="/wiki/Royal_intermarriage" title="Royal intermarriage">Royal intermarriage</a></li>
+<li><a href="/wiki/Marriage_of_state" title="Marriage of state">Marriage of state</a></li>
+<li><a href="/wiki/Arranged_marriage_in_the_Indian_subcontinent" title="Arranged marriage in the Indian subcontinent">Arranged marriage in the Indian subcontinent</a></li>
+<li><a href="/wiki/Bride_kidnapping" title="Bride kidnapping">Bride kidnapping</a></li>
+<li><a href="/wiki/Child_marriage" title="Child marriage">Child marriage</a></li>
+<li><a href="/wiki/Mail-order_bride" title="Mail-order bride">Mail-order bride</a></li>
+<li><a href="/wiki/Marriage_of_convenience" title="Marriage of convenience">Marriage of convenience</a></li>
+<li><a href="/wiki/Marriage_in_Pakistan" title="Marriage in Pakistan">Marriage in Pakistan</a></li>
+<li><a href="/wiki/Marriage_in_South_Korea" title="Marriage in South Korea">Marriage in South Korea</a></li>
+<li><a href="/wiki/Marriage_market" title="Marriage market">Marriage market</a></li>
+<li><a href="/wiki/Marriageable_age" title="Marriageable age">Marriageable age</a></li>
+<li><a href="/wiki/Married_at_First_Sight_(disambiguation)" title="Married at First Sight (disambiguation)" class="mw-redirect">Married at First Sight</a></li>
+<li><a href="/wiki/Matchmaking" title="Matchmaking">Matchmaking</a></li>
+<li><a href="/wiki/Matrimonial_websites" title="Matrimonial websites" class="mw-redirect">Matrimonial websites</a></li>
+<li><a href="/wiki/Miai" title="Miai">Arranged marriages in Japan</a></li>
+<li><a href="/wiki/Shidduch" title="Shidduch">Shidduch</a></li>
+<li><a href="/wiki/Shim-pua_marriage" title="Shim-pua marriage">Shim-pua marriage</a></li>
+<li><a href="/wiki/Wedding_celebrations_in_the_Radom_region" title="Wedding celebrations in the Radom region">Wedding celebrations in the Radom region</a></li>
+<li><a href="/wiki/Shotgun_wedding" title="Shotgun wedding">Shotgun wedding</a></li>
+<li><a href="/wiki/Redorer_son_blason" title="Redorer son blason">Redorer son blason</a></li>
+<li><i><a href="/wiki/Log_Kya_Kahenge" title="Log Kya Kahenge">Log Kya Kahenge</a></i></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=22" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-jo2008-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-jo2008_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-jo2008_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-jo2008_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-jo2008_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-jo2008_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Jodi O'Brien (2008), Encyclopedia of Gender and Society, Volume 1, SAGE Publications, page 40-42, <a href="/wiki/Special:BookSources/9781412909167" class="internal mw-magiclink-isbn">ISBN 978-1412909167</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">WIEN, A. F. I. <a rel="nofollow" class="external text" href="http://www.african-women.org/documents/other-face-of-FGM.pdf">The Other Face of Female Genital Mutilation (FGM): MORAL AND SOCIAL ELEMENTS</a>; AFRICAN WOMEN’S ORGANIZATION (OCTOBER 2003), Vienna, Austria; page 15-16</span></li>
+<li id="cite_note-Voluntarism_and_Marriage-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Voluntarism_and_Marriage_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Voluntarism_and_Marriage_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://web.unfpa.org/intercenter/reprights/self-sec2.htm">Voluntarism and Marriage</a>; UNFPA, United Nations Population Fund (2011); see Child Marriage section</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Alan H. Bittles, Hanan A. Hamamy (2010), Genetic Disorders Among Arab Populations, in Endogamy and Consanguineous Marriage in Arab Populations (Editor: Ahmad Teebi), <a href="/wiki/Special:BookSources/9783642050794" class="internal mw-magiclink-isbn">ISBN 978-3-642-05079-4</a>, pages 85-108</span></li>
+<li id="cite_note-Somervill.2C_Barbara_2007_page_41-43-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Somervill.2C_Barbara_2007_page_41-43_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Somervill.2C_Barbara_2007_page_41-43_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Somervill, Barbara (2007). Teens in Egypt. Capstone; <a href="/wiki/Special:BookSources/9780756532949" class="internal mw-magiclink-isbn">ISBN 978-0756532949</a>; page 41-43, 57</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Sloan, Kathryn (2011). Women's Roles in Latin America and the Caribbean, ABC-CLIO, <a href="/wiki/Special:BookSources/9780313381089" class="internal mw-magiclink-isbn">ISBN 978-0313381089</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Hatfield, E., Rapson, R. L., &amp; Martel, L. D. (2007), Passionate love and sexual desire, Handbook of cultural psychology, S. Kitayama &amp; D. Cohen (Eds.), New York: Guilford Press; pages 760-779</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Batabyal, A. A. (2001). On the likelihood of finding the right partner in an arranged marriage. Journal of Socio-Economics, 30(3), pages 273-280</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Adams, B. N. (2004). Families and family study in international perspective. Journal of Marriage and Family, 66(5), pages 1076-1088</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Margaret Evans, The Diana Phenomenon: Reaction in the East Midlands, Folklore, Volume 109, Issue 1-2, 1998, pages 101-103; Quote: "Diana Spencer was of the ancient British royal bloodline. Her <b>arranged marriage</b> to Charles had been engineered to re-introduce this ancient bloodline and legitimise the House of Windsor."</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Arnett &amp; Taber (1994), Adolescence terminable and interminable: When does adolescence end?, Journal of Youth and Adolescence, 23(5), pp 517-537; Quote - "In Japan, for example, even in modern times close to half of marriages are reported to be arranged (known as miai marriages)"</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">(a) Ralph Grillo (2011), Marriages, arranged and forced: the UK debate; in Gender, Generations and the Family in International Migration, (Editors: Albert Kraler, Eleonore Kofman, Martin Kohli, Camille Schmoll), <a href="/wiki/Special:BookSources/9789089642851" class="internal mw-magiclink-isbn">ISBN 978-9089642851</a>, pp 77-78; Quote - "Arranged and forced marriages among immigrant and minority ethnic groups has been widely debated across Europe"; (b) Christian Joppke (2004), The retreat of multiculturalism in the liberal state: theory and policy, The British Journal of Sociology, 55(2), pp 237-257</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.bbc.co.uk/ethics/forcedmarriage/">http://www.bbc.co.uk/ethics/forcedmarriage/</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Vaillant, N. G., &amp; Harrant, V. (2008). Determinants of the likelihood of finding the right partner in an arranged marriage: Evidence from a French matchmaking agency, The Journal of Socio-Economics, 37(2), pages 657-671</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://education.staffordshire.gov.uk/PupilSupport/SEN/Services/safeguarding/forcedmarriages/forcedmarriages.htm?NRMODE=Published">Force Marriage</a> Staffordshire County Council, United Kingdom</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.metmuseum.org/toah/hd/cour/hd_cour.htm">http://www.metmuseum.org/toah/hd/cour/hd_cour.htm</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">The Illustrated Encyclopedia of Hinduism: A-M, James G. Lochtefeld (2001), <a href="/wiki/Special:BookSources/9780823931798" class="internal mw-magiclink-isbn">ISBN 978-0823931798</a>, Page 427</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Fricke, Chang, and Yang. (1994). Historical and Ethnographic Perspectives on the Chinese family. Social Change and the Family in Taiwan. Arland Thornton and Lin, Hui-Sheng. Chicago and London, The University of Chicago Press: 22-48</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://lup.lub.lu.se/luur/download?func=downloadFile&amp;recordOId=1328263&amp;fileOId=1328264">Pan, Rong (2004), Why Being Single?</a>, Lund University (Sweden), Centre for Asian studies</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://openaccess.leidenuniv.nl/bitstream/handle/1887/13001/whole%20thesis%20final.pdf?sequence=1">Gender, Marriage and Migration - Mainland China and Taiwan</a> Melody Chia-Wen Lu (2008), Leiden University</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Hutton, M. J. (2001). Russian and West European Women, 1860-1939: Dreams, Struggles, and Nightmares. Rowman &amp; Littlefield Publishers; see Chapter 1</span></li>
+<li id="cite_note-rs-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-rs_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rs_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Harry Reis and Susan Sprecher, Encyclopedia of Human Relationships, SAGE Publications, <a href="/wiki/Special:BookSources/9781412958462" class="internal mw-magiclink-isbn">ISBN 978-1412958462</a>, pages 113-117</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Ghimire et al. (2006), Social change, premartial family experience and spouse choice in an arranged marriage society, American Journal of Sociology, 111, pages 1181-1218</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Xiaohe and Whyte (1990), Love matches and arranged marriages: A Chinese replication, Journal of Marriage and the Family, 52, pages 709-722</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Tekce (2004), Paths of marriage in Istanbul: arranging choices and choice in arrangements, Ethnography, 5, pages 173-201</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Stange et al. (2011), Encyclopedia of Women in Today's World, SAGE Publications, <a href="/wiki/Special:BookSources/9781412976855" class="internal mw-magiclink-isbn">ISBN 978-1412976855</a>, pages 899-901</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Gary R. Lee and Lorene Hemphill Stone, Mate-Selection Systems and Criteria: Variation according to Family Structure, Journal of Marriage and Family, Vol. 42, No. 2 (May, 1980), pages 319-326</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Broude, G. J., &amp; Greene, S. J. (1983). Cross-cultural codes on husband-wife relationships. Ethnology, 22(3), pages 263-280</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Ghimire, D. J., Axinn, W. G., Yabiku, S. T., &amp; Thornton, A. (2006). Social Change, Premarital Nonfamily Experience, and Spouse Choice in an Arranged Marriage Society1. American Journal of Sociology, 111(4), pages 1181-1218</span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">Jones, G. (2010). Changing marriage patterns in Asia, Asia Research Institute Working Paper No. 131</span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Shaw, A. (2001). Kinship, cultural preference and immigration: consanguineous marriage among British Pakistanis. Journal of the Royal Anthropological Institute, 7(2), pages 315-334</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Joseph, S. E. (2007). Kissing Cousins. Current Anthropology, 48(5), pages 756-764</span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">Joseph, S. E. (2007). Kissing Cousins, Current Anthropology, 48(5), pages 756-764</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">R. Hussain (1999), Community perceptions of reasons for preference for consanguineous marriages in Pakistan, Journal of Biosocial Science, 31, pages 449-461</span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.santafe.edu/media/cms_page_media/344/Brecia_Young.pdf">Consanguineous marriages</a> Brecia Young (2006)</span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text">Derek F. Roberts, N. Fujiki, K. Torizuka, Kanji Torizuka (Editors), see Imaizumi, Y. O. K. O. (1992). Factors influencing the frequency of consanguineous marriages in Japan (pages 29-40). Cambridge, UK: Cambridge University Press; <a href="/wiki/Special:BookSources/9780521419123" class="internal mw-magiclink-isbn">ISBN 978-0521419123</a></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">Bittles, A. H. (2003). The bases of Western attitudes to consanguineous marriage. Developmental Medicine &amp; Child Neurology, 45(2), pages 135-138</span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text">Alan Bittles, Consanguinity in Context (Cambridge Studies in Biological and Evolutionary Anthropology), Cambridge University Press, <a href="/wiki/Special:BookSources/9780521781862" class="internal mw-magiclink-isbn">ISBN 978-0521781862</a></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">Jewish Encyclopedia (1906), see article on CONSANGUINITY AMONG JEWS; also see Jacobs, Studies in Jewish Statistics, pp. 1-9, London, 1891;</span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text">Cohen et al., Consanguinity, intracommunity and intercommunity marriages in a population sample of Israeli Jews, Ann Hum Biol. 2004 Jan-Feb;31(1), pages 38-48</span></li>
+<li id="cite_note-Child_Marriages-41"><span class="mw-cite-backlink">^ <a href="#cite_ref-Child_Marriages_41-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Child_Marriages_41-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.who.int/mediacentre/news/releases/2013/child_marriage_20130307/en/">Child Marriages</a> World Health Organization, United Nations (7 March 2013)</span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ecoi.net/file_upload/432_1199430947_2007-12-unhcr-afg.pdf">Afghanistan - The situation of women and girls</a> UNHCR (2007), pages 45-46</span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ifuw.org/fuwa/docs/Early-marriage.pdf">Early Marriage as a barrier to Girl's Education</a> Jeannette Bayisenge, Rwanda (2008)</span></li>
+<li id="cite_note-Ghai.2C_A._2001_pages_26-37-44"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ghai.2C_A._2001_pages_26-37_44-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ghai.2C_A._2001_pages_26-37_44-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Ghai, A. (2001). Marginalisation and disability: experiences from the Third World. Disability and the life course: Global perspectives, pages 26-37</span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text">Amt, Emilie (1993), Women's Lives in Medieval Europe, New York, Routledge</span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text">Máiréad Enright, Choice, Culture and the Politics of Belonging: The Emerging Law of Forced and Arranged Marriage, The Modern Law Review, Volume 72, Issue 3, pages 331–359, May 2009</span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text">Carol Ember and Melvin Ember, Encyclopedia of Sex and Gender: Men and Women in the World's Cultures Topics and Cultures, Volume 2, <a href="/wiki/Special:BookSources/9780306477706" class="internal mw-magiclink-isbn">ISBN 978-0306477706</a>, pages 71-77</span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text">Gupta, G. R. (1976). Love, arranged marriage, and the Indian social structure. Journal of Comparative Family Studies, 7(1), pages 75-85</span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text">Warner, Elizabeth (2004), Behind the wedding veil: Child marriage as a form of trafficking in girls. American U Journal Gender Soc. Policy &amp; Law, 12, pages 233-270</span></li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><cite class="citation news">Chawkins, Steve (January 15, 2009). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20090220204133/http://www.latimes.com/news/printedition/california/la-me-beer-bride15-2009jan15,0,7106665.story">"Teen's arranged marriage is allowed in native Mexico"</a>. <i>Los Angeles Times</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArranged+marriage&amp;rft.atitle=Teen%27s+arranged+marriage+is+allowed+in+native+Mexico&amp;rft.aufirst=Steve&amp;rft.aulast=Chawkins&amp;rft.date=January+15%2C+2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20090220204133%2Fhttp%3A%2F%2Fwww.latimes.com%2Fnews%2Fprintedition%2Fcalifornia%2Fla-me-beer-bride15-2009jan15%2C0%2C7106665.story&amp;rft.jtitle=Los+Angeles+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.chron.com/disp/story.mpl/hotstories/6207551.html">California dad accused of selling girl to teen for cash, beer – Houston Chronicle</a>. Chron.com (2009-01-12). Retrieved on 2012-04-02.</span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text">Engel, J. W. (1984). Marriage in the People's Republic of China: Analysis of a new law. Journal of Marriage and the Family, pages 955-961</span></li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.populationasia.org/Publications/RP/AMCRP11.pdf">The "Flight from Marriage" in South-East and East Asia</a> Gavin Jones, Singapore (2011)</span></li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text">Salaff, J. (1976) ‘The status of unmarried Hong Kong women and the social factors contributing to their delayed marriage’, Population Studies, 30(3), pages 391-412</span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text">Jones (1997) ‘The demise of universal marriage in East and South-East Asia’, in G.W. Jones, R.M. Douglas, J.C. Caldwell and R. D’Souza (eds.), The Continuing Demographic Transition, Oxford Clarendon Press</span></li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text">Retherford, R. D., Ogawa, N., &amp; Matsukura, R. (2001). Late marriage and less marriage in Japan. Population and Development Review, 27(1), pages 65-102</span></li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text">"Omiai and Miai-gekkon, Arranged Marriages in Japan." Hanami Web. 2007. 6 Nov. 2007 &lt;<a rel="nofollow" class="external free" href="http://www.hanamiweb.com/omiai.html">http://www.hanamiweb.com/omiai.html</a>&gt;</span></li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text">Applbaum, K.D. (1995) Marriage with the proper stranger – arranged marriage in metropolitan Japan, Ethnology, 34, 37–51</span></li>
+<li id="cite_note-hendry-59"><span class="mw-cite-backlink">^ <a href="#cite_ref-hendry_59-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hendry_59-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Hendry, Joy (2010), Marriage in Changing Japan: Community &amp; Society (Vol. 4), Taylor &amp; Francis</span></li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text">Kurian, G. (1991). South Asians in Canada. International Migration, 29(3), pages 421-433</span></li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text">Maconachie, M. (1988). Bound by language: Homogamous marriages among a sample of White South Africans. South African Journal of Sociology, 19(1), 34-41.</span></li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.pbs.org/alifeapart/intro_3.html">Hasidism in America</a> Public Broadcasting Service, United States (2002)</span></li>
+<li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.yivoencyclopedia.org/article.aspx/Hasidism/Everyday_Life">Hasidism</a> Louis Jacobs, The Yivo Encyclopedia of Jews in Eastern Europe (1998)</span></li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nps.gov/history/history/online_books/5views/5views4a.htm">A History of Japanese Americans in California</a> Archives of National Park Service, United States (2004)</span></li>
+<li id="cite_note-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-65">^</a></b></span> <span class="reference-text">Rauf et al (2013), Forced marriage: implications for mental health and intellectual disability services, Advances in Psychiatric Treatment, 19, pages 135-143</span></li>
+<li id="cite_note-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-66">^</a></b></span> <span class="reference-text">Okonjo, Kamene (1992). Aspects of continuity and change in mate-selection among the Igbo West of the River Niger. Journal of Comparative Family Studies, 23(3), pages 339-360.</span></li>
+<li id="cite_note-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-67">^</a></b></span> <span class="reference-text">Hurd, J. P. (1985). Kissing cousins: Frequencies of cousin types in "Nebraska" Amish marriages. Biodemography and Social Biology, 32(1-2), pages 82-89</span></li>
+<li id="cite_note-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-68">^</a></b></span> <span class="reference-text">McKUSICK, V. A., Hostetler, J. A., &amp; Egeland, J. A. (1964). Genetic studies of the Amish. Bulletin of the Johns Hopkins Hospital, 115, 203-222.</span></li>
+<li id="cite_note-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-69">^</a></b></span> <span class="reference-text">Schnoor, R. F. (2002). tradition and innovation in an ultra-orthodox Community: the hasidim of outremont. Canadian Jewish Studies/Études juives canadiennes, pages 55-56</span></li>
+<li id="cite_note-70"><span class="mw-cite-backlink"><b><a href="#cite_ref-70">^</a></b></span> <span class="reference-text">Mandel, Arnold (1967). The Jews in Western Europe Today. Jewish Publication Society of America; see page 9</span></li>
+<li id="cite_note-71"><span class="mw-cite-backlink"><b><a href="#cite_ref-71">^</a></b></span> <span class="reference-text">Patai, Raphael (Winter, 1965). The structure of endogamous unilineal descent groups, Southwestern Journal of Anthropology, Vol. 21, No. 4, pages 325-350</span></li>
+<li id="cite_note-72"><span class="mw-cite-backlink"><b><a href="#cite_ref-72">^</a></b></span> <span class="reference-text">Islam, M. M. (2012). The practice of consanguineous marriage in Oman: prevalence, trends and determinants. Journal of biosocial science, 44(5), 571</span></li>
+<li id="cite_note-73"><span class="mw-cite-backlink"><b><a href="#cite_ref-73">^</a></b></span> <span class="reference-text">Hussain, R. (2005). The effect of religious, cultural and social identity on population genetic structure among Muslims in Pakistan. Annals of Human Biology, 32(2), 145-153.</span></li>
+<li id="cite_note-74"><span class="mw-cite-backlink"><b><a href="#cite_ref-74">^</a></b></span> <span class="reference-text">Saadat, M., Ansari-Lari, M., &amp; Farhud, D. D. (2004), Short Report Consanguineous marriage in Iran, Annals of human biology, 31(2), pages 263-269</span></li>
+<li id="cite_note-75"><span class="mw-cite-backlink"><b><a href="#cite_ref-75">^</a></b></span> <span class="reference-text">Khoury, S. A., &amp; Massad, D. (1992). Consanguineous marriage in Jordan, American journal of medical genetics, 43(5), pages 769-775</span></li>
+<li id="cite_note-76"><span class="mw-cite-backlink"><b><a href="#cite_ref-76">^</a></b></span> <span class="reference-text">Brown, C. H. (1981). demographic constraints on caste: a Fiji Indian example.American Ethnologist, 8(2), pages 314-328</span></li>
+<li id="cite_note-77"><span class="mw-cite-backlink"><b><a href="#cite_ref-77">^</a></b></span> <span class="reference-text">Adams, J. W., &amp; Kasakoff, A. B. (1975). Factors underlying endogamous group size. Population and social organization, pages 147-173</span></li>
+<li id="cite_note-hamamy-78"><span class="mw-cite-backlink">^ <a href="#cite_ref-hamamy_78-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hamamy_78-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Hanan Hamamy (July 2012), <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419292/">Consanguineous marriages</a>, Journal Community Genet. 3(3), pages 185–192</span></li>
+<li id="cite_note-79"><span class="mw-cite-backlink"><b><a href="#cite_ref-79">^</a></b></span> <span class="reference-text">Tadmouri GO, Nair P, Obeid T, Al Ali MT, Al Khaja N, Hamamy HA (2009), <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2765422/">Consanguinity and reproductive health among Arabs</a>, Reproductive Health; pages 6:17</span></li>
+<li id="cite_note-80"><span class="mw-cite-backlink"><b><a href="#cite_ref-80">^</a></b></span> <span class="reference-text">Khlat, M. (1997). Endogamy in the Arab world. OXFORD MONOGRAPHS ON MEDICAL GENETICS, 30, Oxford University Press, <a href="/wiki/Special:BookSources/9780195093056" class="internal mw-magiclink-isbn">ISBN 978-0195093056</a>; pages 63-82</span></li>
+<li id="cite_note-81"><span class="mw-cite-backlink"><b><a href="#cite_ref-81">^</a></b></span> <span class="reference-text">Bittles A. <a rel="nofollow" class="external text" href="http://www.consang.net">The global prevalence of consanguinity</a>; access date: September 2013</span></li>
+<li id="cite_note-nyt2012-82"><span class="mw-cite-backlink"><b><a href="#cite_ref-nyt2012_82-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://tribune.com.pk/story/449221/vani-verdict/">Vani verdict</a> The Tribune (IHT / New York Times Group), Pakistan (October 9, 2012)</span></li>
+<li id="cite_note-83"><span class="mw-cite-backlink"><b><a href="#cite_ref-83">^</a></b></span> <span class="reference-text">Nasrullah, M., Muazzam, S., Bhutta, Z. A., &amp; Raj, A. (2013). Girl Child Marriage and Its Effect on Fertility in Pakistan: Findings from Pakistan Demographic and Health Survey, 2006–2007. Maternal and child health journal, pp 1-10</span></li>
+<li id="cite_note-hk2004-84"><span class="mw-cite-backlink"><b><a href="#cite_ref-hk2004_84-0">^</a></b></span> <span class="reference-text">[ Vani a social evil] Anwar Hashmi and Rifat Koukab, The Fact (Pakistan), (July 2004)</span></li>
+<li id="cite_note-85"><span class="mw-cite-backlink"><b><a href="#cite_ref-85">^</a></b></span> <span class="reference-text">Ahsan, I. (2009). PANCHAYATS AND JIRGAS (LOK ADALATS): Alternative Dispute Resolution System in Pakistan. Strengthening Governance Through Access To Justice</span></li>
+<li id="cite_note-86"><span class="mw-cite-backlink"><b><a href="#cite_ref-86">^</a></b></span> <span class="reference-text">Latif, Z. (2010), The silencing of women from the Pakistani Muslim Mirpuri community in violent relationships. Honour, Violence, Women and Islam, 29</span></li>
+<li id="cite_note-87"><span class="mw-cite-backlink"><b><a href="#cite_ref-87">^</a></b></span> <span class="reference-text">Beswick, S. (2012). Brian J. Peterson. Islamization from Below: The Making of Muslim Communities in Rural French Sudan, 1880–1960. The American Historical Review, 117(4), Chapter 5, pp 1329-1360</span></li>
+<li id="cite_note-wb2007-88"><span class="mw-cite-backlink"><b><a href="#cite_ref-wb2007_88-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://openknowledge.worldbank.org/handle/10986/7130">Watta Satta: Bride Exchange and Women’s Welfare in Rural Pakistan</a> Hanan G. Jacoby and Ghazala Mansuri, World Bank Policy Research Working Paper 4126, February 2007 (Washington DC)</span></li>
+<li id="cite_note-89"><span class="mw-cite-backlink"><b><a href="#cite_ref-89">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.irinnews.org/report/75716/pakistan-traditional-marriages-ignore-hiv-aids-threat">PAKISTAN: Traditional marriages ignore HIV/AIDS threat</a> IRIN, United Nations press service (6 December 2007)</span></li>
+<li id="cite_note-90"><span class="mw-cite-backlink"><b><a href="#cite_ref-90">^</a></b></span> <span class="reference-text">Charsley, K. (2007), Risk, trust, gender and transnational cousin marriage among British Pakistanis, Ethnic and Racial Studies, 30(6), pp 1117-1131</span></li>
+<li id="cite_note-91"><span class="mw-cite-backlink"><b><a href="#cite_ref-91">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.npr.org/templates/story/story.php?storyId=95683604">Arranged Marriage: Trapped Between Two Cultures</a>. National Public Radio. Retrieved on 2012-04-02.</span></li>
+<li id="cite_note-92"><span class="mw-cite-backlink"><b><a href="#cite_ref-92">^</a></b></span> <span class="reference-text">Harris, B. J. (1989). Power, Profit, and Passion: Mary Tudor, Charles Brandon, and the Arranged Marriage in Early Tudor England. Feminist Studies, 15(1), pages 59-88</span></li>
+<li id="cite_note-93"><span class="mw-cite-backlink"><b><a href="#cite_ref-93">^</a></b></span> <span class="reference-text">Fossum, U. M. S., &amp; Boyd, K. (2010). Arranged Marriage–A violation of human rights?. University of California, Berkeley</span></li>
+<li id="cite_note-94"><span class="mw-cite-backlink"><b><a href="#cite_ref-94">^</a></b></span> <span class="reference-text">Coontz, S. (2006). Marriage, a history: How love conquered marriage. Penguin</span></li>
+<li id="cite_note-95"><span class="mw-cite-backlink"><b><a href="#cite_ref-95">^</a></b></span> <span class="reference-text">Judd, E. R. (1989). Niangjia: Chinese women and their natal families. Journal of Asian Studies, 48(3), pages 525-544</span></li>
+<li id="cite_note-lyj-96"><span class="mw-cite-backlink"><b><a href="#cite_ref-lyj_96-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Lin Yuju (2011). <a rel="nofollow" class="external text" href="http://taiwanpedia.culture.tw/en/content?ID=3664&amp;Keyword=wedding">"Zhaozhui son-in-law"</a>. <i>Encyclopedia of Taiwan</i>. Council for Cultural Affairs.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArranged+marriage&amp;rft.au=Lin+Yuju&amp;rft.btitle=Zhaozhui+son-in-law&amp;rft.date=2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ftaiwanpedia.culture.tw%2Fen%2Fcontent%3FID%3D3664%26Keyword%3Dwedding&amp;rft.pub=Council+for+Cultural+Affairs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-97"><span class="mw-cite-backlink"><b><a href="#cite_ref-97">^</a></b></span> <span class="reference-text">Martin, L. G. (1990). Changing intergenerational family relations in East Asia.The Annals of the American Academy of Political and Social Science, pages 102-114</span></li>
+<li id="cite_note-98"><span class="mw-cite-backlink"><b><a href="#cite_ref-98">^</a></b></span> <span class="reference-text">Haruko, W., &amp; Gay, S. (1984). Marriage and property in premodern Japan from the perspective of women's history. Journal of Japanese Studies, 10(1), pages 73-99</span></li>
+<li id="cite_note-99"><span class="mw-cite-backlink"><b><a href="#cite_ref-99">^</a></b></span> <span class="reference-text">Kerbo, H. R., &amp; MacKinstry, J. A. (1995). Who rules Japan?: the inner circles of economic and political power. Greenwood Publishing Group; see pages 30-31</span></li>
+<li id="cite_note-100"><span class="mw-cite-backlink"><b><a href="#cite_ref-100">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ics.ul.pt/rdonweb-docs/lobolo%20Ufahamu.pdf">Wining back our good luck: bridewealth in nowadays Maputo</a> Paulo Granjo (2004)</span></li>
+<li id="cite_note-101"><span class="mw-cite-backlink"><b><a href="#cite_ref-101">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/africa/3604892.stm">Bride price: an insult to women, a burden to men?</a>, BBC News (August 30, 2004)</span></li>
+<li id="cite_note-102"><span class="mw-cite-backlink"><b><a href="#cite_ref-102">^</a></b></span> <span class="reference-text">Margrethe Silberschmidt (1999), Women Forget that Men are the Masters, Nordic Africa Institute, <a href="/wiki/Special:BookSources/9789171064394" class="internal mw-magiclink-isbn">ISBN 978-9171064394</a>, pp 87</span></li>
+<li id="cite_note-103"><span class="mw-cite-backlink"><b><a href="#cite_ref-103">^</a></b></span> <span class="reference-text">Stephanie Beswick (2001), " We Are Bought Like Clothes": The War Over Polygyny and Levirate Marriage in South Sudan, Northeast African Studies, 8(2), pp 35-61, Quote - "The highest bidder usually acquires the woman, and the bridewealth is made in a series of payments."</span></li>
+<li id="cite_note-104"><span class="mw-cite-backlink"><b><a href="#cite_ref-104">^</a></b></span> <span class="reference-text">See:</span>
+<ul>
+<li><span class="reference-text">Saad Ibrahim, Minority Rights Group International, <a rel="nofollow" class="external text" href="http://www.refworld.org/docid/469cbf8ed.html">The Copts of Egypt</a>, January 1996; pages 24-25;</span></li>
+<li><span class="reference-text">Philippe Fargues (1998), in Andrea Pacini (Editor), Christian Communities in the Arab Middle East, Oxford University Press, <a href="/wiki/Special:BookSources/0198293887" class="internal mw-magiclink-isbn">ISBN 0-19-829388-7</a>, page 51;</span></li>
+<li><span class="reference-text">Heiner Bielefeldt, Human Rights Quarterly, Volume 17, Number 4, November 1995, pages 587-617</span></li>
+</ul>
+</li>
+<li id="cite_note-105"><span class="mw-cite-backlink"><b><a href="#cite_ref-105">^</a></b></span> <span class="reference-text">See:</span>
+<ul>
+<li><span class="reference-text">Saeed, Hassan (2004): <i>Freedom of Religion, Apostasy and Islam</i>. Ashgate Publishing. <a href="/wiki/Special:BookSources/9780754630821" class="internal mw-magiclink-isbn">ISBN 978-0-7546-3082-1</a>;</span></li>
+<li><span class="reference-text">Altstein,Howard;Simon, Rita James (2003): <i>Global perspectives on social issues: marriage and divorce</i>. Lexington, Mass: LexingtonBooks. <a href="/wiki/Special:BookSources/0739105884" class="internal mw-magiclink-isbn">ISBN 0-7391-0588-4</a>;</span></li>
+<li><span class="reference-text"><sup>[<a href="/wiki/Quran" title="Quran">Quran</a>&#160;<a rel="nofollow" class="external text" href="http://www.usc.edu/org/cmje/religious-texts/quran/verses/060-qmt.php#060.010">60:10</a>]</sup></span></li>
+</ul>
+</li>
+<li id="cite_note-106"><span class="mw-cite-backlink"><b><a href="#cite_ref-106">^</a></b></span> <span class="reference-text">Coleman, D. A. (2004), <a rel="nofollow" class="external text" href="http://www.spi.ox.ac.uk/fileadmin/documents/pdf/wp23.pdf">Partner choice and the growth of ethnic minority populations</a>, Bevolking en Gezin, 33(2), 7-34.</span></li>
+<li id="cite_note-107"><span class="mw-cite-backlink"><b><a href="#cite_ref-107">^</a></b></span> <span class="reference-text"><cite id="CITEREFRazack2004" class="citation journal">Razack, Sherene H. (October 2004). <a rel="nofollow" class="external text" href="http://dx.doi.org/10.1023/B:FEST.0000043305.66172.92">"Imperilled muslim women, dangerous muslim men and civilised Europeans: legal and social responses to forced marriages"</a>. <i><a href="/wiki/Feminist_Legal_Studies" title="Feminist Legal Studies">Feminist Legal Studies</a></i> (<a href="/wiki/Springer_Science%2BBusiness_Media" title="Springer Science+Business Media">Springer</a>) <b>12</b> (2): 129–174. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1023%2FB%3AFEST.0000043305.66172.92">10.1023/B:FEST.0000043305.66172.92</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArranged+marriage&amp;rft.atitle=Imperilled+muslim+women%2C+dangerous+muslim+men+and+civilised+Europeans%3A+legal+and+social+responses+to+forced+marriages&amp;rft.aufirst=Sherene+H.&amp;rft.aulast=Razack&amp;rft.date=October+2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.1023%2FB%3AFEST.0000043305.66172.92&amp;rft_id=info%3Adoi%2F10.1023%2FB%3AFEST.0000043305.66172.92&amp;rft.issue=2&amp;rft.jtitle=Feminist+Legal+Studies&amp;rft.pages=129-174&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bunch.2C_Charlotte_1995_pages_15-16-108"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bunch.2C_Charlotte_1995_pages_15-16_108-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bunch.2C_Charlotte_1995_pages_15-16_108-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Bunch, Charlotte (1995). Transforming human rights from a feminist perspective, Women’s Rights, Human Rights: International Feminist Perspectives (Julie Peters and Andrea Wolper Editors), pages 15-16; also see pages 157-160</span></li>
+<li id="cite_note-109"><span class="mw-cite-backlink"><b><a href="#cite_ref-109">^</a></b></span> <span class="reference-text">Amato, Paul R. (2012). Institutional, Companionate, and Individualistic Marriages, Marriage at the Crossroads: Law, Policy, and the Brave New World of Twenty-First-Century Families, pages 107-124</span></li>
+<li id="cite_note-nytimes2013-110"><span class="mw-cite-backlink">^ <a href="#cite_ref-nytimes2013_110-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nytimes2013_110-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-nytimes2013_110-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-nytimes2013_110-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-nytimes2013_110-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-nytimes2013_110-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-nytimes2013_110-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nytimes.com/2013/01/20/fashion/weddings/parental-involvement-can-help-in-choosing-marriage-partners-experts-say.html?pagewanted=all&amp;_r=0">Modern Lessons from Arranged Marriages</a> Ji Hyun Lee, New York Times (January 18, 2013)</span></li>
+<li id="cite_note-rgch3-111"><span class="mw-cite-backlink"><b><a href="#cite_ref-rgch3_111-0">^</a></b></span> <span class="reference-text">Ralph Grillo, Marriages, arranged and forced: the UK debate; in Gender, Generations and the Family in International Migration, (Editors: Albert Kraler, Eleonore Kofman, Martin Kohli, Camille Schmoll), <a href="/wiki/Special:BookSources/9789089642851" class="internal mw-magiclink-isbn">ISBN 978-9089642851</a>; see Chapter 3</span></li>
+<li id="cite_note-112"><span class="mw-cite-backlink"><b><a href="#cite_ref-112">^</a></b></span> <span class="reference-text">Multi-cultural sensitivity is not an excuse for <a href="/wiki/Moral_blindness" title="Moral blindness">moral blindness</a>, <a href="/wiki/Hansard" title="Hansard">Hansard</a>, 10 February 1999; column 256-280</span></li>
+<li id="cite_note-113"><span class="mw-cite-backlink"><b><a href="#cite_ref-113">^</a></b></span> <span class="reference-text">David Seminara (2008) <a rel="nofollow" class="external text" href="http://www.cis.org/marriagefraud">Hello, I Love You, Won’t You Tell Me Your Name: Inside the Green Card Marriage Phenomenon</a> Center for Immigration Studies</span></li>
+<li id="cite_note-114"><span class="mw-cite-backlink"><b><a href="#cite_ref-114">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nydailynews.com/archives/news/wedding-ring-busts-green-card-scam-probe-widens-article-1.505385">MORE WEDDING RING BUSTS Green-card scam probe widens</a> Brian Harmon, New York Daily News (August 16, 2002)</span></li>
+<li id="cite_note-115"><span class="mw-cite-backlink"><b><a href="#cite_ref-115">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.unicef.org/policyanalysis/files/Note_on_Child_Marriage.pdf">Child Marriages</a> UNICEF</span></li>
+<li id="cite_note-116"><span class="mw-cite-backlink"><b><a href="#cite_ref-116">^</a></b></span> <span class="reference-text">Freeman, Marsha (1995). Transforming human rights from a feminist perspective, Women’s Rights, Human Rights: International Feminist Perspectives (Julie Peters and Andrea Wolper Editors), pages 149-176</span></li>
+<li id="cite_note-117"><span class="mw-cite-backlink"><b><a href="#cite_ref-117">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.un.org/womenwatch/daw/cedaw/text/econvention.htm">CEDAW - Full Text of Convention</a> United Nations Entity for Gender Equality and the Empowerment of Women (2009)</span></li>
+<li id="cite_note-118"><span class="mw-cite-backlink"><b><a href="#cite_ref-118">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://nymag.com/nymetro/news/culture/features/11621/">Is arranged marriage really any worse than craigslist?</a> Anita Jain, New York Magazine (2013)</span></li>
+<li id="cite_note-119"><span class="mw-cite-backlink"><b><a href="#cite_ref-119">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.stltoday.com/travel/trip-back-in-time-the-amish-in-ohio/article_6f9cd665-c965-591c-bf07-a1deecb040b9.html">Trip back in time: the Amish in Ohio</a> St Louis Post-Dispatch (September 10, 2010)</span></li>
+<li id="cite_note-120"><span class="mw-cite-backlink"><b><a href="#cite_ref-120">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.jewishideas.org/articles/its-all-relative-contemporary-orthodox-jewish-famil">http://www.jewishideas.org/articles/its-all-relative-contemporary-orthodox-jewish-famil</a></span></li>
+<li id="cite_note-121"><span class="mw-cite-backlink"><b><a href="#cite_ref-121">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cdc.gov/nchs/nvss/marriage_divorce_tables.htm">http://www.cdc.gov/nchs/nvss/marriage_divorce_tables.htm</a></span></li>
+<li id="cite_note-122"><span class="mw-cite-backlink"><b><a href="#cite_ref-122">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Marriage_and_divorce_statistics">http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/Marriage_and_divorce_statistics</a></span></li>
+<li id="cite_note-123"><span class="mw-cite-backlink"><b><a href="#cite_ref-123">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nytimes.com/2014/12/02/upshot/the-divorce-surge-is-over-but-the-myth-lives-on.html?_r=0">"The Divorce Surge Is Over, but the Myth Lives On"</a>. New York Times.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArranged+marriage&amp;rft.btitle=The+Divorce+Surge+Is+Over%2C+but+the+Myth+Lives+On&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2014%2F12%2F02%2Fupshot%2Fthe-divorce-surge-is-over-but-the-myth-lives-on.html%3F_r%3D0&amp;rft.pub=New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-124"><span class="mw-cite-backlink"><b><a href="#cite_ref-124">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.un.org/esa/population/publications/WMD2008/Main.html">World Marriage Data</a> United Nations Population Division (2008)</span></li>
+<li id="cite_note-GuptaSingh1982-125"><span class="mw-cite-backlink"><b><a href="#cite_ref-GuptaSingh1982_125-0">^</a></b></span> <span class="reference-text">See:</span>
+<ul>
+<li><span class="reference-text"><cite class="citation journal">Usha Gupta; Pushpa Singh (July 1982). "An exploratory study of love and liking and type of marriages". <i>Indian Journal of Applied Psychology</i> <b>19</b> (2): 92–97.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArranged+marriage&amp;rft.atitle=An+exploratory+study+of+love+and+liking+and+type+of+marriages&amp;rft.au=Pushpa+Singh&amp;rft.au=Usha+Gupta&amp;rft.date=July+1982&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=Indian+Journal+of+Applied+Psychology&amp;rft.pages=92-97&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li><cite class="citation journal">Xu Xiaohe; Martin King Whyte (Aug 1990). "Love Matches and Arranged Marriages: A Chinese Replication". <i>Journal of Marriage and Family</i> <b>52</b> (3): 709–722. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F352936">10.2307/352936</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArranged+marriage&amp;rft.atitle=Love+Matches+and+Arranged+Marriages%3A+A+Chinese+Replication&amp;rft.au=Martin+King+Whyte&amp;rft.au=Xu+Xiaohe&amp;rft.date=Aug+1990&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.2307%2F352936&amp;rft.issue=3&amp;rft.jtitle=Journal+of+Marriage+and+Family&amp;rft.pages=709-722&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=52" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Jane E. Myers; Jayamala Madathil; Lynne R. Tingle (2005). "Marriage Satisfaction and Wellness in India and the United States: A Preliminary Comparison of Arranged Marriages and Marriages of Choice". <i>Journal of Counseling &amp; Development</i> <b>83</b> (2): 183–190. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fj.1556-6678.2005.tb00595.x">10.1002/j.1556-6678.2005.tb00595.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArranged+marriage&amp;rft.atitle=Marriage+Satisfaction+and+Wellness+in+India+and+the+United+States%3A+A+Preliminary+Comparison+of+Arranged+Marriages+and+Marriages+of+Choice&amp;rft.au=Jane+E.+Myers&amp;rft.au=Jayamala+Madathil&amp;rft.au=Lynne+R.+Tingle&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fj.1556-6678.2005.tb00595.x&amp;rft.issue=2&amp;rft.jtitle=Journal+of+Counseling+%26+Development&amp;rft.pages=183-190&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=83" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation journal">Pamela C. Regan; Saloni Lakhanpal; Carlos Anguiano (June 2012). "Relationship Outcomes in Indian-American Love-Based and Arranged Marriages". <i>Psychological Reports</i> <b>110</b> (3): 915–924. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2466%2F21.02.07.PR0.110.3.915-924">10.2466/21.02.07.PR0.110.3.915-924</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArranged+marriage&amp;rft.atitle=Relationship+Outcomes+in+Indian-American+Love-Based+and+Arranged+Marriages&amp;rft.au=Carlos+Anguiano&amp;rft.au=Pamela+C.+Regan&amp;rft.au=Saloni+Lakhanpal&amp;rft.date=June+2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.2466%2F21.02.07.PR0.110.3.915-924&amp;rft.issue=3&amp;rft.jtitle=Psychological+Reports&amp;rft.pages=915-924&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=110" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</li>
+<li id="cite_note-JohnsonBachan2013-126"><span class="mw-cite-backlink"><b><a href="#cite_ref-JohnsonBachan2013_126-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">David R. Johnson; Lauren K. Bachan (Aug 2013). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3990435">"What can we learn from studies based on small sample sizes? Comment on Regan, Lakhanpal, and Anguiano (2012)"</a>. <i>Psychological Reports</i> <b>113</b> (1): 221–224. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2466%2F21.02.07.PR0.113x12z8">10.2466/21.02.07.PR0.113x12z8</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3990435">3990435</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24340813">24340813</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArranged+marriage&amp;rft.atitle=What+can+we+learn+from+studies+based+on+small+sample+sizes%3F+Comment+on+Regan%2C+Lakhanpal%2C+and+Anguiano+%282012%29&amp;rft.au=David+R.+Johnson&amp;rft.au=Lauren+K.+Bachan&amp;rft.date=Aug+2013&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3990435&amp;rft_id=info%3Adoi%2F10.2466%2F21.02.07.PR0.113x12z8&amp;rft_id=info%3Apmc%2F3990435&amp;rft_id=info%3Apmid%2F24340813&amp;rft.issue=1&amp;rft.jtitle=Psychological+Reports&amp;rft.pages=221-224&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=113" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-127"><span class="mw-cite-backlink"><b><a href="#cite_ref-127">^</a></b></span> <span class="reference-text">Paul Amato (2012), in Marriage at the Crossroads: Law, Policy, and the Brave New World;Editors: Marsha Garrison, Elizabeth S. Scott; <a href="/wiki/Special:BookSources/9781107018273" class="internal mw-magiclink-isbn">ISBN 978-1107018273</a>; see Chapter 6</span></li>
+<li id="cite_note-128"><span class="mw-cite-backlink"><b><a href="#cite_ref-128">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dailymail.co.uk/news/article-1264729/Child-bride-13-dies-internal-injuries-days-arranged-marriage-Yemen.html">Child bride, 13, dies of internal injuries four days after arranged marriage in Yemen</a> Mail Online, United Kingdom (9 April 2010)</span></li>
+<li id="cite_note-129"><span class="mw-cite-backlink"><b><a href="#cite_ref-129">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.usatoday.com/story/news/nation/2013/08/12/indian-woman-marriage-abuse/2646609/">Indian woman says arranged marriage was full of abuse</a> John Tuohy and Bill McCleery, USA Today (August 12, 2013)</span></li>
+<li id="cite_note-130"><span class="mw-cite-backlink"><b><a href="#cite_ref-130">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/uk_news/392619.stm">Fighting arranged marriage abuse</a> Sue Lloyd-Roberts, BBC News (July 12, 1999)</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit&amp;section=23" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Arranged_marriage" class="extiw" title="commons:Category:Arranged marriage">Arranged marriage</a></b></i>.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png" width="37" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/55px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/73px-Wiktionary-logo-en.svg.png 2x" data-file-width="1000" data-file-height="1089" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="//en.wiktionary.org/wiki/Special:Search/arranged_marriage" class="extiw" title="wiktionary:Special:Search/arranged marriage">arranged marriage</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.usatoday.com/money/2006-02-13-valentine-cover-usat_x.htm">USA Today article</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.afroarticles.com/article-dashboard/Article/The-case-for-arranged-marriages/188">The case for arranged marriages</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wedding" title="Template:Wedding"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wedding" title="Template talk:Wedding"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wedding&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Wedding" title="Wedding">Weddings</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Pre-wedding</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Engagement" title="Engagement">Engagement</a></li>
+<li><a href="/wiki/Wedding_planner" title="Wedding planner">Wedding planner</a></li>
+<li><a href="/wiki/Bridal_registry" title="Bridal registry">Bridal registry</a></li>
+<li><a href="/wiki/Bridal_shower" title="Bridal shower">Bridal shower</a></li>
+<li><a href="/wiki/Engagement_party" title="Engagement party">Engagement party</a></li>
+<li><a href="/wiki/Wedding_invitation" title="Wedding invitation">Wedding invitation</a></li>
+<li><a href="/wiki/Chinese_pre-wedding_customs" title="Chinese pre-wedding customs">Chinese pre-wedding customs</a></li>
+<li><a href="/wiki/Bachelor_party" title="Bachelor party">Bachelor party</a></li>
+<li><a href="/wiki/Bachelorette_party" title="Bachelorette party">Bachelorette party</a></li>
+<li><a href="/wiki/Stag_and_doe" title="Stag and doe">Stag and doe party</a></li>
+<li><a href="/wiki/Marriage_licence" title="Marriage licence" class="mw-redirect">Marriage licence</a></li>
+<li><a href="/wiki/Rehearsal_dinner" title="Rehearsal dinner">Rehearsal dinner</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Locations</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wedding_chapel" title="Wedding chapel">Wedding chapel</a></li>
+<li><a href="/wiki/Gretna_Green#Marriage" title="Gretna Green">Gretna Green</a></li>
+<li><a href="/wiki/Las_Vegas_weddings" title="Las Vegas weddings">Las Vegas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Clothing</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black_tie" title="Black tie">Black tie</a></li>
+<li><a href="/wiki/Boutonni%C3%A8re" title="Boutonnière">Boutonnière</a></li>
+<li><a href="/wiki/Contemporary_Western_wedding_dress" title="Contemporary Western wedding dress">Contemporary Western wedding dress</a></li>
+<li><a href="/wiki/Garter_(stockings)" title="Garter (stockings)">Garter</a></li>
+<li><a href="/wiki/Hwarot" title="Hwarot">Hwarot</a></li>
+<li><a href="/wiki/Morning_dress" title="Morning dress">Morning dress</a></li>
+<li><a href="/wiki/Public_nudity" title="Public nudity">Optional</a></li>
+<li><a href="/wiki/Tuxedo" title="Tuxedo">Tuxedo</a></li>
+<li><a href="/wiki/Wedding_dress" title="Wedding dress">Wedding dress</a></li>
+<li><a href="/wiki/White_tie" title="White tie">White tie</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Objects</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chuppah" title="Chuppah">Chuppah</a></li>
+<li><a href="/wiki/Las_arras" title="Las arras">Las arras</a></li>
+<li><a href="/wiki/Lebes_Gamikos" title="Lebes Gamikos">Lebes Gamikos</a></li>
+<li><a href="/wiki/Wedding_cord" title="Wedding cord">Wedding cord</a></li>
+<li><a href="/wiki/Wedding_favors" title="Wedding favors" class="mw-redirect">Wedding favors</a></li>
+<li><a href="/wiki/Wedding_mandap" title="Wedding mandap">Wedding mandap</a></li>
+<li><a href="/wiki/Wedding_ring_cushion" title="Wedding ring cushion">Wedding ring cushion</a></li>
+<li><a href="/wiki/Wishing_well_(wedding)" title="Wishing well (wedding)">Wishing well</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_wedding_ceremony_participants" title="List of wedding ceremony participants" class="mw-redirect">Participants</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bride" title="Bride">Bride</a></li>
+<li><a href="/wiki/Bridegroom" title="Bridegroom">Bridegroom</a>
+<ul>
+<li><a href="/wiki/List_of_child_bridegrooms" title="List of child bridegrooms">child bridegroom</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Bridesmaid" title="Bridesmaid">Bridesmaid</a></li>
+<li><a href="/wiki/Bridesman" title="Bridesman">Bridesman</a></li>
+<li><a href="/wiki/Flower_girl" title="Flower girl">Flower girl</a></li>
+<li><a href="/wiki/Groomsman" title="Groomsman">Groomsman</a></li>
+<li><a href="/wiki/Page_boy_(wedding_attendant)" title="Page boy (wedding attendant)">Page boy</a></li>
+<li><a href="/wiki/Marriage_officiant" title="Marriage officiant">Officiant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Traditions</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wedding_reception" title="Wedding reception">Wedding reception</a></li>
+<li><a href="/wiki/Ahesta_Boro" title="Ahesta Boro">Ahesta Boro</a></li>
+<li><a href="/wiki/Banns_of_marriage" title="Banns of marriage">Banns of marriage</a></li>
+<li><a href="/wiki/Bridal_Chorus" title="Bridal Chorus">Bridal Chorus</a></li>
+<li><a href="/wiki/First_dance" title="First dance">First dance</a></li>
+<li><a href="/wiki/Hesitation_step" title="Hesitation step">Hesitation step</a></li>
+<li><a href="/wiki/Indian_Wedding_Blessing" title="Indian Wedding Blessing">"Indian" Wedding Blessing</a></li>
+<li><a href="/wiki/Jumping_the_broom" title="Jumping the broom">Jumping the broom</a></li>
+<li><a href="/wiki/Lych_gate#Use_at_weddings" title="Lych gate" class="mw-redirect">Lych Gate</a></li>
+<li><a href="/wiki/Money_dance" title="Money dance">Money dance</a></li>
+<li><a href="/wiki/Wedding_music" title="Wedding music">Music</a></li>
+<li><a href="/wiki/Polterabend" title="Polterabend">Polterabend</a></li>
+<li><a href="/wiki/Pounded_rice_ritual" title="Pounded rice ritual">Pounded rice ritual</a></li>
+<li><a href="/wiki/Pyebaek" title="Pyebaek">Pyebaek</a></li>
+<li><a href="/wiki/Trash_the_dress" title="Trash the dress">Trash the dress</a></li>
+<li><a href="/wiki/Unity_candle" title="Unity candle">Unity candle</a></li>
+<li><a href="/wiki/Walima" title="Walima">Walima</a></li>
+<li><a href="/wiki/Wedding_March_(Mendelssohn)" title="Wedding March (Mendelssohn)">Wedding March</a></li>
+<li><a href="/wiki/Wedding_photography" title="Wedding photography">Wedding photography</a></li>
+<li><a href="/wiki/Wedding_videography" title="Wedding videography">Wedding videography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Food and drink</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wedding_breakfast" title="Wedding breakfast">Wedding breakfast</a></li>
+<li><a href="/wiki/Wedding_cake" title="Wedding cake">Wedding cake</a></li>
+<li><a href="/wiki/Wedding_cake_topper" title="Wedding cake topper">Wedding cake topper</a></li>
+<li><a href="/wiki/Cookie_table" title="Cookie table">Cookie table</a></li>
+<li><a href="/wiki/Groom%27s_cake" title="Groom's cake">Groom's cake</a></li>
+<li><a href="/wiki/Hochzeitssuppe" title="Hochzeitssuppe">Hochzeitssuppe</a></li>
+<li><a href="/wiki/Icingtons" title="Icingtons">Icingtons</a></li>
+<li><a href="/wiki/Jordan_almonds" title="Jordan almonds" class="mw-redirect">Jordan almonds</a></li>
+<li><a href="/wiki/Korovai" title="Korovai">Korovai</a></li>
+<li><a href="/wiki/Loving_cup" title="Loving cup">Loving cup</a></li>
+<li><a href="/wiki/Place_card" title="Place card">Place card</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Religion and culture</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anand_Karaj" title="Anand Karaj">Anand Karaj (Sikh)</a></li>
+<li><a href="/wiki/Arab_wedding" title="Arab wedding">Arab</a></li>
+<li><a href="/wiki/Ayie" title="Ayie">Ayie</a></li>
+<li><a href="/wiki/Ayyavazhi_marriage" title="Ayyavazhi marriage">Ayyavazhi</a></li>
+<li><a href="/wiki/Bengali_wedding" title="Bengali wedding">Bengali</a></li>
+<li><a href="/wiki/Bengali_Hindu_wedding" title="Bengali Hindu wedding">Bengali Hindu</a></li>
+<li><a href="/wiki/Brunei_Malay_wedding" title="Brunei Malay wedding">Brunei Malay</a></li>
+<li><a href="/wiki/Chinese_marriage" title="Chinese marriage">Chinese</a></li>
+<li><a href="/wiki/Hindu_wedding" title="Hindu wedding">Hindu</a></li>
+<li><a href="/wiki/Islamic_marital_practices" title="Islamic marital practices">Islamic</a></li>
+<li><a href="/wiki/Iyer_wedding" title="Iyer wedding">Iyer</a></li>
+<li><a href="/wiki/Jewish_wedding" title="Jewish wedding">Jewish</a></li>
+<li><a href="/wiki/Mormon_wedding" title="Mormon wedding" class="mw-redirect">Mormon</a></li>
+<li><a href="/wiki/Oriya_Hindu_wedding" title="Oriya Hindu wedding" class="mw-redirect">Oriya</a></li>
+<li><a href="/wiki/Persian_marriage" title="Persian marriage">Persian</a></li>
+<li><a href="/wiki/Poruwa_ceremony" title="Poruwa ceremony">Poruwa ceremony</a></li>
+<li><a href="/wiki/Punjabi_wedding_traditions" title="Punjabi wedding traditions">Punjabi</a></li>
+<li><a href="/wiki/Quaker_wedding" title="Quaker wedding">Quaker</a></li>
+<li><a href="/wiki/Rajput_wedding" title="Rajput wedding">Rajput</a></li>
+<li><a href="/wiki/Nasrani_wedding" title="Nasrani wedding" class="mw-redirect">Saint Thomas Christian</a></li>
+<li><a href="/wiki/V%C5%91f%C3%A9ly" title="Vőfély">Vőfély (Hungary)</a></li>
+<li><a href="/wiki/Zoroastrian_wedding" title="Zoroastrian wedding">Zoroastrian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">by Country</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/V%C5%91f%C3%A9ly" title="Vőfély">Vőfély (Hungary)</a></li>
+<li><a href="/wiki/Icelandic_weddings" title="Icelandic weddings">Iceland</a></li>
+<li><a href="/wiki/Marriage_in_Pakistan" title="Marriage in Pakistan">Pakistan</a></li>
+<li><a href="/wiki/Marriage_and_wedding_customs_in_the_Philippines" title="Marriage and wedding customs in the Philippines">Philippines</a></li>
+<li><a href="/wiki/Russian_wedding_traditions" title="Russian wedding traditions">Russia</a></li>
+<li><a href="/wiki/South_Asian_wedding" title="South Asian wedding" class="mw-redirect">South Asia</a></li>
+<li><a href="/wiki/Poruwa_ceremony" title="Poruwa ceremony">Sri Lanka</a></li>
+<li><a href="/wiki/Ukrainian_wedding_traditions" title="Ukrainian wedding traditions">Ukraine</a></li>
+<li><a href="/wiki/Weddings_in_the_United_States" title="Weddings in the United States">United States</a></li>
+<li>United Kingdom: <a href="/wiki/Marriage_in_England_and_Wales" title="Marriage in England and Wales">England and Wales</a>, <a href="/wiki/Marriage_in_Scotland" title="Marriage in Scotland">Scotland</a>, <a href="/wiki/History_of_marriage_in_Great_Britain_and_Ireland" title="History of marriage in Great Britain and Ireland">history</a></li>
+<li><a href="/wiki/Traditional_Vietnamese_wedding" title="Traditional Vietnamese wedding">Vietnam</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Honeymoon" title="Honeymoon">Honeymoon</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Honeymoon_registry" title="Honeymoon registry">Honeymoon registry</a></li>
+<li><a href="/wiki/Consummation" title="Consummation">Consummation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Elopement_(marriage)" title="Elopement (marriage)">Elopement</a></li>
+<li><a href="/wiki/Gay_marriage" title="Gay marriage" class="mw-redirect">Equal marriage</a></li>
+<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
+<li><a href="/wiki/Marriage_vows" title="Marriage vows">Marriage vows</a></li>
+<li><a href="/wiki/Posthumous_marriage" title="Posthumous marriage">Posthumous marriage</a></li>
+<li><a href="/wiki/Royal_intermarriage" title="Royal intermarriage">Royal intermarriage</a></li>
+<li><a href="/wiki/List_of_royal_weddings" title="List of royal weddings">Royal weddings</a></li>
+<li><a href="/wiki/Shotgun_wedding" title="Shotgun wedding">Shotgun wedding</a></li>
+<li><a href="/wiki/Knobstick_wedding" title="Knobstick wedding">Knobstick wedding</a></li>
+<li><a href="/wiki/Wedding_anniversary" title="Wedding anniversary">Wedding anniversary</a></li>
+<li><a href="/wiki/Wedding_crashing" title="Wedding crashing">Wedding crashing</a></li>
+<li><a href="/wiki/Wedding_customs_by_country" title="Wedding customs by country">Wedding customs by country</a></li>
+<li><a href="/wiki/Wedding_vow_renewal_ceremony" title="Wedding vow renewal ceremony">Wedding vow renewal ceremony</a></li>
+<li><a href="/wiki/Wife_selling" title="Wife selling">Wife selling</a></li>
+<li><a href="/wiki/Womanless_wedding" title="Womanless wedding">Womanless wedding</a></li>
+<li><a href="/wiki/World_Marriage_Day" title="World Marriage Day">World Marriage Day</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1226
+Cached time: 20151019055852
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.390 seconds
+Real time usage: 0.438 seconds
+Preprocessor visited node count: 3220/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43454/2097152 bytes
+Template argument size: 436/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.046/10.000 seconds
+Lua memory usage: 2.09 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  212.874      1 - -total
+ 67.31%  143.287      1 - Template:Reflist
+ 17.32%   36.878      1 - Template:Cite_news
+ 15.62%   33.248      1 - Template:Commons_category
+  9.73%   20.712      1 - Template:Wedding
+  9.55%   20.325      6 - Template:Cite_journal
+  8.02%   17.069      1 - Template:Navbox
+  5.73%   12.198      2 - Template:Sister_project
+  5.70%   12.129      1 - Template:Commons
+  4.34%    9.230      2 - Template:Side_box
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:26503411-0!*!0!!en!4!* and timestamp 20151019055852 and revision id 686456141
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Arranged_marriage&amp;oldid=686456141">https://en.wikipedia.org/w/index.php?title=Arranged_marriage&amp;oldid=686456141</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Arranged_marriage" title="Category:Arranged marriage">Arranged marriage</a></li><li><a href="/wiki/Category:Matchmaking" title="Category:Matchmaking">Matchmaking</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Arranged+marriage&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Arranged+marriage" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Arranged_marriage"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Arranged_marriage"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Arranged_marriage" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Arranged_marriage&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Arranged_marriage&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Arranged_marriage" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Arranged_marriage" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Arranged_marriage&amp;oldid=686456141" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Arranged_marriage&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1923231" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Arranged_marriage&amp;id=686456141" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Arranged+marriage">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Arranged+marriage&amp;returnto=Arranged+marriage&amp;oldid=686456141&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Arranged_marriage&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B2%D9%88%D8%A7%D8%AC_%D9%85%D8%AF%D8%A8%D8%B1" title="زواج مدبر – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-br"><a href="//br.wikipedia.org/wiki/Dimezi%C3%B1_dre_jubenn" title="Dimeziñ dre jubenn – Breton" lang="br" hreflang="br">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Matrimoni_concertat" title="Matrimoni concertat – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Heiratsvermittlung#Abgrenzung_zur_Zwangsheirat" title="Heiratsvermittlung – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Matrimonio_concertado" title="Matrimonio concertado – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D8%B2%D8%AF%D9%88%D8%A7%D8%AC_%D8%B3%D9%86%D8%AA%DB%8C" title="ازدواج سنتی – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Mariage_arrang%C3%A9" title="Mariage arrangé – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Perjodohan" title="Perjodohan – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Arrangert_ekteskap" title="Arrangert ekteskap – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pa"><a href="//pa.wikipedia.org/wiki/%E0%A8%B5%E0%A8%BF%E0%A8%89%E0%A8%82%E0%A8%A4%E0%A8%AC%E0%A9%B1%E0%A8%A7_%E0%A8%B5%E0%A8%BF%E0%A8%86%E0%A8%B9" title="ਵਿਉਂਤਬੱਧ ਵਿਆਹ – Punjabi" lang="pa" hreflang="pa">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Ma%C5%82%C5%BCe%C5%84stwo_aran%C5%BCowane" title="Małżeństwo aranżowane – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Casamento_arranjado" title="Casamento arranjado – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%BA_%D0%BF%D0%BE_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%91%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Брак по договорённости – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Arranged_marriage" title="Arranged marriage – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Sovittu_avioliitto" title="Sovittu avioliitto – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Arrangerat_%C3%A4ktenskap" title="Arrangerat äktenskap – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-te"><a href="//te.wikipedia.org/wiki/%E0%B0%A8%E0%B0%BF%E0%B0%B6%E0%B1%8D%E0%B0%9A%E0%B0%AF_%E0%B0%B5%E0%B0%BF%E0%B0%B5%E0%B0%BE%E0%B0%B9%E0%B0%82" title="నిశ్చయ వివాహం – Telugu" lang="te" hreflang="te">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A5%E0%B8%B8%E0%B8%A1%E0%B8%96%E0%B8%B8%E0%B8%87%E0%B8%8A%E0%B8%99" title="การคลุมถุงชน – Thai" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/G%C3%B6r%C3%BCc%C3%BCl%C3%BCk" title="Görücülük – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%8C%85%E5%8A%9E%E5%A9%9A%E5%A7%BB" title="包办婚姻 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1923231#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 October 2015, at 05:58.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Arranged_marriage&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1110"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

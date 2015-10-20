@@ -1,0 +1,1034 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Treaty of 1818 - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Treaty_of_1818","wgTitle":"Treaty of 1818","wgCurRevisionId":683958958,"wgRevisionId":683958958,"wgArticleId":716209,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles incorporating a citation from the Encyclopedia Americana with a Wikisource reference","1818 in the United Kingdom","1818 in the United States","Canada–United States border","Pre-statehood history of Oregon","Oregon Country","Legal history of Canada","Boundary treaties","Treaties involving territorial changes","Pre-Confederation British Columbia","Pre-statehood history of Minnesota","1818 treaties","15th United States Congress","United States slavery law","United Kingdom–United States treaties","Treaties of the United Kingdom (1801–1922)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Treaty_of_1818","wgRelevantArticleId":716209,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/2/29/UnitedStatesExpansion.png/100px-UnitedStatesExpansion.png","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q649599","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Treaty_of_1818" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Treaty_of_1818&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Treaty_of_1818&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Treaty_of_1818" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Treaty_of_1818 skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Treaty of 1818</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent" style="width:22em">
+<caption>Treaty of 1818</caption>
+<tr>
+<th colspan="2" class="description" style="text-align:center;font-size:125%;font-weight:bold;font-size: 115%;">Convention respecting fisheries, boundary, and the restoration of slaves</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:UnitedStatesExpansion.png" class="image" title="{{{image_alt}}}"><img alt="{{{image_alt}}}" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/UnitedStatesExpansion.png/180px-UnitedStatesExpansion.png" width="180" height="122" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/UnitedStatesExpansion.png/270px-UnitedStatesExpansion.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/UnitedStatesExpansion.png/360px-UnitedStatesExpansion.png 2x" data-file-width="6154" data-file-height="4164" /></a>
+<div>United States territorial border changes</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Signed</th>
+<td>1818</td>
+</tr>
+<tr>
+<th scope="row">Location</th>
+<td class="location">London, United Kingdom</td>
+</tr>
+<tr>
+<th scope="row">Signatories</th>
+<td class="attendee plainlist">
+<p><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/British_Empire" title="British Empire">British Empire</a><br /></p>
+<span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/US_flag_48_stars.svg/23px-US_flag_48_stars.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/US_flag_48_stars.svg/35px-US_flag_48_stars.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/US_flag_48_stars.svg/46px-US_flag_48_stars.svg.png 2x" data-file-width="1900" data-file-height="1000" /></a></span> United States</td>
+</tr>
+<tr>
+<th scope="row">Languages</th>
+<td class="hlist">English</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/16px-Wikisource-logo.svg.png" width="16" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/32px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /> <a href="//en.wikisource.org/wiki/Treaty_of_1818" class="extiw" title="wikisource:Treaty of 1818">Treaty of 1818</a> at <a href="/wiki/Wikisource" title="Wikisource">Wikisource</a></td>
+</tr>
+</table>
+<p>The <b>Convention respecting fisheries, boundary and the restoration of slaves</b> between the United States of America and the <a href="/wiki/United_Kingdom_of_Great_Britain_and_Ireland" title="United Kingdom of Great Britain and Ireland">United Kingdom of Great Britain and Ireland</a>, also known as the <b>London Convention</b>, <b>Anglo-American Convention of 1818</b>, <b>Convention of 1818</b>, or simply the <b>Treaty of 1818</b>, was a treaty signed in 1818 between the United States and the United Kingdom. Signed during the presidency of <a href="/wiki/James_Monroe" title="James Monroe">James Monroe</a>, it resolved standing boundary issues between the two nations. The treaty allowed for joint occupation and settlement of the <a href="/wiki/Oregon_Country" title="Oregon Country">Oregon Country</a>, known to the British and in Canadian history as the <a href="/wiki/Columbia_District" title="Columbia District">Columbia District</a> of the <a href="/wiki/Hudson%27s_Bay_Company" title="Hudson's Bay Company">Hudson's Bay Company</a>, and including the southern portion of its sister district <a href="/wiki/New_Caledonia_(Canada)" title="New Caledonia (Canada)">New Caledonia</a>.</p>
+<p>The two nations agreed to a boundary line involving the <a href="/wiki/49th_parallel_north" title="49th parallel north">49th parallel north</a>, in part because a straight-line boundary would be easier to survey than the pre-existing boundaries based on watersheds. The treaty marked both the United Kingdom's last permanent major loss of territory in what is now the <a href="/wiki/Continental_United_States" title="Continental United States" class="mw-redirect">Continental United States</a> and the United States' only permanent significant cession of North American territory to a foreign power. Britain ceded all of <a href="/wiki/Rupert%27s_Land" title="Rupert's Land">Rupert's Land</a> south of the 49th parallel and west to the <a href="/wiki/Rocky_Mountains" title="Rocky Mountains">Rocky Mountains</a>, including all of the <a href="/wiki/Red_River_Colony" title="Red River Colony">Red River Colony</a> south of that latitude, while the U.S. ceded the northernmost tip of the <a href="/wiki/Territory_of_Louisiana" title="Territory of Louisiana" class="mw-redirect">territory of Louisiana</a> above the 49th parallel.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Treaty_provisions"><span class="tocnumber">1</span> <span class="toctext">Treaty provisions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Treaty_provisions">Treaty provisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Treaty_of_1818&amp;action=edit&amp;section=1" title="Edit section: Treaty provisions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The treaty name is variously cited as <i>"Convention respecting fisheries, boundary, and the restoration of slaves"</i>,<sup id="cite_ref-US_Treaties_in_Force_2005_1-0" class="reference"><a href="#cite_note-US_Treaties_in_Force_2005-1"><span>[</span>1<span>]</span></a></sup> <i>"Convention of Commerce (Fisheries, Boundary and the Restoration of Slaves)"</i>,<sup id="cite_ref-International_Law_Reports_2-0" class="reference"><a href="#cite_note-International_Law_Reports-2"><span>[</span>2<span>]</span></a></sup> and <i>"Convention of Commerce between His Majesty and the United States of America"</i>.<sup id="cite_ref-Canado-American_Treaties_Text_3-0" class="reference"><a href="#cite_note-Canado-American_Treaties_Text-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-Canado-American_Treaties_Summary_4-0" class="reference"><a href="#cite_note-Canado-American_Treaties_Summary-4"><span>[</span>4<span>]</span></a></sup></p>
+<ul>
+<li>Article I secured fishing rights along <a href="/wiki/Newfoundland_(island)" title="Newfoundland (island)">Newfoundland</a> and <a href="/wiki/Labrador" title="Labrador">Labrador</a> for the U.S.</li>
+<li>Article II set the boundary between <a href="/wiki/British_North_America" title="British North America">British North America</a> and the United States along "a line drawn from the most <a href="/wiki/Northwestern_point_of_the_Lake_of_the_Woods" title="Northwestern point of the Lake of the Woods">northwestern point</a> of the <a href="/wiki/Lake_of_the_Woods" title="Lake of the Woods">Lake of the Woods</a>, [due south, then] along the <a href="/wiki/49th_parallel_north" title="49th parallel north">49th parallel</a> of north latitude..." to the "Stony Mountains"<sup id="cite_ref-Canado-American_Treaties_Text_3-1" class="reference"><a href="#cite_note-Canado-American_Treaties_Text-3"><span>[</span>3<span>]</span></a></sup> (now known as the <a href="/wiki/Rocky_Mountains" title="Rocky Mountains">Rocky Mountains</a>). Britain ceded the part of <a href="/wiki/Rupert%27s_Land" title="Rupert's Land">Rupert's Land</a> and <a href="/wiki/Red_River_Colony" title="Red River Colony">Red River Colony</a> south of the 49th parallel (including the <a href="/wiki/Red_River_Basin" title="Red River Basin" class="mw-redirect">Red River Basin</a> — which now forms parts of <a href="/wiki/Minnesota" title="Minnesota">Minnesota</a>, <a href="/wiki/North_Dakota" title="North Dakota">North Dakota</a>, and <a href="/wiki/South_Dakota" title="South Dakota">South Dakota</a> — as well as a small piece of modern-day <a href="/wiki/Montana" title="Montana">Montana</a> near <a href="/wiki/Triple_Divide_Peak_(Montana)" title="Triple Divide Peak (Montana)">Triple Divide Peak</a>). The United States ceded the small portion of the <a href="/wiki/Louisiana_Purchase" title="Louisiana Purchase">Louisiana Purchase</a> that lay north of the 49th parallel (namely, parts of the <a href="/wiki/Milk_River_(Alberta%E2%80%93Montana)" title="Milk River (Alberta–Montana)">Milk River</a>, <a href="/wiki/Poplar_River_(Montana%E2%80%93Saskatchewan)" title="Poplar River (Montana–Saskatchewan)">Poplar River</a>, and <a href="/wiki/Big_Muddy_Creek_(Missouri_River)" title="Big Muddy Creek (Missouri River)">Big Muddy Creek</a> watersheds in modern-day <a href="/wiki/Alberta" title="Alberta">Alberta</a> and <a href="/wiki/Saskatchewan" title="Saskatchewan">Saskatchewan</a>).
+<ul>
+<li>This article settled a boundary dispute caused by ignorance of actual geography in the boundary agreed to in the 1783 <a href="/wiki/Treaty_of_Paris_(1783)" title="Treaty of Paris (1783)">Treaty of Paris</a> that ended the <a href="/wiki/American_Revolutionary_War" title="American Revolutionary War">American Revolutionary War</a>. That earlier treaty had placed the boundary between the United States and British possessions to the north along a line going westward from the <a href="/wiki/Lake_of_the_Woods" title="Lake of the Woods">Lake of the Woods</a> to the <a href="/wiki/Mississippi_River" title="Mississippi River">Mississippi River</a>. The parties had failed to realize that the river did not extend that far north, so such a line would never meet the river. In fixing this problem, the 1818 treaty inadvertently created an <a href="/wiki/Exclave" title="Exclave" class="mw-redirect">exclave</a> of the United States, the <a href="/wiki/Northwest_Angle" title="Northwest Angle">Northwest Angle</a>, which is the small section of the present state of <a href="/wiki/Minnesota" title="Minnesota">Minnesota</a> that is the only part of the United States outside Alaska north of the 49th parallel.</li>
+</ul>
+</li>
+<li>Article III provided for joint control of land in the <a href="/wiki/Oregon_Country" title="Oregon Country">Oregon Country</a> for ten years. Both could claim land and both were guaranteed free navigation throughout.</li>
+<li>Article IV confirmed the <a href="/w/index.php?title=Anglo-American_Convention_of_1815&amp;action=edit&amp;redlink=1" class="new" title="Anglo-American Convention of 1815 (page does not exist)">Anglo-American Convention of 1815</a>, which regulated commerce between the two parties, for an additional ten years.</li>
+<li>Article V agreed to refer differences over a U.S. claim arising from the <a href="/wiki/Treaty_of_Ghent" title="Treaty of Ghent">Treaty of Ghent</a>, which ended the <a href="/wiki/War_of_1812" title="War of 1812">War of 1812</a>, to "some Friendly Sovereign or State to be named for that purpose." The U.S. claim was for return of, or compensation for, <a href="/wiki/Slavery_in_the_United_States" title="Slavery in the United States">slaves</a> that were in British territory or on British naval vessels when the treaty was signed. The Treaty of Ghent article in question was about handing over property, and the U.S. claimed that these slaves were the property of U.S. citizens.<sup id="cite_ref-Canado-American_Treaties_Text_3-2" class="reference"><a href="#cite_note-Canado-American_Treaties_Text-3"><span>[</span>3<span>]</span></a></sup></li>
+<li>Article VI established that ratification would occur within at most six months of signing the treaty.</li>
+</ul>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Treaty_of_1818&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The treaty was negotiated for the U.S. by <a href="/wiki/Albert_Gallatin" title="Albert Gallatin">Albert Gallatin</a>, ambassador to France, and <a href="/wiki/Richard_Rush" title="Richard Rush">Richard Rush</a>, minister to the UK; and for the UK by <a href="/wiki/Frederick_John_Robinson,_1st_Viscount_Goderich" title="Frederick John Robinson, 1st Viscount Goderich" class="mw-redirect">Frederick John Robinson</a>, Treasurer of the <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a> and member of the <a href="/wiki/Privy_council" title="Privy council">privy council</a>, and <a href="/wiki/Henry_Goulburn" title="Henry Goulburn">Henry Goulburn</a>, an undersecretary of state.<sup id="cite_ref-Canado-American_Treaties_Summary_4-1" class="reference"><a href="#cite_note-Canado-American_Treaties_Summary-4"><span>[</span>4<span>]</span></a></sup> The treaty was signed on October 20, 1818. Ratifications were exchanged on January 30, 1819.<sup id="cite_ref-US_Treaties_in_Force_2005_1-1" class="reference"><a href="#cite_note-US_Treaties_in_Force_2005-1"><span>[</span>1<span>]</span></a></sup> The Convention of 1818, along with the <a href="/wiki/Rush%E2%80%93Bagot_Treaty" title="Rush–Bagot Treaty">Rush–Bagot Treaty</a> of 1817, marked the beginning of improved relations between the British Empire and its former colonies, and paved the way for more positive relations between the U.S. and Canada, notwithstanding that <a href="/wiki/Defence_Scheme_No._1" title="Defence Scheme No. 1">repelling U.S. invasion</a> was a defence priority in Canada until the Second World War.</p>
+<p>After the treaty, the area east of the Oregon Territory, along the border was proposed to be organized as the Pembina Territory, but the U.S. Congress never acted on the proposal.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> Instead the area became the <a href="/wiki/Minnesota_Territory" title="Minnesota Territory">Minnesota Territory</a> and the <a href="/wiki/Dakota_Territory" title="Dakota Territory">Dakota Territory</a>.</p>
+<p>Despite the relatively friendly nature of the agreement, it nevertheless resulted in a fierce struggle for control of the Oregon Country in the following two decades. The British-chartered Hudson's Bay Company, having previously established a trading network centered on <a href="/wiki/Fort_Vancouver" title="Fort Vancouver">Fort Vancouver</a> on the lower Columbia River, with other forts in what is now eastern Washington and Idaho as well as on the Oregon Coast and in Puget Sound, undertook a harsh campaign to restrict encroachment by U.S. fur traders to the area. By the 1830s, with pressure in the U.S. mounting to annex the region outright, the company undertook a deliberate policy to exterminate all fur-bearing animals from the Oregon Country, in order to both maximize its remaining profit and to delay the arrival of U.S. mountain men and settlers. The policy of discouraging settlement was undercut to some degree by the actions of <a href="/wiki/John_McLoughlin" title="John McLoughlin">John McLoughlin</a>, Chief Factor of the Hudson's Bay Company at Fort Vancouver, who regularly provided relief and welcome to U.S. immigrants who had arrived at the post over the <a href="/wiki/Oregon_Trail" title="Oregon Trail">Oregon Trail</a>.</p>
+<p>By the middle 1840s, the tide of U.S. immigration, as well as a U.S. political movement to claim the entire territory, led to a renegotiation of the agreement. The <a href="/wiki/Oregon_Treaty" title="Oregon Treaty">Oregon Treaty</a> in 1846 permanently established the <a href="/wiki/49th_parallel_north" title="49th parallel north">49th parallel</a> as the boundary between the United States and British North America to the Pacific Ocean.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Treaty_of_1818&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Adams%E2%80%93On%C3%ADs_Treaty" title="Adams–Onís Treaty">Adams–Onís Treaty</a> of 1819, between U.S. and Spain, resolved borders from Florida to the Pacific Ocean.</li>
+<li>The <a href="/wiki/Webster%E2%80%93Ashburton_Treaty" title="Webster–Ashburton Treaty">Webster–Ashburton Treaty</a> of 1842 resolved uncertainties left by the 1818 treaty, including the Northwest Angle problem, which had been created by the use of a faulty map.</li>
+<li><a href="/wiki/Oregon_boundary_dispute" title="Oregon boundary dispute">Oregon boundary dispute</a>, concerning the joint occupation of the Oregon Country by U.S. and British settlers.</li>
+<li><a href="/wiki/Treaty_of_Guadalupe_Hidalgo" title="Treaty of Guadalupe Hidalgo">Treaty of Guadalupe Hidalgo</a>, which established most of the southern border between the US and Mexico after the defeat and occupation of Mexico in 1848, ending the <a href="/wiki/Mexican%E2%80%93American_War" title="Mexican–American War">Mexican–American War</a>.</li>
+<li><a href="/wiki/Gadsden_Purchase" title="Gadsden Purchase">The Gadsden Purchase</a>, which completed the acquisition of the southwestern United States and completed the border between Mexico and the US in 1853 at the <a href="/wiki/32nd_parallel_north" title="32nd parallel north">32nd parallel</a> and the <a href="/wiki/Rio_Grande" title="Rio Grande">Rio Grande</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Treaty_of_1818&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-US_Treaties_in_Force_2005-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-US_Treaties_in_Force_2005_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-US_Treaties_in_Force_2005_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/United_States_Department_of_State" title="United States Department of State">United States Department of State</a> (2007-11-01). <a rel="nofollow" class="external text" href="http://www.state.gov/documents/organization/83046.pdf"><i>Treaties In Force: A List of Treaties and Other International Agreements of the United States in Force on November 1, 2007. Section 1: Bilateral Treaties</i></a> <span style="font-size:85%;">(PDF)</span>. Compiled by the Treaty Affairs Staff, Office of the Legal Adviser, U.S. Department of State. (2007 ed.). Washington, DC. p.&#160;320<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATreaty+of+1818&amp;rft.au=United+States+Department+of+State&amp;rft.btitle=Treaties+In+Force%3A+A+List+of+Treaties+and+Other+International+Agreements+of+the+United+States+in+Force+on+November+1%2C+2007.+Section+1%3A+Bilateral+Treaties&amp;rft.date=2007-11-01&amp;rft.edition=2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.state.gov%2Fdocuments%2Forganization%2F83046.pdf&amp;rft.pages=320&amp;rft.place=Washington%2C+DC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-International_Law_Reports-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-International_Law_Reports_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Lauterpacht, Elihu, et al., ed. (2004). <a rel="nofollow" class="external text" href="http://assets.cambridge.org/052180/7794/excerpt/0521807794_excerpt.pdf">"Consolidated Table of Treaties, Volumes 1-125"</a> <span style="font-size:85%;">(PDF)</span>. In Edited by Elihu Lauterpacht, C. J. Greenwood, A. G. Oppenheimer and Karen Lee. <a rel="nofollow" class="external text" href="http://www.cambridge.org/catalogue/catalogue.asp?isbn=0521807794"><i>International Law Reports:</i></a>. Cambridge University Press. p.&#160;8. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-521-80779-4" title="Special:BookSources/0-521-80779-4">0-521-80779-4</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-03-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATreaty+of+1818&amp;rft.atitle=Consolidated+Table+of+Treaties%2C+Volumes+1-125&amp;rft.aufirst=Elihu%2C+et+al.%2C+ed.&amp;rft.aulast=Lauterpacht&amp;rft.btitle=International+Law+Reports%3A&amp;rft.date=2004&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.cambridge.org%2Fcatalogue%2Fcatalogue.asp%3Fisbn%3D0521807794&amp;rft.isbn=0-521-80779-4&amp;rft.pages=8&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Canado-American_Treaties_Text-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Canado-American_Treaties_Text_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Canado-American_Treaties_Text_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Canado-American_Treaties_Text_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">LexUM (2000). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20090411212640/http://www.lexum.umontreal.ca/ca_us/en/cus.1818.15.en.html">"Convention of Commerce between His Majesty and the United States of America.--Signed at London, 20th October, 1818"</a>. <i>Canado-American Treaties</i>. University of Montreal<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-03-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATreaty+of+1818&amp;rft.au=LexUM&amp;rft.btitle=Convention+of+Commerce+between+His+Majesty+and+the+United+States+of+America.--Signed+at+London%2C+20th+October%2C+1818&amp;rft.date=2000&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20090411212640%2Fhttp%3A%2F%2Fwww.lexum.umontreal.ca%2Fca_us%2Fen%2Fcus.1818.15.en.html&amp;rft.pub=University+of+Montreal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Canado-American_Treaties_Summary-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Canado-American_Treaties_Summary_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Canado-American_Treaties_Summary_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">LexUM (1999). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20090325221741/http://www.lexum.umontreal.ca/ca_us/d_212_en.html">"CUS 1818/15 Subject: Commerce"</a>. <i>Canado-American Treaties</i>. University of Montreal<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-03-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATreaty+of+1818&amp;rft.au=LexUM&amp;rft.btitle=CUS+1818%2F15+Subject%3A+Commerce&amp;rft.date=1999&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fweb.archive.org%2Fweb%2F20090325221741%2Fhttp%3A%2F%2Fwww.lexum.umontreal.ca%2Fca_us%2Fd_212_en.html&amp;rft.pub=University+of+Montreal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">22 December 1874 <i>Sacramento Daily Union</i></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Treaty_of_1818&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" width="38" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has original text related to this article:
+<div style="margin-left: 10px;"><b><a href="//en.wikisource.org/wiki/Treaty_of_1818" class="extiw" title="wikisource:Treaty of 1818">Treaty of 1818</a></b></div>
+</td>
+</tr>
+</table>
+<ul>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">"<a href="//en.wikisource.org/wiki/The_Encyclopedia_Americana_(1920)/Fisheries_Question" class="extiw" title="s:The Encyclopedia Americana (1920)/Fisheries Question">Fisheries Question</a>". <i><a href="/wiki/Encyclopedia_Americana" title="Encyclopedia Americana">Encyclopedia Americana</a></i>. 1920.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATreaty+of+1818&amp;rft.atitle=Fisheries+Question&amp;rft.btitle=Encyclopedia+Americana&amp;rft.date=1920&amp;rft.genre=bookitem&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> This article traces British-United States negotiations regarding <a href="/wiki/Ocean_fisheries" title="Ocean fisheries">ocean fisheries</a> from 1783 to 1910.</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:US_growth" title="Template:US growth"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:US_growth" title="Template talk:US growth"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:US_growth&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/United_States_territorial_acquisitions" title="United States territorial acquisitions">Territorial expansion of the United States</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Thirteen_Colonies" title="Thirteen Colonies">Thirteen Colonies (1776)</a></li>
+<li><a href="/wiki/Treaty_of_Paris_(1783)" title="Treaty of Paris (1783)">Treaty of Paris (1783)</a></li>
+<li><a href="/wiki/Louisiana_Purchase" title="Louisiana Purchase">Louisiana Purchase (1803)</a></li>
+<li><strong class="selflink">Red River Cession (1818)</strong></li>
+<li><a href="/wiki/Adams%E2%80%93On%C3%ADs_Treaty" title="Adams–Onís Treaty">Adams–Onís Treaty (1819)</a></li>
+<li><a href="/wiki/Texas_annexation" title="Texas annexation">Texas Annexation (1845)</a></li>
+<li><a href="/wiki/Oregon_Treaty" title="Oregon Treaty">Oregon Treaty (1846)</a></li>
+<li><a href="/wiki/Mexican_Cession" title="Mexican Cession">Mexican Cession (1848)</a></li>
+<li><a href="/wiki/Gadsden_Purchase" title="Gadsden Purchase">Gadsden Purchase (1853)</a></li>
+<li><a href="/wiki/Guano_Islands_Act" title="Guano Islands Act">Guano Islands Act (1856)</a></li>
+<li><a href="/wiki/Alaska_Purchase" title="Alaska Purchase">Alaska Purchase (1867)</a></li>
+<li><a href="/wiki/Newlands_Resolution" title="Newlands Resolution">Annexation of Hawaii (1898)</a></li>
+<li><a href="/wiki/Treaty_of_Paris_(1898)" title="Treaty of Paris (1898)">Treaty of Paris (1898)</a></li>
+<li><a href="/wiki/Tripartite_Convention_(1899)" title="Tripartite Convention (1899)" class="mw-redirect">Tripartite Convention (1899)</a></li>
+<li><a href="/wiki/Treaty_of_Cession_of_Tutuila" title="Treaty of Cession of Tutuila">Treaty of Cession of Tutuila (1900)</a></li>
+<li><a href="/wiki/Treaty_of_Cession_of_Manu%27a" title="Treaty of Cession of Manu'a">Treaty of Cession of Manuʻa (1904)</a></li>
+<li><a href="/wiki/Treaty_of_the_Danish_West_Indies" title="Treaty of the Danish West Indies">Treaty of the Danish West Indies (1917)</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="3" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:UnitedStatesExpansion.png" class="image"><img alt="UnitedStatesExpansion.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/UnitedStatesExpansion.png/100px-UnitedStatesExpansion.png" width="100" height="68" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/UnitedStatesExpansion.png/150px-UnitedStatesExpansion.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/UnitedStatesExpansion.png/200px-UnitedStatesExpansion.png 2x" data-file-width="6154" data-file-height="4164" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>Concept:</i> <b><a href="/wiki/Manifest_destiny" title="Manifest destiny">Manifest destiny</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Oregon_Pioneer_History" title="Template:Oregon Pioneer History"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Oregon_Pioneer_History" title="Template talk:Oregon Pioneer History"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oregon_Pioneer_History&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%">Pioneer history of Oregon (1806–1890)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/American_Fur_Company" title="American Fur Company">American Fur Company</a></li>
+<li><a href="/wiki/Columbian_Exchange" title="Columbian Exchange">Columbian Exchange</a></li>
+<li><a href="/wiki/Executive_Committee_(Oregon_Country)" title="Executive Committee (Oregon Country)">Executive Committee</a></li>
+<li><a href="/wiki/Historic_ferries_in_Oregon" title="Historic ferries in Oregon">Ferries</a></li>
+<li><a href="/wiki/Hudson%27s_Bay_Company" title="Hudson's Bay Company">Hudson's Bay Company</a></li>
+<li><a href="/wiki/Oregon_and_California_Railroad" title="Oregon and California Railroad">Oregon &amp; California Railroad</a></li>
+<li><a href="/wiki/Oregon_boundary_dispute" title="Oregon boundary dispute">Oregon boundary dispute</a></li>
+<li><a href="/wiki/Oregon_Country" title="Oregon Country">Oregon Country</a></li>
+<li><a href="/wiki/Oregon_Lyceum" title="Oregon Lyceum">Oregon Lyceum</a></li>
+<li><a href="/wiki/Oregon_missionaries" title="Oregon missionaries">Oregon missionaries</a></li>
+<li><i><a href="/wiki/Oregon_Spectator" title="Oregon Spectator">Oregon Spectator</a></i></li>
+<li><a href="/wiki/Oregon_Territory" title="Oregon Territory">Oregon Territory</a></li>
+<li><a href="/wiki/Oregon_Trail" title="Oregon Trail">Oregon Trail</a></li>
+<li><a href="/wiki/Oregon_Treaty" title="Oregon Treaty">Oregon Treaty</a></li>
+<li><a href="/wiki/Organic_Laws_of_Oregon" title="Organic Laws of Oregon">Organic Laws</a></li>
+<li><a href="/wiki/Pacific_Fur_Company" title="Pacific Fur Company">Pacific Fur Company</a></li>
+<li><a href="/wiki/Provisional_Government_of_Oregon" title="Provisional Government of Oregon">Provisional Government</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="11" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Oregon_Provisional_Government_Seal.png" class="image" title="Provisional Government of Oregon seal"><img alt="Provisional Government of Oregon seal" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Oregon_Provisional_Government_Seal.png/49px-Oregon_Provisional_Government_Seal.png" width="49" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Oregon_Provisional_Government_Seal.png/74px-Oregon_Provisional_Government_Seal.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Oregon_Provisional_Government_Seal.png/98px-Oregon_Provisional_Government_Seal.png 2x" data-file-width="246" data-file-height="250" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Events</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Treaty of 1818</strong></li>
+<li><a href="/wiki/Russo-American_Treaty_of_1824" title="Russo-American Treaty of 1824">Russo-American Treaty of 1824</a></li>
+<li><a href="/wiki/Willamette_Cattle_Company" title="Willamette Cattle Company">Willamette Cattle Company</a></li>
+<li><a href="/wiki/Champoeg_Meetings" title="Champoeg Meetings">Champoeg Meetings</a></li>
+<li><a href="/wiki/Star_of_Oregon_(event)" title="Star of Oregon (event)">Star of Oregon</a></li>
+<li><a href="/wiki/Whitman_massacre" title="Whitman massacre">Whitman massacre</a></li>
+<li><a href="/wiki/Cayuse_War" title="Cayuse War">Cayuse War</a></li>
+<li><a href="/wiki/Donation_Land_Claim_Act" title="Donation Land Claim Act">Donation Land Claim Act</a></li>
+<li><i><a href="/wiki/Holmes_v._Ford" title="Holmes v. Ford">Holmes v. Ford</a></i></li>
+<li><a href="/wiki/Rogue_River_Wars" title="Rogue River Wars">Rogue River Wars</a></li>
+<li><a href="/wiki/Oregon_Constitutional_Convention" title="Oregon Constitutional Convention">Constitutional Convention</a></li>
+<li><a href="/wiki/Modoc_War" title="Modoc War">Modoc War</a></li>
+<li><a href="/wiki/Great_Gale_of_1880" title="Great Gale of 1880">Great Gale of 1880</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Places</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Albina,_Oregon" title="Albina, Oregon">Albina</a></li>
+<li><a href="/wiki/Applegate_Trail" title="Applegate Trail">Applegate Trail</a></li>
+<li><a href="/wiki/Barlow_Road" title="Barlow Road">Barlow Road</a></li>
+<li><a href="/wiki/Canemah,_Oregon" title="Canemah, Oregon">Canemah</a></li>
+<li><a href="/wiki/Champoeg,_Oregon" title="Champoeg, Oregon">Champoeg</a></li>
+<li><a href="/wiki/Elliott_Cutoff" title="Elliott Cutoff">Elliott Cutoff</a></li>
+<li><a href="/wiki/Fort_Astoria" title="Fort Astoria">Fort Astoria</a></li>
+<li><a href="/wiki/Fort_Dalles" title="Fort Dalles">Fort Dalles</a></li>
+<li><a href="/wiki/Fort_Vancouver" title="Fort Vancouver">Fort Vancouver</a></li>
+<li><a href="/wiki/Fort_William_(Oregon)" title="Fort William (Oregon)">Fort William</a></li>
+<li><a href="/wiki/French_Prairie" title="French Prairie">French Prairie</a></li>
+<li><a href="/wiki/Linn_City,_Oregon" title="Linn City, Oregon">Linn City</a></li>
+<li><a href="/wiki/Meek_Cutoff" title="Meek Cutoff">Meek Cutoff</a></li>
+<li><a href="/wiki/Methodist_Mission" title="Methodist Mission">Methodist Mission</a></li>
+<li><a href="/wiki/Oregon_City,_Oregon" title="Oregon City, Oregon">Oregon City</a></li>
+<li><a href="/wiki/Oregon_Institute" title="Oregon Institute">Oregon Institute</a></li>
+<li><a href="/wiki/Philip_Foster_Farm" title="Philip Foster Farm">Philip Foster Farm</a></li>
+<li><a href="/wiki/Thomas_and_Ruckle_Road" title="Thomas and Ruckle Road">Thomas and Ruckle Road</a></li>
+<li><a href="/wiki/Tualatin_Academy" title="Tualatin Academy">Tualatin Academy</a></li>
+<li><a href="/wiki/Whitman_Mission_National_Historic_Site" title="Whitman Mission National Historic Site">Whitman Mission</a></li>
+<li><a href="/wiki/Willamette_Trading_Post" title="Willamette Trading Post">Willamette Trading Post</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">People</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/George_Abernethy" title="George Abernethy">George Abernethy</a></li>
+<li><a href="/wiki/Jesse_Applegate" title="Jesse Applegate">Jesse Applegate</a></li>
+<li><a href="/wiki/Ira_Babcock" title="Ira Babcock">Ira Babcock</a></li>
+<li><a href="/wiki/Sam_Barlow_(Oregon_pioneer)" title="Sam Barlow (Oregon pioneer)">Sam Barlow</a></li>
+<li><a href="/wiki/Fran%C3%A7ois_Norbert_Blanchet" title="François Norbert Blanchet">François Blanchet</a></li>
+<li><a href="/wiki/Tabitha_Brown" title="Tabitha Brown">Tabitha Brown</a></li>
+<li><a href="/wiki/Matthew_Deady" title="Matthew Deady">Matthew Deady</a></li>
+<li><a href="/wiki/Abigail_Scott_Duniway" title="Abigail Scott Duniway">Abigail Scott Duniway</a></li>
+<li><a href="/wiki/Thomas_Lamb_Eliot" title="Thomas Lamb Eliot">Thomas Lamb Eliot</a></li>
+<li><a href="/wiki/Philip_Foster" title="Philip Foster">Philip Foster</a></li>
+<li><a href="/wiki/Peter_French" title="Peter French">Peter French</a></li>
+<li><a href="/wiki/Joseph_Gale" title="Joseph Gale">Joseph Gale</a></li>
+<li><a href="/wiki/Cornelius_Gilliam" title="Cornelius Gilliam">Cornelius Gilliam</a></li>
+<li><a href="/wiki/David_Hill_(Oregon_politician)" title="David Hill (Oregon politician)">David Hill</a></li>
+<li><a href="/wiki/Chief_Joseph" title="Chief Joseph">Chief Joseph</a></li>
+<li><a href="/wiki/Joseph_Kellogg" title="Joseph Kellogg">Joseph Kellogg</a></li>
+<li><a href="/wiki/Henry_A._G._Lee" title="Henry A. G. Lee">H.A.G. Lee</a></li>
+<li><a href="/wiki/Jason_Lee_(missionary)" title="Jason Lee (missionary)">Jason Lee</a></li>
+<li><a href="/wiki/David_Thomas_Lenox" title="David Thomas Lenox">David Thomas Lenox</a></li>
+<li><a href="/wiki/Asa_Lovejoy" title="Asa Lovejoy">Asa Lovejoy</a></li>
+<li><a href="/wiki/Morton_M._McCarver" title="Morton M. McCarver">Morton M. McCarver</a></li>
+<li><a href="/wiki/John_McLoughlin" title="John McLoughlin">John McLoughlin</a></li>
+<li><a href="/wiki/Joseph_Meek" title="Joseph Meek">Joseph Meek</a></li>
+<li><a href="/wiki/Ezra_Meeker" title="Ezra Meeker">Ezra Meeker</a></li>
+<li><a href="/wiki/James_D._Miller" title="James D. Miller">James D. Miller</a></li>
+<li><a href="/wiki/John_Minto_(Oregon_pioneer)" title="John Minto (Oregon pioneer)">John Minto</a></li>
+<li><a href="/wiki/Robert_Newell_(politician)" title="Robert Newell (politician)">Robert Newell</a></li>
+<li><a href="/wiki/Joel_Palmer" title="Joel Palmer">Joel Palmer</a></li>
+<li><a href="/wiki/Osborne_Russell" title="Osborne Russell">Osborne Russell</a></li>
+<li><a href="/wiki/Sager_orphans" title="Sager orphans">Sager orphans</a></li>
+<li><a href="/wiki/Levi_Scott_(Oregon_politician)" title="Levi Scott (Oregon politician)">Levi Scott</a></li>
+<li><a href="/wiki/Henry_H._Spalding" title="Henry H. Spalding">Henry Spalding</a></li>
+<li><a href="/wiki/William_Vandevert" title="William Vandevert">William Vandevert</a></li>
+<li><a href="/wiki/Elijah_White" title="Elijah White">Elijah White</a></li>
+<li><a href="/wiki/Marcus_Whitman" title="Marcus Whitman">Marcus Whitman</a></li>
+<li><a href="/wiki/Narcissa_Whitman" title="Narcissa Whitman">Narcissa Whitman</a></li>
+<li><a href="/wiki/George_Henry_Williams" title="George Henry Williams">Geo. H. Williams</a></li>
+<li><a href="/wiki/Ewing_Young" title="Ewing Young">Ewing Young</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Transportation</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Columbia_(sidewheeler_1850)" title="Columbia (sidewheeler 1850)"><i>Columbia</i></a></li>
+<li><i><a href="/wiki/Lot_Whitcomb_(sidewheeler)" title="Lot Whitcomb (sidewheeler)">Lot Whitcomb</a></i></li>
+<li><a href="/wiki/Canemah_(sidewheeler)" title="Canemah (sidewheeler)"><i>Canemah</i></a></li>
+<li><i><a href="/wiki/Colonel_Wright_(sternwheeler)" title="Colonel Wright (sternwheeler)">Colonel Wright</a></i></li>
+<li><i><a href="/wiki/Gazelle_(sidewheeler_1854)" title="Gazelle (sidewheeler 1854)">Gazelle</a></i></li>
+<li><a href="/wiki/Oregon_Steam_Navigation_Company" title="Oregon Steam Navigation Company">Oregon Steam Navigation Company</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/History_of_Oregon" title="History of Oregon">Oregon history</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Oregon_Early_History" title="Template:Oregon Early History">pre-Pioneer</a></li>
+<li><a href="/wiki/Oregon_pioneer_history" title="Oregon pioneer history">Pioneer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:James_Monroe" title="Template:James Monroe"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:James_Monroe&amp;action=edit&amp;redlink=1" class="new" title="Template talk:James Monroe (page does not exist)"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:James_Monroe&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/James_Monroe" title="James Monroe">James Monroe</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><span class="nowrap"><a href="/wiki/List_of_Presidents_of_the_United_States" title="List of Presidents of the United States">5th</a> <a href="/wiki/President_of_the_United_States" title="President of the United States">President of the United States</a> (1817–1825)</span></li>
+<li><span class="nowrap"><a href="/wiki/List_of_Secretaries_of_State_of_the_United_States" title="List of Secretaries of State of the United States">5th</a> <a href="/wiki/United_States_Secretary_of_State" title="United States Secretary of State">U.S. Secretary of State</a> (1811–1817)</span></li>
+<li><span class="nowrap"><a href="/wiki/United_States_Secretary_of_War" title="United States Secretary of War">United States Secretary of War</a> (1814–1815)</span></li>
+<li><span class="nowrap"><a href="/wiki/Governor_of_Virginia" title="Governor of Virginia">Governor of Virginia</a> (1799–1802, 1811)</span></li>
+<li><span class="nowrap"><a href="/wiki/United_States_Minister_to_the_United_Kingdom" title="United States Minister to the United Kingdom" class="mw-redirect">United States Minister to the United Kingdom</a> (1803–1808)</span></li>
+<li><span class="nowrap"><a href="/wiki/United_States_Minister_to_France" title="United States Minister to France" class="mw-redirect">United States Minister to France</a> (1794–1796)</span></li>
+<li><span class="nowrap"><a href="/wiki/United_States_Senator" title="United States Senator" class="mw-redirect">United States Senator</a> from <a href="/wiki/Virginia" title="Virginia">Virginia</a> (1790–1794)</span></li>
+<li><span class="nowrap">Delegate to the <a href="/wiki/Congress_of_the_Confederation" title="Congress of the Confederation">Congress of the Confederation</a> from <a href="/wiki/Virginia" title="Virginia">Virginia</a> (1783–1786)</span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Founding_Fathers_of_the_United_States" title="Founding Fathers of the United States">Founding events</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Virginia_Ratifying_Convention" title="Virginia Ratifying Convention">Virginia Ratifying Convention</a></li>
+<li><a href="/wiki/Founding_Fathers_of_the_United_States" title="Founding Fathers of the United States">Founding Fathers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Presidency_of_James_Monroe" title="Presidency of James Monroe" class="mw-redirect">Presidency</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/First_inauguration_of_James_Monroe" title="First inauguration of James Monroe">First inauguration</a></li>
+<li><a href="/wiki/Second_inauguration_of_James_Monroe" title="Second inauguration of James Monroe">Second inauguration</a></li>
+<li><a href="/wiki/Adams%E2%80%93On%C3%ADs_Treaty" title="Adams–Onís Treaty">Florida Treaty</a></li>
+<li><strong class="selflink">Treaty of 1818</strong></li>
+<li><a href="/wiki/Panic_of_1819" title="Panic of 1819">Panic of 1819</a></li>
+<li><a href="/wiki/Era_of_Good_Feelings" title="Era of Good Feelings">Era of Good Feelings</a></li>
+<li><a href="/wiki/Missouri_Compromise" title="Missouri Compromise">Missouri Compromise</a></li>
+<li><a href="/wiki/Seminole_Wars" title="Seminole Wars">Seminole Wars</a></li>
+<li><a href="/wiki/Monroe_Doctrine" title="Monroe Doctrine">Monroe Doctrine</a></li>
+<li><a href="/wiki/Tariff_of_1824" title="Tariff of 1824">Tariff of 1824</a></li>
+<li><a href="/wiki/1824_State_of_the_Union_Address" title="1824 State of the Union Address">State of the Union Address, 1824</a></li>
+<li><a href="/wiki/James_Monroe#Administration_and_cabinet" title="James Monroe">Cabinet</a></li>
+<li><a href="/wiki/List_of_federal_judges_appointed_by_James_Monroe" title="List of federal judges appointed by James Monroe">Federal judiciary appointments</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other noted<br />
+accomplisments</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Louisiana_Purchase" title="Louisiana Purchase">Negotiated the Louisiana Purchase</a></li>
+<li><a href="/wiki/Monroe%E2%80%93Pinkney_Treaty" title="Monroe–Pinkney Treaty">Monroe–Pinkney Treaty</a></li>
+<li><a href="/wiki/War_of_1812" title="War of 1812">War of 1812</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Life</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/James_Monroe#Early_life" title="James Monroe">Early life and career</a></li>
+<li><a href="/wiki/James_Monroe_Family_Home_Site" title="James Monroe Family Home Site">Birthplace and boyhood home</a></li>
+<li><a href="/wiki/James_Monroe#Military_service_in_the_Revolutionary_War_and_serious_wounding" title="James Monroe">Revolutionary War service</a>
+<ul>
+<li><a href="/wiki/Battle_of_Trenton" title="Battle of Trenton">Battle of Trenton</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Brown_College_at_Monroe_Hill#Activities_and_history" title="Brown College at Monroe Hill">Monroe Hill home and office</a></li>
+<li><a href="/wiki/James_Monroe_Law_Office" title="James Monroe Law Office">James Monroe Law Office, Museum, and Memorial Library</a></li>
+<li><a href="/wiki/Ash_Lawn%E2%80%93Highland" title="Ash Lawn–Highland">Ash Lawn–Highland</a></li>
+<li><a href="/wiki/Oak_Hill_(James_Monroe_House)" title="Oak Hill (James Monroe House)">Oak Hill</a></li>
+<li><a href="/wiki/James_Monroe_Tomb" title="James Monroe Tomb">James Monroe Tomb</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Elections</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/United_States_Senate_elections,_1790_and_1791" title="United States Senate elections, 1790 and 1791">U.S. Senate election, 1790</a></li>
+<li><a href="/wiki/United_States_Senate_elections,_1792_and_1793" title="United States Senate elections, 1792 and 1793">1792</a></li>
+<li><a href="/wiki/Governor_of_Virginia" title="Governor of Virginia">Governor of Virginia election, 1799</a></li>
+<li><a href="/wiki/United_States_presidential_election,_1808" title="United States presidential election, 1808">U.S. presidential election, 1808</a></li>
+<li><a href="/wiki/United_States_presidential_election,_1816" title="United States presidential election, 1816">1816</a></li>
+<li><a href="/wiki/United_States_presidential_election,_1820" title="United States presidential election, 1820">1820</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Legacy and<br />
+popular culture</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Monrovia" title="Monrovia">Monrovia, capital of Liberia</a></li>
+<li><a href="/wiki/List_of_places_named_for_James_Monroe" title="List of places named for James Monroe">List of places named for James Monroe</a></li>
+<li><a href="/wiki/Monroe,_Michigan" title="Monroe, Michigan">Monroe, Michigan</a></li>
+<li><a href="/wiki/Monroe,_Georgia" title="Monroe, Georgia">Monroe, Georgia</a></li>
+<li><a href="/wiki/Monroe_County,_Kentucky" title="Monroe County, Kentucky">Monroe County, Kentucky</a></li>
+<li><a href="/wiki/Monroe_County,_New_York" title="Monroe County, New York">Monroe County, New York</a></li>
+<li><a href="/wiki/Monroe_Township,_Middlesex_County,_New_Jersey" title="Monroe Township, Middlesex County, New Jersey">Monroe Township, New Jersey</a></li>
+<li><a href="/wiki/U.S._presidents_on_U.S._postage_stamps#James_Monroe" title="U.S. presidents on U.S. postage stamps">U.S. postage stamps</a></li>
+<li><a href="/wiki/Monroe_Doctrine_Centennial_half_dollar" title="Monroe Doctrine Centennial half dollar">Monroe Doctrine Centennial half dollar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Virginia_Dynasty" title="Virginia Dynasty" class="mw-redirect">Virginia Dynasty</a></li>
+<li><a href="/wiki/James_Monroe#Slavery" title="James Monroe">Monroe on slavery</a>
+<ul>
+<li><a href="/wiki/American_Colonization_Society" title="American Colonization Society">American Colonization Society</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Family</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Elizabeth_Kortright_Monroe" title="Elizabeth Kortright Monroe" class="mw-redirect">Elizabeth Kortright</a> <small>(wife)</small></li>
+<li><a href="/wiki/George_Hay_(Virginia)" title="George Hay (Virginia)">George Hay</a> <small>(son-in-law)</small></li>
+<li><a href="/wiki/Samuel_L._Gouverneur" title="Samuel L. Gouverneur">Samuel L. Gouverneur</a> <small>(son-in-law)</small></li>
+<li>Spence Monroe <small>(father)</small></li>
+<li>Elizabeth Jones <small>(mother)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><a href="/wiki/Template:James_Madison" title="Template:James Madison">← James Madison</a></b></li>
+<li><b><a href="/wiki/Template:John_Quincy_Adams" title="Template:John Quincy Adams">John Quincy Adams →</a></b></li>
+</ul>
+<ul>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="//commons.wikimedia.org/wiki/Special:Search/James_Monroe" class="extiw" title="commons:Special:Search/James Monroe"><b>Commons</b></a></li>
+<li><img alt="Wikibooks page" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/16px-Wikibooks-logo.svg.png" title="Wikibooks page" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/24px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/32px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /> <a href="//en.wikibooks.org/wiki/Special:Search/James_Monroe" class="extiw" title="wikibooks:Special:Search/James Monroe"><b>Wikibooks</b></a></li>
+<li><img alt="Wikiquote page" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/13px-Wikiquote-logo.svg.png" title="Wikiquote page" width="13" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/20px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/27px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /> <a href="//en.wikiquote.org/wiki/Special:Search/James_Monroe" class="extiw" title="wikiquote:Special:Search/James Monroe"><b>Wikiquote</b></a></li>
+<li><img alt="Wikisource page" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/15px-Wikisource-logo.svg.png" title="Wikisource page" width="15" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/23px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /> <a href="//en.wikisource.org/wiki/Special:Search/Author:James_Monroe" class="extiw" title="wikisource:Special:Search/Author:James Monroe"><b>Wikisource texts</b></a></li>
+<li><b><a href="/wiki/Portal:Government_of_the_United_States/Executive_branch" title="Portal:Government of the United States/Executive branch">US Presidency Portal</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:John_Quincy_Adams" title="Template:John Quincy Adams"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:John_Quincy_Adams" title="Template talk:John Quincy Adams"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:John_Quincy_Adams&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/John_Quincy_Adams" title="John Quincy Adams">John Quincy Adams</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><span class="nowrap"><a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">United States House of Representatives, 1831-1848</a></span></li>
+<li><span class="nowrap"><a href="/wiki/List_of_Presidents_of_the_United_States" title="List of Presidents of the United States">6th</a> <a href="/wiki/President_of_the_United_States" title="President of the United States">President of the United States, 1825-1829</a></span></li>
+<li><span class="nowrap"><a href="/wiki/List_of_United_States_Secretaries_of_State" title="List of United States Secretaries of State" class="mw-redirect">8th</a> <a href="/wiki/United_States_Secretary_of_State" title="United States Secretary of State">U.S. Secretary of State, 1817-1825</a></span></li>
+<li><span class="nowrap"><a href="/wiki/United_States_Ambassador_to_the_United_Kingdom" title="United States Ambassador to the United Kingdom">U.S. Ambassador to the United Kingdom, 1814-1817</a></span></li>
+<li><span class="nowrap"><a href="/wiki/United_States_Minister_to_Russia" title="United States Minister to Russia" class="mw-redirect">1st U.S. Minister to Russia, 1809-1814</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Massachusetts_State_Senate" title="Massachusetts State Senate" class="mw-redirect">Massachusetts State Senate, 1803-1808</a></span></li>
+<li><span class="nowrap"><a href="/wiki/United_States_Minister_to_Prussia" title="United States Minister to Prussia" class="mw-redirect">U.S. Minister to Prussia, 1797-1801</a></span></li>
+<li><span class="nowrap"><a href="/wiki/United_States_Ambassador_to_the_Netherlands" title="United States Ambassador to the Netherlands">U.S. Ambassador to the Netherlands, 1794-1797</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/John_Quincy_Adams#Presidency_.281825.E2.80.931829.29" title="John Quincy Adams">Presidency</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Inauguration_of_John_Quincy_Adams" title="Inauguration of John Quincy Adams">Inauguration</a></li>
+<li><a href="/wiki/American_System_(economic_plan)" title="American System (economic plan)">American System</a></li>
+<li><a href="/wiki/Internal_improvements" title="Internal improvements">Internal improvements</a></li>
+<li><a href="/wiki/Tariff_of_1828" title="Tariff of 1828" class="mw-redirect">Tariff of 1828</a></li>
+<li><a href="/wiki/Treaty_of_Prairie_du_Chien#1825" title="Treaty of Prairie du Chien">Treaty of Prairie du Chien</a></li>
+<li><a href="/wiki/Treaty_of_Fond_du_Lac#1826_Treaty_of_Fond_du_Lac" title="Treaty of Fond du Lac">Treaty of Fond du Lac</a></li>
+<li><a href="/wiki/Treaty_of_Limits_(Mexico%E2%80%93United_States)" title="Treaty of Limits (Mexico–United States)">Treaty of Limits</a></li>
+<li><a href="/wiki/United_States_Naval_Observatory#History" title="United States Naval Observatory">United States Naval Observatory</a></li>
+<li><a href="/wiki/Abdulrahman_Ibrahim_Ibn_Sori" title="Abdulrahman Ibrahim Ibn Sori">Abdulrahman Ibrahim Ibn Sori</a></li>
+<li><a href="/wiki/1825_State_of_the_Union_Address" title="1825 State of the Union Address">State of the Union Address, 1825</a></li>
+<li><a href="/wiki/1827_State_of_the_Union_Address" title="1827 State of the Union Address">1827</a></li>
+<li><a href="/wiki/1828_State_of_the_Union_Address" title="1828 State of the Union Address">1828</a></li>
+<li><a href="/wiki/List_of_federal_judges_appointed_by_John_Quincy_Adams" title="List of federal judges appointed by John Quincy Adams">Federal judiciary appointments</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other<br />
+events</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Monroe_Doctrine" title="Monroe Doctrine">Monroe Doctrine, author</a></li>
+<li><a href="/wiki/Treaty_of_Ghent" title="Treaty of Ghent">Treaty of Ghent</a></li>
+<li><a href="/wiki/Adams%E2%80%93On%C3%ADs_Treaty" title="Adams–Onís Treaty">Adams–Onís Treaty</a></li>
+<li><strong class="selflink">Treaty of 1818</strong></li>
+<li><a href="/wiki/Smithsonian_Institution#Founding" title="Smithsonian Institution">Smithsonian Institution</a></li>
+<li><a href="/wiki/United_States_v._The_Amistad" title="United States v. The Amistad"><i>United States v. The Amistad</i></a>
+<ul>
+<li><a href="/wiki/Mendi_Bible" title="Mendi Bible">Mendi Bible</a></li>
+</ul>
+</li>
+<li><a href="/wiki/American_Academy_of_Arts_and_Sciences" title="American Academy of Arts and Sciences">President, American Academy of Arts and Sciences</a></li>
+<li><a href="/wiki/Columbian_Institute_for_the_Promotion_of_Arts_and_Sciences" title="Columbian Institute for the Promotion of Arts and Sciences">President, Columbian Institute for the Promotion of Arts and Sciences</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Writings</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_Quincy_Adams#Diaries" title="John Quincy Adams">Lifelong diary</a></li>
+<li><a href="/wiki/Massachusetts_Historical_Society#Collections" title="Massachusetts Historical Society">Massachusetts Historical Society holdings</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Life and<br />
+homes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_Quincy_Adams#Early_life.2C_education.2C_and_early_career" title="John Quincy Adams">Early life</a></li>
+<li><a href="/wiki/Abigail_Adams_Cairn" title="Abigail Adams Cairn">Abigail Adams Cairn</a></li>
+<li><a href="/wiki/John_Quincy_Adams_and_abolitionism" title="John Quincy Adams and abolitionism">John Quincy Adams and abolitionism</a></li>
+<li><a href="/wiki/Adams_National_Historical_Park" title="Adams National Historical Park">Adams National Historical Park</a>
+<ul>
+<li><a href="/wiki/John_Quincy_Adams_Birthplace" title="John Quincy Adams Birthplace">Birthplace and family home</a></li>
+<li><a href="/wiki/Peacefield" title="Peacefield">Peacefield</a></li>
+<li><a href="/wiki/Adams_National_Historical_Park#Stone_Library" title="Adams National Historical Park">Presidential Library</a></li>
+</ul>
+</li>
+<li><a href="/wiki/United_First_Parish_Church_(Quincy,_Massachusetts)" title="United First Parish Church (Quincy, Massachusetts)" class="mw-redirect">United First Parish Church and gravesite</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Elections</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/United_States_presidential_election,_1824" title="United States presidential election, 1824">United States presidential election, 1824</a>
+<ul>
+<li><a href="/wiki/Corrupt_Bargain#1824_election" title="Corrupt Bargain">Corrupt Bargain</a></li>
+</ul>
+</li>
+<li><a href="/wiki/United_States_presidential_election,_1828" title="United States presidential election, 1828">United States presidential election, 1828</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Legacy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adams_Memorial" title="Adams Memorial">Adams Memorial</a></li>
+<li><a href="/wiki/Adams_House_(Harvard_University)" title="Adams House (Harvard University)">Adams House at Harvard University</a></li>
+<li><a href="/wiki/U.S._presidents_on_U.S._postage_stamps#John_Quincy_Adams" title="U.S. presidents on U.S. postage stamps">Postage stamps</a></li>
+<li><a href="/wiki/Monroe_Doctrine_Centennial_half_dollar" title="Monroe Doctrine Centennial half dollar">Monroe Doctrine Centennial half dollar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Popular<br />
+culture</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Profiles_in_Courage" title="Profiles in Courage"><i>Profiles in Courage</i> <small>(1957 book</small></a></li>
+<li><a href="/wiki/Profiles_in_Courage_(TV_series)" title="Profiles in Courage (TV series)"><small>1965 television series)</small></a></li>
+<li><a href="/wiki/The_Adams_Chronicles" title="The Adams Chronicles"><i>The Adams Chronicles</i> <small>(1976 miniseries)</small></a></li>
+<li><a href="/wiki/Amistad_(film)" title="Amistad (film)"><i>Amistad</i> <small>(1997 film</small></a></li>
+<li><a href="/wiki/Mutiny_on_the_Amistad:_The_Saga_of_a_Slave_Revolt_and_Its_Impact_on_American_Abolition,_Law,_and_Diplomacy" title="Mutiny on the Amistad: The Saga of a Slave Revolt and Its Impact on American Abolition, Law, and Diplomacy" class="mw-redirect"><i>Mutiny on the Amistad</i> <small>1987 book)</small></a></li>
+<li><a href="/wiki/John_Adams_(book)" title="John Adams (book)"><i>John Adams</i> <small>(2001 book</small></a></li>
+<li><a href="/wiki/John_Adams_(miniseries)" title="John Adams (miniseries)"><small>2008 miniseries)</small></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Adams_political_family" title="Adams political family">Adams family</a><br />
+<a href="/wiki/Quincy_political_family" title="Quincy political family">Quincy family</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Louisa_Adams" title="Louisa Adams">Louisa Adams <small>(wife)</small></a></li>
+<li><a href="/wiki/George_Washington_Adams" title="George Washington Adams">George W. Adams <small>(son)</small></a></li>
+<li><a href="/wiki/Charles_Francis_Adams,_Sr." title="Charles Francis Adams, Sr.">Charles Adams, Sr. <small>(son)</small></a></li>
+<li><a href="/wiki/John_Adams_II" title="John Adams II">John Adams <small>(son)</small></a></li>
+<li><a href="/wiki/Henry_Adams" title="Henry Adams">Henry Adams <small>(grandson)</small></a></li>
+<li><a href="/wiki/Brooks_Adams" title="Brooks Adams">Brooks Adams <small>(grandson)</small></a></li>
+<li><a href="/wiki/John_Quincy_Adams_II" title="John Quincy Adams II">John Q. Adams <small>(grandson)</small></a></li>
+<li><a href="/wiki/John_Adams" title="John Adams">John Adams <small>(father</small></a></li>
+<li><a href="/wiki/Presidency_of_John_Adams" title="Presidency of John Adams" class="mw-redirect"><small>presidency)</small></a></li>
+<li><a href="/wiki/Abigail_Adams" title="Abigail Adams">Abigail Adams <small>(mother</small></a></li>
+<li><a href="/wiki/First_Ladies_of_the_United_States" title="First Ladies of the United States" class="mw-redirect"><small>First Lady</small>)</a></li>
+<li><a href="/wiki/Abigail_Adams_Smith" title="Abigail Adams Smith">Abigail Adams Smith <small>(sister)</small></a></li>
+<li><a href="/wiki/Charles_Adams_(1770%E2%80%931800)" title="Charles Adams (1770–1800)">Charles Adams <small>(brother)</small></a></li>
+<li><a href="/wiki/Thomas_Boylston_Adams_(1772%E2%80%931832)" title="Thomas Boylston Adams (1772–1832)">Thomas Boylston Adams <small>(brother)</small></a></li>
+<li><a href="/wiki/John_Adams,_Sr." title="John Adams, Sr.">John Adams, Sr. <small>(grandfather)</small></a></li>
+<li><a href="/wiki/Susanna_Boylston" title="Susanna Boylston">Susanna Boylston <small>(grandmother)</small></a></li>
+<li><a href="/wiki/Elihu_Adams" title="Elihu Adams">Elihu Adams <small>(uncle)</small></a></li>
+<li><a href="/wiki/John_Quincy" title="John Quincy">John Quincy <small>(great-grandfather)</small></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Republican_Party" title="National Republican Party">National Republican Party</a></li>
+<li><a href="/wiki/Republicanism_in_the_United_States" title="Republicanism in the United States">Republicanism</a></li>
+<li><a href="/wiki/The_Patriot_Ledger" title="The Patriot Ledger"><i>Quincy Patriot</i></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><b><a href="/wiki/Template:James_Monroe" title="Template:James Monroe">← James Monroe</a></b></li>
+<li><b><a href="/w/index.php?title=Template:Andrew_Jackson&amp;action=edit&amp;redlink=1" class="new" title="Template:Andrew Jackson (page does not exist)">Andrew Jackson →</a></b></li>
+</ul>
+<ul>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="//commons.wikimedia.org/wiki/Special:Search/John_Quincy_Adams" class="extiw" title="commons:Special:Search/John Quincy Adams"><b>Commons</b></a></li>
+<li><img alt="Wikibooks page" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/16px-Wikibooks-logo.svg.png" title="Wikibooks page" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/24px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/32px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /> <a href="//en.wikibooks.org/wiki/Special:Search/John_Quincy_Adams" class="extiw" title="wikibooks:Special:Search/John Quincy Adams"><b>Wikibooks</b></a></li>
+<li><img alt="Wikiquote page" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/13px-Wikiquote-logo.svg.png" title="Wikiquote page" width="13" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/20px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/27px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /> <a href="//en.wikiquote.org/wiki/Special:Search/John_Quincy_Adams" class="extiw" title="wikiquote:Special:Search/John Quincy Adams"><b>Wikiquote</b></a></li>
+<li><img alt="Wikisource page" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/15px-Wikisource-logo.svg.png" title="Wikisource page" width="15" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/23px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /> <a href="//en.wikisource.org/wiki/Special:Search/Author:John_Quincy_Adams" class="extiw" title="wikisource:Special:Search/Author:John Quincy Adams"><b>Wikisource texts</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1215
+Cached time: 20151014115921
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.308 seconds
+Real time usage: 0.543 seconds
+Preprocessor visited node count: 1557/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 94252/2097152 bytes
+Template argument size: 2307/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.094/10.000 seconds
+Lua memory usage: 2.73 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  402.372      1 - -total
+ 36.36%  146.302      1 - Template:USgrowth
+ 18.54%   74.590      1 - Template:Reflist
+ 16.21%   65.210      1 - Template:Infobox_treaty
+ 15.02%   60.436      1 - Template:Infobox
+ 14.62%   58.839      4 - Template:Navbox
+ 10.97%   44.154      2 - Template:Cite_book
+  7.22%   29.068      1 - Template:John_Quincy_Adams
+  6.99%   28.118      1 - Template:James_Monroe
+  4.85%   19.516      1 - Template:Wikisource
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:716209-0!*!0!!en!4!* and timestamp 20151014115921 and revision id 683958958
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Treaty_of_1818&amp;oldid=683958958">https://en.wikipedia.org/w/index.php?title=Treaty_of_1818&amp;oldid=683958958</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1818_in_the_United_Kingdom" title="Category:1818 in the United Kingdom">1818 in the United Kingdom</a></li><li><a href="/wiki/Category:1818_in_the_United_States" title="Category:1818 in the United States">1818 in the United States</a></li><li><a href="/wiki/Category:Canada%E2%80%93United_States_border" title="Category:Canada–United States border">Canada–United States border</a></li><li><a href="/wiki/Category:Pre-statehood_history_of_Oregon" title="Category:Pre-statehood history of Oregon">Pre-statehood history of Oregon</a></li><li><a href="/wiki/Category:Oregon_Country" title="Category:Oregon Country">Oregon Country</a></li><li><a href="/wiki/Category:Legal_history_of_Canada" title="Category:Legal history of Canada">Legal history of Canada</a></li><li><a href="/wiki/Category:Boundary_treaties" title="Category:Boundary treaties">Boundary treaties</a></li><li><a href="/wiki/Category:Treaties_involving_territorial_changes" title="Category:Treaties involving territorial changes">Treaties involving territorial changes</a></li><li><a href="/wiki/Category:Pre-Confederation_British_Columbia" title="Category:Pre-Confederation British Columbia">Pre-Confederation British Columbia</a></li><li><a href="/wiki/Category:Pre-statehood_history_of_Minnesota" title="Category:Pre-statehood history of Minnesota">Pre-statehood history of Minnesota</a></li><li><a href="/wiki/Category:1818_treaties" title="Category:1818 treaties">1818 treaties</a></li><li><a href="/wiki/Category:15th_United_States_Congress" title="Category:15th United States Congress">15th United States Congress</a></li><li><a href="/wiki/Category:United_States_slavery_law" title="Category:United States slavery law">United States slavery law</a></li><li><a href="/wiki/Category:United_Kingdom%E2%80%93United_States_treaties" title="Category:United Kingdom–United States treaties">United Kingdom–United States treaties</a></li><li><a href="/wiki/Category:Treaties_of_the_United_Kingdom_(1801%E2%80%931922)" title="Category:Treaties of the United Kingdom (1801–1922)">Treaties of the United Kingdom (1801–1922)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_Encyclopedia_Americana_with_a_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the Encyclopedia Americana with a Wikisource reference">Wikipedia articles incorporating a citation from the Encyclopedia Americana with a Wikisource reference</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Treaty+of+1818&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Treaty+of+1818" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Treaty_of_1818"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Treaty_of_1818"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Treaty_of_1818" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Treaty_of_1818&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Treaty_of_1818&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Treaty_of_1818" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Treaty_of_1818" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Treaty_of_1818&amp;oldid=683958958" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Treaty_of_1818&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q649599" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Treaty_of_1818&amp;id=683958958" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Treaty+of+1818">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Treaty+of+1818&amp;returnto=Treaty+of+1818&amp;oldid=683958958&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Treaty_of_1818&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B0-%D0%B0%D0%BC%D0%B5%D1%80%D1%8B%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%B0%D0%BD%D0%B2%D0%B5%D0%BD%D1%86%D1%8B%D1%8F,_1818" title="Англа-амерыканская канвенцыя, 1818 – Belarusian" lang="be" hreflang="be">Беларуская</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Londoner_Vertrag_(1818)" title="Londoner Vertrag (1818) – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Convention_de_1818" title="Convention de 1818 – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/1818%EB%85%84_%EC%A1%B0%EC%95%BD" title="1818년 조약 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Trattato_del_1818" title="Trattato del 1818 – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-krc"><a href="//krc.wikipedia.org/wiki/1818_%D0%B4%D0%B6%D1%8B%D0%BB%D0%B3%D1%8A%D1%8B_%D0%B8%D0%BD%D0%B3%D0%B8%D0%BB%D0%B8%D0%B7-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD_%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%BD%D1%86%D0%B8%D1%8F" title="1818 джылгъы ингилиз-американ конвенция – Karachay-Balkar" lang="krc" hreflang="krc">Къарачай-малкъар</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Verdrag_van_1818" title="Verdrag van 1818 – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Konwencja_z_1818" title="Konwencja z 1818 – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Tratado_de_1818" title="Tratado de 1818 – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Tratatul_din_1818" title="Tratatul din 1818 – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%BE-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_(1818)" title="Англо-американская конвенция (1818) – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Anglo-Amerikanska_f%C3%B6rdraget" title="Anglo-Amerikanska fördraget – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C6%B0%E1%BB%9Bc_1818" title="Hiệp ước 1818 – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/1818%E5%B9%B4%E6%9D%A1%E7%BA%A6" title="1818年条约 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q649599#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 October 2015, at 17:18.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Treaty_of_1818&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":67,"wgHostname":"mw1244"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

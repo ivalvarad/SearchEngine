@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Dryandra subg. Diplophragma - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dryandra_subg._Diplophragma","wgTitle":"Dryandra subg. Diplophragma","wgCurRevisionId":579257029,"wgRevisionId":579257029,"wgArticleId":8717837,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Banksia taxa by scientific name","Banksia ser. Dryandra","Historically recognized angiosperm taxa","Plant subgenera"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dryandra_subg._Diplophragma","wgRelevantArticleId":8717837,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5309636","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dryandra_subg._Diplophragma" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dryandra_subg._Diplophragma&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Dryandra_subg._Diplophragma&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Dryandra_subg._Diplophragma" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Dryandra_subg_Diplophragma skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><i>Dryandra</i> subg. <i>Diplophragma</i></h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b><i>Dryandra</i> subg. <i>Diplophragma</i></b> is an obsolete subgenus within the former genus <i>Dryandra</i> (now <a href="/wiki/Banksia_ser._Dryandra" title="Banksia ser. Dryandra"><i>Banksia</i> ser. <i>Dryandra</i></a>). It was first published by <a href="/wiki/Robert_Brown_(botanist)" title="Robert Brown (botanist)">Robert Brown</a> in 1830, but was discarded by <a href="/wiki/George_Bentham" title="George Bentham">George Bentham</a> in 1870. It was reinstated with a new circumscription by <a href="/wiki/Alex_George" title="Alex George">Alex George</a> in 1996, but was ultimately discarded again in 2007 when <a href="/wiki/Austin_Mast" title="Austin Mast">Austin Mast</a> and <a href="/wiki/Kevin_Thiele" title="Kevin Thiele">Kevin Thiele</a> sunk <i>Dryandra</i> into <i><a href="/wiki/Banksia" title="Banksia">Banksia</a></i>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#According_to_Brown"><span class="tocnumber">1</span> <span class="toctext">According to Brown</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#According_to_Meissner"><span class="tocnumber">2</span> <span class="toctext">According to Meissner</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#According_to_Bentham"><span class="tocnumber">3</span> <span class="toctext">According to Bentham</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#According_to_George"><span class="tocnumber">4</span> <span class="toctext">According to George</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Recent_developments"><span class="tocnumber">5</span> <span class="toctext">Recent developments</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="According_to_Brown">According to Brown</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dryandra_subg._Diplophragma&amp;action=edit&amp;section=1" title="Edit section: According to Brown">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Diplographma</i> was first published by Brown in his 1830 <i><a href="/wiki/Supplementum_primum_prodromi_florae_Novae_Hollandiae" title="Supplementum primum prodromi florae Novae Hollandiae" class="mw-redirect">Supplementum primum prodromi florae Novae Hollandiae</a></i>. <a href="/wiki/Brown%27s_taxonomic_arrangement_of_Dryandra" title="Brown's taxonomic arrangement of Dryandra">Brown's arrangement</a> divided <i>Dryandra</i> into three groups according to what Brown perceived to be variations in the number of seed separators. He allowed for these groups to be treated at subgenus or section rank,<sup id="cite_ref-Brown_1830_1-0" class="reference"><a href="#cite_note-Brown_1830-1"><span>[</span>1<span>]</span></a></sup> but they are now treated as having been published as sections.<sup id="cite_ref-APNI_25117_2-0" class="reference"><a href="#cite_note-APNI_25117-2"><span>[</span>2<span>]</span></a></sup></p>
+<p><i>D.</i>&#160;sect. <i>Diplophragma</i> was defined as containing a single species, <i>D.&#160;bipinnatifida</i> (now <i><a href="/wiki/Banksia_bipinnatifida" title="Banksia bipinnatifida">Banksia bipinnatifida</a></i>), which Brown thought contained two seed separators.<sup id="cite_ref-Brown_1830_1-1" class="reference"><a href="#cite_note-Brown_1830-1"><span>[</span>1<span>]</span></a></sup> The epithet <i>Diplophragma</i> is from the <a href="/wiki/Greek_language" title="Greek language">Greek</a> <i>diplo</i> ("two") and <i>phragma</i> ("barrier"). It is not clear how Brown came to believe that this species has two seed separators, as it actually has none.<sup id="cite_ref-George_1999_3-0" class="reference"><a href="#cite_note-George_1999-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>The placement and circumscription of <i>D.</i>&#160;sect. <i>Diplophragma</i> in Brown's 1830 arrangement may be summarised as follows:</p>
+<dl>
+<dd><i><b>Dryandra</b></i> (now <a href="/wiki/Banksia_ser._Dryandra" title="Banksia ser. Dryandra"><i>B.</i>&#160;ser. <i>Dryandra</i></a>)
+<dl>
+<dd><i><a href="/wiki/Dryandra_verae" title="Dryandra verae" class="mw-redirect">Dryandra verae</a></i> (18 species)</dd>
+<dd><b><i>D.</i>&#160;sect. <i>Diplophragma</i></b>
+<dl>
+<dd><i>D.&#160;bipinnatifida</i> (now <i><a href="/wiki/Banksia_bipinnatifida" title="Banksia bipinnatifida">B.&#160;bipinnatifida</a></i>)</dd>
+</dl>
+</dd>
+<dd><a href="/wiki/Dryandra_sect._Aphragma" title="Dryandra sect. Aphragma" class="mw-redirect"><i>D.</i>&#160;sect. <i>Aphragma</i></a> (4 species)</dd>
+</dl>
+</dd>
+<dd><i><a href="/wiki/Hemiclidia" title="Hemiclidia" class="mw-redirect">Hemiclidia</a></i> (1 species)</dd>
+</dl>
+<h2><span class="mw-headline" id="According_to_Meissner">According to Meissner</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dryandra_subg._Diplophragma&amp;action=edit&amp;section=2" title="Edit section: According to Meissner">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1856, <a href="/wiki/Carl_Meissner" title="Carl Meissner">Carl Meissner</a> published a revision of <i>Dryandra</i>. He retained all three of Brown's sections, but added bipinnatifid leaves (that is, leaves that are divided into lobes that are themselves divided) to the defining characters of <i>D.</i>&#160;sect. <i>Diplophragma</i>, and included in it the species <i>D.&#160;preissii</i> (now <i><a href="/wiki/Banksia_acuminata" title="Banksia acuminata">Banksia acuminata</a></i>), which had been published in 1845. The placement and circumscription of <i>D.</i>&#160;sect. <i>Diplophragma</i> in <a href="/wiki/Meissner%27s_taxonomic_arrangement_of_Dryandra" title="Meissner's taxonomic arrangement of Dryandra">Meissner's arrangement</a> thus looks like this:<sup id="cite_ref-Meissner_1856_XLIV_4-0" class="reference"><a href="#cite_note-Meissner_1856_XLIV-4"><span>[</span>4<span>]</span></a></sup></p>
+<dl>
+<dd><i><b>Dryandra</b></i> (now <a href="/wiki/Banksia_ser._Dryandra" title="Banksia ser. Dryandra"><i>Banksia</i> ser. <i>Dryandra</i></a>)
+<dl>
+<dd><a href="/wiki/Dryandra_sect._Eudryandra" title="Dryandra sect. Eudryandra" class="mw-redirect"><i>D.</i>&#160;sect. <i>Eudryandra</i></a> (8 series, 47 species, 7 varieties)</dd>
+<dd><b><i>D.</i>&#160;sect. <i>Diplophragma</i></b>
+<dl>
+<dd><i>D.&#160;bipinnatifida</i> (now <i><a href="/wiki/Banksia_bipinnatifida" title="Banksia bipinnatifida">B.&#160;bipinnatifida</a></i>)</dd>
+<dd><i>D.&#160;Preissii</i> (now <i><a href="/wiki/Banksia_acuminata" title="Banksia acuminata">B.&#160;acuminata</a></i>)</dd>
+</dl>
+</dd>
+<dd><a href="/wiki/Dryandra_sect._Aphragma" title="Dryandra sect. Aphragma" class="mw-redirect"><i>D.</i>&#160;sect. <i>Aphragma</i></a> (4 species, 4 varieties)</dd>
+</dl>
+</dd>
+<dd><i><a href="/wiki/Hemiclidia" title="Hemiclidia" class="mw-redirect">Hemiclidia</a></i> (1 species)</dd>
+</dl>
+<h2><span class="mw-headline" id="According_to_Bentham">According to Bentham</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dryandra_subg._Diplophragma&amp;action=edit&amp;section=3" title="Edit section: According to Bentham">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Along with many of Meissner's infrageneric taxa, which were overly reliant on leaf characters, Bentham discarded <i>D.</i>&#160;sect. <i>Diplophragma</i> in <a href="/wiki/Bentham%27s_taxonomic_arrangement_of_Dryandra" title="Bentham's taxonomic arrangement of Dryandra">his 1870 arrangement</a>. Despite having seen only a few seeds, he correctly observed that the characters of the fruit upon which Brown based the section were not constant:</p>
+<blockquote class="templatequote">
+<p>"[I]n the few seeds that I have been able to examine, the separation of the integument from the nucleus when not consolidated with the corresponding integument of the other seed has not appeared to me to be at all constant. The whole question requires further investigation on the part of those who may have a sufficient supply of good fruits of the several species."</p>
+</blockquote>
+<p>Bentham also recognised that the two species placed in <i>D.</i>&#160;sect. <i>Diplophragma</i> by Meissner are not closely related; he placed <i>D.&#160;bipinnatifida</i> in <a href="/wiki/Dryandra_sect._Aphragma" title="Dryandra sect. Aphragma" class="mw-redirect"><i>D.</i>&#160;sect. <i>Aphragma</i></a>, and <i>D.&#160;preissii</i> in <a href="/wiki/Dryandra_sect._Eudryandra" title="Dryandra sect. Eudryandra" class="mw-redirect"><i>D.</i>&#160;sect. <i>Eudryandra</i></a> <a href="/wiki/Dryandra_ser._Niveae" title="Dryandra ser. Niveae">ser. <i>Niveae</i></a>.<sup id="cite_ref-Bentham_1870_5-0" class="reference"><a href="#cite_note-Bentham_1870-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="According_to_George">According to George</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dryandra_subg._Diplophragma&amp;action=edit&amp;section=4" title="Edit section: According to George">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When <a href="/wiki/Alex_George" title="Alex George">Alex George</a> published <a href="/wiki/George%27s_taxonomic_arrangement_of_Dryandra" title="George's taxonomic arrangement of Dryandra">his revision</a> of <i>Dryandra</i> in 1996, he recognised that <i>D.&#160;bipinatifida</i> possessed a number of very distinctive characters, especially in its fruiting structure. These include unusually large follicles and seeds; seeds that are set within the seed wings rather than along the base or one side; and unusual double wings that are attached to each side of the seed. In addition, the species has extremely long <a href="/wiki/Involucral_bract" title="Involucral bract" class="mw-redirect">involucral bracts</a>, and <a href="/w/index.php?title=Floral_bract&amp;action=edit&amp;redlink=1" class="new" title="Floral bract (page does not exist)">floral bracts</a> that enlarge more than any other species. Recognising the need for this species to be placed in its own subgenus, George resurrected <i>Diplophragma</i>, promoting it to subgenus rank as <i>D.</i>&#160;subg. <i>Diplophragma</i>.<sup id="cite_ref-George_1996_6-0" class="reference"><a href="#cite_note-George_1996-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>The placement and circumscription of <i>D.</i>&#160;subg. <i>Diplophragma</i> in George's arrangement, as amended in 1999<sup id="cite_ref-George_1999_3-1" class="reference"><a href="#cite_note-George_1999-3"><span>[</span>3<span>]</span></a></sup> and 2005,<sup id="cite_ref-George_2005_7-0" class="reference"><a href="#cite_note-George_2005-7"><span>[</span>7<span>]</span></a></sup> may be summarised as follows:</p>
+<dl>
+<dd><i><b>Dryandra</b></i> (now <a href="/wiki/Banksia_ser._Dryandra" title="Banksia ser. Dryandra"><i>Banksia</i> ser. <i>Dryandra</i></a>)
+<dl>
+<dd><a href="/wiki/Dryandra_subg._Dryandra" title="Dryandra subg. Dryandra"><i>D.</i>&#160;ser. <i>Dryandra</i></a> (24 series, 91 species, 39 subspecies, 23 varieties)</dd>
+<dd><a href="/wiki/Dryandra_subg._Hemiclidia" title="Dryandra subg. Hemiclidia"><i>D.</i>&#160;ser. <i>Hemiclidia</i></a> (2 species)</dd>
+<dd><b><i>D.</i>&#160;subg. <i>Diplophragma</i></b>
+<dl>
+<dd><i>D.&#160;bipinnatifida</i> (now <i><a href="/wiki/Banksia_bipinnatifida" title="Banksia bipinnatifida">Banksia bipinnatifida</a></i>)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Recent_developments">Recent developments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dryandra_subg._Diplophragma&amp;action=edit&amp;section=5" title="Edit section: Recent developments">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since 1998, <a href="/wiki/Austin_Mast" title="Austin Mast">Austin Mast</a> has been publishing results of ongoing cladistic analyses of <a href="/wiki/DNA_sequence" title="DNA sequence" class="mw-redirect">DNA sequence</a> data for the subtribe <a href="/wiki/Banksiinae" title="Banksiinae" class="mw-redirect">Banksiinae</a>. His analyses have provided compelling evidence of the <a href="/wiki/Paraphyly" title="Paraphyly">paraphyly</a> of <i><a href="/wiki/Banksia" title="Banksia">Banksia</a></i> with respect to <i><a href="/wiki/Dryandra" title="Dryandra" class="mw-redirect">Dryandra</a></i>; that is, it seems that <i>Dryandra</i> arose from within the ranks of <i>Banksia</i>.<sup id="cite_ref-Mast_1998_8-0" class="reference"><a href="#cite_note-Mast_1998-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-Mast_2002_9-0" class="reference"><a href="#cite_note-Mast_2002-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-Mast_2005_10-0" class="reference"><a href="#cite_note-Mast_2005-10"><span>[</span>10<span>]</span></a></sup> Early in 2007, Mast and <a href="/wiki/Kevin_Thiele" title="Kevin Thiele">Kevin Thiele</a> initiated a rearrangement of <i>Banksia</i> by sinking <i>Dryandra</i> into it as <a href="/wiki/Banksia_ser._Dryandra" title="Banksia ser. Dryandra"><i>B.</i>&#160;ser. <i>Dryandra</i></a>. This transfer necessitated the setting aside of George's infrageneric arrangement of <i>Dryandra</i>; thus <i>D.</i>&#160;subg. <i>Diplophragma</i> is no longer current. Mast and Thiele have foreshadowed publishing a full arrangement once <a href="/wiki/DNA_sampling" title="DNA sampling" class="mw-redirect">DNA sampling</a> of <i>Dryandra</i> is complete.<sup id="cite_ref-Mast_2007_11-0" class="reference"><a href="#cite_note-Mast_2007-11"><span>[</span>11<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dryandra_subg._Diplophragma&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Brown_1830-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Brown_1830_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Brown_1830_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Robert_Brown_(botanist)" title="Robert Brown (botanist)">Brown, Robert</a> (1830). <i><a href="/wiki/Supplementum_Primum_Prodromi_Florae_Novae_Hollandiae" title="Supplementum Primum Prodromi Florae Novae Hollandiae" class="mw-redirect">Supplementum Primum Prodromi Florae Novae Hollandiae</a></i>. London: Taylor.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADryandra+subg.+Diplophragma&amp;rft.au=Brown%2C+Robert&amp;rft.btitle=Supplementum+Primum+Prodromi+Florae+Novae+Hollandiae&amp;rft.date=1830&amp;rft.genre=book&amp;rft.place=London&amp;rft.pub=Taylor&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-APNI_25117-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-APNI_25117_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.anbg.gov.au/cgi-bin/apni?taxon_id=25117">"<i>Dryandra</i> sect. <i>Diplophragma</i> R.Br."</a>. <i><a href="/wiki/Australian_Plant_Name_Index" title="Australian Plant Name Index">Australian Plant Name Index</a> (APNI), IBIS database</i>. Centre for Plant Biodiversity Research, Australian Government.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADryandra+subg.+Diplophragma&amp;rft.btitle=Dryandra+sect.+Diplophragma+R.Br.&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.anbg.gov.au%2Fcgi-bin%2Fapni%3Ftaxon_id%3D25117&amp;rft.pub=Centre+for+Plant+Biodiversity+Research%2C+Australian+Government&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-George_1999-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-George_1999_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-George_1999_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation encyclopaedia"><a href="/wiki/Alex_George" title="Alex George">George, Alex S.</a> (1999). "Dryandra". In Wilson, Annette (ed.). <i>Flora of Australia</i> <b>17B</b>. Collingwood, Victoria: CSIRO Publishing / Australian Biological Resources Study. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-643-06454-0" title="Special:BookSources/0-643-06454-0">0-643-06454-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADryandra+subg.+Diplophragma&amp;rft.atitle=Dryandra&amp;rft.aufirst=Alex+S.&amp;rft.aulast=George&amp;rft.btitle=Flora+of+Australia&amp;rft.date=1999&amp;rft.genre=bookitem&amp;rft.isbn=0-643-06454-0&amp;rft.place=Collingwood%2C+Victoria&amp;rft.pub=CSIRO+Publishing+%2F+Australian+Biological+Resources+Study&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=17B" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Meissner_1856_XLIV-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Meissner_1856_XLIV_4-0">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia"><a href="/wiki/Carl_Meissner" title="Carl Meissner">Meissner, Carl</a> (1856). "XLIV. Dryandra". In <a href="/wiki/A._P._de_Candolle" title="A. P. de Candolle" class="mw-redirect">de Candolle, A. P.</a> <i><a href="/wiki/Prodromus_systematis_naturalis_regni_vegetabilis" title="Prodromus systematis naturalis regni vegetabilis" class="mw-redirect">Prodromus systematis naturalis regni vegetabilis</a></i> <b>XIV</b>. Paris: Sumptibus Sociorum Treuttel et Wurtz. pp.&#160;467–481.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADryandra+subg.+Diplophragma&amp;rft.atitle=XLIV.+Dryandra&amp;rft.au=Meissner%2C+Carl&amp;rft.btitle=Prodromus+systematis+naturalis+regni+vegetabilis&amp;rft.date=1856&amp;rft.genre=bookitem&amp;rft.pages=467-481&amp;rft.place=Paris&amp;rft.pub=Sumptibus+Sociorum+Treuttel+et+Wurtz&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=XIV" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bentham_1870-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bentham_1870_5-0">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia"><a href="/wiki/George_Bentham" title="George Bentham">Bentham, George</a> (1870). "Dryandra". <i><a href="/wiki/Flora_Australiensis" title="Flora Australiensis">Flora Australiensis</a></i> <b>5</b>. London: L. Reeve &amp; Co. pp.&#160;562–584.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADryandra+subg.+Diplophragma&amp;rft.atitle=Dryandra&amp;rft.au=Bentham%2C+George&amp;rft.btitle=Flora+Australiensis&amp;rft.date=1870&amp;rft.genre=bookitem&amp;rft.pages=562-584&amp;rft.place=London&amp;rft.pub=L.+Reeve+%26+Co.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=5" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-George_1996-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-George_1996_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Alex_George" title="Alex George">George, Alex S.</a> (1996). "New taxa and a new infragenetic classification in Dryandra R.Br. (Proteaceae: Grevilleoideae)". <i><a href="/wiki/Nuytsia_(journal)" title="Nuytsia (journal)">Nuytsia</a></i> <b>10</b> (3): 313–408.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADryandra+subg.+Diplophragma&amp;rft.atitle=New+taxa+and+a+new+infragenetic+classification+in+Dryandra+R.Br.+%28Proteaceae%3A+Grevilleoideae%29&amp;rft.au=George%2C+Alex+S.&amp;rft.date=1996&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=Nuytsia&amp;rft.pages=313-408&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-George_2005-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-George_2005_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Alex_George" title="Alex George">George, A. S.</a> (2005). <a rel="nofollow" class="external text" href="http://www.naturebase.net/images/stories/nature/science/nuytsia/15/3/337-346.pdf">"Further new taxa in <i>Dryandra</i> R.Br. (Proteaceae: Grevilleoideae)"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/Nuytsia_(journal)" title="Nuytsia (journal)">Nuytsia</a></i> <b>15</b> (3): 337–346.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADryandra+subg.+Diplophragma&amp;rft.atitle=Further+new+taxa+in+Dryandra+R.Br.+%28Proteaceae%3A+Grevilleoideae%29&amp;rft.aufirst=A.+S.&amp;rft.aulast=George&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.naturebase.net%2Fimages%2Fstories%2Fnature%2Fscience%2Fnuytsia%2F15%2F3%2F337-346.pdf&amp;rft.issue=3&amp;rft.jtitle=Nuytsia&amp;rft.pages=337-346&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Mast_1998-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mast_1998_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mast, Austin R. (1998). "Molecular systematics of subtribe Banksiinae (<i>Banksia</i> and <i>Dryandra</i>; Proteaceae) based on cpDNA and nrDNA sequence data: implications for taxonomy and biogeography". <i>Australian Systematic Botany</i> <b>11</b> (4): 321–342. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1071%2FSB97026">10.1071/SB97026</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADryandra+subg.+Diplophragma&amp;rft.atitle=Molecular+systematics+of+subtribe+Banksiinae+%28Banksia+and+Dryandra%3B+Proteaceae%29+based+on+cpDNA+and+nrDNA+sequence+data%3A+implications+for+taxonomy+and+biogeography&amp;rft.au=Mast%2C+Austin+R.&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1071%2FSB97026&amp;rft.issue=4&amp;rft.jtitle=Australian+Systematic+Botany&amp;rft.pages=321-342&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Mast_2002-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mast_2002_9-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mast, Austin R. and Thomas J. Givnish (2002). <a rel="nofollow" class="external text" href="http://www.amjbot.org/cgi/content/full/89/8/1311">"Historical biogeography and the origin of stomatal distributions in <i>Banksia</i> and <i>Dryandra</i> (Proteaceae) based on Their cpDNA phylogeny"</a>. <i><a href="/wiki/American_Journal_of_Botany" title="American Journal of Botany">American Journal of Botany</a></i> <b>89</b> (8): 1311–1323. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.3732%2Fajb.89.8.1311">10.3732/ajb.89.8.1311</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21665734">21665734</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-07-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADryandra+subg.+Diplophragma&amp;rft.atitle=Historical+biogeography+and+the+origin+of+stomatal+distributions+in+Banksia+and+Dryandra+%28Proteaceae%29+based+on+Their+cpDNA+phylogeny&amp;rft.au=Mast%2C+Austin+R.+and+Thomas+J.+Givnish&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.amjbot.org%2Fcgi%2Fcontent%2Ffull%2F89%2F8%2F1311&amp;rft_id=info%3Adoi%2F10.3732%2Fajb.89.8.1311&amp;rft_id=info%3Apmid%2F21665734&amp;rft.issue=8&amp;rft.jtitle=American+Journal+of+Botany&amp;rft.pages=1311-1323&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=89" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Mast_2005-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mast_2005_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Austin_Mast" title="Austin Mast">Mast, Austin R.</a>, Eric H. Jones and Shawn P. Havery (2005). "An assessment of old and new DNA sequence evidence for the paraphyly of <i>Banksia</i> with respect to <i>Dryandra</i> (Proteaceae)". <i>Australian Systematic Botany</i> (CSIRO Publishing / Australian Systematic Botany Society) <b>18</b> (1): 75–88. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1071%2FSB04015">10.1071/SB04015</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADryandra+subg.+Diplophragma&amp;rft.atitle=An+assessment+of+old+and+new+DNA+sequence+evidence+for+the+paraphyly+of+Banksia+with+respect+to+Dryandra+%28Proteaceae%29&amp;rft.au=Mast%2C+Austin+R.%2C+Eric+H.+Jones+and+Shawn+P.+Havery&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1071%2FSB04015&amp;rft.issue=1&amp;rft.jtitle=Australian+Systematic+Botany&amp;rft.pages=75-88&amp;rft.pub=CSIRO+Publishing+%2F+Australian+Systematic+Botany+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Mast_2007-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mast_2007_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mast, Austin R. and Kevin Thiele (2007). "The transfer of <i>Dryandra</i> R.Br. to <i>Banksia</i> L.f. (Proteaceae)". <i>Australian Systematic Botany</i> <b>20</b>: 63–71. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1071%2FSB06016">10.1071/SB06016</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADryandra+subg.+Diplophragma&amp;rft.atitle=The+transfer+of+Dryandra+R.Br.+to+Banksia+L.f.+%28Proteaceae%29&amp;rft.au=Mast%2C+Austin+R.+and+Kevin+Thiele&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1071%2FSB06016&amp;rft.jtitle=Australian+Systematic+Botany&amp;rft.pages=63-71&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=20" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dryandra_subg._Diplophragma&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.anbg.gov.au/abrs/online-resources/flora/stddisplay.xsql?pnid=46583">"<i>Dryandra</i> subg. <i>Diplophragma</i> (R.Br.) A.S.George"</a>. <i><a href="/wiki/Flora_of_Australia_(series)" title="Flora of Australia (series)">Flora of Australia</a> Online</i>. <a href="/wiki/Department_of_the_Environment_and_Heritage" title="Department of the Environment and Heritage">Department of the Environment and Heritage</a>, Australian Government.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADryandra+subg.+Diplophragma&amp;rft.btitle=Dryandra+subg.+Diplophragma+%28R.Br.%29+A.S.George&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.anbg.gov.au%2Fabrs%2Fonline-resources%2Fflora%2Fstddisplay.xsql%3Fpnid%3D46583&amp;rft.pub=Department+of+the+Environment+and+Heritage%2C+Australian+Government&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1065
+Cached time: 20151013120736
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.157 seconds
+Real time usage: 0.184 seconds
+Preprocessor visited node count: 719/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 21353/2097152 bytes
+Template argument size: 472/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+Lua time usage: 0.060/10.000 seconds
+Lua memory usage: 2.08 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  151.472      1 - -total
+ 87.39%  132.371      1 - Template:Reflist
+ 32.07%   48.572      1 - Template:Cite_book
+ 19.10%   28.931      6 - Template:Cite_journal
+ 10.57%   16.005      3 - Template:Cite_encyclopedia
+  6.62%   10.032      2 - Template:Cite_web
+  5.61%    8.499      1 - Template:APNI
+  4.23%    6.407      1 - Template:Flora_of_Australia_Online
+  2.77%    4.197      1 - Template:Quote
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8717837-0!*!0!!en!*!* and timestamp 20151013120736 and revision id 579257029
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dryandra_subg._Diplophragma&amp;oldid=579257029">https://en.wikipedia.org/w/index.php?title=Dryandra_subg._Diplophragma&amp;oldid=579257029</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Banksia_taxa_by_scientific_name" title="Category:Banksia taxa by scientific name">Banksia taxa by scientific name</a></li><li><a href="/wiki/Category:Banksia_ser._Dryandra" title="Category:Banksia ser. Dryandra">Banksia ser. Dryandra</a></li><li><a href="/wiki/Category:Historically_recognized_angiosperm_taxa" title="Category:Historically recognized angiosperm taxa">Historically recognized angiosperm taxa</a></li><li><a href="/wiki/Category:Plant_subgenera" title="Category:Plant subgenera">Plant subgenera</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dryandra+subg.+Diplophragma&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dryandra+subg.+Diplophragma" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Dryandra_subg._Diplophragma"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Dryandra_subg._Diplophragma"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Dryandra_subg._Diplophragma" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Dryandra_subg._Diplophragma&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Dryandra_subg._Diplophragma&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dryandra_subg._Diplophragma" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dryandra_subg._Diplophragma" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Dryandra_subg._Diplophragma&amp;oldid=579257029" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Dryandra_subg._Diplophragma&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q5309636" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dryandra_subg._Diplophragma&amp;id=579257029" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dryandra+subg.+Diplophragma">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Dryandra+subg.+Diplophragma&amp;returnto=Dryandra+subg.+Diplophragma&amp;oldid=579257029&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Dryandra_subg._Diplophragma&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-add wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q5309636#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 29 October 2013, at 10:27.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Dryandra_subg._Diplophragma&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw1162"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

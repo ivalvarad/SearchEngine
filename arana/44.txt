@@ -1,0 +1,982 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Arab socialism - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Arab_socialism","wgTitle":"Arab socialism","wgCurRevisionId":682442244,"wgRevisionId":682442244,"wgArticleId":38802698,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Arabic-language text","Arab socialism","Socialism"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Arab_socialism","wgRelevantArticleId":38802698,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Ba%27ath_Party.svg/100px-Flag_of_the_Ba%27ath_Party.svg.png","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q624284","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Arab_socialism" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Arab_socialism&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Arab_socialism&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Arab_socialism" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Arab_socialism skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Arab socialism</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Ba%27athism" title="Category:Ba'athism">a series</a> on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Ba%27athism" title="Ba'athism">Ba'athism</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Flag_of_the_Ba%27ath_Party.svg" class="image" title="Flag of the Ba'ath Party"><img alt="Flag of the Ba'ath Party" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Ba%27ath_Party.svg/150px-Flag_of_the_Ba%27ath_Party.svg.png" width="150" height="100" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Ba%27ath_Party.svg/225px-Flag_of_the_Ba%27ath_Party.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Ba%27ath_Party.svg/300px-Flag_of_the_Ba%27ath_Party.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Organisations</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<table class="infobox" style="width:22em;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th scope="row" style="font-weight:normal;"><a href="/wiki/Arab_Ba%27ath_Movement" title="Arab Ba'ath Movement">Arab Ba'ath Movement</a></th>
+<td style="text-align:right;white-space:nowrap;">1940–1947</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><a href="/wiki/Ba%27ath_Party" title="Ba'ath Party">Ba'ath Party</a></th>
+<td style="text-align:right;white-space:nowrap;">1947–1966</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><a href="/wiki/Ba%27ath_Party_(Iraqi-dominated_faction)" title="Ba'ath Party (Iraqi-dominated faction)">Ba'ath Party (pro-Iraqi)</a></th>
+<td style="text-align:right;white-space:nowrap;">1968–2003</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><a href="/wiki/Ba%27ath_Party_(Syrian-dominated_faction)" title="Ba'ath Party (Syrian-dominated faction)">Ba'ath Party (pro-Syrian)</a></th>
+<td style="text-align:right;white-space:nowrap;">1966–<span style="font-size:90%;">present</span></td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">People</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Zaki_al-Arsuzi" title="Zaki al-Arsuzi">Zaki al-Arsuzi</a></li>
+<li><a href="/wiki/Michel_Aflaq" title="Michel Aflaq">Michel Aflaq</a></li>
+<li><a href="/wiki/Salah_al-Din_al-Bitar" title="Salah al-Din al-Bitar">Salah al-Din al-Bitar</a></li>
+<li><a href="/wiki/Abdullah_Rimawi" title="Abdullah Rimawi">Abdullah Rimawi</a></li>
+<li><a href="/wiki/Wahib_al-Ghanim" title="Wahib al-Ghanim">Wahib al-Ghanim</a></li>
+<li><a href="/wiki/Fuad_al-Rikabi" title="Fuad al-Rikabi">Fuad al-Rikabi</a></li>
+<li><a href="/wiki/Salah_Jadid" title="Salah Jadid">Salah Jadid</a></li>
+<li><a href="/wiki/Hafez_al-Assad" title="Hafez al-Assad">Hafez al-Assad</a></li>
+<li><a href="/wiki/Ahmed_Hassan_al-Bakr" title="Ahmed Hassan al-Bakr">Ahmed Hassan al-Bakr</a></li>
+<li><a href="/wiki/Saddam_Hussein" title="Saddam Hussein">Saddam Hussein</a></li>
+<li><a href="/wiki/Bashar_al-Assad" title="Bashar al-Assad">Bashar al-Assad</a></li>
+<li><a href="/wiki/Izzat_Ibrahim_al-Douri" title="Izzat Ibrahim al-Douri">Izzat Ibrahim al-Douri</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Literature</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;;font-style:italic;">
+<ul>
+<li><a href="/wiki/On_the_Way_of_Resurrection" title="On the Way of Resurrection">On the Way of Resurrection</a></li>
+<li><a href="/wiki/The_Battle_for_One_Destiny" title="The Battle for One Destiny">The Battle for One Destiny</a></li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Zaki_al-Arsuzi" title="Zaki al-Arsuzi">The Genius of Arabic in Its Tongue</a></div>
+</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">History</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<ul>
+<li><b><a href="/wiki/Ba%27athist_Iraq" title="Ba'athist Iraq">Ba'athist Iraq</a></b><br />
+<a href="/wiki/Ramadan_Revolution" title="Ramadan Revolution">Ramadan Revolution</a></li>
+<li><a href="/wiki/November_1963_Iraqi_coup_d%27%C3%A9tat" title="November 1963 Iraqi coup d'état">November 1963 coup d'état</a></li>
+<li><a href="/wiki/17_July_Revolution" title="17 July Revolution">17 July Revolution</a></li>
+<li><a href="/wiki/Iran%E2%80%93Iraq_War" title="Iran–Iraq War">Iran–Iraq War</a></li>
+<li><a href="/wiki/Gulf_War" title="Gulf War">Gulf War</a></li>
+<li><a href="/wiki/Sanctions_against_Iraq" title="Sanctions against Iraq">UN sanctions</a></li>
+<li><a href="/wiki/Iraq_War" title="Iraq War">Iraq War</a></li>
+<li><a href="/wiki/De-Ba%27athification" title="De-Ba'athification">De-Ba'athification</a></li>
+<li><b><a href="/wiki/Modern_history_of_Syria" title="Modern history of Syria">Ba'athist Syria</a></b><br />
+<a href="/wiki/Syrian_Committee_to_Help_Iraq" title="Syrian Committee to Help Iraq">Syrian Committee to Help Iraq</a></li>
+<li><a href="/wiki/1963_Syrian_coup_d%27%C3%A9tat" title="1963 Syrian coup d'état">1963</a>&#160;/ <a href="/wiki/1966_Syrian_coup_d%27%C3%A9tat" title="1966 Syrian coup d'état">1966 coup d'états</a></li>
+</ul>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Corrective_Movement_(Syria)" title="Corrective Movement (Syria)">Corrective Revolution</a></li>
+<li><a href="/wiki/Syrian_Civil_War" title="Syrian Civil War">Civil War</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/List_of_Ba%27athist_movements" title="List of Ba'athist movements">Regional organisations</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<table class="infobox" style="width:22em;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none;text-align:center;">
+<tr>
+<th scope="row" style="font-weight:normal;">Algeria</th>
+<td style="text-align:right;white-space:nowrap;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Ba%27ath_Party_(Iraqi-dominated_faction)#Algeria" title="Ba'ath Party (Iraqi-dominated faction)">pro-Iraq</a></li>
+<li><a href="/wiki/Ba%27ath_Party_(Syrian-dominated_faction)#Algeria" title="Ba'ath Party (Syrian-dominated faction)">pro-Syria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;">Bahrain</th>
+<td style="text-align:right;white-space:nowrap;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Ba%27ath_Party_(Iraqi-dominated_faction)#Bahrain" title="Ba'ath Party (Iraqi-dominated faction)">pro-Iraq</a></li>
+<li><a href="/wiki/Ba%27ath_Party_(Syrian-dominated_faction)#Bahrain" title="Ba'ath Party (Syrian-dominated faction)">pro-Syria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;">Egypt</th>
+<td style="text-align:right;white-space:nowrap;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Ba%27ath_Party_(Iraqi-dominated_faction)#Egypt" title="Ba'ath Party (Iraqi-dominated faction)">pro-Iraq</a></li>
+<li><a href="/wiki/Ba%27ath_Party_(Syrian-dominated_faction)#Egypt" title="Ba'ath Party (Syrian-dominated faction)">pro-Syria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;">Iraq</th>
+<td style="text-align:right;white-space:nowrap;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Arab_Socialist_Ba%27ath_Party_%E2%80%93_Iraq_Region" title="Arab Socialist Ba'ath Party – Iraq Region">pro-Iraq</a></li>
+<li><a href="/wiki/Ba%27ath_Party_(Syrian-dominated_faction)#Iraq" title="Ba'ath Party (Syrian-dominated faction)">pro-Syria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;">Jordan</th>
+<td style="text-align:right;white-space:nowrap;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Ba%27ath_Party_(Iraqi-dominated_faction)#Jordan" title="Ba'ath Party (Iraqi-dominated faction)">pro-Iraq</a></li>
+<li><a href="/wiki/Ba%27ath_Party_(Syrian-dominated_faction)#Jordan" title="Ba'ath Party (Syrian-dominated faction)">pro-Syria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;">Lebanon</th>
+<td style="text-align:right;white-space:nowrap;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Ba%27ath_Party_(Iraqi-dominated_faction)#Lebanon" title="Ba'ath Party (Iraqi-dominated faction)">pro-Iraq</a></li>
+<li><a href="/wiki/Arab_Socialist_Ba%27ath_Party_%E2%80%93_Lebanon_Region" title="Arab Socialist Ba'ath Party – Lebanon Region">pro-Syria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;">Libya</th>
+<td style="text-align:right;white-space:nowrap;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Ba%27ath_Party_(Iraqi-dominated_faction)#Libya" title="Ba'ath Party (Iraqi-dominated faction)">pro-Iraq</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;">Mauritania</th>
+<td style="text-align:right;white-space:nowrap;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Ba%27ath_Party_(Iraqi-dominated_faction)#Mauritania" title="Ba'ath Party (Iraqi-dominated faction)">pro-Iraq</a></li>
+<li><a href="/wiki/Ba%27ath_Party_(Syrian-dominated_faction)#Mauritania" title="Ba'ath Party (Syrian-dominated faction)">pro-Syria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;">Palestine</th>
+<td style="text-align:right;white-space:nowrap;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Arab_Liberation_Front" title="Arab Liberation Front">pro-Iraq</a></li>
+<li><a href="/wiki/As-Sa%27iqa" title="As-Sa'iqa">pro-Syria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;">Sudan</th>
+<td style="text-align:right;white-space:nowrap;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Sudanese_Ba%27ath_Party" title="Sudanese Ba'ath Party">Neutral</a></li>
+<li><a href="/wiki/Ba%27ath_Party_(Iraqi-dominated_faction)#Sudan" title="Ba'ath Party (Iraqi-dominated faction)">pro-Iraq</a></li>
+<li><a href="/wiki/Arab_Socialist_Ba%27ath_Party_%E2%80%93_Organization_of_Sudan" title="Arab Socialist Ba'ath Party – Organization of Sudan">pro-Syria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;">Syria</th>
+<td style="text-align:right;white-space:nowrap;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Ba%27ath_Party_(Iraqi-dominated_faction)#Syria" title="Ba'ath Party (Iraqi-dominated faction)">pro-Iraq</a></li>
+<li><a href="/wiki/Arab_Socialist_Ba%27ath_Party_%E2%80%93_Syria_Region" title="Arab Socialist Ba'ath Party – Syria Region">pro-Syria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;">Tunisia</th>
+<td style="text-align:right;white-space:nowrap;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Ba%27ath_Party_(Iraqi-dominated_faction)#Tunisia" title="Ba'ath Party (Iraqi-dominated faction)">pro-Iraq</a></li>
+<li><a href="/wiki/Ba%27ath_Party_(Syrian-dominated_faction)#Tunisia" title="Ba'ath Party (Syrian-dominated faction)">pro-Syria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="font-weight:normal;">Yemen</th>
+<td style="text-align:right;white-space:nowrap;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Ba%27ath_Party_(Iraqi-dominated_faction)#Yemen" title="Ba'ath Party (Iraqi-dominated faction)">pro-Iraq</a></li>
+<li><a href="/wiki/Arab_Socialist_Ba%27ath_Party_%E2%80%93_Yemen_Region" title="Arab Socialist Ba'ath Party – Yemen Region">pro-Syria</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Related topics</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Arab_nationalism" title="Arab nationalism">Arab nationalism</a></li>
+<li><strong class="selflink">Arab socialism</strong></li>
+<li><a href="/wiki/Nasserism" title="Nasserism">Nasserism</a></li>
+<li><a href="/wiki/Pan-Arabism" title="Pan-Arabism">Pan-Arabism</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"><span style="font-weight:normal;"><a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></span></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ba%27athism_sidebar" title="Template:Ba'athism sidebar"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ba%27athism_sidebar" title="Template talk:Ba'athism sidebar"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ba%27athism_sidebar&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Arab socialism</b> (<a href="/wiki/Arabic_language" title="Arabic language" class="mw-redirect">Arabic</a>: <span lang="ar" dir="rtl" xml:lang="ar">الاشتراكية العربية</span>‎, <i>Al-Ishtirākīya Al-‘Arabīya</i>) is a political ideology based on an amalgamation of <a href="/wiki/Pan-Arabism" title="Pan-Arabism">Pan-Arabism</a> and <a href="/wiki/Socialism" title="Socialism">socialism</a>. Arab socialism is distinct from the much broader tradition of socialist thought in the <a href="/wiki/Arab_world" title="Arab world">Arab world</a>, which predates Arab socialism by as much as fifty years. The term "Arab socialism" was coined by <a href="/wiki/Michel_Aflaq" title="Michel Aflaq">Michel Aflaq</a>, the principal founder of <a href="/wiki/Ba%27athism" title="Ba'athism">Ba'athism</a> and the <a href="/wiki/Ba%27ath_Party" title="Ba'ath Party">Arab Socialist Ba'ath Party</a>, in order to distinguish his version of socialist ideology from the international socialist movement.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Original_meaning"><span class="tocnumber">1</span> <span class="toctext">Original meaning</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#The_term.27s_radicalization"><span class="tocnumber">2</span> <span class="toctext">The term's radicalization</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#External_reception"><span class="tocnumber">3</span> <span class="toctext">External reception</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Bibliography"><span class="tocnumber">6</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Original_meaning">Original meaning</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_socialism&amp;action=edit&amp;section=1" title="Edit section: Original meaning">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Michel_Aflaq" title="Michel Aflaq">Michel Aflaq</a>, the co-founder of the Ba'ath Party and Ba'athist thought, coined the term Arab socialism.<sup id="cite_ref-FOOTNOTEDevlin197532_1-0" class="reference"><a href="#cite_note-FOOTNOTEDevlin197532-1"><span>[</span>1<span>]</span></a></sup> Socialism was a major tenet in Ba'athist thought, and it featured in the party's trinity slogan "Unity, <a href="/wiki/Liberty" title="Liberty">liberty</a>, socialism".<sup id="cite_ref-FOOTNOTEDevlin197532_1-1" class="reference"><a href="#cite_note-FOOTNOTEDevlin197532-1"><span>[</span>1<span>]</span></a></sup> However, by using the term Arab socialism Aflaq did not mean socialism as used normally; his version equated socialism with <a href="/wiki/Arab_nationalism" title="Arab nationalism">Arab nationalism</a>.<sup id="cite_ref-FOOTNOTEDevlin197532_1-2" class="reference"><a href="#cite_note-FOOTNOTEDevlin197532-1"><span>[</span>1<span>]</span></a></sup> In a written statement from 1946, Aflaq wrote "The Arab nationalists are socialists", hence "there is neither incompatibility nor contradiction nor war between nationalists and socialists."<sup id="cite_ref-FOOTNOTEDevlin197532_1-3" class="reference"><a href="#cite_note-FOOTNOTEDevlin197532-1"><span>[</span>1<span>]</span></a></sup> Socialism in his mind was subservient to the <a href="/wiki/Arab_Union" title="Arab Union">Arab unity project</a> and liberty, however, he did believe that fighting for Arab liberation and unity was the same as fighting for socialism, believing they were the same side of the same coin,<sup id="cite_ref-FOOTNOTEDevlin197532_1-4" class="reference"><a href="#cite_note-FOOTNOTEDevlin197532-1"><span>[</span>1<span>]</span></a></sup> The goal of the Arab liberation struggle was to fight <a href="/wiki/Imperialism" title="Imperialism">imperialism</a>, opposing the <a href="/wiki/Ruling_class" title="Ruling class">ruling classes</a> and to fight for <a href="/wiki/Social_justice" title="Social justice">social justice</a>.<sup id="cite_ref-FOOTNOTEDevlin197532_1-5" class="reference"><a href="#cite_note-FOOTNOTEDevlin197532-1"><span>[</span>1<span>]</span></a></sup> He further noted that "the social economic question is the issue of prime importance in our life, but it is directly related to the wider issue of nationalism" and "we want socialism to serve our nationalism."<sup id="cite_ref-FOOTNOTEDevlin197533_2-0" class="reference"><a href="#cite_note-FOOTNOTEDevlin197533-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>The socialism envisaged in the party's constitution of 1947 and in later writings up to the establishment of the <a href="/wiki/United_Arab_Republic" title="United Arab Republic">United Arab Republic</a>, is moderate and shows little, if any signs of <a href="/wiki/Marxism" title="Marxism">Marxism</a>.<sup id="cite_ref-FOOTNOTEDevlin197533_2-1" class="reference"><a href="#cite_note-FOOTNOTEDevlin197533-2"><span>[</span>2<span>]</span></a></sup> In the party's 1947 constitution it reads "socialism is a necessity which emanates from the depths of Arab nationalism .... Socialism constitutes the ideal social order [for] the <a href="/wiki/Arabs" title="Arabs">Arab people</a>."<sup id="cite_ref-FOOTNOTEDevlin197533_2-2" class="reference"><a href="#cite_note-FOOTNOTEDevlin197533-2"><span>[</span>2<span>]</span></a></sup> It should also be noted that the Ba'ath Party was founded in 1947 as the Arab Ba'ath Party, it became the Arab Socialist Ba'ath Party in 1952 when it merged with the <a href="/wiki/Arab_Socialist_Movement" title="Arab Socialist Movement">Arab Socialist Party</a>.<sup id="cite_ref-FOOTNOTEDevlin197533_2-3" class="reference"><a href="#cite_note-FOOTNOTEDevlin197533-2"><span>[</span>2<span>]</span></a></sup> Later, in 1950, Aflaq defined socialism as "not an aim in itself, but rather a necessary means to guarantee society the highest standard of production with the farthest limit of cooperation and solidarity among the citizens ... Arab society ... needs a social order with deeper foundations, wider horizons, and more forceful realization that moderate British socialism."<sup id="cite_ref-FOOTNOTEDevlin197534_3-0" class="reference"><a href="#cite_note-FOOTNOTEDevlin197534-3"><span>[</span>3<span>]</span></a></sup> A Soviet analyst on the subject of the Ba'athist movement noted "The concept of socialist structure [as it] appeared in the articles and speeches ... [in] the period of the birth of the new movement [the Ba'ath] ... was just a hazy outline on a barely developed ideological negative."<sup id="cite_ref-FOOTNOTEDevlin197534_3-1" class="reference"><a href="#cite_note-FOOTNOTEDevlin197534-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>The party <a href="/wiki/Constitution" title="Constitution">constitution</a> of 1947 called for a "just redistribution of wealth", <a href="/wiki/State_ownership" title="State ownership">state ownership</a> of <a href="/wiki/Public_utility" title="Public utility">public utilities</a>, <a href="/wiki/Natural_resource" title="Natural resource">natural resources</a>, large <a href="/wiki/Industry" title="Industry">industry</a>, and <a href="/wiki/Transport" title="Transport">transport</a>, state control over <a href="/wiki/International_trade" title="International trade">foreign</a> and <a href="/wiki/Domestic_trade" title="Domestic trade">domestic trade</a>, limiting the agricultural holdings of owners to the amount the owner could cultivate, an <a href="/wiki/Economy" title="Economy">economy</a> under some sort of state supervision, <a href="/wiki/Co-determination" title="Co-determination">workers' participation</a> in <a href="/wiki/Management" title="Management">management</a> and <a href="/wiki/Profit_sharing" title="Profit sharing">profit sharing</a>, respected inheritance and the rights of <a href="/wiki/Private_property" title="Private property">private property</a>.<sup id="cite_ref-FOOTNOTEDevlin197534_3-2" class="reference"><a href="#cite_note-FOOTNOTEDevlin197534-3"><span>[</span>3<span>]</span></a></sup> Prominent in Ba'athist writings from the 1940s and the 1950s, was the concern of <a href="/wiki/Exploitation_of_labour" title="Exploitation of labour">exploitation</a> of one group of citizens by another.<sup id="cite_ref-FOOTNOTEDevlin197534_3-3" class="reference"><a href="#cite_note-FOOTNOTEDevlin197534-3"><span>[</span>3<span>]</span></a></sup> The party forbade exploitation in its constitution.<sup id="cite_ref-FOOTNOTEDevlin197534_3-4" class="reference"><a href="#cite_note-FOOTNOTEDevlin197534-3"><span>[</span>3<span>]</span></a></sup> It further called for the abolition of class and class differences in the future envisaged society.<sup id="cite_ref-FOOTNOTEDevlin197534_3-5" class="reference"><a href="#cite_note-FOOTNOTEDevlin197534-3"><span>[</span>3<span>]</span></a></sup> In 1955 Aflaq defined socialism as "the sharing of the resources of the country by its citizens."<sup id="cite_ref-FOOTNOTEDevlin197534_3-6" class="reference"><a href="#cite_note-FOOTNOTEDevlin197534-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>While Aflaq always found it easier to define socialism as what it was not, one thing he and <a href="/wiki/Salah_al-Din_al-Bitar" title="Salah al-Din al-Bitar">Salah al-Din al-Bitar</a> were certain of, was that Arab socialism was not <a href="/wiki/Communism" title="Communism">communist</a> or related in any way to communism.<sup id="cite_ref-FOOTNOTEDevlin197534_3-7" class="reference"><a href="#cite_note-FOOTNOTEDevlin197534-3"><span>[</span>3<span>]</span></a></sup> Part of the reason for this was the <a href="/wiki/French_Communist_Party" title="French Communist Party">French Communist Party</a>'s support for lengthening the <a href="/wiki/French_Mandate_of_Syria" title="French Mandate of Syria" class="mw-redirect">French Mandate of Syria</a>.<sup id="cite_ref-FOOTNOTEDevlin197534_3-8" class="reference"><a href="#cite_note-FOOTNOTEDevlin197534-3"><span>[</span>3<span>]</span></a></sup> In a published shortly after that decision was made, Aflaq wrote "If I am asked to define socialism, I shall not look for it in the works of <a href="/wiki/Karl_Marx" title="Karl Marx">[Karl] Marx</a> and <a href="/wiki/Vladimir_Lenin" title="Vladimir Lenin">[Vladimir] Lenin</a>."<sup id="cite_ref-FOOTNOTEDevlin197535_4-0" class="reference"><a href="#cite_note-FOOTNOTEDevlin197535-4"><span>[</span>4<span>]</span></a></sup> The main cardinal difference between Arab socialism and communism was, according to Aflaq and Ba'athist in general, was the cardinal role given to <a href="/wiki/Nationalism" title="Nationalism">nationalism</a>.<sup id="cite_ref-FOOTNOTEDevlin197535_4-1" class="reference"><a href="#cite_note-FOOTNOTEDevlin197535-4"><span>[</span>4<span>]</span></a></sup> Since everything in Ba'athist thought was somehow linked to Arab nationalism, Aflaq could not bridge the gap between nationalism and <a href="/wiki/Proletarian_internationalism" title="Proletarian internationalism">communist internationalism</a>.<sup id="cite_ref-FOOTNOTEDevlin197535_4-2" class="reference"><a href="#cite_note-FOOTNOTEDevlin197535-4"><span>[</span>4<span>]</span></a></sup> However, he did note <a href="/wiki/Josip_Broz_Tito" title="Josip Broz Tito">Josip Broz Tito</a>'s policy of <a href="/wiki/Workers%27_self_management" title="Workers' self management" class="mw-redirect">self-determination</a> while governing <a href="/wiki/Socialist_Federal_Republic_of_Yugoslavia" title="Socialist Federal Republic of Yugoslavia">Yugoslavia</a>.<sup id="cite_ref-FOOTNOTEDevlin197534_3-9" class="reference"><a href="#cite_note-FOOTNOTEDevlin197534-3"><span>[</span>3<span>]</span></a></sup> Another difference was that Aflaq did not support the communist idea that <a href="/wiki/Class_struggle" title="Class struggle" class="mw-redirect">class struggle</a> was the central piece throughout human history, given that role instead to nationalism.<sup id="cite_ref-FOOTNOTEDevlin197535_4-3" class="reference"><a href="#cite_note-FOOTNOTEDevlin197535-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="The_term.27s_radicalization">The term's radicalization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_socialism&amp;action=edit&amp;section=2" title="Edit section: The term's radicalization">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>However, in the 1950s, changing attitudes of socialism within the Ba'ath Party began to be apparent.<sup id="cite_ref-FOOTNOTEDevlin197536_5-0" class="reference"><a href="#cite_note-FOOTNOTEDevlin197536-5"><span>[</span>5<span>]</span></a></sup> <a href="/wiki/Jamal_al-Atassi" title="Jamal al-Atassi">Jamal al-Atassi</a>, in a writing dating to 1956, wrote that while Arab socialism was not communism, the party could learn from the experience of the <a href="/wiki/Eastern_Bloc" title="Eastern Bloc">socialist countries</a> of how to construct a socialist society.<sup id="cite_ref-FOOTNOTEDevlin197536_5-1" class="reference"><a href="#cite_note-FOOTNOTEDevlin197536-5"><span>[</span>5<span>]</span></a></sup> It was around this time communist-inspired terms such as "masses of the people" and "people's organization" began to heavily used in Ba'athist literature, while at the same time emphasizing class conflict more than before.<sup id="cite_ref-FOOTNOTEDevlin197536_5-2" class="reference"><a href="#cite_note-FOOTNOTEDevlin197536-5"><span>[</span>5<span>]</span></a></sup> He wrote that "Socialism cannot realize its goals unless it starts from the [fact of] division, difference, and conflict among society's structures and classes."<sup id="cite_ref-FOOTNOTEDevlin197536_5-3" class="reference"><a href="#cite_note-FOOTNOTEDevlin197536-5"><span>[</span>5<span>]</span></a></sup> Atassi ended the article by calling for the "oppressed classes" of the workers, peasants and "other strugglers" to join in the effort to overthrow the oppressors to establish a united Arab society.<sup id="cite_ref-FOOTNOTEDevlin197536_5-4" class="reference"><a href="#cite_note-FOOTNOTEDevlin197536-5"><span>[</span>5<span>]</span></a></sup> In short, he called for revolutionary struggle.<sup id="cite_ref-FOOTNOTEDevlin197536_5-5" class="reference"><a href="#cite_note-FOOTNOTEDevlin197536-5"><span>[</span>5<span>]</span></a></sup> While Aflaq did believe class conflict existed, he believed it to be subordinate to nationalism.<sup id="cite_ref-FOOTNOTEDevlin197536_5-6" class="reference"><a href="#cite_note-FOOTNOTEDevlin197536-5"><span>[</span>5<span>]</span></a></sup></p>
+<p><a href="/wiki/Munif_al-Razzaz" title="Munif al-Razzaz">Munif al-Razzaz</a>, a Jordanese Ba'athist, wrote the Ba'athist classic "Why Socialism Now?" in 1957.<sup id="cite_ref-FOOTNOTEDevlin197536_5-7" class="reference"><a href="#cite_note-FOOTNOTEDevlin197536-5"><span>[</span>5<span>]</span></a></sup> In it he takes a "very different" approach on interpreting the meaning of socialism from Aflaq.<sup id="cite_ref-FOOTNOTEDevlin197536_5-8" class="reference"><a href="#cite_note-FOOTNOTEDevlin197536-5"><span>[</span>5<span>]</span></a></sup> As he wrote, "Socialism is a way of life, not just an economic order. It extends to all aspects of life—<a href="/wiki/Economics" title="Economics">economics</a>, <a href="/wiki/Politics" title="Politics">politics</a>, <a href="/wiki/Training" title="Training">training</a>, <a href="/wiki/Education" title="Education">education</a>, social life, <a href="/wiki/Health" title="Health">health</a>, <a href="/wiki/Morality" title="Morality">morals</a>, <a href="/wiki/Literature" title="Literature">literature</a>, <a href="/wiki/Science" title="Science">science</a>, <a href="/wiki/History" title="History">history</a>, and others, both great and small."<sup id="cite_ref-FOOTNOTEDevlin197536_5-9" class="reference"><a href="#cite_note-FOOTNOTEDevlin197536-5"><span>[</span>5<span>]</span></a></sup> In contrast to official party writings which stressed Arab unity above else, Razzaz tried to demonstrate the interdependent nature of unity, liberty and socialism.<sup id="cite_ref-FOOTNOTEDevlin197536_5-10" class="reference"><a href="#cite_note-FOOTNOTEDevlin197536-5"><span>[</span>5<span>]</span></a></sup> He criticized the view that socialism had to come after Arab unity, stating "Socialism, freedom and unity are not different names for different things, ... but different facets of one basic law from which they spring."<sup id="cite_ref-FOOTNOTEDevlin197537_6-0" class="reference"><a href="#cite_note-FOOTNOTEDevlin197537-6"><span>[</span>6<span>]</span></a></sup> He further noted that "If I believe in man and in man's worth, then I should believe in unity, nationalism, <a href="/wiki/Freedom" title="Freedom" class="mw-redirect">freedom</a>, and socialism because each of them represents a facet of man's fundamental value."<sup id="cite_ref-FOOTNOTEDevlin197537_6-1" class="reference"><a href="#cite_note-FOOTNOTEDevlin197537-6"><span>[</span>6<span>]</span></a></sup> Razzaz ended the article, stating that socialism had been achieved to the same degree as "freedom and unity have been achieved."<sup id="cite_ref-FOOTNOTEDevlin197537_6-2" class="reference"><a href="#cite_note-FOOTNOTEDevlin197537-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="External_reception">External reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_socialism&amp;action=edit&amp;section=3" title="Edit section: External reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The website of the Arab Socialist Ba'ath Party has an entry dated 1 January 2011, stating: "In 28/10/2003, by the attendance of comrade Al-Ahmar and Mr. Ching, the Arab Socialist Ba'ath Party and the <a href="/wiki/Communist_Party_of_China" title="Communist Party of China">Communist Party of China</a> agreed to sign an agreement at the end of the discussions for three years, 2004/2005/2006. The two parties wish to promote and enhance the relations of friendship and cooperation between their two parties and co-ordinate their efforts for embodying their common objectives for the wellbeing of their two friendly peoples" [minor proofreading edits].<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>On the other hand, the Arabist Bernard Lewis has stated: "Nobody seems to have a good word to say for Arab socialism. Commercial, professional, and middle class elements bring against it the usual complaints which are brought against socialism in <a href="/wiki/Western_world" title="Western world">Western countries</a>. <a href="/wiki/Left-wing_politics" title="Left-wing politics">Left-wingers</a> dismiss Arab socialism with contempt as a half-hearted and inefficient compromise which has the merits neither of socialism nor of capitalism."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_socialism&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/African_socialism" title="African socialism">African socialism</a></li>
+<li><a href="/wiki/Arab_nationalism" title="Arab nationalism">Arab nationalism</a></li>
+<li><a href="/wiki/Ba%27athism" title="Ba'athism">Ba'athism</a></li>
+<li><a href="/wiki/Islamic_socialism" title="Islamic socialism">Islamic socialism</a></li>
+<li><a href="/wiki/Nasserism" title="Nasserism">Nasserism</a></li>
+<li><a href="/wiki/Pan-Arabism" title="Pan-Arabism">Pan-Arabism</a></li>
+<li><a href="/wiki/Third_International_Theory" title="Third International Theory">Third International Theory</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_socialism&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-FOOTNOTEDevlin197532-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEDevlin197532_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197532_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197532_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197532_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197532_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197532_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFDevlin1975">Devlin 1975</a>, p.&#160;32.</span></li>
+<li id="cite_note-FOOTNOTEDevlin197533-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEDevlin197533_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197533_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197533_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197533_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFDevlin1975">Devlin 1975</a>, p.&#160;33.</span></li>
+<li id="cite_note-FOOTNOTEDevlin197534-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEDevlin197534_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197534_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197534_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197534_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197534_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197534_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197534_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197534_3-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197534_3-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197534_3-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFDevlin1975">Devlin 1975</a>, p.&#160;34.</span></li>
+<li id="cite_note-FOOTNOTEDevlin197535-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEDevlin197535_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197535_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197535_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197535_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFDevlin1975">Devlin 1975</a>, p.&#160;35.</span></li>
+<li id="cite_note-FOOTNOTEDevlin197536-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEDevlin197536_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197536_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197536_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197536_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197536_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197536_5-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197536_5-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197536_5-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197536_5-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197536_5-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197536_5-10"><sup><i><b>k</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFDevlin1975">Devlin 1975</a>, p.&#160;36.</span></li>
+<li id="cite_note-FOOTNOTEDevlin197537-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEDevlin197537_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197537_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDevlin197537_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFDevlin1975">Devlin 1975</a>, p.&#160;37.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.baath-party.org/index.php?option=com_content&amp;view=article&amp;id=4920:2003-6&amp;Itemid=188&amp;lang=en">http://www.baath-party.org/index.php?option=com_content&amp;view=article&amp;id=4920:2003-6&amp;Itemid=188&amp;lang=en</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Bernard Lewis, "From Babel to Dragomans: Interpreting the Middle East, Oxford and New York: Oxford University Press, p.249</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_socialism&amp;action=edit&amp;section=6" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite id="CITEREFDevlin1975" class="citation book">Devlin, John (1975). <i>The Baath Party: a History from its Origins to 1966</i> (2nd ed.). Hoover Institute Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8179-6561-3" title="Special:BookSources/0-8179-6561-3">0-8179-6561-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArab+socialism&amp;rft.au=Devlin%2C+John&amp;rft.btitle=The+Baath+Party%3A+a+History+from+its+Origins+to+1966&amp;rft.date=1975&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=0-8179-6561-3&amp;rft.pub=Hoover+Institute+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arab_socialism&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.country-data.com/cgi-bin/query/r-4054.html">Nasser and Arab Socialism</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Arab_nationalism" title="Template:Arab nationalism"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Arab_nationalism" title="Template talk:Arab nationalism"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Arab_nationalism&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Arab_nationalism" title="Arab nationalism">Arab nationalism</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Ideology</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Arab socialism</strong></li>
+<li><a href="/wiki/Ba%27athism" title="Ba'athism">Ba'athism</a></li>
+<li><a href="/wiki/Nasserism" title="Nasserism">Nasserism</a></li>
+<li><a href="/wiki/Pan-Arabism" title="Pan-Arabism">Pan-Arabism</a></li>
+<li><a href="/wiki/Third_International_Theory" title="Third International Theory">Third International Theory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">History</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arabization" title="Arabization">Arabization</a></li>
+<li><a href="/wiki/Arab_Revolt" title="Arab Revolt">Arab Revolt</a></li>
+<li><a href="/wiki/Intercommunal_conflict_in_Mandatory_Palestine" title="Intercommunal conflict in Mandatory Palestine">Intercommunal conflict in Mandatory Palestine</a></li>
+<li><a href="/wiki/Iraqi_revolt_against_the_British" title="Iraqi revolt against the British">Iraqi revolt against the British</a></li>
+<li><a href="/wiki/Great_Syrian_Revolt" title="Great Syrian Revolt">Great Syrian Revolt</a></li>
+<li><a href="/wiki/1936%E2%80%9339_Arab_revolt_in_Palestine" title="1936–39 Arab revolt in Palestine">1936–39 Arab revolt in Palestine</a></li>
+<li><a href="/wiki/1941_Iraqi_coup_d%27%C3%A9tat" title="1941 Iraqi coup d'état">1941 Iraqi coup d'état</a></li>
+<li><a href="/wiki/Arab%E2%80%93Israeli_conflict" title="Arab–Israeli conflict">Arab–Israeli conflict</a></li>
+<li><a href="/wiki/Egyptian_Revolution_of_1952" title="Egyptian Revolution of 1952">Egyptian Revolution of 1952</a></li>
+<li><a href="/wiki/United_Arab_Republic" title="United Arab Republic">United Arab Republic</a></li>
+<li><a href="/wiki/Arab_Federation" title="Arab Federation">Arab Federation</a></li>
+<li><a href="/wiki/14_July_Revolution" title="14 July Revolution">14 July Revolution</a></li>
+<li><a href="/wiki/1959_Mosul_uprising" title="1959 Mosul uprising">1959 Mosul uprising</a></li>
+<li><a href="/wiki/Arab_Cold_War" title="Arab Cold War">Arab Cold War</a></li>
+<li><a href="/wiki/North_Yemen_Civil_War" title="North Yemen Civil War">North Yemen Civil War</a></li>
+<li><a href="/wiki/Dhofar_Rebellion" title="Dhofar Rebellion">Dhofar Rebellion</a></li>
+<li><a href="/wiki/Ramadan_Revolution" title="Ramadan Revolution">Ramadan Revolution</a></li>
+<li><a href="/wiki/1961_Syrian_coup_d%27%C3%A9tat" title="1961 Syrian coup d'état">1961 Syrian coup d'état</a></li>
+<li><a href="/wiki/1963_Syrian_coup_d%27%C3%A9tat" title="1963 Syrian coup d'état">1963 Syrian coup d'état</a></li>
+<li><a href="/wiki/November_1963_Iraqi_coup_d%27%C3%A9tat" title="November 1963 Iraqi coup d'état">November 1963 Iraqi coup d'état</a></li>
+<li><a href="/wiki/Aden_Emergency" title="Aden Emergency">Aden Emergency</a></li>
+<li><a href="/wiki/Unified_Political_Command" title="Unified Political Command">Unified Political Command</a></li>
+<li><a href="/wiki/1966_Syrian_coup_d%27%C3%A9tat" title="1966 Syrian coup d'état">1966 Syrian coup d'état</a></li>
+<li><a href="/wiki/Six-Day_War" title="Six-Day War">Six-Day War</a></li>
+<li><a href="/wiki/17_July_Revolution" title="17 July Revolution">17 July Revolution</a></li>
+<li><a href="/wiki/Ba%27athist_Iraq" title="Ba'athist Iraq">Ba'athist Iraq</a></li>
+<li><a href="/wiki/1969_Libyan_coup_d%27%C3%A9tat" title="1969 Libyan coup d'état">1969 Libyan coup d'état</a></li>
+<li><a href="/wiki/Federation_of_Arab_Republics" title="Federation of Arab Republics">Federation of Arab Republics</a></li>
+<li><a href="/wiki/Arab_separatism_in_Khuzestan" title="Arab separatism in Khuzestan">Arab separatism in Khuzestan</a></li>
+<li><a href="/wiki/1979_Khuzestan_uprising" title="1979 Khuzestan uprising">1979 Khuzestan uprising</a></li>
+<li><a href="/wiki/Popular_Arab_and_Islamic_Congress" title="Popular Arab and Islamic Congress">Popular Arab and Islamic Congress</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arabs#Identity" title="Arabs">Arab identity</a></li>
+<li><a href="/wiki/Arab_Union" title="Arab Union">Arab Union</a></li>
+<li><a href="/wiki/Greater_Syria" title="Greater Syria">Greater Syria</a></li>
+<li><a href="/wiki/Rejectionism" title="Rejectionism">Rejectionism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Arab_nationalists" title="Category:Arab nationalists">Personalities</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Michel_Aflaq" title="Michel Aflaq">Michel Aflaq</a></li>
+<li><a href="/wiki/Jassem_Alwan" title="Jassem Alwan">Jassem Alwan</a></li>
+<li><a href="/wiki/Abdul_Rahman_Arif" title="Abdul Rahman Arif">Abdul Rahman Arif</a></li>
+<li><a href="/wiki/Abdul_Salam_Arif" title="Abdul Salam Arif">Abdul Salam Arif</a></li>
+<li><a href="/wiki/Zaki_al-Arsuzi" title="Zaki al-Arsuzi">Zaki al-Arsuzi</a></li>
+<li><a href="/wiki/Bashar_al-Assad" title="Bashar al-Assad">Bashar al-Assad</a></li>
+<li><a href="/wiki/Hafez_al-Assad" title="Hafez al-Assad">Hafez al-Assad</a></li>
+<li><a href="/wiki/Jamal_al-Atassi" title="Jamal al-Atassi">Jamal al-Atassi</a></li>
+<li><a href="/wiki/Lu%27ay_al-Atassi" title="Lu'ay al-Atassi">Lu'ay al-Atassi</a></li>
+<li><a href="/wiki/Sultan_al-Atrash" title="Sultan al-Atrash">Sultan al-Atrash</a></li>
+<li><a href="/wiki/Tariq_Aziz" title="Tariq Aziz">Tariq Aziz</a></li>
+<li><a href="/wiki/Ahmed_Hassan_al-Bakr" title="Ahmed Hassan al-Bakr">Ahmed Hassan al-Bakr</a></li>
+<li><a href="/wiki/Ahmed_Ben_Bella" title="Ahmed Ben Bella">Ahmed Ben Bella</a></li>
+<li><a href="/wiki/Salah_al-Din_al-Bitar" title="Salah al-Din al-Bitar">Salah al-Din al-Bitar</a></li>
+<li><a href="/wiki/Houari_Boumediene" title="Houari Boumediene">Houari Boumediene</a></li>
+<li><a href="/wiki/Izzat_Darwaza" title="Izzat Darwaza">Izzat Darwaza</a></li>
+<li><a href="/wiki/Izzat_Ibrahim_al-Douri" title="Izzat Ibrahim al-Douri">Izzat Ibrahim al-Douri</a></li>
+<li><a href="/wiki/Faisal_I_of_Iraq" title="Faisal I of Iraq">Faisal I of Iraq</a></li>
+<li><a href="/wiki/Muammar_Gaddafi" title="Muammar Gaddafi">Muammar Gaddafi</a></li>
+<li><a href="/wiki/Rashid_Ali_al-Gaylani" title="Rashid Ali al-Gaylani">Rashid Ali al-Gaylani</a></li>
+<li><a href="/wiki/George_Habash" title="George Habash">George Habash</a></li>
+<li><a href="/wiki/Hussein_bin_Ali,_Sharif_of_Mecca" title="Hussein bin Ali, Sharif of Mecca">Hussein bin Ali, Sharif of Mecca</a></li>
+<li><a href="/wiki/Saddam_Hussein" title="Saddam Hussein">Saddam Hussein</a></li>
+<li><a href="/wiki/Haj_Amin_al-Husseini" title="Haj Amin al-Husseini">Haj Amin al-Husseini</a></li>
+<li><a href="/wiki/Salah_Jadid" title="Salah Jadid">Salah Jadid</a></li>
+<li><a href="/wiki/Abd_al-Rahman_al-Kawakibi" title="Abd al-Rahman al-Kawakibi">Abd al-Rahman al-Kawakibi</a></li>
+<li><a href="/wiki/Gamal_Abdel_Nasser" title="Gamal Abdel Nasser">Gamal Abdel Nasser</a></li>
+<li><a href="/wiki/Abu_Nidal" title="Abu Nidal">Abu Nidal</a></li>
+<li><a href="/wiki/Adnan_Pachachi" title="Adnan Pachachi">Adnan Pachachi</a></li>
+<li><a href="/wiki/Shukri_al-Quwatli" title="Shukri al-Quwatli">Shukri al-Quwatli</a></li>
+<li><a href="/wiki/Fuad_al-Rikabi" title="Fuad al-Rikabi">Fuad al-Rikabi</a></li>
+<li><a href="/wiki/Abdullah_Rimawi" title="Abdullah Rimawi">Abdullah Rimawi</a></li>
+<li><a href="/wiki/Hamdeen_Sabahi" title="Hamdeen Sabahi">Hamdeen Sabahi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Arab_nationalist_organizations" title="Category:Arab nationalist organizations">Organizations</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Al-Awda_(guerrilla_organization)" title="Al-Awda (guerrilla organization)">Al-Awda</a></li>
+<li><a href="/wiki/Al-Fatat" title="Al-Fatat">Al-Fatat</a></li>
+<li><a href="/wiki/Al-Mourabitoun" title="Al-Mourabitoun">Al-Mourabitoun</a></li>
+<li><a href="/wiki/Amal_Movement" title="Amal Movement">Amal Movement</a></li>
+<li><a href="/wiki/Arab_Ba%27ath_Movement" title="Arab Ba'ath Movement">Arab Ba'ath Movement</a></li>
+<li><a href="/wiki/Arab_Higher_Committee" title="Arab Higher Committee">Arab Higher Committee</a></li>
+<li><a href="/wiki/Arab_Liberation_Army" title="Arab Liberation Army">Arab Liberation Army</a></li>
+<li><a href="/wiki/Arab_Nationalist_Movement" title="Arab Nationalist Movement">Arab Nationalist Movement</a></li>
+<li><a href="/wiki/Arab_Socialist_Action_Party" title="Arab Socialist Action Party">Arab Socialist Action Party</a></li>
+<li><a href="/wiki/Arab_Socialist_Union_(Egypt)" title="Arab Socialist Union (Egypt)">Arab Socialist Union (Egypt)</a></li>
+<li><a href="/wiki/Arab_Socialist_Union_(Iraq)" title="Arab Socialist Union (Iraq)">Arab Socialist Union (Iraq)</a></li>
+<li><a href="/wiki/Arabian_Peninsula_People%27s_Union" title="Arabian Peninsula People's Union">Arabian Peninsula People's Union</a></li>
+<li><a href="/wiki/Army_of_the_Men_of_the_Naqshbandi_Order" title="Army of the Men of the Naqshbandi Order">Army of the Men of the Naqshbandi Order</a></li>
+<li><a href="/wiki/Ba%27ath_Party" title="Ba'ath Party">Ba'ath Party</a></li>
+<li><a href="/wiki/Ba%27ath_Party_(Iraqi-dominated_faction)" title="Ba'ath Party (Iraqi-dominated faction)">Ba'ath Party (Iraqi-dominated faction)</a></li>
+<li><a href="/wiki/Ba%27ath_Party_(Syrian-dominated_faction)" title="Ba'ath Party (Syrian-dominated faction)">Ba'ath Party (Syrian-dominated faction)</a></li>
+<li><a href="/wiki/Egyptian_Revolutionary_Command_Council" title="Egyptian Revolutionary Command Council">Egyptian Revolutionary Command Council</a></li>
+<li><a href="/wiki/Free_Officers_Movement_(Egypt)" title="Free Officers Movement (Egypt)">Free Officers Movement (Egypt)</a></li>
+<li><a href="/wiki/Free_Princes_Movement" title="Free Princes Movement">Free Princes Movement</a></li>
+<li><a href="/wiki/General_Military_Council_for_Iraqi_Revolutionaries" title="General Military Council for Iraqi Revolutionaries">General Military Council for Iraqi Revolutionaries</a></li>
+<li><a href="/wiki/Independence_Party_(Palestine)" title="Independence Party (Palestine)" class="mw-redirect">Independence Party (Palestine)</a></li>
+<li><a href="/wiki/Islamic_Legion" title="Islamic Legion">Islamic Legion</a></li>
+<li><a href="/wiki/Libyan_Arab_Socialist_Union" title="Libyan Arab Socialist Union">Libyan Arab Socialist Union</a></li>
+<li><a href="/wiki/National_Liberation_Front_(Algeria)" title="National Liberation Front (Algeria)">National Liberation Front (Algeria)</a></li>
+<li><a href="/wiki/Popular_Front_for_the_Liberation_of_Palestine" title="Popular Front for the Liberation of Palestine">Popular Front for the Liberation of Palestine</a></li>
+<li><a href="/wiki/Rejectionist_Front" title="Rejectionist Front">Rejectionist Front</a></li>
+<li><a href="/wiki/Revolutionary_Command_Council_(Iraq)" title="Revolutionary Command Council (Iraq)">Revolutionary Command Council (Iraq)</a></li>
+<li><a href="/wiki/Supreme_Command_for_Jihad_and_Liberation" title="Supreme Command for Jihad and Liberation">Supreme Command for Jihad and Liberation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Literature</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Three_Whom_God_Should_Not_Have_Created:_Persians,_Jews,_and_Flies" title="Three Whom God Should Not Have Created: Persians, Jews, and Flies">Three Whom God Should Not Have Created: Persians, Jews, and Flies</a></i></li>
+<li><i><a href="/wiki/On_the_Way_of_Resurrection" title="On the Way of Resurrection">On the Way of Resurrection</a></i></li>
+<li><i><a href="/wiki/The_Battle_for_One_Destiny" title="The Battle for One Destiny">The Battle for One Destiny</a></i></li>
+<li><i><a href="/wiki/The_Green_Book_(Muammar_Gaddafi)" title="The Green Book (Muammar Gaddafi)">The Green Book</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Symbolism</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eagle_of_Saladin" title="Eagle of Saladin">Eagle of Saladin</a></li>
+<li><a href="/wiki/Flag_of_the_Arab_Revolt" title="Flag of the Arab Revolt">Flag of the Arab Revolt</a></li>
+<li><a href="/wiki/Hawk_of_Quraish" title="Hawk of Quraish">Hawk of Quraish</a></li>
+<li><a href="/wiki/Pan-Arab_colors" title="Pan-Arab colors">Pan-Arab colors</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Algerian_nationalism" title="Algerian nationalism">Algerian nationalism</a></li>
+<li><a href="/wiki/Egyptian_nationalism" title="Egyptian nationalism">Egyptian nationalism</a></li>
+<li><a href="/wiki/Iraqi_nationalism" title="Iraqi nationalism">Iraqi nationalism</a></li>
+<li><a href="/wiki/Lebanese_nationalism" title="Lebanese nationalism">Lebanese nationalism</a></li>
+<li><a href="/wiki/Libyan_nationalism" title="Libyan nationalism">Libyan nationalism</a></li>
+<li><a href="/wiki/Palestinian_nationalism" title="Palestinian nationalism">Palestinian nationalism</a></li>
+<li><a href="/wiki/Somali_nationalism" title="Somali nationalism">Somali nationalism</a></li>
+<li><a href="/wiki/Syrian_nationalism" title="Syrian nationalism">Syrian nationalism</a></li>
+<li><a href="/wiki/Tunisian_nationalism" title="Tunisian nationalism">Tunisian nationalism</a></li>
+<li><a href="/wiki/Islamism" title="Islamism">Islamism</a></li>
+<li><a href="/wiki/Pan-Islamism" title="Pan-Islamism">Pan-Islamism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Socialism_by_state" title="Template:Socialism by state"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Socialism_by_state" title="Template talk:Socialism by state"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Socialism_by_state&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Socialism" title="Socialism">Socialism</a> by country</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/History_of_socialism" title="History of socialism">History by country</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_the_socialist_movement_in_Brazil" title="History of the socialist movement in Brazil">Brazil</a></li>
+<li><a href="/wiki/Socialism_in_Canada" title="Socialism in Canada">Canada</a></li>
+<li><a href="/wiki/Socialism_in_Estonia" title="Socialism in Estonia">Estonia</a></li>
+<li><a href="/wiki/French_Left" title="French Left">France</a></li>
+<li><a href="/wiki/Socialism_in_India" title="Socialism in India">India</a></li>
+<li><a href="/wiki/Socialism_in_the_Netherlands" title="Socialism in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Socialism_in_New_Zealand" title="Socialism in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Socialism_in_Pakistan" title="Socialism in Pakistan">Pakistan</a></li>
+<li><a href="/wiki/History_of_the_socialist_movement_in_the_United_Kingdom" title="History of the socialist movement in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/History_of_the_socialist_movement_in_the_United_States" title="History of the socialist movement in the United States">United States</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Regional variants</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/African_socialism" title="African socialism">African</a></li>
+<li><strong class="selflink">Arab</strong></li>
+<li><a href="/wiki/Britain%27s_Road_to_Socialism" title="Britain's Road to Socialism">British</a></li>
+<li><a href="/wiki/Burmese_Way_to_Socialism" title="Burmese Way to Socialism">Burmese</a></li>
+<li><a href="/wiki/Socialism_with_Chinese_characteristics" title="Socialism with Chinese characteristics">Chinese</a></li>
+<li><a href="/wiki/Labor_Zionism" title="Labor Zionism">Israeli</a></li>
+<li><a href="/wiki/Melanesian_socialism" title="Melanesian socialism">Melanesian</a></li>
+<li><a href="/wiki/Sandinismo" title="Sandinismo">Nicaraguan</a></li>
+<li><a href="/wiki/Bolivarian_Revolution" title="Bolivarian Revolution">Venezuelan</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Communist_state" title="Communist state">Communist States</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Africa</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/People%27s_Republic_of_Angola" title="People's Republic of Angola">Angola</a></li>
+<li><a href="/wiki/People%27s_Republic_of_Benin" title="People's Republic of Benin">Benin</a></li>
+<li><a href="/wiki/People%27s_Republic_of_the_Congo" title="People's Republic of the Congo">Republic of the Congo</a></li>
+<li><a href="/wiki/Derg" title="Derg">Ethiopia (1974–87)</a></li>
+<li><a href="/wiki/People%27s_Democratic_Republic_of_Ethiopia" title="People's Democratic Republic of Ethiopia">Ethiopia (1987–91)</a></li>
+<li><a href="/wiki/People%27s_Republic_of_Mozambique" title="People's Republic of Mozambique">Mozambique</a></li>
+<li><a href="/wiki/Somali_Democratic_Republic" title="Somali Democratic Republic">Somalia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Americas</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cuba" title="Cuba">Cuba</a></li>
+<li><a href="/wiki/People%27s_Revolutionary_Government_(Grenada)" title="People's Revolutionary Government (Grenada)">Grenada</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Asia</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Democratic_Republic_of_Afghanistan" title="Democratic Republic of Afghanistan">Afghanistan</a></li>
+<li><a href="/wiki/People%27s_Republic_of_Kampuchea" title="People's Republic of Kampuchea">Cambodia (1979–93)</a></li>
+<li><a href="/wiki/Democratic_Kampuchea" title="Democratic Kampuchea">Cambodia (1976–79)</a></li>
+<li><a href="/wiki/China" title="China">China</a></li>
+<li><a href="/wiki/Persian_Socialist_Soviet_Republic" title="Persian Socialist Soviet Republic">Gilan</a></li>
+<li><a href="/wiki/Azerbaijan_People%27s_Government" title="Azerbaijan People's Government">Iranian Azerbaijan</a></li>
+<li><a href="/wiki/Republic_of_Kurdistan" title="Republic of Kurdistan" class="mw-redirect">Kurdish Republic of Mahabad</a></li>
+<li><a href="/wiki/North_Korea" title="North Korea">North Korea (1948–92)</a></li>
+<li><a href="/wiki/Laos" title="Laos">Laos</a></li>
+<li><a href="/wiki/Mongolian_People%27s_Republic" title="Mongolian People's Republic">Mongolia</a></li>
+<li><a href="/wiki/Tuvan_People%27s_Republic" title="Tuvan People's Republic">Tuva</a></li>
+<li><a href="/wiki/Vietnam" title="Vietnam">Vietnam</a>
+<ul>
+<li><a href="/wiki/North_Vietnam" title="North Vietnam">North Vietnam</a></li>
+<li><a href="/wiki/Provisional_Revolutionary_Government_of_the_Republic_of_South_Vietnam" title="Provisional Revolutionary Government of the Republic of South Vietnam">South Vietnam</a></li>
+</ul>
+</li>
+<li><a href="/wiki/South_Yemen" title="South Yemen">South Yemen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Europe</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/People%27s_Socialist_Republic_of_Albania" title="People's Socialist Republic of Albania">Albania (1944–92)</a></li>
+<li><a href="/wiki/Alsace_Soviet_Republic" title="Alsace Soviet Republic" class="mw-redirect">Alsace</a></li>
+<li><a href="/wiki/Bavarian_Council_Republic" title="Bavarian Council Republic">Bavaria</a></li>
+<li><a href="/w/index.php?title=Bremen_Soviet_Republic&amp;action=edit&amp;redlink=1" class="new" title="Bremen Soviet Republic (page does not exist)">Bremen</a></li>
+<li><a href="/wiki/People%27s_Republic_of_Bulgaria" title="People's Republic of Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Czechoslovak_Socialist_Republic" title="Czechoslovak Socialist Republic">Czechoslovakia</a></li>
+<li><a href="/wiki/Finnish_Democratic_Republic" title="Finnish Democratic Republic">Finland</a></li>
+<li><a href="/wiki/Galician_Soviet_Socialist_Republic" title="Galician Soviet Socialist Republic">Galicia</a></li>
+<li><a href="/wiki/East_Germany" title="East Germany">East Germany</a></li>
+<li><a href="/wiki/Hungarian_Soviet_Republic" title="Hungarian Soviet Republic">Hungary (1919)</a></li>
+<li><a href="/wiki/Hungarian_People%27s_Republic" title="Hungarian People's Republic">Hungary (1949–89)</a></li>
+<li><a href="/wiki/Limerick_Soviet" title="Limerick Soviet">Ireland</a></li>
+<li><a href="/wiki/Polish_People%27s_Republic" title="Polish People's Republic">Poland</a></li>
+<li><a href="/wiki/Socialist_Republic_of_Romania" title="Socialist Republic of Romania">Romania</a></li>
+<li><a href="/wiki/Slovak_Soviet_Republic" title="Slovak Soviet Republic">Slovakia (1919)</a></li>
+<li><a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a></li>
+<li><a href="/wiki/Socialist_Federal_Republic_of_Yugoslavia" title="Socialist Federal Republic of Yugoslavia">Yugoslavia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1184
+Cached time: 20151014195406
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.379 seconds
+Real time usage: 0.474 seconds
+Preprocessor visited node count: 2094/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 93243/2097152 bytes
+Template argument size: 2002/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.172/10.000 seconds
+Lua memory usage: 2.18 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  370.194      1 - -total
+ 35.28%  130.590      1 - Template:Ba'athism_sidebar
+ 33.76%  124.975      1 - Template:Sidebar_with_collapsible_lists
+ 23.76%   87.968     38 - Template:Sfn
+ 18.81%   69.637      2 - Template:Infobox
+ 13.66%   50.577      3 - Template:Navbox
+ 12.23%   45.279      1 - Template:Lang-ar
+ 11.67%   43.211      1 - Template:Language_with_name
+ 10.88%   40.276      1 - Template:Lang
+  9.99%   36.964      1 - Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:38802698-0!*!0!!en!4!* and timestamp 20151014195405 and revision id 682442244
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Arab_socialism&amp;oldid=682442244">https://en.wikipedia.org/w/index.php?title=Arab_socialism&amp;oldid=682442244</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Arab_socialism" title="Category:Arab socialism">Arab socialism</a></li><li><a href="/wiki/Category:Socialism" title="Category:Socialism">Socialism</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Arab+socialism&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Arab+socialism" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Arab_socialism"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Arab_socialism"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Arab_socialism" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Arab_socialism&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Arab_socialism&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Arab_socialism" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Arab_socialism" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Arab_socialism&amp;oldid=682442244" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Arab_socialism&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q624284" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Arab_socialism&amp;id=682442244" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Arab+socialism">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Arab+socialism&amp;returnto=Arab+socialism&amp;oldid=682442244&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Arab_socialism&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83%D9%8A%D8%A9_%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9" title="اشتراكية عربية – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="//ast.wikipedia.org/wiki/Socialismu_%C3%A1rabe" title="Socialismu árabe – Asturian" lang="ast" hreflang="ast">Asturianu</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Arabischer_Sozialismus" title="Arabischer Sozialismus – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Socialismo_%C3%A1rabe" title="Socialismo árabe – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Arabiar_sozialismo" title="Arabiar sozialismo – Basque" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Socialisme_arabe" title="Socialisme arabe – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%95%84%EB%9E%8D%EC%82%AC%ED%9A%8C%EC%A3%BC%EC%9D%98" title="아랍사회주의 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Socialismo_arabo" title="Socialismo arabo – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A1%D7%95%D7%A6%D7%99%D7%90%D7%9C%D7%99%D7%96%D7%9D_%D7%A2%D7%A8%D7%91%D7%99" title="סוציאליזם ערבי – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-arz"><a href="//arz.wikipedia.org/wiki/%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D9%83%D9%8A%D9%87_%D8%B9%D8%B1%D8%A8%D9%8A%D9%87" title="اشتراكيه عربيه – Egyptian Arabic" lang="arz" hreflang="arz">مصرى</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Arabisch_socialisme" title="Arabisch socialisme – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%96%E7%A4%BE%E4%BC%9A%E4%B8%BB%E7%BE%A9" title="アラブ社会主義 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Socjalizm_arabski" title="Socjalizm arabski – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC" title="Арабский социализм – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-si"><a href="//si.wikipedia.org/wiki/%E0%B6%85%E0%B6%BB%E0%B7%8F%E0%B6%B6%E0%B7%92_%E0%B7%83%E0%B6%B8%E0%B7%8F%E0%B6%A2%E0%B7%80%E0%B7%8F%E0%B6%AF%E0%B6%BA" title="අරාබි සමාජවාදය – Sinhala" lang="si" hreflang="si">සිංහල</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%BF%D1%81%D0%BA%D0%B8_%D1%81%D0%BE%D1%86%D0%B8%D1%98%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D0%BC" title="Арапски социјализам – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Arapski_socijalizam" title="Arapski socijalizam – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Arabisosialismi" title="Arabisosialismi – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Arabisk_socialism" title="Arabisk socialism – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%98%BF%E6%8B%89%E4%BC%AF%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89" title="阿拉伯社会主义 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q624284#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 23 September 2015, at 19:21.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Arab_socialism&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1249"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

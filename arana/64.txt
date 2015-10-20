@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>HFC Haarlem - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"HFC_Haarlem","wgTitle":"HFC Haarlem","wgCurRevisionId":679283054,"wgRevisionId":679283054,"wgArticleId":2173100,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Dutch-language sources (nl)","Defunct football clubs in the Netherlands","Sport in Haarlem","Association football clubs established in 1889","Association football clubs disestablished in 2010","HFC Haarlem","1889 establishments in the Netherlands","2010 disestablishments in the Netherlands"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"HFC_Haarlem","wgRelevantArticleId":2173100,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/en/thumb/7/7f/HFC_Haarlem_logo.svg/100px-HFC_Haarlem_logo.svg.png","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q854141","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/HFC_Haarlem" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=HFC_Haarlem&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=HFC_Haarlem&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/HFC_Haarlem" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-HFC_Haarlem skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">HFC Haarlem</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<caption class="fn org">HFC Haarlem</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:HFC_Haarlem_logo.svg" class="image"><img alt="HFC Haarlem logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/7/7f/HFC_Haarlem_logo.svg/200px-HFC_Haarlem_logo.svg.png" width="200" height="200" srcset="//upload.wikimedia.org/wikipedia/en/thumb/7/7f/HFC_Haarlem_logo.svg/300px-HFC_Haarlem_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/7/7f/HFC_Haarlem_logo.svg/400px-HFC_Haarlem_logo.svg.png 2x" data-file-width="505" data-file-height="505" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap; text-align:left">Full name</th>
+<td>Haarlemsche Football Club Haarlem</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap; text-align:left">Nickname(s)</th>
+<td class="nickname"><i>Roodbroeken</i> (Red shorts)</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap; text-align:left">Founded</th>
+<td>October 1, 1889</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap; text-align:left">Dissolved</th>
+<td>January 25, 2010</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap; text-align:left">Ground</th>
+<td class="label"><a href="/wiki/Haarlem_Stadion" title="Haarlem Stadion">Haarlem Stadion</a>,<br />
+<a href="/wiki/Haarlem" title="Haarlem">Haarlem</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap; text-align:left"><span style="display:none">Ground&#160;</span>Capacity</th>
+<td>3,442</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<td class="toccolours" style="padding: 0; background: #ffffff; text-align: center;" colspan="2">
+<table style="width:100%; text-align:center;">
+<tr>
+<td>
+<div style="width: 100px; margin: 0 auto; padding: 0;">
+<div style="position: relative; left: 0px; top: 0px; width: 100px; height: 135px; margin: 0 auto; padding: 0;">
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px; background-color: #BB0000;"><a href="/wiki/File:Kit_left_arm_bluewhite_cuffs.png" class="image" title="Team colours"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/4/45/Kit_left_arm_bluewhite_cuffs.png" width="31" height="59" style="vertical-align: top" data-file-width="31" data-file-height="59" /></a></div>
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png" width="31" height="59" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/47px-Kit_left_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/62px-Kit_left_arm.svg.png 2x" data-file-width="31" data-file-height="59" /></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px; background-color: #000080;"></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png" width="38" height="59" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/57px-Kit_body.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/76px-Kit_body.svg.png 2x" data-file-width="38" data-file-height="59" /></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px; background-color: #BB0000;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/1/1e/Kit_right_arm_bluewhite_cuffs.png" width="31" height="59" style="vertical-align: top" data-file-width="31" data-file-height="59" /></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/31px-Kit_right_arm.svg.png" width="31" height="59" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/47px-Kit_right_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/62px-Kit_right_arm.svg.png 2x" data-file-width="31" data-file-height="59" /></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px; background-color: #BB0000"></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png" width="100" height="36" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/150px-Kit_shorts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/200px-Kit_shorts.svg.png 2x" data-file-width="100" data-file-height="36" /></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px; background-color: #000080"></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png" width="100" height="40" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/150px-Kit_socks_long.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/200px-Kit_socks_long.svg.png 2x" data-file-width="100" data-file-height="40" /></div>
+</div>
+<div style="padding-top: 0.6em; text-align: center;"><b><a href="/wiki/Kit_(association_football)" title="Kit (association football)">Home colours</a></b></div>
+</div>
+</td>
+<td>
+<div style="width: 100px; margin: 0 auto; padding: 0;">
+<div style="position: relative; left: 0px; top: 0px; width: 100px; height: 135px; margin: 0 auto; padding: 0;">
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px; background-color: #300089;"><a href="/wiki/File:Kit_left_arm_bluewhite_cuffs.png" class="image" title="Team colours"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/4/45/Kit_left_arm_bluewhite_cuffs.png" width="31" height="59" style="vertical-align: top" data-file-width="31" data-file-height="59" /></a></div>
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png" width="31" height="59" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/47px-Kit_left_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/62px-Kit_left_arm.svg.png 2x" data-file-width="31" data-file-height="59" /></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px; background-color: #FFEE00;"></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png" width="38" height="59" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/57px-Kit_body.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/76px-Kit_body.svg.png 2x" data-file-width="38" data-file-height="59" /></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px; background-color: #300089;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/1/1e/Kit_right_arm_bluewhite_cuffs.png" width="31" height="59" style="vertical-align: top" data-file-width="31" data-file-height="59" /></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/31px-Kit_right_arm.svg.png" width="31" height="59" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/47px-Kit_right_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/62px-Kit_right_arm.svg.png 2x" data-file-width="31" data-file-height="59" /></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px; background-color: #0000FF"></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png" width="100" height="36" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/150px-Kit_shorts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/200px-Kit_shorts.svg.png 2x" data-file-width="100" data-file-height="36" /></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px; background-color: #0000FF"></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png" width="100" height="40" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/150px-Kit_socks_long.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/200px-Kit_socks_long.svg.png 2x" data-file-width="100" data-file-height="40" /></div>
+</div>
+<div style="padding-top: 0.6em; text-align: center;"><b><a href="/wiki/Away_colours" title="Away colours">Away colours</a></b></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><b>HFC Haarlem</b> was a <a href="/wiki/Netherlands" title="Netherlands">Dutch</a> <a href="/wiki/Association_football" title="Association football">football</a> club from the city of <a href="/wiki/Haarlem" title="Haarlem">Haarlem</a>, established in 1889 and dissolved in 2010. The club won the <a href="/wiki/Eredivisie" title="Eredivisie">Dutch national title</a> in 1946 and reached five <a href="/wiki/KNVB_Cup" title="KNVB Cup">Cup finals</a>, winning in 1902 and 1912. Haarlem reached the second round of the <a href="/wiki/1982%E2%80%9383_UEFA_Cup" title="1982–83 UEFA Cup">1982–83 UEFA Cup</a>, losing to <a href="/wiki/FC_Spartak_Moscow" title="FC Spartak Moscow">Spartak Moscow</a> of the <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a>.</p>
+<p>Haarlem was declared bankrupt on January 25, 2010, and excluded from professional football with immediate effect. Haarlem played its last professional match on January 22, 2010, a 3-0 away loss to <a href="/wiki/SBV_Excelsior" title="SBV Excelsior" class="mw-redirect">Excelsior</a>.</p>
+<p>In April 2010, three months after its exclusion from professional football, HFC Haarlem completed a fusion with amateur <a href="/wiki/Tweede_Klasse" title="Tweede Klasse">Tweede Klasse</a> club HFC Kennemerland, the new club being named <b><a href="/wiki/Haarlem_Kennemerland" title="Haarlem Kennemerland">Haarlem Kennemerland</a></b>. The team played in <a href="/wiki/Tweede_Klasse" title="Tweede Klasse">Tweede Klasse</a> A Saturday Division, West District I in its debut season.<sup id="cite_ref-fusion_1_1-0" class="reference"><a href="#cite_note-fusion_1-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-fusion_2_2-0" class="reference"><a href="#cite_note-fusion_2-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Ajax-partnership"><span class="tocnumber">1.1</span> <span class="toctext">Ajax-partnership</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Bankruptcy"><span class="tocnumber">1.2</span> <span class="toctext">Bankruptcy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Honours"><span class="tocnumber">2</span> <span class="toctext">Honours</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#UEFA_Cup_run_of_1982.2F1983"><span class="tocnumber">3</span> <span class="toctext">UEFA Cup run of 1982/1983</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Results"><span class="tocnumber">4</span> <span class="toctext">Results</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notable_players"><span class="tocnumber">5</span> <span class="toctext">Notable players</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Former_managers"><span class="tocnumber">6</span> <span class="toctext">Former managers</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HFC_Haarlem&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The club was founded on October 1, 1889. Haarlem won the Dutch national title in 1946 and reached five <a href="/wiki/KNVB_Cup" title="KNVB Cup">Dutch cup</a> finals, winning in 1902 and 1912 and losing in 1911, 1914 and 1950. Haarlem won the title in the <a href="/wiki/Eerste_Divisie" title="Eerste Divisie">Eerste Divisie</a> in 1972, 1976 and 1981. In 1982, HFC Haarlem, featuring a young <a href="/wiki/Ruud_Gullit" title="Ruud Gullit">Ruud Gullit</a>, qualified for <a href="/wiki/UEFA_Cup" title="UEFA Cup" class="mw-redirect">UEFA Cup</a> football, in which they were eliminated by <a href="/wiki/FC_Spartak_Moscow" title="FC Spartak Moscow">Spartak Moscow</a> in the second round (the match hosted by Spartak is known in Russia because of the <a href="/wiki/Luzhniki_disaster" title="Luzhniki disaster">Luzhniki disaster</a> that occurred in the stadium after the game). In 1990, Haarlem was relegated to the <a href="/wiki/Eerste_Divisie" title="Eerste Divisie">Eerste Divisie</a> again, in which they played until January 25, 2010.</p>
+<h3><span class="mw-headline" id="Ajax-partnership">Ajax-partnership</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HFC_Haarlem&amp;action=edit&amp;section=2" title="Edit section: Ajax-partnership">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On August 10, 2009, Haarlem and <a href="/wiki/AFC_Ajax" title="AFC Ajax">AFC Ajax</a> announced a partnership.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> They decided Ajax would loan 1 to 4 players to Haarlem every season, it also meant Ajax would get a say in Haarlem-transfers, and would deploy employees to Haarlem, <a href="/w/index.php?title=Cock_Jol&amp;action=edit&amp;redlink=1" class="new" title="Cock Jol (page does not exist)">Cock Jol</a>, brother of <a href="/wiki/Martin_Jol" title="Martin Jol">Martin Jol</a> supervised the Ajax-Haarlem project.</p>
+<h3><span class="mw-headline" id="Bankruptcy">Bankruptcy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HFC_Haarlem&amp;action=edit&amp;section=3" title="Edit section: Bankruptcy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On January 25, 2010, however, Haarlem was declared bankrupt and was thus according to Dutch league rules excluded from competition, with all its previous results in the <a href="/wiki/2009%E2%80%9310_Eerste_Divisie" title="2009–10 Eerste Divisie">ongoing competition</a> expunged.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> The club in its current form ceased to exist, with all its players (and staff) becoming <a href="/wiki/Free_agent" title="Free agent">free agents</a>.</p>
+<p>In February 2010, HFC Haarlem was reinstated as a new amateur club, who also took the naming and logo rights from the old version.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> This club then started talks for a potential merger with amateur <a href="/wiki/Tweede_Klasse" title="Tweede Klasse">Tweede Klasse</a> Haarlem-based side HFC Kennemerland,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> which was announced to have been completed on April 27; the new club will be called <b><a href="/wiki/Haarlem_Kennemerland" title="Haarlem Kennemerland">Haarlem Kennemerland</a></b>, and will play home games at <a href="/wiki/Haarlem_Stadion" title="Haarlem Stadion">Haarlem Stadion</a>, thus continuing the legacy of the old HFC Haarlem.<sup id="cite_ref-fusion_1_1-1" class="reference"><a href="#cite_note-fusion_1-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-fusion_2_2-1" class="reference"><a href="#cite_note-fusion_2-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Honours">Honours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HFC_Haarlem&amp;action=edit&amp;section=4" title="Edit section: Honours">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><b><a href="/wiki/Eredivisie" title="Eredivisie">Eredivisie</a></b>
+<ul>
+<li><b>Winner:</b> 1946</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b><a href="/wiki/KNVB_Cup" title="KNVB Cup">KNVB Cup</a></b>
+<ul>
+<li><b>Winner:</b> 1902, 1912</li>
+<li><b>Runners-up:</b> 1911, 1914, 1950</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b><a href="/wiki/Eerste_Divisie" title="Eerste Divisie">Eerste Divisie</a></b>
+<ul>
+<li><b>Winner:</b> 1972, 1976, 1981</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><b><a href="/wiki/Tweede_Divisie" title="Tweede Divisie">Tweede Divisie</a></b>
+<ul>
+<li><b>Winner:</b> 1961, 1963, 1967</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Promoted to <b><a href="/wiki/Eredivisie" title="Eredivisie">Eredivisie</a></b>
+<ul>
+<li><b>Promotion:</b> 1969</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="UEFA_Cup_run_of_1982.2F1983">UEFA Cup run of 1982/1983</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HFC_Haarlem&amp;action=edit&amp;section=5" title="Edit section: UEFA Cup run of 1982/1983">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="width: 100%; background-color: transparent; clear:both" class="vevent">
+<p><span class="summary" style="display: none;">HFC Haarlem v <a href="/wiki/AA_Gent" title="AA Gent" class="mw-redirect">AA Gent</a></span></p>
+<table style="float:left; width:15%; table-layout:fixed">
+<tr>
+<td>
+<div style="text-align:right">September 15, 1982<br />
+<small>First Round<br />
+First Leg</small><br /></div>
+</td>
+</tr>
+</table>
+<table style="float:left; width:61%; table-layout:fixed; text-align:center">
+<tr style="vertical-align:top">
+<th style="width:39%; text-align:right" class="vcard attendee"><span class="fn org">HFC Haarlem</span></th>
+<th style="width:22%; text-align:center">2–1</th>
+<th style="width:39%; text-align:left" class="vcard attendee"><span class="fn org"><a href="/wiki/AA_Gent" title="AA Gent" class="mw-redirect">AA Gent</a></span></th>
+</tr>
+<tr style="vertical-align:top;font-size:85%">
+<td style="text-align:right"><a href="/wiki/Gerrie_Kleton" title="Gerrie Kleton">Gerrie Kleton</a> 37'<br />
+<a href="/wiki/Martin_Haar" title="Martin Haar">Martin Haar</a> 73'</td>
+<td style="text-align:center"></td>
+<td style="text-align:left"><a href="/w/index.php?title=Kiyiaki_Tokodi&amp;action=edit&amp;redlink=1" class="new" title="Kiyiaki Tokodi (page does not exist)">Kiyiaki Tokodi</a> 78' (<a href="/wiki/Penalty_kick" title="Penalty kick">pen</a>)</td>
+</tr>
+</table>
+<table style="float:left; width:24%; table-layout:fixed">
+<tr>
+<td>
+<div style="font-size: 85%"><span class="location"><a href="/wiki/Haarlem_Stadion" title="Haarlem Stadion">Haarlem Stadion</a>, <a href="/wiki/Haarlem" title="Haarlem">Haarlem</a></span><br />
+Attendance: 11.800<br />
+Referee: Ib Nielsen (DEN)</div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<hr />
+<div style="width: 100%; background-color: transparent; clear:both" class="vevent">
+<p><span class="summary" style="display: none;"><a href="/wiki/AA_Gent" title="AA Gent" class="mw-redirect">AA Gent</a> v HFC Haarlem</span></p>
+<table style="float:left; width:15%; table-layout:fixed">
+<tr>
+<td>
+<div style="text-align:right">September 29, 1982<br />
+<small>First Round<br />
+Second Leg</small><br /></div>
+</td>
+</tr>
+</table>
+<table style="float:left; width:61%; table-layout:fixed; text-align:center">
+<tr style="vertical-align:top">
+<th style="width:39%; text-align:right" class="vcard attendee"><span class="fn org"><a href="/wiki/AA_Gent" title="AA Gent" class="mw-redirect">AA Gent</a></span></th>
+<th style="width:22%; text-align:center">3–3</th>
+<th style="width:39%; text-align:left" class="vcard attendee"><span class="fn org">HFC Haarlem</span></th>
+</tr>
+<tr style="vertical-align:top;font-size:85%">
+<td style="text-align:right"><a href="/wiki/Aad_Koudijzer" title="Aad Koudijzer">Aad Koudijzer</a> 23', 60'<br />
+<a href="/wiki/Cees_Schapendonk" title="Cees Schapendonk">Cees Schapendonk</a> 29'</td>
+<td style="text-align:center"></td>
+<td style="text-align:left"><a href="/w/index.php?title=Joop_B%C3%B6ckling&amp;action=edit&amp;redlink=1" class="new" title="Joop Böckling (page does not exist)">Joop Böckling</a> 3'<br />
+<a href="/wiki/Gerrie_Kleton" title="Gerrie Kleton">Gerrie Kleton</a> 67'<br />
+<a href="/wiki/Piet_Keur" title="Piet Keur">Piet Keur</a> 90'</td>
+</tr>
+</table>
+<table style="float:left; width:24%; table-layout:fixed">
+<tr>
+<td>
+<div style="font-size: 85%"><span class="location"><a href="/wiki/Jules_Ottenstadion" title="Jules Ottenstadion">Jules Otten Stadion</a>, <a href="/wiki/Ghent" title="Ghent">Ghent</a></span><br />
+Attendance: 9.604<br />
+Referee: Osmo Orakangas (FIN)</div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<hr />
+<div style="width: 100%; background-color: transparent; clear:both" class="vevent">
+<p><span class="summary" style="display: none;"><a href="/wiki/FC_Spartak_Moscow" title="FC Spartak Moscow">Spartak Moscow</a> v HFC Haarlem</span></p>
+<table style="float:left; width:15%; table-layout:fixed">
+<tr>
+<td>
+<div style="text-align:right">October 20, 1982<br />
+<small>Second Round<br />
+First Leg</small><br /></div>
+</td>
+</tr>
+</table>
+<table style="float:left; width:61%; table-layout:fixed; text-align:center">
+<tr style="vertical-align:top">
+<th style="width:39%; text-align:right" class="vcard attendee"><span class="fn org"><a href="/wiki/FC_Spartak_Moscow" title="FC Spartak Moscow">Spartak Moscow</a></span></th>
+<th style="width:22%; text-align:center">2–0</th>
+<th style="width:39%; text-align:left" class="vcard attendee"><span class="fn org">HFC Haarlem</span></th>
+</tr>
+<tr style="vertical-align:top;font-size:85%">
+<td style="text-align:right"><a href="/wiki/Edgar_Gess" title="Edgar Gess">Edgar Gess</a> 17'<br />
+<a href="/wiki/Sergei_Shvetsov" title="Sergei Shvetsov">Sergei Shvetsov</a> 90'</td>
+<td style="text-align:center"></td>
+<td style="text-align:left"></td>
+</tr>
+</table>
+<table style="float:left; width:24%; table-layout:fixed">
+<tr>
+<td>
+<div style="font-size: 85%"><span class="location"><a href="/wiki/Luzhniki_Stadium" title="Luzhniki Stadium">Luzhniki Stadium</a>, <a href="/wiki/Moscow" title="Moscow">Moscow</a></span><br />
+Attendance: 15,000<br />
+Referee: Eduard Sostarić (YUG)
+<div class="hatnote">See also: <a href="/wiki/Luzhniki_disaster" title="Luzhniki disaster">Luzhniki disaster</a></div>
+</div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<hr />
+<div style="width: 100%; background-color: transparent; clear:both" class="vevent">
+<p><span class="summary" style="display: none;">HFC Haarlem v <a href="/wiki/FC_Spartak_Moscow" title="FC Spartak Moscow">Spartak Moscow</a></span></p>
+<table style="float:left; width:15%; table-layout:fixed">
+<tr>
+<td>
+<div style="text-align:right">November 3, 1982<br />
+<small>Second Round<br />
+Second Leg</small><br /></div>
+</td>
+</tr>
+</table>
+<table style="float:left; width:61%; table-layout:fixed; text-align:center">
+<tr style="vertical-align:top">
+<th style="width:39%; text-align:right" class="vcard attendee"><span class="fn org">HFC Haarlem</span></th>
+<th style="width:22%; text-align:center">1–3</th>
+<th style="width:39%; text-align:left" class="vcard attendee"><span class="fn org"><a href="/wiki/FC_Spartak_Moscow" title="FC Spartak Moscow">Spartak Moscow</a></span></th>
+</tr>
+<tr style="vertical-align:top;font-size:85%">
+<td style="text-align:right"><a href="/w/index.php?title=Piet_Huyg&amp;action=edit&amp;redlink=1" class="new" title="Piet Huyg (page does not exist)">Piet Huyg</a> 25'</td>
+<td style="text-align:center"></td>
+<td style="text-align:left"><a href="/wiki/Sergei_Shvetsov" title="Sergei Shvetsov">Sergei Shvetsov</a> 43'<br />
+<a href="/wiki/Sergei_Shavlo" title="Sergei Shavlo" class="mw-redirect">Sergei Shavlo</a> 55'<br />
+<a href="/wiki/Yuri_Gavrilov" title="Yuri Gavrilov">Yuri Gavrilov</a> 85'</td>
+</tr>
+</table>
+<table style="float:left; width:24%; table-layout:fixed">
+<tr>
+<td>
+<div style="font-size: 85%"><span class="location"><a href="/wiki/Haarlem_Stadion" title="Haarlem Stadion">Haarlem Stadion</a>, <a href="/wiki/Haarlem" title="Haarlem">Haarlem</a></span><br />
+Attendance: 18,000<br />
+Referee: Viriato Graça Oliva (POR)</div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<hr />
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Results">Results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HFC_Haarlem&amp;action=edit&amp;section=6" title="Edit section: Results">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><map name="timeline_6fa00b62f8615e189534e1dce64ab138" id="timeline_6fa00b62f8615e189534e1dce64ab138">
+<area shape="rect" href="/wiki/Eerste_Divisie" coords="304,-4,490,17" title="Eerste Divisie" /></map><img usemap="#timeline_6fa00b62f8615e189534e1dce64ab138" src="//upload.wikimedia.org/wikipedia/en/timeline/6fa00b62f8615e189534e1dce64ab138.png" /></p>
+<h2><span class="mw-headline" id="Notable_players">Notable players</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HFC_Haarlem&amp;action=edit&amp;section=7" title="Edit section: Notable players">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Wim Balm</li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Milan_Berck_Beelenkamp" title="Milan Berck Beelenkamp">Milan Berck Beelenkamp</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Derk_Boerrigter" title="Derk Boerrigter">Derk Boerrigter</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Benjamin_van_den_Broek" title="Benjamin van den Broek">Benjamin van den Broek</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Johan_Derksen" title="Johan Derksen">Johan Derksen</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Barry_van_Galen" title="Barry van Galen">Barry van Galen</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Piet Groenenveld</li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ruud_Gullit" title="Ruud Gullit">Ruud Gullit</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Martin_Haar" title="Martin Haar">Martin Haar</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Hans_van_de_Haar" title="Hans van de Haar">Hans van de Haar</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Piet Huyg</li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Gerrie_Kleton" title="Gerrie Kleton">Gerrie Kleton</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Piet_Keur" title="Piet Keur">Piet Keur</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ortwin_Linger" title="Ortwin Linger">Ortwin Linger</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ruud_Hesp" title="Ruud Hesp">Ruud Hesp</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Beer Wentink</li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Mark Verzijlberg</li>
+</ul>
+</td>
+<td style="width:50%; text-align:left; vertical-align:top;">
+<ul>
+<li><span class="flagicon"><a href="/wiki/Armenia" title="Armenia"><img alt="Armenia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/23px-Flag_of_Armenia.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/35px-Flag_of_Armenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/46px-Flag_of_Armenia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Edgar_Manucharyan" title="Edgar Manucharyan">Edgar Manucharyan</a></li>
+<li><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span> <a href="/wiki/Keith_Masefield" title="Keith Masefield">Keith Masefield</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/John_Metgod" title="John Metgod">John Metgod</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Edward_Metgod" title="Edward Metgod">Edward Metgod</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ricardo_Moniz" title="Ricardo Moniz">Ricardo Moniz</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Luc_Nijholt" title="Luc Nijholt">Luc Nijholt</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Arthur_Numan" title="Arthur Numan">Arthur Numan</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Cornelius_Pot" title="Cornelius Pot" class="mw-redirect">Cornelius Pot</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Johnny_Rep" title="Johnny Rep">Johnny Rep</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Wim Roozen</li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Kick_Smit" title="Kick Smit">Kick Smit</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Peter_van_Velzen" title="Peter van Velzen">Peter van Velzen</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Gregory_van_der_Wiel" title="Gregory van der Wiel">Gregory van der Wiel</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Menno_Willems" title="Menno Willems">Menno Willems</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Marcel_Peeper" title="Marcel Peeper">Marcel Peeper</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Dries_Boussatta" title="Dries Boussatta">Dries Boussatta</a></li>
+<li><span class="flagicon"><a href="/wiki/Philippines" title="Philippines"><img alt="Philippines" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/35px-Flag_of_the_Philippines.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/46px-Flag_of_the_Philippines.svg.png 2x" data-file-width="900" data-file-height="450" /></a></span> <a href="/wiki/Paul_Mulders" title="Paul Mulders">Paul Mulders</a></li>
+<li><span class="flagicon"><a href="/wiki/Indonesia" title="Indonesia"><img alt="Indonesia" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/35px-Flag_of_Indonesia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/45px-Flag_of_Indonesia.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span> <a href="/wiki/Irfan_Bachdim" title="Irfan Bachdim">Irfan Bachdim</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Former_managers">Former managers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HFC_Haarlem&amp;action=edit&amp;section=8" title="Edit section: Former managers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Dick_Advocaat" title="Dick Advocaat">Dick Advocaat</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/w/index.php?title=Hans_van_Doorneveld&amp;action=edit&amp;redlink=1" class="new" title="Hans van Doorneveld (page does not exist)">Hans van Doorneveld</a></li>
+<li><span class="flagicon"><a href="/wiki/Wales" title="Wales"><img alt="Wales" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/23px-Flag_of_Wales_2.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/35px-Flag_of_Wales_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Wales_2.svg/46px-Flag_of_Wales_2.svg.png 2x" data-file-width="830" data-file-height="498" /></a></span> <a href="/wiki/Barry_Hughes" title="Barry Hughes">Barry Hughes</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Heini_Otto" title="Heini Otto">Heini Otto</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Karel_Bonsink" title="Karel Bonsink">Karel Bonsink</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/w/index.php?title=Roy_Wesseling&amp;action=edit&amp;redlink=1" class="new" title="Roy Wesseling (page does not exist)">Roy Wesseling</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Gert_Aandewiel" title="Gert Aandewiel">Gert Aandewiel</a></li>
+<li><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/w/index.php?title=Jan_Zoutman&amp;action=edit&amp;redlink=1" class="new" title="Jan Zoutman (page does not exist)">Jan Zoutman</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HFC_Haarlem&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-fusion_1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-fusion_1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fusion_1_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.sportweek.nl/voetbal/139438/HFC_Haarlem_gaat_fuseren_met_HFC_Kennemerland">"HFC Haarlem gaat fuseren met HFC Kennemerland"</a> (in Dutch). Sportweek.nl. 2010-04-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHFC+Haarlem&amp;rft.atitle=HFC+Haarlem+gaat+fuseren+met+HFC+Kennemerland&amp;rft.date=2010-04-27&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sportweek.nl%2Fvoetbal%2F139438%2FHFC_Haarlem_gaat_fuseren_met_HFC_Kennemerland&amp;rft.pub=Sportweek.nl&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-fusion_2-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-fusion_2_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fusion_2_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.elfvoetbal.nl/nieuws/102701_failliet-haarlem-fuseert-met-amateurclub-kennemerland">"Failliet Haarlem fuseert met amateurclub Kennemerland"</a> (in Dutch). elfVOETBAL. 2010-04-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHFC+Haarlem&amp;rft.atitle=Failliet+Haarlem+fuseert+met+amateurclub+Kennemerland&amp;rft.date=2010-04-27&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.elfvoetbal.nl%2Fnieuws%2F102701_failliet-haarlem-fuseert-met-amateurclub-kennemerland&amp;rft.pub=elfVOETBAL&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.vi.nl/Nieuws-item/168582/Verregaande-samenwerking-Ajax-en-Haarlem.htm">"Verregaande samenwerking Ajax en Haarlem"</a> (in Dutch). VI.nl. 2009-08-10.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHFC+Haarlem&amp;rft.atitle=Verregaande+samenwerking+Ajax+en+Haarlem&amp;rft.date=2009-08-10&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.vi.nl%2FNieuws-item%2F168582%2FVerregaande-samenwerking-Ajax-en-Haarlem.htm&amp;rft.pub=VI.nl&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.vi.nl/Nieuws-item-TS1/175345/Failliet-Haarlem-verdwijnt-uit-het-betaald-voetbal.htm">[1]</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.webregio.nl/zuid-kennemerland/sport/artikel/577538/nieuw-hfc-haarlem-haarlem.aspx">"<span style="padding-left:0.2em;">'</span>Nieuw' HFC Haarlem"</a> (in Dutch). WebRegio.nl. 2010-02-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHFC+Haarlem&amp;rft.atitle=%27Nieuw%27+HFC+Haarlem&amp;rft.date=2010-02-22&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.webregio.nl%2Fzuid-kennemerland%2Fsport%2Fartikel%2F577538%2Fnieuw-hfc-haarlem-haarlem.aspx&amp;rft.pub=WebRegio.nl&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.sportweek.nl/voetbal/132003/HFC_Haarlem_fuseert_mogelijk_met_HFC_Kennemerland">"HFC Haarlem fuseert mogelijk met HFC Kennemerland"</a> (in Dutch). SportWeek.nl. 2010-03-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHFC+Haarlem&amp;rft.atitle=HFC+Haarlem+fuseert+mogelijk+met+HFC+Kennemerland&amp;rft.date=2010-03-04&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sportweek.nl%2Fvoetbal%2F132003%2FHFC_Haarlem_fuseert_mogelijk_met_HFC_Kennemerland&amp;rft.pub=SportWeek.nl&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HFC_Haarlem&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.hfchaarlem.nl">Official website</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Netherlands_Football_League_champions" title="Template:Netherlands Football League champions"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Netherlands_Football_League_champions&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Netherlands Football League champions (page does not exist)"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Netherlands_Football_League_champions&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Eredivisie" title="Eredivisie">Netherlands Football league champions 1889-1956</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:auto; margin-left:auto; margin-right:auto;">
+<tr style="vertical-align:top;">
+<td style="width:2.2em;">&#160;&#160;&#160;</td>
+<td style="padding:0px;;;;width:20em;">
+<div>
+<div>
+<p><a href="/wiki/1888%E2%80%9389_Netherlands_Football_League_Championship" title="1888–89 Netherlands Football League Championship">1888-89</a> &#160; VV Concordia<br />
+<a href="/wiki/1889%E2%80%9390_Netherlands_Football_League_Championship" title="1889–90 Netherlands Football League Championship">1889-90</a> &#160; <a href="/wiki/Koninklijke_HFC" title="Koninklijke HFC">HFC</a> (1/3)<br />
+<a href="/wiki/1890%E2%80%9391_Netherlands_Football_League_Championship" title="1890–91 Netherlands Football League Championship">1890-91</a> &#160; <a href="/wiki/HVV_Den_Haag" title="HVV Den Haag">HVV</a> (1/10)<br />
+<a href="/wiki/1891%E2%80%9392_Netherlands_Football_League_Championship" title="1891–92 Netherlands Football League Championship">1891-92</a> &#160; <a href="/wiki/RAP_(football_club)" title="RAP (football club)">RAP</a> (1/5)<br />
+<a href="/wiki/1892%E2%80%9393_Netherlands_Football_League_Championship" title="1892–93 Netherlands Football League Championship">1892-93</a> &#160; <a href="/wiki/Koninklijke_HFC" title="Koninklijke HFC">HFC</a> (2/3)<br />
+<a href="/wiki/1893%E2%80%9394_Netherlands_Football_League_Championship" title="1893–94 Netherlands Football League Championship">1893-94</a> &#160; <a href="/wiki/RAP_(football_club)" title="RAP (football club)">RAP</a> (2/5)<br />
+<a href="/wiki/1894%E2%80%9395_Netherlands_Football_League_Championship" title="1894–95 Netherlands Football League Championship">1894-95</a> &#160; <a href="/wiki/Koninklijke_HFC" title="Koninklijke HFC">HFC</a> (3/3)<br />
+<a href="/wiki/1895%E2%80%9396_Netherlands_Football_League_Championship" title="1895–96 Netherlands Football League Championship">1895-96</a> &#160; <a href="/wiki/HVV_Den_Haag" title="HVV Den Haag">HVV</a> (2/10)<br />
+<a href="/wiki/1896%E2%80%9397_Netherlands_Football_League_Championship" title="1896–97 Netherlands Football League Championship">1896-97</a> &#160; <a href="/wiki/RAP_(football_club)" title="RAP (football club)">RAP</a> (3/5)<br />
+<a href="/wiki/1897%E2%80%9398_Netherlands_Football_League_Championship" title="1897–98 Netherlands Football League Championship">1897-98</a> &#160; <a href="/wiki/RAP_(football_club)" title="RAP (football club)">RAP</a> (4/5)<br />
+<a href="/wiki/1898%E2%80%9399_Netherlands_Football_League_Championship" title="1898–99 Netherlands Football League Championship">1898-99</a> &#160; <a href="/wiki/RAP_(football_club)" title="RAP (football club)">RAP</a> (5/5)<br />
+<a href="/wiki/1899%E2%80%9300_Netherlands_Football_League_Championship" title="1899–00 Netherlands Football League Championship" class="mw-redirect">1899-00</a> &#160; <a href="/wiki/HVV_Den_Haag" title="HVV Den Haag">HVV</a> (3/10)<br /></p>
+</div>
+</div>
+</td>
+<td style="border-left:2px solid #fdfdfd;padding:0px;;;;width:20em;">
+<div>
+<div>
+<p><br />
+<br />
+<a href="/wiki/1900-01_Netherlands_Football_League_Championship" title="1900-01 Netherlands Football League Championship" class="mw-redirect">1900-01</a> &#160; <a href="/wiki/HVV_Den_Haag" title="HVV Den Haag">HVV</a> (4/10)<br />
+<a href="/wiki/1901-02_Netherlands_Football_League_Championship" title="1901-02 Netherlands Football League Championship" class="mw-redirect">1901-02</a> &#160; <a href="/wiki/HVV_Den_Haag" title="HVV Den Haag">HVV</a> (5/10)<br />
+<a href="/wiki/1902-03_Netherlands_Football_League_Championship" title="1902-03 Netherlands Football League Championship" class="mw-redirect">1902-03</a> &#160; <a href="/wiki/HVV_Den_Haag" title="HVV Den Haag">HVV</a> (6/10)<br />
+<a href="/wiki/1903-04_Netherlands_Football_League_Championship" title="1903-04 Netherlands Football League Championship" class="mw-redirect">1903-04</a> &#160; <a href="/wiki/HBS_Craeyenhout_(football_club)" title="HBS Craeyenhout (football club)">Craeyenhout</a> (1/3)<br />
+<a href="/wiki/1904-05_Netherlands_Football_League_Championship" title="1904-05 Netherlands Football League Championship" class="mw-redirect">1904-05</a> &#160; <a href="/wiki/HVV_Den_Haag" title="HVV Den Haag">HVV</a> (7/10)<br />
+<a href="/wiki/1905-06_Netherlands_Football_League_Championship" title="1905-06 Netherlands Football League Championship" class="mw-redirect">1905-06</a> &#160; <a href="/wiki/HBS_Craeyenhout_(football_club)" title="HBS Craeyenhout (football club)">Craeyenhout</a> (2/3)<br />
+<a href="/wiki/1906-07_Netherlands_Football_League_Championship" title="1906-07 Netherlands Football League Championship" class="mw-redirect">1906-07</a> &#160; <a href="/wiki/HVV_Den_Haag" title="HVV Den Haag">HVV</a> (8/10)<br />
+<a href="/wiki/1907-08_Netherlands_Football_League_Championship" title="1907-08 Netherlands Football League Championship" class="mw-redirect">1907-08</a> &#160; Quick<br />
+<a href="/wiki/1908-09_Netherlands_Football_League_Championship" title="1908-09 Netherlands Football League Championship" class="mw-redirect">1908-09</a> &#160; <a href="/wiki/Sparta_Rotterdam" title="Sparta Rotterdam">Sparta</a> (1/6)<br />
+<a href="/wiki/1909-10_Netherlands_Football_League_Championship" title="1909-10 Netherlands Football League Championship" class="mw-redirect">1909-10</a> &#160; <a href="/wiki/HVV_Den_Haag" title="HVV Den Haag">HVV</a> (9/10)<br /></p>
+</div>
+</div>
+</td>
+<td style="border-left:2px solid #fdfdfd;padding:0px;;;;width:20em;">
+<div>
+<div>
+<p><br />
+<br />
+<a href="/wiki/1910-11_Netherlands_Football_League_Championship" title="1910-11 Netherlands Football League Championship" class="mw-redirect">1910-11</a> &#160; <a href="/wiki/Sparta_Rotterdam" title="Sparta Rotterdam">Sparta</a> (2/6)<br />
+<a href="/wiki/1911-12_Netherlands_Football_League_Championship" title="1911-12 Netherlands Football League Championship" class="mw-redirect">1911-12</a> &#160; <a href="/wiki/Sparta_Rotterdam" title="Sparta Rotterdam">Sparta</a> (3/6)<br />
+<a href="/wiki/1912-13_Netherlands_Football_League_Championship" title="1912-13 Netherlands Football League Championship" class="mw-redirect">1912-13</a> &#160; <a href="/wiki/Sparta_Rotterdam" title="Sparta Rotterdam">Sparta</a> (4/6)<br />
+<a href="/wiki/1913-14_Netherlands_Football_League_Championship" title="1913-14 Netherlands Football League Championship" class="mw-redirect">1913-14</a> &#160; <a href="/wiki/HVV_Den_Haag" title="HVV Den Haag">HVV</a> (10/10)<br />
+<a href="/wiki/1914-15_Netherlands_Football_League_Championship" title="1914-15 Netherlands Football League Championship" class="mw-redirect">1914-15</a> &#160; <a href="/wiki/Sparta_Rotterdam" title="Sparta Rotterdam">Sparta</a> (5/6)<br />
+<a href="/wiki/1915-16_Netherlands_Football_League_Championship" title="1915-16 Netherlands Football League Championship" class="mw-redirect">1915-16</a> &#160; <a href="/wiki/Willem_II_(football_club)" title="Willem II (football club)">Willem II</a> (1/3)<br />
+<a href="/wiki/1916-17_Netherlands_Football_League_Championship" title="1916-17 Netherlands Football League Championship" class="mw-redirect">1916-17</a> &#160; <a href="/wiki/Go_Ahead_Eagles" title="Go Ahead Eagles">Go Ahead</a> (1/4)<br />
+<a href="/wiki/1917-18_Netherlands_Football_League_Championship" title="1917-18 Netherlands Football League Championship" class="mw-redirect">1917-18</a> &#160; <a href="/wiki/AFC_Ajax" title="AFC Ajax">Ajax</a> (1/33)<br />
+<a href="/wiki/1918-19_Netherlands_Football_League_Championship" title="1918-19 Netherlands Football League Championship" class="mw-redirect">1918-19</a> &#160; <a href="/wiki/AFC_Ajax" title="AFC Ajax">Ajax</a> (2/33)<br />
+<a href="/wiki/1919-20_Netherlands_Football_League_Championship" title="1919-20 Netherlands Football League Championship" class="mw-redirect">1919-20</a> &#160; <a href="/wiki/Be_Quick_1887" title="Be Quick 1887">Be Quick 1887</a><br /></p>
+</div>
+</div>
+</td>
+<td style="border-left:2px solid #fdfdfd;padding:0px;;;;width:20em;">
+<div>
+<div>
+<p><br />
+<br />
+<a href="/wiki/1920-21_Netherlands_Football_League_Championship" title="1920-21 Netherlands Football League Championship" class="mw-redirect">1920-21</a> &#160; <a href="/wiki/NAC_Breda" title="NAC Breda">NAC</a><br />
+<a href="/wiki/1921-22_Netherlands_Football_League_Championship" title="1921-22 Netherlands Football League Championship" class="mw-redirect">1921-22</a> &#160; <a href="/wiki/Go_Ahead_Eagles" title="Go Ahead Eagles">Go Ahead</a> (2/4)<br />
+<a href="/wiki/1922-23_Netherlands_Football_League_Championship" title="1922-23 Netherlands Football League Championship" class="mw-redirect">1922-23</a> &#160; <a href="/wiki/RCH_(football_club)" title="RCH (football club)">RCH</a> (1/2)<br />
+<a href="/wiki/1923-24_Netherlands_Football_League_Championship" title="1923-24 Netherlands Football League Championship" class="mw-redirect">1923-24</a> &#160; <a href="/wiki/Feyenoord" title="Feyenoord">Feyenoord</a> (1/14)<br />
+<a href="/wiki/1924-25_Netherlands_Football_League_Championship" title="1924-25 Netherlands Football League Championship" class="mw-redirect">1924-25</a> &#160; <a href="/wiki/HBS_Craeyenhout_(football_club)" title="HBS Craeyenhout (football club)">Craeyenhout</a> (3/3)<br />
+<a href="/wiki/1925-26_Netherlands_Football_League_Championship" title="1925-26 Netherlands Football League Championship" class="mw-redirect">1925-26</a> &#160; <a href="/wiki/Sportclub_Enschede" title="Sportclub Enschede">SC Enschede</a><br />
+<a href="/wiki/1926-27_Netherlands_Football_League_Championship" title="1926-27 Netherlands Football League Championship" class="mw-redirect">1926-27</a> &#160; <a href="/wiki/Heracles_Almelo" title="Heracles Almelo">Heracles</a> (1/2)<br />
+<a href="/wiki/1927-28_Netherlands_Football_League_Championship" title="1927-28 Netherlands Football League Championship" class="mw-redirect">1927-28</a> &#160; <a href="/wiki/Feyenoord" title="Feyenoord">Feyenoord</a> (2/14)<br />
+<a href="/wiki/1928-29_Netherlands_Football_League_Championship" title="1928-29 Netherlands Football League Championship" class="mw-redirect">1928-29</a> &#160; <a href="/wiki/PSV_Eindhoven" title="PSV Eindhoven">PSV</a> (1/22)<br />
+<a href="/wiki/1929-30_Netherlands_Football_League_Championship" title="1929-30 Netherlands Football League Championship" class="mw-redirect">1929-30</a> &#160; <a href="/wiki/Go_Ahead_Eagles" title="Go Ahead Eagles">Go Ahead</a> (3/4)<br /></p>
+</div>
+</div>
+</td>
+<td style="border-left:2px solid #fdfdfd;padding:0px;;;;width:20em;">
+<div>
+<div>
+<p><br />
+<br />
+<a href="/wiki/1930-31_Netherlands_Football_League_Championship" title="1930-31 Netherlands Football League Championship" class="mw-redirect">1930-31</a> &#160; <a href="/wiki/AFC_Ajax" title="AFC Ajax">Ajax</a> (3/33)<br />
+<a href="/wiki/1931-32_Netherlands_Football_League_Championship" title="1931-32 Netherlands Football League Championship" class="mw-redirect">1931-32</a> &#160; <a href="/wiki/AFC_Ajax" title="AFC Ajax">Ajax</a> (4/33)<br />
+<a href="/wiki/1932-33_Netherlands_Football_League_Championship" title="1932-33 Netherlands Football League Championship" class="mw-redirect">1932-33</a> &#160; <a href="/wiki/Go_Ahead_Eagles" title="Go Ahead Eagles">Go Ahead</a> (4/4)<br />
+<a href="/wiki/1933-34_Netherlands_Football_League_Championship" title="1933-34 Netherlands Football League Championship" class="mw-redirect">1933-34</a> &#160; <a href="/wiki/AFC_Ajax" title="AFC Ajax">Ajax</a> (5/33)<br />
+<a href="/wiki/1934-35_Netherlands_Football_League_Championship" title="1934-35 Netherlands Football League Championship" class="mw-redirect">1934-35</a> &#160; <a href="/wiki/PSV_Eindhoven" title="PSV Eindhoven">PSV</a> (2/22)<br />
+<a href="/wiki/1935-36_Netherlands_Football_League_Championship" title="1935-36 Netherlands Football League Championship" class="mw-redirect">1935-36</a> &#160; <a href="/wiki/Feyenoord" title="Feyenoord">Feyenoord</a> (3/14)<br />
+<a href="/wiki/1936-37_Netherlands_Football_League_Championship" title="1936-37 Netherlands Football League Championship" class="mw-redirect">1936-37</a> &#160; <a href="/wiki/AFC_Ajax" title="AFC Ajax">Ajax</a> (6/33)<br />
+<a href="/wiki/1937-38_Netherlands_Football_League_Championship" title="1937-38 Netherlands Football League Championship" class="mw-redirect">1937-38</a> &#160; <a href="/wiki/Feyenoord" title="Feyenoord">Feyenoord</a> (4/14)<br />
+<a href="/wiki/1938-39_Netherlands_Football_League_Championship" title="1938-39 Netherlands Football League Championship" class="mw-redirect">1938-39</a> &#160; <a href="/wiki/AFC_Ajax" title="AFC Ajax">Ajax</a> (7/33)<br />
+<a href="/wiki/1939-40_Netherlands_Football_League_Championship" title="1939-40 Netherlands Football League Championship" class="mw-redirect">1939-40</a> &#160; <a href="/wiki/Feyenoord" title="Feyenoord">Feyenoord</a> (5/14)<br /></p>
+</div>
+</div>
+</td>
+<td style="border-left:2px solid #fdfdfd;padding:0px;;;;width:20em;">
+<div>
+<div>
+<p><br />
+<br />
+<a href="/wiki/1940-41_Netherlands_Football_League_Championship" title="1940-41 Netherlands Football League Championship" class="mw-redirect">1940-41</a> &#160; <a href="/wiki/Heracles_Almelo" title="Heracles Almelo">Heracles</a> (2/2)<br />
+<a href="/wiki/1941-42_Netherlands_Football_League_Championship" title="1941-42 Netherlands Football League Championship" class="mw-redirect">1941-42</a> &#160; <a href="/wiki/ADO_Den_Haag" title="ADO Den Haag">ADO</a> (1/2)<br />
+<a href="/wiki/1942-43_Netherlands_Football_League_Championship" title="1942-43 Netherlands Football League Championship" class="mw-redirect">1942-43</a> &#160; <a href="/wiki/ADO_Den_Haag" title="ADO Den Haag">ADO</a> (2/2)<br />
+<a href="/wiki/1943-44_Netherlands_Football_League_Championship" title="1943-44 Netherlands Football League Championship" class="mw-redirect">1943-44</a> &#160; <a href="/wiki/A.V.V._De_Volewijckers" title="A.V.V. De Volewijckers">De Volewijckers</a><br />
+1944-45 &#160; <i>Not Played</i><br />
+<a href="/wiki/1945-46_Netherlands_Football_League_Championship" title="1945-46 Netherlands Football League Championship" class="mw-redirect">1945-46</a> &#160; <strong class="selflink">HFC Haarlem</strong><br />
+<a href="/wiki/1946-47_Netherlands_Football_League_Championship" title="1946-47 Netherlands Football League Championship" class="mw-redirect">1946-47</a> &#160; <a href="/wiki/AFC_Ajax" title="AFC Ajax">Ajax</a> (8/33)<br />
+<a href="/wiki/1947-48_Netherlands_Football_League_Championship" title="1947-48 Netherlands Football League Championship" class="mw-redirect">1947-48</a> &#160; BVV<br />
+<a href="/wiki/1948-49_Netherlands_Football_League_Championship" title="1948-49 Netherlands Football League Championship" class="mw-redirect">1948-49</a> &#160; <a href="/wiki/Schiedamse_Voetbal_Vereniging" title="Schiedamse Voetbal Vereniging">SVV</a><br />
+<a href="/wiki/1949-50_Netherlands_Football_League_Championship" title="1949-50 Netherlands Football League Championship" class="mw-redirect">1949-50</a> &#160; <a href="/wiki/SV_Limburgia" title="SV Limburgia">Limburgia</a><br /></p>
+</div>
+</div>
+</td>
+<td style="border-left:2px solid #fdfdfd;padding:0px;;;;width:20em;">
+<div>
+<div>
+<p><br />
+<br />
+<a href="/wiki/1950-51_Netherlands_Football_League_Championship" title="1950-51 Netherlands Football League Championship" class="mw-redirect">1950-51</a> &#160; <a href="/wiki/PSV_Eindhoven" title="PSV Eindhoven">PSV</a> (3/22)<br />
+<a href="/wiki/1951-52_Netherlands_Football_League_Championship" title="1951-52 Netherlands Football League Championship" class="mw-redirect">1951-52</a> &#160; <a href="/wiki/Willem_II_(football_club)" title="Willem II (football club)">Willem II</a> (2/3)<br />
+<a href="/wiki/1952-53_Netherlands_Football_League_Championship" title="1952-53 Netherlands Football League Championship" class="mw-redirect">1952-53</a> &#160; <a href="/wiki/RCH_(football_club)" title="RCH (football club)">RCH</a> (2/2)<br />
+<a href="/wiki/1953-54_Netherlands_Football_League_Championship" title="1953-54 Netherlands Football League Championship" class="mw-redirect">1953-54</a> &#160; <a href="/wiki/FC_Eindhoven" title="FC Eindhoven">EVV</a><br />
+<a href="/wiki/1954-55_Netherlands_Football_League_Championship" title="1954-55 Netherlands Football League Championship" class="mw-redirect">1954-55</a> &#160; <a href="/wiki/Willem_II_(football_club)" title="Willem II (football club)">Willem II</a> (3/3)<br />
+<a href="/wiki/1955-56_Netherlands_Football_League_Championship" title="1955-56 Netherlands Football League Championship" class="mw-redirect">1955-56</a> &#160; <a href="/wiki/Roda_JC_Kerkrade" title="Roda JC Kerkrade">Rapid JC</a><br /></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:KNVB_Cup_Winners_1899-1960" title="Template:KNVB Cup Winners 1899-1960"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:KNVB_Cup_Winners_1899-1960" title="Template talk:KNVB Cup Winners 1899-1960"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:KNVB_Cup_Winners_1899-1960&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/KNVB_Cup" title="KNVB Cup">KNVB Cup Winners 1899-1960</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:auto; margin-left:auto; margin-right:auto;">
+<tr style="vertical-align:top;">
+<td style="width:2.2em;">&#160;&#160;&#160;</td>
+<td style="padding:0px;;;;width:20em;">
+<div>
+<div>
+<p>1898-99 &#160; <a href="/wiki/RAP_Amsterdam" title="RAP Amsterdam" class="mw-redirect">RAP</a><br />
+1899-00 &#160; Velocitas<br />
+1900-01 &#160; <a href="/wiki/HBS_Craeyenhout" title="HBS Craeyenhout">HBS Craeyenhout</a> (1/2)<br />
+1901-02 &#160; <strong class="selflink">HFC Haarlem</strong> (1/2)<br />
+1902-03 &#160; <a href="/wiki/HVV_Den_Haag" title="HVV Den Haag">HVV Den Haag</a><br />
+1903-04 &#160; <a href="/wiki/Koninklijke_HFC" title="Koninklijke HFC">Koninklijke HFC</a> (1/3)<br />
+1904-05 &#160; VOC Rotterdam (1/2)<br />
+1905-06 &#160; Concordia<br />
+1906-07 &#160; VOC Rotterdam (2/2)<br />
+1907-08 &#160; <a href="/wiki/HBS_Craeyenhout" title="HBS Craeyenhout">HBS Crayenhout 2</a> (2/2)<br />
+1908-09 &#160; Quick D.Haag 2 (1/4)<br />
+1909-10 &#160; Quick D.Haag 2 (2/4)<br /></p>
+</div>
+</div>
+</td>
+<td style="border-left:2px solid #fdfdfd;padding:0px;;;;width:20em;">
+<div>
+<div>
+<p><br />
+<br />
+1910-11 &#160;Quick D.Haag (3/4)<br />
+1911-12 &#160; <strong class="selflink">HFC Haarlem</strong> (2/2)<br />
+1912-13 &#160; <a href="/wiki/Koninklijke_HFC" title="Koninklijke HFC">Koninklijke HFC</a> (2/3)<br />
+1913-14 &#160; <a href="/wiki/FC_Dordrecht" title="FC Dordrecht">DFC</a> (1/2)<br />
+1914-15 &#160; <a href="/wiki/Koninklijke_HFC" title="Koninklijke HFC">Koninklijke HFC</a> (3/3)<br />
+1915-16 &#160;Quick D.Haag (4/4)<br />
+1916-17 &#160; <a href="/wiki/AFC_Ajax" title="AFC Ajax">Ajax</a> (1/18)<br />
+1917-18 &#160; RHC (1/2)<br />
+1918-19 &#160; <i>Not Played</i><br />
+1919-20 &#160; CVV<br /></p>
+</div>
+</div>
+</td>
+<td style="border-left:2px solid #fdfdfd;padding:0px;;;;width:20em;">
+<div>
+<div>
+<p><br />
+<br />
+1920-21 &#160; Schoten<br />
+1921-22 &#160; <i>Not Played</i><br />
+1922-23 &#160; <i>Not Played</i><br />
+1923-24 &#160; <i>Not Played</i><br />
+1924-25 &#160; ZFC<br />
+1925-26 &#160; LONGA<br />
+1926-27 &#160; VUC Den Haag<br />
+1927-28 &#160; RHC (2/2)<br />
+1928-29 &#160; <i>Not Played</i><br />
+1929-30 &#160; <a href="/wiki/Feyenoord" title="Feyenoord">Feyenoord</a> (1/11)<br /></p>
+</div>
+</div>
+</td>
+<td style="border-left:2px solid #fdfdfd;padding:0px;;;;width:20em;">
+<div>
+<div>
+<p><br />
+<br />
+1930-31 &#160; <i>Not Played</i><br />
+1931-32 &#160; <a href="/wiki/FC_Dordrecht" title="FC Dordrecht">DFC</a> (2/2)<br />
+1932-33 &#160; <i>Not Played</i><br />
+1933-34 &#160; Velocitas 1897<br />
+1934-35 &#160; <a href="/wiki/Feyenoord" title="Feyenoord">Feyenoord</a> (2/11)<br />
+1935-36 &#160; Roermond<br />
+1936-37 &#160; <a href="/wiki/FC_Eindhoven" title="FC Eindhoven">EVV</a><br />
+1937-38 &#160; <a href="/wiki/SC_Telstar" title="SC Telstar">VSV</a><br />
+1938-39 &#160; <a href="/wiki/FC_Wageningen" title="FC Wageningen">FC Wageningen</a> (1/2)<br />
+1939-40 &#160; <i>Not Played</i><br /></p>
+</div>
+</div>
+</td>
+<td style="border-left:2px solid #fdfdfd;padding:0px;;;;width:20em;">
+<div>
+<div>
+<p><br />
+<br />
+1940-41 &#160; <i>Not Played</i><br />
+1941-42 &#160; <i>Not Played</i><br />
+1942-43 &#160; <a href="/wiki/AFC_Ajax" title="AFC Ajax">Ajax</a> (2/18)<br />
+1943-44 &#160; <a href="/wiki/Willem_II_(football_club)" title="Willem II (football club)">Willem II</a> (1/2)<br />
+1944-45 &#160; <i>Not Played</i><br />
+1945-46 &#160; <i>Not Played</i><br />
+1946-47 &#160; <i>Not Played</i><br />
+1947-48 &#160; <a href="/wiki/FC_Wageningen" title="FC Wageningen">FC Wageningen</a> (2/2)<br />
+1948-49 &#160; <a href="/wiki/Quick_1888" title="Quick 1888">Quick 1888</a><br />
+1949-50 &#160; <a href="/wiki/PSV_Eindhoven" title="PSV Eindhoven">PSV</a> (1/9)<br /></p>
+</div>
+</div>
+</td>
+<td style="border-left:2px solid #fdfdfd;padding:0px;;;;width:20em;">
+<div>
+<div>
+<p><br />
+<br />
+1950-51 &#160; <i>Not Played</i><br />
+1951-52 &#160; <i>Not Played</i><br />
+1952-53 &#160; <i>Not Played</i><br />
+1953-54 &#160; <i>Not Played</i><br />
+1954-55 &#160; <i>Not Played</i><br />
+1955-56 &#160; <i>Not Played</i><br />
+1956-57 &#160; <a href="/wiki/Fortuna_Sittard" title="Fortuna Sittard">Fortuna '54</a> (1/2)<br />
+1957-58 &#160; <a href="/wiki/Sparta_Rotterdam" title="Sparta Rotterdam">Sparta</a> (1/3)<br />
+1958-59 &#160; <a href="/wiki/VVV-Venlo" title="VVV-Venlo">VVV</a><br />
+1959-60 &#160; <i>Not Played</i><br /></p>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1057
+Cached time: 20151014120100
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.466 seconds
+Real time usage: 0.729 seconds
+Preprocessor visited node count: 3917/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 119413/2097152 bytes
+Template argument size: 25654/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Lua time usage: 0.100/10.000 seconds
+Lua memory usage: 2.74 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  509.743      1 - -total
+ 18.19%   92.699      1 - Template:Reflist
+ 14.99%   76.420      5 - Template:Cite_news
+ 13.38%   68.195      1 - Template:Infobox_football_club
+ 11.89%   60.614      1 - Template:Infobox
+  9.75%   49.677     43 - Template:Flagicon
+  8.19%   41.738      2 - Template:Navbox_with_columns
+  6.00%   30.580      1 - Template:Netherlands_Football_League_champions
+  5.91%   30.125      2 - Template:Navbox
+  5.57%   28.373      4 - Template:Footballbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2173100-0!*!0!!en!4!* and timestamp 20151014120059 and revision id 679283054
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=HFC_Haarlem&amp;oldid=679283054">https://en.wikipedia.org/w/index.php?title=HFC_Haarlem&amp;oldid=679283054</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Defunct_football_clubs_in_the_Netherlands" title="Category:Defunct football clubs in the Netherlands">Defunct football clubs in the Netherlands</a></li><li><a href="/wiki/Category:Sport_in_Haarlem" title="Category:Sport in Haarlem">Sport in Haarlem</a></li><li><a href="/wiki/Category:Association_football_clubs_established_in_1889" title="Category:Association football clubs established in 1889">Association football clubs established in 1889</a></li><li><a href="/wiki/Category:Association_football_clubs_disestablished_in_2010" title="Category:Association football clubs disestablished in 2010">Association football clubs disestablished in 2010</a></li><li><a href="/wiki/Category:HFC_Haarlem" title="Category:HFC Haarlem">HFC Haarlem</a></li><li><a href="/wiki/Category:1889_establishments_in_the_Netherlands" title="Category:1889 establishments in the Netherlands">1889 establishments in the Netherlands</a></li><li><a href="/wiki/Category:2010_disestablishments_in_the_Netherlands" title="Category:2010 disestablishments in the Netherlands">2010 disestablishments in the Netherlands</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Dutch-language_sources_(nl)" title="Category:CS1 Dutch-language sources (nl)">CS1 Dutch-language sources (nl)</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=HFC+Haarlem&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=HFC+Haarlem" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/HFC_Haarlem"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:HFC_Haarlem"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/HFC_Haarlem" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=HFC_Haarlem&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=HFC_Haarlem&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/HFC_Haarlem" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/HFC_Haarlem" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=HFC_Haarlem&amp;oldid=679283054" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=HFC_Haarlem&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q854141" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=HFC_Haarlem&amp;id=679283054" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=HFC+Haarlem">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=HFC+Haarlem&amp;returnto=HFC+Haarlem&amp;oldid=679283054&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=HFC_Haarlem&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="//af.wikipedia.org/wiki/HFC_Haarlem" title="HFC Haarlem – Afrikaans" lang="af" hreflang="af">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%86%D8%A7%D8%AF%D9%8A_%D9%87%D8%A7%D8%B1%D9%84%D9%85" title="نادي هارلم – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/HFC_Haarlem" title="HFC Haarlem – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/HFC_Haarlem" title="HFC Haarlem – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/HFC_Haarlem" title="HFC Haarlem – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/HFC_Haarlem" title="HFC Haarlem – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%A7%CE%A6%CE%9A_%CE%A7%CE%AC%CE%B1%CF%81%CE%BB%CE%B5%CE%BC" title="ΧΦΚ Χάαρλεμ – Greek" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/HFC_Haarlem" title="HFC Haarlem – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/HFC_Haarlem" title="HFC Haarlem – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/HFC_%ED%95%98%EB%A5%BC%EB%9F%BC" title="HFC 하를럼 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Haarlemsche_Football_Club_Haarlem" title="Haarlemsche Football Club Haarlem – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/HFC_Haarlem" title="HFC Haarlem – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/HFC_Haarlem" title="HFC Haarlem – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/HFC%E3%83%8F%E3%83%BC%E3%83%AB%E3%83%AC%E3%83%A0" title="HFCハールレム – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/HFC_Haarlem" title="HFC Haarlem – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/HFC_Haarlem" title="HFC Haarlem – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/HFC_Haarlem" title="HFC Haarlem – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D0%BB%D0%B5%D0%BC_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Харлем (футбольный клуб) – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/HFC_Haarlem" title="HFC Haarlem – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/HFC_Haarlem" title="HFC Haarlem – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%BB%D0%B5%D0%BC_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Гарлем (футбольний клуб) – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q854141#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 September 2015, at 16:33.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=HFC_Haarlem&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1164"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

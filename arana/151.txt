@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Portal:Technology - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"Portal","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":100,"wgPageName":"Portal:Technology","wgTitle":"Technology","wgCurRevisionId":677068871,"wgRevisionId":677068871,"wgArticleId":2072925,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Semi-protected portals","Technology portal","Technology portals","Technology","Science portals","WikiProject Technology","Featured portals"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Portal:Technology","wgRelevantArticleId":2072925,"wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4843868","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Portal:Technology" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-100 ns-subject page-Portal_Technology skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+<div id="mw-indicator-featured-star" class="mw-indicator"><a href="/wiki/Portal:Featured_portals" title="This is a featured portal. Click here for more information."><img alt="This is a featured portal. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/20px-Cscr-featured.svg.png" width="20" height="19" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/30px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/40px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /></a></div>
+<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This page is semi-protected."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/30px-Padlock-silver.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/40px-Padlock-silver.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Portal:Technology</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div id="portals-browsebar" class="hlist" style="text-align: center;">
+<dl>
+<dt><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals">Topics</a></dt>
+<dd><a href="/wiki/Portal:Contents/Portals#Culture_and_the_arts" title="Portal:Contents/Portals">Culture</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Geography_and_places" title="Portal:Contents/Portals">Geography</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Health_and_fitness" title="Portal:Contents/Portals">Health</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#History_and_events" title="Portal:Contents/Portals">History</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Mathematics_and_logic" title="Portal:Contents/Portals">Mathematics</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Natural_and_physical_sciences" title="Portal:Contents/Portals">Nature</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#People_and_self" title="Portal:Contents/Portals">People</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Philosophy_and_thinking" title="Portal:Contents/Portals">Philosophy</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Religion_and_belief_systems" title="Portal:Contents/Portals">Religion</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Society_and_social_sciences" title="Portal:Contents/Portals">Society</a></dd>
+<dd><a href="/wiki/Portal:Contents/Portals#Technology_and_applied_sciences" title="Portal:Contents/Portals">Technology</a></dd>
+</dl>
+</div>
+<div id="science_portalbar" style="font-size:91%;margin-top:1px;text-align:center;margin-bottom:0.2em;"><span style="position: relative; top: 0.15em;"><span style="position:relative; bottom:1px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/20px-Nuvola_apps_kalzium.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/30px-Nuvola_apps_kalzium.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/40px-Nuvola_apps_kalzium.svg.png 2x" data-file-width="128" data-file-height="128" /></span><b><a href="/wiki/Portal:Science" title="Portal:Science">Science</a></b></span><br />
+<span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Astrolabe-Persian-18C.jpg/20px-Astrolabe-Persian-18C.jpg" width="20" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Astrolabe-Persian-18C.jpg/30px-Astrolabe-Persian-18C.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Astrolabe-Persian-18C.jpg/40px-Astrolabe-Persian-18C.jpg 2x" data-file-width="1061" data-file-height="972" /> <a href="/wiki/Portal:History_of_science" title="Portal:History of science">History of science</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/P_philosophy.png/20px-P_philosophy.png" width="20" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/P_philosophy.png/30px-P_philosophy.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/P_philosophy.png/40px-P_philosophy.png 2x" data-file-width="77" data-file-height="68" /> <a href="/wiki/Portal:Philosophy_of_science" title="Portal:Philosophy of science">Philosophy of science</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Complex_adaptive_system.svg/20px-Complex_adaptive_system.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Complex_adaptive_system.svg/30px-Complex_adaptive_system.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Complex_adaptive_system.svg/40px-Complex_adaptive_system.svg.png 2x" data-file-width="700" data-file-height="500" /> <a href="/wiki/Portal:Systems_science" title="Portal:Systems science">Systems science</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nuvola_apps_edu_mathematics-p.svg/20px-Nuvola_apps_edu_mathematics-p.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nuvola_apps_edu_mathematics-p.svg/30px-Nuvola_apps_edu_mathematics-p.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nuvola_apps_edu_mathematics-p.svg/40px-Nuvola_apps_edu_mathematics-p.svg.png 2x" data-file-width="128" data-file-height="128" /> <a href="/wiki/Portal:Mathematics" title="Portal:Mathematics">Mathematics</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/EscherichiaColi_NIAID.jpg/20px-EscherichiaColi_NIAID.jpg" width="20" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/EscherichiaColi_NIAID.jpg/30px-EscherichiaColi_NIAID.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/EscherichiaColi_NIAID.jpg/40px-EscherichiaColi_NIAID.jpg 2x" data-file-width="1024" data-file-height="861" /> <a href="/wiki/Portal:Biology" title="Portal:Biology">Biology</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuvola_apps_edu_science.svg/20px-Nuvola_apps_edu_science.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuvola_apps_edu_science.svg/30px-Nuvola_apps_edu_science.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nuvola_apps_edu_science.svg/40px-Nuvola_apps_edu_science.svg.png 2x" data-file-width="128" data-file-height="128" /> <a href="/wiki/Portal:Chemistry" title="Portal:Chemistry">Chemistry</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Stylised_Lithium_Atom.svg/20px-Stylised_Lithium_Atom.svg.png" width="20" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Stylised_Lithium_Atom.svg/30px-Stylised_Lithium_Atom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Stylised_Lithium_Atom.svg/40px-Stylised_Lithium_Atom.svg.png 2x" data-file-width="266" data-file-height="303" /> <a href="/wiki/Portal:Physics" title="Portal:Physics">Physics</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/20px-Gnome-globe.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/30px-Gnome-globe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gnome-globe.svg/40px-Gnome-globe.svg.png 2x" data-file-width="48" data-file-height="48" /> <a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences</a></span> <span class="nowrap">&#160;&#160;</span><span class="nowrap"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nuvola_apps_display.png/20px-Nuvola_apps_display.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nuvola_apps_display.png/30px-Nuvola_apps_display.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nuvola_apps_display.png/40px-Nuvola_apps_display.png 2x" data-file-width="128" data-file-height="128" /> <strong class="selflink">Technology</strong></span> <span class="nowrap">&#160;&#160;</span></div>
+<table width="100%" cellpadding="5" cellspacing="10" style="background:#FFFFFF; border-style:solid; border-width:1px; border-color:#000000;">
+<tr>
+<td width="55%" style="vertical-align:top;padding: 0; margin:0;">
+<div style="clear: both; border: solid #0088F9; border-width: 1px 1px 0; background: #79AAF7; color: #00008B; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #00008B"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Technology/Intro&amp;action=edit"><span style="color: #00008B">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#00008B;"><span class="mw-headline" id="The_Technology_Portal"><big>The Technology Portal</big></span></h2>
+</div>
+<div style="border: 1px solid #0088F9; border-top-width: 1px; vertical-align: top;background: #F7FAFF;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:right;margin-left:1em">
+<center><a href="/wiki/Gunpowder" title="Gunpowder">Gunpowder</a></center>
+<p><a href="/wiki/File:Black_Powder-1.JPG" class="image" title="A bottle of gunpowder"><img alt="A bottle of gunpowder" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Black_Powder-1.JPG/200px-Black_Powder-1.JPG" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Black_Powder-1.JPG/300px-Black_Powder-1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Black_Powder-1.JPG/400px-Black_Powder-1.JPG 2x" data-file-width="2048" data-file-height="1536" /></a><br /></p>
+</div>
+<p><br />
+<b><a href="/wiki/Technology" title="Technology">Technology</a></b> is the making, modification or improvement, applied activity or behavior, use and knowledge of <a href="/wiki/Tool" title="Tool">tools</a>, <a href="/wiki/Machine" title="Machine">machines</a>, techniques, <a href="/wiki/Craft" title="Craft">crafts</a>, <a href="/wiki/System" title="System">systems</a>, methods of organization, or environmental modifications or arrangement in order to solve a problem, improve a preexisting solution to a problem, achieve a goal or perform a specific function. It can also refer to the collection of such tools, machinery, modifications, environmental arrangement and procedures. Technologies significantly affect human as well as other animal species' ability to control and adapt to their natural environments. The word <i><a href="//en.wiktionary.org/wiki/technology" class="extiw" title="wikt:technology">technology</a></i> comes from <a href="/wiki/Greek_language" title="Greek language">Greek</a> <i><a href="//en.wiktionary.org/wiki/%CF%84%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1" class="extiw" title="wikt:τεχνολογία">τεχνολογία</a> (technología)</i>; from <i><a href="//en.wiktionary.org/wiki/%CF%84%CE%AD%CF%87%CE%BD%CE%B7" class="extiw" title="wikt:τέχνη">τέχνη</a> (téchnē)</i>, meaning "art, skill, craft", and <i><a href="//en.wiktionary.org/wiki/%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1" class="extiw" title="wikt:λογία">-λογία</a> (<a href="//en.wiktionary.org/wiki/logia" class="extiw" title="wikt:logia">-logía</a>)</i>, meaning "study of-". The term can be applied either generally or to many specific areas, examples of which include <i>construction technology</i>, <i>medical technology</i> and <i>information technology</i>.</p>
+<p>The human species' use of technology began with the conversion of natural resources into simple tools. The <a href="/wiki/Prehistory" title="Prehistory">prehistorical</a> discovery of the ability to control <a href="/wiki/Fire" title="Fire">fire</a> increased the available sources of food and the invention of the <a href="/wiki/Wheel" title="Wheel">wheel</a> helped humans in travelling in and controlling their environment. Recent technological developments, including the <a href="/wiki/Printing_press" title="Printing press">printing press</a>, the <a href="/wiki/Telephone" title="Telephone">telephone</a>, and the <a href="/wiki/Internet" title="Internet">Internet</a>, have lessened physical barriers to <a href="/wiki/Communication" title="Communication">communication</a> and allowed humans to interact freely on a global scale. However, not all technology has been used for peaceful purposes; the development of <a href="/wiki/Weapon" title="Weapon">weapons</a> of ever-increasing destructive power has progressed throughout history, from <a href="/wiki/Club_(weapon)" title="Club (weapon)">clubs</a> to <a href="/wiki/Nuclear_weapon" title="Nuclear weapon">nuclear weapons</a>.</p>
+<p>Technology has affected <a href="/wiki/Society" title="Society">society</a> and its surroundings in a number of ways. In many societies, technology has helped develop more advanced <a href="/wiki/Economy" title="Economy">economies</a> (including today's <a href="/wiki/Economic_globalization" title="Economic globalization">global economy</a>) and has allowed the rise of a <a href="/wiki/Leisure" title="Leisure">leisure</a> <a href="/wiki/Social_class" title="Social class">class</a>. Many technological processes produce unwanted by-products, known as <a href="/wiki/Pollution" title="Pollution">pollution</a>, and deplete natural resources, to the detriment of the <a href="/wiki/Earth" title="Earth">Earth</a> and its <a href="/wiki/Natural_environment" title="Natural environment">environment</a>. Various implementations of technology influence the <a href="/wiki/Value_(personal_and_cultural)" title="Value (personal and cultural)">values</a> of a society and new technology often raises new ethical questions. Examples include the rise of the notion of <a href="/wiki/Efficient_energy_use" title="Efficient energy use">efficiency</a> in terms of human productivity, a term originally applied only to machines, and the challenge of traditional norms.</p>
+<p>Philosophical debates have arisen over the present and future use of technology in society, with disagreements over whether technology improves the <a href="/wiki/Human_condition" title="Human condition">human condition</a> or worsens it. <a href="/wiki/Neo-Luddism" title="Neo-Luddism">Neo-Luddism</a>, <a href="/wiki/Anarcho-primitivism" title="Anarcho-primitivism">anarcho-primitivism</a>, and similar movements criticise the pervasiveness of technology in the modern world, opining that it harms the environment and alienates people; proponents of ideologies such as <a href="/wiki/Transhumanism" title="Transhumanism">transhumanism</a> and <a href="/wiki/Techno-progressivism" title="Techno-progressivism">techno-progressivism</a> view continued technological progress as beneficial to society and the human condition. Indeed, until recently, it was believed that the development of technology was restricted only to human beings, but recent scientific studies indicate that other <a href="/wiki/Primates" title="Primates" class="mw-redirect">primates</a> and certain <a href="/wiki/Dolphin" title="Dolphin">dolphin</a> communities have developed simple tools and learned to pass their knowledge to other generations.</p>
+<table width="100%" border="0" style="padding: 0; margin:0; background:transparent;">
+<tr>
+<td style="text-align:right;margin-right:10px;margin-bottom:-4px;"><b><a href="/wiki/Technology" title="Technology">More about Technology...</a></b></td>
+</tr>
+</table>
+<div style="margin:-.8em 0">
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div style="text-align:center; margin:0.25em auto 0.75em"><span class="noprint plainlinks purgelink"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Technology&amp;action=purge"><span title="Purge this page"><big><b>Refresh selections</b></big></span></a></span></div>
+<div class="portal-column-left">
+<div style="clear: both; border: solid #0088F9; border-width: 1px 1px 0; background: #79AAF7; color: #00008B; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #00008B"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Technology/Selected_articles/42&amp;action=edit"><span style="color: #00008B">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#00008B;"><span class="mw-headline" id="Selected_article">Selected article</span></h2>
+</div>
+<div style="border: 1px solid #0088F9; border-top-width: 1px; vertical-align: top;background: #F7FAFF;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:left;margin-right:1em"><a href="/wiki/File:WWDC_2011_Moscone_West_Interior.jpg" class="image" title="OS X"><img alt="OS X" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/WWDC_2011_Moscone_West_Interior.jpg/180px-WWDC_2011_Moscone_West_Interior.jpg" width="180" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/WWDC_2011_Moscone_West_Interior.jpg/270px-WWDC_2011_Moscone_West_Interior.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/WWDC_2011_Moscone_West_Interior.jpg/360px-WWDC_2011_Moscone_West_Interior.jpg 2x" data-file-width="1023" data-file-height="682" /></a></div>
+<b><a href="/wiki/OS_X" title="OS X">OS X</a></b> (<span class="nowrap"><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/<span style="border-bottom:1px dotted"><span title="/ˌ/ secondary stress follows">ˌ</span><span title="/oʊ/ long 'o' in 'code'">oʊ</span></span> <span style="border-bottom:1px dotted"><span title="/ɛ/ short 'e' in 'bed'">ɛ</span><span title="'s' in 'sigh'">s</span></span> <span style="border-bottom:1px dotted"><span title="/ˈ/ primary stress follows">ˈ</span><span title="'t' in 'tie'">t</span><span title="/ɛ/ short 'e' in 'bed'">ɛ</span><span title="'n' in 'no'">n</span></span>/</a></span></span>), previously <b>Mac OS X</b>, is a series of <a href="/wiki/Unix" title="Unix">Unix</a>-based <a href="/wiki/Graphical_user_interface" title="Graphical user interface">graphical interface</a> <a href="/wiki/Operating_system" title="Operating system">operating systems</a> developed, marketed, and sold by <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple Inc.</a> It is designed to run exclusively on <a href="/wiki/Macintosh" title="Macintosh">Mac</a> computers, having been pre-loaded on all Macs since 2002. It was the successor to <a href="/wiki/Mac_OS_9" title="Mac OS 9">Mac OS 9</a>, released in 1999, the final release of the "classic" <a href="/wiki/Classic_Mac_OS" title="Classic Mac OS" class="mw-redirect">Mac OS</a>, which had been Apple's primary operating system since 1984. The first version released was <a href="/wiki/Mac_OS_X_Server_1.0" title="Mac OS X Server 1.0">Mac OS X Server 1.0</a> in 1999, and a desktop version, <a href="/wiki/Mac_OS_X_v10.0" title="Mac OS X v10.0" class="mw-redirect">Mac OS X v10.0</a> "Cheetah" followed on March 24, 2001. Releases of OS X are named after <a href="/wiki/Big_cat" title="Big cat">big cats</a>: for example, OS X v10.8 is referred to as "<a href="/wiki/OS_X_Mountain_Lion" title="OS X Mountain Lion">Mountain Lion</a>". OS X, whose <i>X</i> is the <a href="/wiki/Roman_numerals#Symbols" title="Roman numerals">Roman numeral for <i>10</i></a> and is a prominent part of its <a href="/wiki/Brand#Brand_identity" title="Brand">brand identity</a>, is built on technologies developed at <a href="/wiki/NeXT" title="NeXT">NeXT</a> between the second half of the 1980s and Apple's purchase of the company in late 1996. The 'X' is also used to emphasize the relatedness between OS X and UNIX. Versions <a href="/wiki/Mac_OS_X_Leopard" title="Mac OS X Leopard">10.5</a> "Leopard" running on <a href="/wiki/Intel" title="Intel">Intel</a> processors, <a href="/wiki/Mac_OS_X_Snow_Leopard" title="Mac OS X Snow Leopard">10.6</a> "Snow Leopard", and <a href="/wiki/OS_X_Mountain_Lion" title="OS X Mountain Lion">10.8</a> "Mountain Lion" have obtained <a href="/wiki/UNIX_03" title="UNIX 03" class="mw-redirect">UNIX 03</a> certification. <a href="/wiki/IOS" title="IOS">iOS</a>, which runs on the <a href="/wiki/IPhone" title="IPhone">iPhone</a>, <a href="/wiki/IPod_Touch" title="IPod Touch">iPod Touch</a>, <a href="/wiki/IPad" title="IPad">iPad</a>, and the 2nd and 3rd generation <a href="/wiki/Apple_TV" title="Apple TV">Apple TV</a>, shares the <a href="/wiki/Darwin_(operating_system)" title="Darwin (operating system)">Darwin</a> core and many frameworks with OS X. An unnamed variant of <a href="/wiki/Mac_OS_X_Tiger" title="Mac OS X Tiger">v10.4</a> powered the first generation Apple TV.
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td>
+<div style="text-align:left;"><b><a href="/wiki/Portal:Technology/Selected_articles" title="Portal:Technology/Selected articles">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:4px;">
+<p><b><a href="/wiki/OS_X" title="OS X">More...</a></b></p>
+</div>
+</td>
+</tr>
+</table>
+<p><br /></p>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #0088F9; border-width: 1px 1px 0; background: #79AAF7; color: #00008B; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #00008B"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Technology/Selected_anniversaries/October&amp;action=edit"><span style="color: #00008B">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#00008B;"><span class="mw-headline" id="In_this_month">In this month</span></h2>
+</div>
+<div style="border: 1px solid #0088F9; border-top-width: 1px; vertical-align: top;background: #F7FAFF;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:right;margin-left:0.5em;"><a href="/wiki/File:Granite_Railway_-_General_view_of_incline_to_Quarry_from_Northwest.jpg" class="image" title="A portion of the Granite Railway"><img alt="A portion of the Granite Railway" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Granite_Railway_-_General_view_of_incline_to_Quarry_from_Northwest.jpg/101px-Granite_Railway_-_General_view_of_incline_to_Quarry_from_Northwest.jpg" width="101" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Granite_Railway_-_General_view_of_incline_to_Quarry_from_Northwest.jpg/151px-Granite_Railway_-_General_view_of_incline_to_Quarry_from_Northwest.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Granite_Railway_-_General_view_of_incline_to_Quarry_from_Northwest.jpg/202px-Granite_Railway_-_General_view_of_incline_to_Quarry_from_Northwest.jpg 2x" data-file-width="4620" data-file-height="3669" /></a></div>
+<ul>
+<li>4 October 1957 – The <a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a> launches <i><b><a href="/wiki/Sputnik_1" title="Sputnik 1">Sputnik 1</a></b></i>, the first <a href="/wiki/Artificial_satellite" title="Artificial satellite" class="mw-redirect">artificial Earth satellite</a></li>
+<li>7 October 1826 – The <b><a href="/wiki/Granite_Railway" title="Granite Railway">Granite Railway</a></b> <i>(pictured)</i>, the first railroad to use the <a href="/wiki/Railway_turntable" title="Railway turntable">railway turntable</a> and the <a href="/wiki/Railroad_switch" title="Railroad switch">railroad switch</a>, begins operations</li>
+<li>8 October 2013 – <a href="/wiki/Peter_Higgs" title="Peter Higgs">Peter Higgs</a> and <a href="/wiki/Francois_Englert" title="Francois Englert" class="mw-redirect">Francois Englert</a> win the <a href="/wiki/Nobel_Prize_in_Physics" title="Nobel Prize in Physics">Nobel Prize in Physics</a> for the discovery of the <b><a href="/wiki/Higgs_Boson" title="Higgs Boson" class="mw-redirect">Higgs Boson</a></b></li>
+<li>28 October 1793 – <a href="/wiki/Eli_Whitney" title="Eli Whitney">Eli Whitney</a> applies for a patent on the <b><a href="/wiki/Cotton_gin" title="Cotton gin">Cotton gin</a></b>, dramatically altering the economy of the <a href="/wiki/Southern_United_States" title="Southern United States">Southern United States</a></li>
+</ul>
+<div style="text-align:right;margin-right:10px;margin-bottom:4px;"><b><a href="/wiki/Portal:Technology/Selected_anniversaries" title="Portal:Technology/Selected anniversaries">More anniversaries...</a></b></div>
+<div style="margin:-.8em 0">
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div style="clear: both; border: solid #0088F9; border-width: 1px 1px 0; background: #79AAF7; color: #00008B; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #00008B"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Technology/DYK/30&amp;action=edit"><span style="color: #00008B">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#00008B;"><span class="mw-headline" id="Did_you_know..."><i>Did you know...</i></span></h2>
+</div>
+<div style="border: 1px solid #0088F9; border-top-width: 1px; vertical-align: top;background: #F7FAFF;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:right;margin-left:0.5em;">
+<p><a href="/wiki/File:Schmallenberg-Grafschaft_Fraunhofer-Institut_Sauerland-Ost_094.jpg" class="image" title="Fraunhofer Society"><img alt="Fraunhofer Society" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Schmallenberg-Grafschaft_Fraunhofer-Institut_Sauerland-Ost_094.jpg/100px-Schmallenberg-Grafschaft_Fraunhofer-Institut_Sauerland-Ost_094.jpg" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Schmallenberg-Grafschaft_Fraunhofer-Institut_Sauerland-Ost_094.jpg/150px-Schmallenberg-Grafschaft_Fraunhofer-Institut_Sauerland-Ost_094.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Schmallenberg-Grafschaft_Fraunhofer-Institut_Sauerland-Ost_094.jpg/200px-Schmallenberg-Grafschaft_Fraunhofer-Institut_Sauerland-Ost_094.jpg 2x" data-file-width="4256" data-file-height="2832" /></a></p>
+</div>
+<ul>
+<li>... that scientists at the <a href="/wiki/Fraunhofer_Society" title="Fraunhofer Society">Fraunhofer Institute for Chemical Technology</a> <i>(pictured)</i> won the 2010 European Inventor Award for their work on the development of <b><a href="/wiki/Arboform" title="Arboform">liquid wood</a></b>?</li>
+<li>... that <a href="/wiki/Australia_at_the_2012_Summer_Paralympics" title="Australia at the 2012 Summer Paralympics">2012 Australian Paralympic athletics competitor</a> <b><a href="/wiki/Simon_Patmore" title="Simon Patmore">Simon Patmore</a></b> has <a href="/wiki/Erb%27s_palsy" title="Erb's palsy">Erb's palsy</a> and works as a technology officer?</li>
+<li>... that <a href="/wiki/DARPA" title="DARPA">DARPA</a> director <b><a href="/wiki/Arati_Prabhakar" title="Arati Prabhakar">Arati Prabhakar</a></b> was the first female director of <a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">National Institute of Standards and Technology</a>, and also the first woman to earn a Ph.D. in applied physics from <a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">Caltech</a>?</li>
+</ul>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td>
+<div style="text-align:left;margin-bottom:0px;"><b><a href="/wiki/Portal:Technology/DYK" title="Portal:Technology/DYK">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:0px;">
+<p><b><a href="/wiki/Wikipedia:Recent_additions" title="Wikipedia:Recent additions">More...</a></b></p>
+</div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="portal-column-right">
+<div style="clear: both; border: solid #0088F9; border-width: 1px 1px 0; background: #79AAF7; color: #00008B; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #00008B"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Technology/Featured_biography/8&amp;action=edit"><span style="color: #00008B">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#00008B;"><span class="mw-headline" id="Featured_biography">Featured biography</span></h2>
+</div>
+<div style="border: 1px solid #0088F9; border-top-width: 1px; vertical-align: top;background: #F7FAFF;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="float:right;margin-left:0.2em"><a href="/wiki/File:I.M._Pei.JPG" class="image" title="I. M. Pei"><img alt="I. M. Pei" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/I.M._Pei.JPG/120px-I.M._Pei.JPG" width="120" height="136" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/I.M._Pei.JPG/180px-I.M._Pei.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/I.M._Pei.JPG/240px-I.M._Pei.JPG 2x" data-file-width="324" data-file-height="366" /></a></div>
+<b><a href="/wiki/I._M._Pei" title="I. M. Pei">I. M. Pei</a></b> (born 1917) is a <a href="/wiki/Chinese_American" title="Chinese American" class="mw-redirect">Chinese American</a> architect, often called a master of <a href="/wiki/Modern_architecture" title="Modern architecture">modern architecture</a>. Born in <a href="/wiki/Guangzhou" title="Guangzhou">Guangzhou</a>, in 1935 he moved to the United States. While enrolled at <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a>, he became unhappy with the school's focus on <a href="/wiki/Beaux-Arts_architecture" title="Beaux-Arts architecture">Beaux-Arts architecture</a>, and spent his free time researching the emerging architects, especially <a href="/wiki/Le_Corbusier" title="Le Corbusier">Le Corbusier</a>. After graduating, he joined the <a href="/wiki/Harvard_Graduate_School_of_Design" title="Harvard Graduate School of Design">Harvard Graduate School of Design</a> and formed a friendship with the <a href="/wiki/Bauhaus" title="Bauhaus">Bauhaus</a> architects <a href="/wiki/Walter_Gropius" title="Walter Gropius">Walter Gropius</a> and <a href="/wiki/Marcel_Breuer" title="Marcel Breuer">Marcel Breuer</a>. Pei spent ten years working with New York real estate magnate <a href="/wiki/William_Zeckendorf" title="William Zeckendorf">William Zeckendorf</a> before establishing his own independent design firm that eventually became <a href="/wiki/Pei_Cobb_Freed_%26_Partners" title="Pei Cobb Freed &amp; Partners">Pei Cobb Freed &amp;&#160;Partners</a>. Among the early projects on which Pei took the lead were the <a href="/wiki/L%27Enfant_Plaza_Hotel" title="L'Enfant Plaza Hotel">L'Enfant Plaza Hotel</a> in Washington, DC, and the <a href="/wiki/Green_Building_(MIT)" title="Green Building (MIT)">Green Building</a> at MIT. His first major recognition came with the <a href="/wiki/National_Center_for_Atmospheric_Research" title="National Center for Atmospheric Research">National Center for Atmospheric Research</a> in Colorado; his new stature led to his selection as chief architect for the <a href="/wiki/John_F._Kennedy_Library" title="John F. Kennedy Library" class="mw-redirect">John F. Kennedy Library</a> in Massachusetts. He went on to design <a href="/wiki/Dallas_City_Hall" title="Dallas City Hall">Dallas City Hall</a> and the East Building of the <a href="/wiki/National_Gallery_of_Art" title="National Gallery of Art">National Gallery of Art</a>. In the early 1980s, Pei was the focus of controversy when he designed <a href="/wiki/Louvre_Pyramid" title="Louvre Pyramid">a glass-and-steel pyramid</a> for the <i><a href="/wiki/Louvre" title="Louvre">Louvre</a></i> museum in Paris. Pei has won a wide variety of prizes and awards in the field of architecture, including the 1983 <a href="/wiki/Pritzker_Prize" title="Pritzker Prize" class="mw-redirect">Pritzker Prize</a>, sometimes called the <a href="/wiki/Nobel_Prize" title="Nobel Prize">Nobel Prize</a> of architecture.
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td>
+<div style="text-align:left;"><b><a href="/wiki/Portal:Technology/Featured_biography" title="Portal:Technology/Featured biography">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:4px;">
+<p><b><a href="/wiki/I._M._Pei" title="I. M. Pei">More...</a></b></p>
+</div>
+</td>
+</tr>
+</table>
+<p><br /></p>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #0088F9; border-width: 1px 1px 0; background: #79AAF7; color: #00008B; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #00008B"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Technology/Wikiprojects&amp;action=edit"><span style="color: #00008B">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#00008B;"><span class="mw-headline" id="Wikiprojects">Wikiprojects</span></h2>
+</div>
+<div style="border: 1px solid #0088F9; border-top-width: 1px; vertical-align: top;background: #F7FAFF;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<dl>
+<dt>Parent project</dt>
+</dl>
+<div style="float:right;margin-left:0.9em"><a href="/wiki/File:Community.png" class="image" title="WikiProjects"><img alt="WikiProjects" src="//upload.wikimedia.org/wikipedia/commons/c/ce/Community.png" width="55" height="37" data-file-width="48" data-file-height="32" /></a></div>
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Technology" title="Wikipedia:WikiProject Technology"><b>Technology</b></a></li>
+</ul>
+<dl>
+<dt>Related projects</dt>
+</dl>
+<div>
+<table style="width: 100%; background-color:transparent;table-layout:fixed; border:none; border-spacing:0;" role="presentation">
+<tr style="vertical-align: top;">
+<td>
+<div style="margin-right:20px;">
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Architecture" title="Wikipedia:WikiProject Architecture">Architecture</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Computing" title="Wikipedia:WikiProject Computing">Computing</a></li>
+</ul>
+<dl>
+<dd>
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Computer_Science" title="Wikipedia:WikiProject Computer Science" class="mw-redirect">Computer Science</a></li>
+</ul>
+</dd>
+</dl>
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_Electronics" title="Wikipedia:WikiProject Electronics">Electronics</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Energy_development" title="Wikipedia:WikiProject Energy development" class="mw-redirect">Energy development</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Energy" title="Wikipedia:WikiProject Energy">Energy</a></li>
+</ul>
+</div>
+</td>
+<td>
+<div style="margin-right: 20px;">
+<ul>
+<li><a href="/wiki/Wikipedia:WikiProject_History_of_Science" title="Wikipedia:WikiProject History of Science">History of Science</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Metalworking" title="Wikipedia:WikiProject Metalworking">Metalworking</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Telecommunications" title="Wikipedia:WikiProject Telecommunications">Telecommunications</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Woodworking" title="Wikipedia:WikiProject Woodworking">Woodworking</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div align="right"><b>What are <a href="/wiki/Wikipedia:WikiProject" title="Wikipedia:WikiProject">WikiProjects</a>?</b></div>
+<div style="margin:-.8em 0">
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+</div>
+<div style="float:right; width:100%;">
+<div style="clear: both; border: solid #0088F9; border-width: 1px 1px 0; background: #79AAF7; color: #00008B; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #00008B"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Technology/Selected_pictures/7&amp;action=edit"><span style="color: #00008B">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#00008B;"><span class="mw-headline" id="Selected_picture">Selected picture</span></h2>
+</div>
+<div style="border: 1px solid #0088F9; border-top-width: 1px; vertical-align: top;background: #F7FAFF;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:MSMajestyOfTheSeasEdit1.JPG" class="image" title="{{{caption}}}"><img alt="{{{caption}}}" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/MSMajestyOfTheSeasEdit1.JPG/500px-MSMajestyOfTheSeasEdit1.JPG" width="500" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/MSMajestyOfTheSeasEdit1.JPG/750px-MSMajestyOfTheSeasEdit1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/MSMajestyOfTheSeasEdit1.JPG/1000px-MSMajestyOfTheSeasEdit1.JPG 2x" data-file-width="3777" data-file-height="2211" /></a></div>
+</div>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td width="33%">
+<center><small>Credit: <a href="/wiki/User:UpstateNYer" title="User:UpstateNYer" class="mw-redirect">Matt H. Wade</a></small></center>
+</td>
+</tr>
+</table>
+<p><a href="/wiki/Motor_Ship" title="Motor Ship" class="mw-redirect">MS</a> <i><a href="/wiki/MS_Majesty_of_the_Seas" title="MS Majesty of the Seas">Majesty of the Seas</a></i> is a <i><a href="/wiki/Sovereign_class" title="Sovereign class" class="mw-redirect">Sovereign</a></i>-class <b><a href="/wiki/Cruise_ship" title="Cruise ship">cruise ship</a></b> owned and operated by <a href="/wiki/Royal_Caribbean_International" title="Royal Caribbean International">Royal Caribbean International</a>.</p>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td width="33%">
+<div style="text-align:left;"><b><a href="/wiki/Portal:Technology/Selected_pictures" title="Portal:Technology/Selected pictures">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:4px;">
+<p><b><a href="/wiki/Cruise_ship" title="Cruise ship">More...</a></b></p>
+</div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #0088F9; border-width: 1px 1px 0; background: #79AAF7; color: #00008B; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #00008B"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Technology/Selected_quote/18&amp;action=edit"><span style="color: #00008B">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#00008B;"><span class="mw-headline" id="Selected_quote">Selected quote</span></h2>
+</div>
+<div style="border: 1px solid #0088F9; border-top-width: 1px; vertical-align: top;background: #F7FAFF;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<center>
+<table class="noprint" border="0" style="text-align:left; padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td>
+<div style="float:left;margin-right:1em"><a href="/wiki/File:Stephen_Hawking.StarChild.jpg" class="image" title="Stephen Hawking in 1999"><img alt="Stephen Hawking in 1999" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/69px-Stephen_Hawking.StarChild.jpg" width="69" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/104px-Stephen_Hawking.StarChild.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Stephen_Hawking.StarChild.jpg/139px-Stephen_Hawking.StarChild.jpg 2x" data-file-width="250" data-file-height="359" /></a></div>
+<table class="cquote" role="presentation" style="margin:auto; border-collapse: collapse; border: none; background-color: transparent; width: auto;">
+<tr>
+<td style="width: 20px; vertical-align: top; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: left; padding: 10px 10px;">“</td>
+<td style="vertical-align: top; border: none; padding: 4px 10px;">The world has changed far more in the past 100 years than in any other century in history. The reason is not political or economic but technological — technologies that flowed directly from advances in basic science.</td>
+<td style="width: 20px; vertical-align: bottom; border: none; color: #B2B7F2; font-size: 40px; font-family: 'Times New Roman', Times, serif; font-weight: bold; line-height: .6em; text-align: right; padding: 10px 10px;">”</td>
+</tr>
+</table>
+<div style="text-align:right; margin-right:10px">— <b><a href="/wiki/Stephen_Hawking" title="Stephen Hawking">Stephen Hawking</a></b>, "A Brief History of Relativity" (1999)</div>
+</td>
+</tr>
+</table>
+</center>
+<table class="noprint" width="100%" border="0" style="padding: 0; margin: 0; background-color:transparent">
+<tr>
+<td>
+<div style="text-align:left;margin-bottom:0px;"><b><a href="/wiki/Portal:Technology/Selected_quote" title="Portal:Technology/Selected quote">...Archive/Nominations</a></b></div>
+</td>
+<td>
+<div style="text-align:right;margin-right:10px;margin-bottom:0px;"><b><a href="//en.wikiquote.org/wiki/Technology" class="extiw" title="wikiquote:Technology">More...</a></b></div>
+</td>
+</tr>
+</table>
+<div style="clear:both;"></div>
+</div>
+<div style="clear: both; border: solid #0088F9; border-width: 1px 1px 0; background: #79AAF7; color: #00008B; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #00008B"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Technology/Categories&amp;action=edit"><span style="color: #00008B">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#00008B;"><span class="mw-headline" id="Categories">Categories</span></h2>
+</div>
+<div style="border: 1px solid #0088F9; border-top-width: 1px; vertical-align: top;background: #F7FAFF;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<table style="width:100%;background-color:transparent;">
+<tr>
+<td valign="top" style="padding: 1px 4px; text-align: left; margin-bottom:5px;">
+<div class="floatright"><a href="/wiki/File:C_Puzzle.png" class="image" title="Technology categories"><img alt="Technology categories" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/42px-C_Puzzle.png" width="42" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/63px-C_Puzzle.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/C_Puzzle.png/84px-C_Puzzle.png 2x" data-file-width="150" data-file-height="150" /></a></div>
+<ul>
+<li><b><a href="/wiki/Category:Computing" title="Category:Computing">Computing</a></b> · <a href="/wiki/Category:Classes_of_computers" title="Category:Classes of computers">Classes of computers</a> · <a href="/wiki/Category:Computing_by_company" title="Category:Computing by company">Companies</a> · <a href="/wiki/Category:Computer_architecture" title="Category:Computer architecture">Computer architecture</a> · <a href="/wiki/Category:Computing_by_computer_model" title="Category:Computing by computer model">Computer model</a> · <a href="/wiki/Category:Computer_science" title="Category:Computer science">Computer science</a> · <a href="/wiki/Category:Computer_security" title="Category:Computer security">Computer security</a> · <a href="/wiki/Category:Computing_and_society" title="Category:Computing and society">Computing and society</a> · <a href="/wiki/Category:Computer_data" title="Category:Computer data">Data</a> · <a href="/wiki/Category:Embedded_systems" title="Category:Embedded systems">Embedded systems</a> · <a href="/wiki/Category:Information_systems" title="Category:Information systems">Information systems</a> · <a href="/wiki/Category:Information_technology" title="Category:Information technology">Information technology</a> · <a href="/wiki/Category:Internet" title="Category:Internet">Internet</a> · <a href="/wiki/Category:Computer_languages" title="Category:Computer languages">Languages</a> · <a href="/wiki/Category:Multimedia" title="Category:Multimedia">Multimedia</a> · <a href="/wiki/Category:Computer_networks" title="Category:Computer networks">Networks</a> · <a href="/wiki/Category:Operating_systems" title="Category:Operating systems">Operating systems</a> · <a href="/wiki/Category:Computing_platforms" title="Category:Computing platforms">Platforms</a> · <a href="/wiki/Category:Product_lifecycle_management" title="Category:Product lifecycle management">Product lifecycle management</a> · <a href="/wiki/Category:Real-time_computing" title="Category:Real-time computing">Real-time computing</a> · <a href="/wiki/Category:Software" title="Category:Software">Software</a> · <a href="/wiki/Security" title="Security">Security</a> ·<a href="/wiki/Category:Computing" title="Category:Computing">More...</a></li>
+</ul>
+<ul>
+<li><b><a href="/wiki/Category:Electronics" title="Category:Electronics">Electronics</a></b> · <a href="/wiki/Category:Avionics" title="Category:Avionics">Avionics</a> · <a href="/wiki/Category:Integrated_circuits" title="Category:Integrated circuits">RF &amp; MMIC Design</a> · <a href="/wiki/Category:Electronic_circuits" title="Category:Electronic circuits">Circuits</a> · <a href="/wiki/Category:Electronics_companies" title="Category:Electronics companies">Companies</a> · <a href="/wiki/Category:Electrical_connectors" title="Category:Electrical connectors">Connectors</a> · <a href="/wiki/Category:Consumer_electronics" title="Category:Consumer electronics">Consumer electronics</a> · <a href="/wiki/Category:Digital_electronics" title="Category:Digital electronics">Digital electronics</a> · <a href="/wiki/Category:Digital_media" title="Category:Digital media">Digital media</a> · <a href="/wiki/Category:Electrical_components" title="Category:Electrical components">Electrical components</a> · <a href="/wiki/Category:Electronic_design" title="Category:Electronic design">Electronic design</a> · <a href="/wiki/Category:Electronics_manufacturing" title="Category:Electronics manufacturing">Electronics manufacturing</a> · <a href="/wiki/Category:Embedded_systems" title="Category:Embedded systems">Embedded systems</a> · <a href="/wiki/Category:Integrated_circuits" title="Category:Integrated circuits">Integrated circuits</a> · <a href="/wiki/Category:Microwave_technology" title="Category:Microwave technology">Microwave technology</a> · <a href="/wiki/Category:Molecular_electronics" title="Category:Molecular electronics">Molecular electronics</a> · <a href="/wiki/Category:Water_technology" title="Category:Water technology">Water technology</a> · <a href="/wiki/Category:Optoelectronics" title="Category:Optoelectronics">Optoelectronics</a> · <a href="/wiki/Category:Quantum_electronics" title="Category:Quantum electronics">Quantum electronics</a> · <a href="/wiki/Category:Radio-frequency_identification" title="Category:Radio-frequency identification">Radio-frequency identification</a> · <a href="/wiki/Category:Radio_electronics" title="Category:Radio electronics">Radio electronics</a> · <a href="/wiki/Category:Semiconductors" title="Category:Semiconductors">Semiconductors</a> · <a href="/wiki/Category:Signal_cables" title="Category:Signal cables">Signal cables</a> · <a href="/wiki/Category:Surveillance" title="Category:Surveillance">Surveillance</a> · <a href="/wiki/Category:Telecommunications" title="Category:Telecommunications">Telecommunications</a> · <a href="/wiki/Category:Electronics_terminology" title="Category:Electronics terminology">Terminology</a> · <a href="/wiki/Category:Electronics" title="Category:Electronics">More...</a></li>
+</ul>
+<ul>
+<li><b><a href="/wiki/Category:Engineering" title="Category:Engineering">Engineering</a>:</b> <a href="/wiki/Category:Aerospace_engineering" title="Category:Aerospace engineering">Aerospace engineering</a> · <a href="/wiki/Category:Biological_engineering" title="Category:Biological engineering">Biological engineering</a> · <a href="/wiki/Category:Chemical_engineering" title="Category:Chemical engineering">Chemical engineering</a> · <a href="/wiki/Category:Civil_engineering" title="Category:Civil engineering">Civil engineering</a> · <a href="/wiki/Category:Computer_engineering" title="Category:Computer engineering">Computer engineering</a> · <a href="/wiki/Category:Electrical_engineering" title="Category:Electrical engineering">Electrical engineering</a> · <a href="/wiki/Category:Electronic_engineering" title="Category:Electronic engineering">Electronic engineering</a> · <a href="/wiki/Category:Environmental_engineering" title="Category:Environmental engineering">Environmental engineering</a> · <a href="/wiki/Category:Geotechnical_engineering" title="Category:Geotechnical engineering">Geotechnical engineering</a> · <a href="/wiki/Category:Industrial_engineering" title="Category:Industrial engineering">Industrial engineering</a> · <a href="/wiki/Category:Marine_engineering" title="Category:Marine engineering">Marine engineering</a> · <a href="/wiki/Category:Materials_science" title="Category:Materials science">Materials science</a> · <a href="/wiki/Category:Mechanical_engineering" title="Category:Mechanical engineering">Mechanical engineering</a> · <a href="/wiki/Category:Nuclear_technology" title="Category:Nuclear technology">Nuclear technology</a> · <a href="/wiki/Category:Signal_processing" title="Category:Signal processing">Signal processing</a> · <a href="/wiki/Category:Software_engineering" title="Category:Software engineering">Software engineering</a> · <a href="/wiki/Category:Structural_engineering" title="Category:Structural engineering">Structural engineering</a></li>
+</ul>
+<ul>
+<li><b><a href="/wiki/Category:Transport" title="Category:Transport">Transport</a></b> · <a href="/wiki/Category:Aviation" title="Category:Aviation">Aviation</a> · <a href="/wiki/Category:Rail_transport" title="Category:Rail transport">Rail transport</a> · <a href="/wiki/Category:Spaceflight" title="Category:Spaceflight">Spaceflight</a> · <a href="/wiki/Category:Road_transport" title="Category:Road transport">Road transport</a> · <a href="/wiki/Category:Water_transport" title="Category:Water transport">Water transport</a></li>
+</ul>
+<ul>
+<li><b>Timelines:</b> <a href="/wiki/Category:Technology_timelines" title="Category:Technology timelines">Technology timelines</a></li>
+</ul>
+<ul>
+<li><b>Other sub-categories:</b> <a href="/wiki/Category:Agriculture" title="Category:Agriculture">Agriculture</a> · <a href="/wiki/Category:Animation" title="Category:Animation">Animation</a> · <a href="/wiki/Category:Architecture" title="Category:Architecture">Architecture</a> · <a href="/wiki/Category:Carpentry" title="Category:Carpentry">Carpentry</a> · <a href="/wiki/Category:Communication" title="Category:Communication">Communications</a> · <a href="/wiki/Category:Education" title="Category:Education">Education</a> · <a href="/wiki/Category:Electrical_wiring" title="Category:Electrical wiring">Electrical wiring</a> · <a href="/wiki/Category:Machining" title="Category:Machining">Machining</a> · <a href="/wiki/Category:Manufacturing" title="Category:Manufacturing">Manufacturing</a> · <a href="/wiki/Category:Medicine" title="Category:Medicine">Medicine</a> · <a href="/wiki/Category:Metalworking" title="Category:Metalworking">Metalworking</a> · <a href="/wiki/Category:Optics" title="Category:Optics">Optics</a> · <a href="/wiki/Category:Plumbing" title="Category:Plumbing">Plumbing</a> · <a href="/wiki/Category:Tools" title="Category:Tools">Tools</a> · <a href="/wiki/Category:Welding" title="Category:Welding">Welding</a> · <a href="/wiki/Category:Woodworking" title="Category:Woodworking">Woodworking</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<div style="margin:-.8em 0">
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div style="clear: both; border: solid #0088F9; border-width: 1px 1px 0; background: #79AAF7; color: #00008B; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #00008B"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Technology/Topics&amp;action=edit"><span style="color: #00008B">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#00008B;"><span class="mw-headline" id="Main_topics">Main topics</span></h2>
+</div>
+<div style="border: 1px solid #0088F9; border-top-width: 1px; vertical-align: top;background: #F7FAFF;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<center><b><a href="/wiki/Technology" title="Technology">Technology</a></b></center>
+<p><i><b><a href="/wiki/Technology" title="Technology">Technological</a> concepts and issues</b></i>&#160;– <a href="/wiki/Appropriate_technology" title="Appropriate technology">Appropriate technology</a>&#160;• <a href="/wiki/Clean_technology" title="Clean technology">Clean technology</a>&#160;• <a href="/wiki/Diffusion_of_innovations" title="Diffusion of innovations">Diffusion of innovations in science</a>&#160;• <a href="/wiki/Doomsday_device" title="Doomsday device">Doomsday device</a>&#160;• <a href="/wiki/Ecotechnology" title="Ecotechnology">Ecotechnology</a>&#160;• <a href="/wiki/Environmental_technology" title="Environmental technology">Environmental technology</a>&#160;• <a href="/wiki/High_technology" title="High technology" class="mw-redirect">High technology</a>&#160;• <a href="/wiki/History_of_science_and_technology" title="History of science and technology">History of science and technology</a>&#160;• <a href="/wiki/History_of_technology" title="History of technology">History of technology</a>&#160;• <a href="/wiki/Industry" title="Industry">Industry</a>&#160;• <a href="/wiki/Innovation" title="Innovation">Innovation</a>&#160;• <a href="/wiki/Knowledge_economy" title="Knowledge economy">Knowledge economy</a>&#160;• <a href="/wiki/Persuasion_technology" title="Persuasion technology" class="mw-redirect">Persuasion technology</a>&#160;• <a href="/wiki/Pollution" title="Pollution">Pollution</a>&#160;• <a href="/wiki/Posthumanism" title="Posthumanism">Posthumanism</a>&#160;• <a href="/wiki/Precautionary_principle" title="Precautionary principle">Precautionary principle</a>&#160;• <a href="/wiki/Research_and_development" title="Research and development">Research and development</a>&#160;• <a href="/wiki/Science,_technology,_and_society" title="Science, technology, and society" class="mw-redirect">Science, technology, and society</a>&#160;• <a href="/wiki/Strategy_of_technology" title="Strategy of technology" class="mw-redirect">Strategy of technology</a>&#160;• <a href="/wiki/Superpower" title="Superpower">Superpowers</a>&#160;• <a href="/wiki/Sustainable_technology" title="Sustainable technology" class="mw-redirect">Sustainable technology</a>&#160;• <a href="/wiki/Technicism" title="Technicism">Technicism</a>&#160;• <a href="/wiki/Technocapitalism" title="Technocapitalism">Technocapitalism</a>&#160;• <a href="/wiki/Technocriticism" title="Technocriticism">Technocriticism</a>&#160;• <a href="/wiki/Techno-progressivism" title="Techno-progressivism">Techno-progressivism</a>&#160;• <a href="/wiki/Technological_convergence" title="Technological convergence">Technological convergence</a>&#160;• <a href="/wiki/Technological_evolution" title="Technological evolution">Technological evolution</a>&#160;• <a href="/wiki/Technological_determinism" title="Technological determinism">Technological determinism</a>&#160;• <a href="/wiki/Diffusion_(business)" title="Diffusion (business)">Technological diffusion</a>&#160;• <a href="/wiki/Technological_singularity" title="Technological singularity">Technological singularity</a>&#160;• <a href="/wiki/Technology_acceptance_model" title="Technology acceptance model">Technology acceptance model</a>&#160;• <a href="/wiki/Technology_assessment" title="Technology assessment">Technology assessment</a>&#160;• <a href="/wiki/Technology_lifecycle" title="Technology lifecycle" class="mw-redirect">Technology lifecycle</a>&#160;• <a href="/wiki/Technology_transfer" title="Technology transfer">Technology transfer</a>&#160;• <a href="/wiki/Technology_Tree" title="Technology Tree" class="mw-redirect">Technology Tree</a>&#160;• <a href="/wiki/Technorealism" title="Technorealism">Technorealism</a>&#160;• <a href="/wiki/Timeline_of_invention" title="Timeline of invention" class="mw-redirect">Timeline of invention</a>&#160;• <a href="/wiki/Transhumanism" title="Transhumanism">Transhumanism</a></p>
+<p><i><b><a href="/wiki/List_of_basic_technology_topics" title="List of basic technology topics" class="mw-redirect">Technologies</a></b></i> <i>and</i> <i><b><a href="/wiki/Applied_sciences" title="Applied sciences" class="mw-redirect">applied sciences</a></b></i>&#160;– <a href="/wiki/Aerospace" title="Aerospace">Aerospace</a>&#160;• <a href="/wiki/Agriculture" title="Agriculture">Agriculture</a>, <a href="/wiki/Agricultural_science" title="Agricultural science">Agricultural science</a> &amp; <a href="/wiki/Agronomy" title="Agronomy">Agronomy</a>&#160;• <a href="/wiki/Architecture" title="Architecture">Architecture</a>&#160;• <a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a>&#160;• <a href="/wiki/Automation" title="Automation">Automation</a>&#160;• <a href="/wiki/Automobile" title="Automobile" class="mw-redirect">Automobile</a>&#160;• <a href="/wiki/Big_Science" title="Big Science">Big Science</a>&#160;• <a href="/wiki/Biotechnology" title="Biotechnology">Biotechnology</a>&#160;• <a href="/wiki/Cartography" title="Cartography">Cartography</a>&#160;• <a href="/wiki/Chemical_engineering" title="Chemical engineering">Chemical engineering</a>&#160;• <a href="/wiki/Communication" title="Communication">Communication</a>&#160;• <a href="/wiki/Computing" title="Computing">Computing</a> (<a href="/wiki/Computer_science" title="Computer science">Computer science</a>, <a href="/wiki/List_of_open_problems_in_computer_science" title="List of open problems in computer science" class="mw-redirect">List of open problems in computer science</a>, <a href="/wiki/Computer_programming" title="Computer programming">Programming</a>, <a href="/wiki/Software_engineering" title="Software engineering">Software engineering</a>, <a href="/wiki/Information_technology" title="Information technology">Information technology</a>, <a href="/wiki/Computer_engineering" title="Computer engineering">Computer engineering</a>)&#160;• <a href="/wiki/Construction" title="Construction">Construction</a>&#160;• <a href="/wiki/Design" title="Design">Design</a>&#160;• <a href="/wiki/Electronics" title="Electronics">Electronics</a>&#160;• <a href="/wiki/Energy_development" title="Energy development">Energy development</a>&#160;• <a href="/wiki/Energy_storage" title="Energy storage">Energy storage</a>&#160;• <a href="/wiki/Engineering" title="Engineering">Engineering</a>&#160;• <a href="/wiki/Ergonomics" title="Ergonomics" class="mw-redirect">Ergonomics</a>&#160;• <a href="/wiki/Firefighting" title="Firefighting">Firefighting</a>&#160;• <a href="/wiki/Forensics" title="Forensics" class="mw-redirect">Forensics</a>&#160;• <a href="/wiki/Forestry" title="Forestry">Forestry</a>&#160;• <a href="/wiki/Free_software" title="Free software">Free software</a>&#160;• <a href="/wiki/Health_sciences" title="Health sciences" class="mw-redirect">Health sciences</a>&#160;• <a href="/wiki/Health_Informatics" title="Health Informatics" class="mw-redirect">Health Informatics</a>&#160;• <a href="/wiki/Industry" title="Industry">Industry</a>&#160;• <a href="/wiki/Information_science" title="Information science">Information science</a>&#160;• <a href="/wiki/Internet" title="Internet">Internet</a>&#160;• <a href="/wiki/Library_and_information_science" title="Library and information science">Library and information science</a>&#160;• <a href="/wiki/Machine" title="Machine">Machines</a>&#160;• <a href="/wiki/Management" title="Management">Management</a>&#160;• <a href="/wiki/Manufacturing" title="Manufacturing">Manufacturing</a>&#160;• <a href="/wiki/Mass_communication" title="Mass communication">Mass communication</a>&#160;• <a href="/wiki/Mass_production" title="Mass production">Mass production</a>&#160;• <a href="/wiki/Medicine" title="Medicine">Medicine</a> (<a href="/wiki/Unsolved_problems_in_neuroscience" title="Unsolved problems in neuroscience" class="mw-redirect">Unsolved problems in neuroscience</a>)&#160;• <a href="/wiki/Military_science" title="Military science">Military science</a>&#160;• <a href="/wiki/Military_technology_and_equipment" title="Military technology and equipment" class="mw-redirect">Military technology and equipment</a>&#160;• <a href="/wiki/Mining" title="Mining">Mining</a>&#160;• <a href="/wiki/Nanotechnology" title="Nanotechnology">Nanotechnology</a>&#160;• <a href="/wiki/Nuclear_technology" title="Nuclear technology">Nuclear technology</a>&#160;• <a href="/wiki/Packaging_and_labeling" title="Packaging and labeling">Packaging and labeling</a>&#160;• <a href="/wiki/Process_(engineering)" title="Process (engineering)">Processes</a>&#160;• <a href="/wiki/Robotics" title="Robotics">Robotics</a>&#160;• <a href="/wiki/Space_exploration" title="Space exploration">Space exploration</a>&#160;• <a href="/wiki/Technology_forecasting" title="Technology forecasting">Technology forecasting</a>&#160;• <a href="/wiki/Telecommunications" title="Telecommunications" class="mw-redirect">Telecommunications</a>&#160;• <a href="/wiki/Tool" title="Tool">Tools</a>&#160;• <a href="/wiki/Transport" title="Transport">Transport</a>&#160;• <a href="/wiki/Vehicle" title="Vehicle">Vehicles</a>&#160;• <a href="/wiki/Weapon" title="Weapon">Weapons</a></p>
+<div style="margin:-.8em 0">
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div style="clear: both; border: solid #0088F9; border-width: 1px 1px 0; background: #79AAF7; color: #00008B; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #00008B"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Technology/News&amp;action=edit"><span style="color: #00008B">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#00008B;"><span class="mw-headline" id="News">News</span></h2>
+</div>
+<div style="border: 1px solid #0088F9; border-top-width: 1px; vertical-align: top;background: #F7FAFF;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<center><b><a href="//en.wikinews.org/wiki/Portal:Science_and_technology" class="extiw" title="wikinews:Portal:Science and technology">From the Wikinews Science and technology portal</a></b></center>
+<div style="float:right;margin-left:0.9em"><a href="//en.wikinews.org/wiki/Main_Page" title="and Wikinews"><img alt="and Wikinews" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/75px-Wikinews-logo.svg.png" width="75" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/113px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/150px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></div>
+<ul>
+<li><a href="/wiki/March_12" title="March 12">March 12</a>: <a href="//en.wikinews.org/wiki/en:U.S._Secret_Service_conducts_drone_exercise" class="extiw" title="wikinews:en:U.S. Secret Service conducts drone exercise">U.S. Secret Service conducts drone exercise</a></li>
+<li><a href="/wiki/February_14" title="February 14">February 14</a>: <a href="//en.wikinews.org/wiki/en:University_of_Utah_study_finds_suicide_may_be_linked_to_air_pollution" class="extiw" title="wikinews:en:University of Utah study finds suicide may be linked to air pollution">University of Utah study finds suicide may be linked to air pollution</a></li>
+<li><a href="/wiki/February_1" title="February 1">February 1</a>: <a href="//en.wikinews.org/wiki/en:Fire_ravages_large_academic_library_in_Moscow" class="extiw" title="wikinews:en:Fire ravages large academic library in Moscow">Fire ravages large academic library in Moscow</a></li>
+<li><a href="/wiki/January_31" title="January 31">January 31</a>: <a href="//en.wikinews.org/wiki/en:Rare_megamouth_shark_found_dead_in_Pio_Duran,_Philippines" class="extiw" title="wikinews:en:Rare megamouth shark found dead in Pio Duran, Philippines">Rare megamouth shark found dead in Pio Duran, Philippines</a></li>
+<li><a href="/wiki/January_30" title="January 30">January 30</a>: <a href="//en.wikinews.org/wiki/en:Scientists_find_ancient_solar_system_in_Milky_Way_galaxy" class="extiw" title="wikinews:en:Scientists find ancient solar system in Milky Way galaxy">Scientists find ancient solar system in Milky Way galaxy</a></li>
+<li><a href="/wiki/January_11" title="January 11">January 11</a>: <a href="//en.wikinews.org/wiki/en:SpaceX_launches_fifth_resupply_rocket_to_International_Space_Station" class="extiw" title="wikinews:en:SpaceX launches fifth resupply rocket to International Space Station">SpaceX launches fifth resupply rocket to International Space Station</a></li>
+<li><a href="/wiki/January_10" title="January 10">January 10</a>: <a href="//en.wikinews.org/wiki/en:Researchers_say_light_signal_from_space_suggests_merging_black_holes" class="extiw" title="wikinews:en:Researchers say light signal from space suggests merging black holes">Researchers say light signal from space suggests merging black holes</a></li>
+<li><a href="/wiki/December_8" title="December 8">December 8</a>: <a href="//en.wikinews.org/wiki/en:Orion_Spacecraft_accomplishes_first_spaceflight_test" class="extiw" title="wikinews:en:Orion Spacecraft accomplishes first spaceflight test">Orion Spacecraft accomplishes first spaceflight test</a></li>
+<li><a href="/wiki/November_20" title="November 20">November 20</a>: <a href="//en.wikinews.org/wiki/en:FAA:_Metroplex_NextGen_project_in_place_in_north_Texas" class="extiw" title="wikinews:en:FAA: Metroplex NextGen project in place in north Texas">FAA: Metroplex NextGen project in place in north Texas</a></li>
+<li><a href="/wiki/November_13" title="November 13">November 13</a>: <a href="//en.wikinews.org/wiki/en:Philae_space_probe_lands_on_comet" class="extiw" title="wikinews:en:Philae space probe lands on comet">Philae space probe lands on comet</a></li>
+</ul>
+<div style="margin:-.8em 0">
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div style="clear: both; border: solid #0088F9; border-width: 1px 1px 0; background: #79AAF7; color: #00008B; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #00008B"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Technology/Things_you_can_do&amp;action=edit"><span style="color: #00008B">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#00008B;"><span class="mw-headline" id="Things_you_can_do">Things you can do</span></h2>
+</div>
+<div style="border: 1px solid #0088F9; border-top-width: 1px; vertical-align: top;background: #F7FAFF;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div style="font-size:98%;">
+<table style="width:100%; background:none">
+<tr>
+<td style="width:50px"><a href="/wiki/File:Nuvola_apps_korganizer.svg" class="image" title="Things you can do"><img alt="Things you can do" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e6/Nuvola_apps_korganizer.svg/50px-Nuvola_apps_korganizer.svg.png" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e6/Nuvola_apps_korganizer.svg/75px-Nuvola_apps_korganizer.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e6/Nuvola_apps_korganizer.svg/100px-Nuvola_apps_korganizer.svg.png 2x" data-file-width="128" data-file-height="128" /></a></td>
+<td style="text-align:left; padding:.6em 0">
+<ul>
+<li>Check the <b><a href="/wiki/Special:RecentChangesLinked/Technology" title="Special:RecentChangesLinked/Technology">recent changes</a></b> page for improvements, other changes, and vandalism to these articles</li>
+<li><b><a href="/wiki/Wikipedia:Requested_articles" title="Wikipedia:Requested articles">Article requests</a>:</b> <a href="/wiki/Wikipedia:Requested_articles/Applied_arts_and_sciences/Computer_science,_computing,_and_Internet" title="Wikipedia:Requested articles/Applied arts and sciences/Computer science, computing, and Internet">Computer science, computing, and Internet topics</a> · <a href="/wiki/Wikipedia:Requested_articles/Applied_arts_and_sciences#Engineering" title="Wikipedia:Requested articles/Applied arts and sciences">Engineering topics</a> · <a href="/wiki/Wikipedia:Requested_articles/Applied_arts_and_sciences#Technology_and_tools" title="Wikipedia:Requested articles/Applied arts and sciences">Technology and tools topics</a></li>
+<li><b><a href="/wiki/Wikipedia:WikiProject_Deletion_sorting" title="Wikipedia:WikiProject Deletion sorting">Deletion discussions</a></b>: Listed at <a href="/wiki/Wikipedia:WikiProject_Deletion_sorting/Technology" title="Wikipedia:WikiProject Deletion sorting/Technology">Wikipedia:WikiProject Deletion sorting/Technology</a></li>
+<li><b><a href="/wiki/Wikipedia:Find_or_fix_a_stub" title="Wikipedia:Find or fix a stub" class="mw-redirect">Expand</a>:</b> check <a href="/wiki/Category:Electronics_stubs" title="Category:Electronics stubs">Electronics</a> · <a href="/wiki/Category:Engineer_stubs" title="Category:Engineer stubs">Engineer</a> · <a href="/wiki/Category:Optics_stubs" title="Category:Optics stubs">Optics</a> · <a href="/wiki/Category:Robotics_stubs" title="Category:Robotics stubs">Robotics</a> · <a href="/wiki/Category:Telecommunications_stubs" title="Category:Telecommunications stubs">Telecommunications</a> · <a href="/wiki/Category:Wireless_stubs" title="Category:Wireless stubs">Wireless</a></li>
+<li><b><a href="/wiki/Wikipedia:Notability" title="Wikipedia:Notability">Notability</a>:</b> Articles with notability concerns, listed at <a href="/wiki/Wikipedia:WikiProject_Notability" title="Wikipedia:WikiProject Notability">WikiProject Notability</a></li>
+<li><b><a href="/wiki/Wikipedia:Requested_pictures" title="Wikipedia:Requested pictures">Requested pictures</a>:</b> <a href="/wiki/Category:Wikipedia_requested_photographs_of_technology" title="Category:Wikipedia requested photographs of technology">Technology topics, requested pictures</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<div style="margin:-.8em 0">
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div style="clear: both; border: solid #0088F9; border-width: 1px 1px 0; background: #79AAF7; color: #00008B; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #00008B"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Technology/Related_portals&amp;action=edit"><span style="color: #00008B">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#00008B;"><span class="mw-headline" id="Related_portals">Related portals</span></h2>
+</div>
+<div style="border: 1px solid #0088F9; border-top-width: 1px; vertical-align: top;background: #F7FAFF;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div class="related-portals">
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Veranotrigo.jpg" class="image"><img alt="Veranotrigo.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Veranotrigo.jpg/53px-Veranotrigo.jpg" width="53" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Veranotrigo.jpg/80px-Veranotrigo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Veranotrigo.jpg/107px-Veranotrigo.jpg 2x" data-file-width="1600" data-file-height="1200" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Agriculture_and_Agronomy" title="Portal:Agriculture and Agronomy">Agriculture and Agronomy</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Crab_Nebula.jpg" class="image"><img alt="Crab Nebula.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/40px-Crab_Nebula.jpg" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/60px-Crab_Nebula.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/80px-Crab_Nebula.jpg 2x" data-file-width="3864" data-file-height="3864" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Astronomy" title="Portal:Astronomy">Astronomy</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Aviacionavion.png" class="image"><img alt="Aviacionavion.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aviacionavion.png/40px-Aviacionavion.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aviacionavion.png/60px-Aviacionavion.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Aviacionavion.png/80px-Aviacionavion.png 2x" data-file-width="1600" data-file-height="1600" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Aviation" title="Portal:Aviation">Aviation</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:3d_tRNA.png" class="image"><img alt="3d tRNA.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/3d_tRNA.png/40px-3d_tRNA.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/3d_tRNA.png/60px-3d_tRNA.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/3d_tRNA.png/80px-3d_tRNA.png 2x" data-file-width="1061" data-file-height="1056" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Biotechnology" title="Portal:Biotechnology">Biotechnology</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Pont-type-4-haubans.svg" class="image"><img alt="Pont-type-4-haubans.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pont-type-4-haubans.svg/65px-Pont-type-4-haubans.svg.png" width="65" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pont-type-4-haubans.svg/98px-Pont-type-4-haubans.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pont-type-4-haubans.svg/130px-Pont-type-4-haubans.svg.png 2x" data-file-width="847" data-file-height="345" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Bridges" title="Portal:Bridges">Bridges</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Internet_map_1024.jpg" class="image"><img alt="Internet map 1024.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/40px-Internet_map_1024.jpg" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/60px-Internet_map_1024.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/80px-Internet_map_1024.jpg 2x" data-file-width="1280" data-file-height="1280" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Computer_science" title="Portal:Computer science">Computer science</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Nuvola_apps_ksim.png" class="image"><img alt="Nuvola apps ksim.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/40px-Nuvola_apps_ksim.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/60px-Nuvola_apps_ksim.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuvola_apps_ksim.png/80px-Nuvola_apps_ksim.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Electronics" title="Portal:Electronics">Electronics</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="Crystal energy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/42px-Crystal_energy.svg.png" width="42" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/63px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/84px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Nuvola_apps_kcmsystem.svg" class="image"><img alt="Nuvola apps kcmsystem.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/40px-Nuvola_apps_kcmsystem.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/60px-Nuvola_apps_kcmsystem.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nuvola_apps_kcmsystem.svg/80px-Nuvola_apps_kcmsystem.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Engineering" title="Portal:Engineering">Engineering</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Video-x-generic.svg" class="image"><img alt="Video-x-generic.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/40px-Video-x-generic.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/60px-Video-x-generic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Video-x-generic.svg/80px-Video-x-generic.svg.png 2x" data-file-width="48" data-file-height="48" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Film" title="Portal:Film">Film</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Darwin_Airport_Water_Tower.jpg" class="image"><img alt="Darwin Airport Water Tower.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Darwin_Airport_Water_Tower.jpg/60px-Darwin_Airport_Water_Tower.jpg" width="60" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Darwin_Airport_Water_Tower.jpg/91px-Darwin_Airport_Water_Tower.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Darwin_Airport_Water_Tower.jpg/121px-Darwin_Airport_Water_Tower.jpg 2x" data-file-width="1500" data-file-height="997" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Infrastructure" title="Portal:Infrastructure">Infrastructure</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Desktop_computer_clipart_-_Yellow_theme.svg" class="image"><img alt="Desktop computer clipart - Yellow theme.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/40px-Desktop_computer_clipart_-_Yellow_theme.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/60px-Desktop_computer_clipart_-_Yellow_theme.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/80px-Desktop_computer_clipart_-_Yellow_theme.svg.png 2x" data-file-width="320" data-file-height="320" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Information_technology" title="Portal:Information technology">Information technology</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Nuvola_apps_edu_mathematics_blue-p.svg" class="image"><img alt="Nuvola apps edu mathematics blue-p.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/40px-Nuvola_apps_edu_mathematics_blue-p.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/60px-Nuvola_apps_edu_mathematics_blue-p.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/80px-Nuvola_apps_edu_mathematics_blue-p.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Mathematics" title="Portal:Mathematics">Mathematics</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Rod_of_Asclepius2.svg" class="image"><img alt="Rod of Asclepius2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rod_of_Asclepius2.svg/12px-Rod_of_Asclepius2.svg.png" width="12" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rod_of_Asclepius2.svg/18px-Rod_of_Asclepius2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rod_of_Asclepius2.svg/25px-Rod_of_Asclepius2.svg.png 2x" data-file-width="251" data-file-height="804" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Medicine" title="Portal:Medicine">Medicine</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Fullerene_Nanogears_-_GPN-2000-001535.jpg" class="image"><img alt="Fullerene Nanogears - GPN-2000-001535.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fullerene_Nanogears_-_GPN-2000-001535.jpg/51px-Fullerene_Nanogears_-_GPN-2000-001535.jpg" width="51" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fullerene_Nanogears_-_GPN-2000-001535.jpg/76px-Fullerene_Nanogears_-_GPN-2000-001535.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fullerene_Nanogears_-_GPN-2000-001535.jpg/101px-Fullerene_Nanogears_-_GPN-2000-001535.jpg 2x" data-file-width="3044" data-file-height="2404" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Nanotechnology" title="Portal:Nanotechnology">Nanotechnology</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Radioactive.svg" class="image"><img alt="Radioactive.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Radioactive.svg/46px-Radioactive.svg.png" width="46" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Radioactive.svg/69px-Radioactive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Radioactive.svg/91px-Radioactive.svg.png 2x" data-file-width="600" data-file-height="525" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Nuclear_technology" title="Portal:Nuclear technology">Nuclear technology</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:P_philosophy.png" class="image"><img alt="P philosophy.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/P_philosophy.png/45px-P_philosophy.png" width="45" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/P_philosophy.png/68px-P_philosophy.png 1.5x, //upload.wikimedia.org/wikipedia/commons/b/bb/P_philosophy.png 2x" data-file-width="77" data-file-height="68" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Philosophy_of_science" title="Portal:Philosophy of science">Philosophy of science</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Radio_icon.png" class="image"><img alt="Radio icon.png" src="//upload.wikimedia.org/wikipedia/commons/1/1d/Radio_icon.png" width="55" height="40" data-file-width="30" data-file-height="22" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Radio" title="Portal:Radio">Radio</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="Wind-turbine-icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/40px-Wind-turbine-icon.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/60px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/80px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Animation2.gif" class="image"><img alt="Animation2.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Animation2.gif/24px-Animation2.gif" width="24" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Animation2.gif/37px-Animation2.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/c/c0/Animation2.gif 2x" data-file-width="48" data-file-height="78" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Robotics" title="Portal:Robotics">Robotics</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Nuvola_apps_kalzium.svg" class="image"><img alt="Nuvola apps kalzium.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/40px-Nuvola_apps_kalzium.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/60px-Nuvola_apps_kalzium.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Nuvola_apps_kalzium.svg/80px-Nuvola_apps_kalzium.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Science" title="Portal:Science">Science</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Crystal_Clear_device_cdrom_unmount.png" class="image"><img alt="Crystal Clear device cdrom unmount.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Crystal_Clear_device_cdrom_unmount.png/40px-Crystal_Clear_device_cdrom_unmount.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Crystal_Clear_device_cdrom_unmount.png/60px-Crystal_Clear_device_cdrom_unmount.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Crystal_Clear_device_cdrom_unmount.png/80px-Crystal_Clear_device_cdrom_unmount.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Software" title="Portal:Software">Software</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:RocketSunIcon.svg" class="image"><img alt="RocketSunIcon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/40px-RocketSunIcon.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/60px-RocketSunIcon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/80px-RocketSunIcon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Spaceflight" title="Portal:Spaceflight">Spaceflight</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Sustainable_development.svg" class="image"><img alt="Sustainable development.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/63px-Sustainable_development.svg.png" width="63" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/94px-Sustainable_development.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sustainable_development.svg/126px-Sustainable_development.svg.png 2x" data-file-width="800" data-file-height="510" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Sustainable_development" title="Portal:Sustainable development">Sustainable development</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Telecom-icon.svg" class="image"><img alt="Telecom-icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/40px-Telecom-icon.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/60px-Telecom-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Telecom-icon.svg/80px-Telecom-icon.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Telecom" title="Portal:Telecom" class="mw-redirect">Telecom</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Blank_television_set.svg" class="image"><img alt="Blank television set.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Blank_television_set.svg/60px-Blank_television_set.svg.png" width="60" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Blank_television_set.svg/90px-Blank_television_set.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Blank_television_set.svg/120px-Blank_television_set.svg.png 2x" data-file-width="138" data-file-height="92" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Television" title="Portal:Television">Television</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:P_train.svg" class="image"><img alt="P train.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e3/P_train.svg/44px-P_train.svg.png" width="44" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e3/P_train.svg/67px-P_train.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e3/P_train.svg/89px-P_train.svg.png 2x" data-file-width="400" data-file-height="360" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Trains" title="Portal:Trains">Trains</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Nuvola_apps_ksysv.png" class="image"><img alt="Nuvola apps ksysv.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nuvola_apps_ksysv.png/40px-Nuvola_apps_ksysv.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nuvola_apps_ksysv.png/60px-Nuvola_apps_ksysv.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nuvola_apps_ksysv.png/80px-Nuvola_apps_ksysv.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:Transport" title="Portal:Transport">Transport</a></b></div>
+</div>
+<div style="text-align:center;width:100px;height:130px;float:left">
+<div style="height:40px;padding:8px 2px"><a href="/wiki/File:Bluetank.png" class="image"><img alt="Bluetank.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bluetank.png/65px-Bluetank.png" width="65" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bluetank.png/98px-Bluetank.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bluetank.png/130px-Bluetank.png 2x" data-file-width="400" data-file-height="237" /></a></div>
+<div style="height:90px;padding:8px"><b><a href="/wiki/Portal:War" title="Portal:War">War</a></b></div>
+</div>
+<div style="clear:both"></div>
+</div>
+<div style="margin:-.8em 0">
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<hr />
+<div style="float:right; width:100%">
+<div style="clear: both; border: solid #0088F9; border-width: 1px 1px 0; background: #79AAF7; color: #00008B; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #00008B"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Technology/Wikimedia&amp;action=edit"><span style="color: #00008B">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#00008B;"><span class="mw-headline" id="Associated_Wikimedia">Associated Wikimedia</span></h2>
+</div>
+<div style="border: 1px solid #0088F9; border-top-width: 1px; vertical-align: top;background: #F7FAFF;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<table class="noprint" align="center" style="clear:both; background: transparent; text-align:center; font-size:91%" cellspacing="3" cellpadding="3" rules="none" border="0">
+<tr>
+<td><b><a href="//en.wikibooks.org/wiki/Special:Search/Technology" class="extiw" title="wikibooks:Special:Search/Technology">Technology on&#160;Wikibooks</a></b>&#160;</td>
+<td><b><a href="//commons.wikimedia.org/wiki/Special:Search/Category:Technology" class="extiw" title="commons:Special:Search/Category:Technology">Technology on Wikimedia Commons</a></b></td>
+<td><b><a href="//en.wikinews.org/wiki/Special:Search/Technology" class="extiw" title="wikinews:Special:Search/Technology">Technology on&#160;Wikinews</a></b>&#160;</td>
+<td><b><a href="//en.wikiquote.org/wiki/Special:Search/Technology" class="extiw" title="wikiquote:Special:Search/Technology">Technology on&#160;Wikiquote</a></b>&#160;</td>
+<td><b><a href="//en.wikisource.org/wiki/Special:Search/Technology" class="extiw" title="wikisource:Special:Search/Technology">Technology on&#160;Wikisource</a></b>&#160;</td>
+<td><b><a href="//en.wikiversity.org/wiki/Special:Search/Technology" class="extiw" title="wikiversity:Special:Search/Technology">Technology on&#160;Wikiversity</a></b>&#160;</td>
+<td><b><a href="//en.wiktionary.org/wiki/Special:Search/Technology" class="extiw" title="wiktionary:Special:Search/Technology">Technology on&#160;Wiktionary</a></b>&#160;</td>
+</tr>
+<tr>
+<td>Manuals and books</td>
+<td>Images and media</td>
+<td>News</td>
+<td>Quotations</td>
+<td>Texts</td>
+<td>Learning resources</td>
+<td>Definitions</td>
+</tr>
+<tr>
+<td>
+<div class="center">
+<div class="floatnone"><a href="//en.wikibooks.org/wiki/Special:Search/Technology"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/30px-Wikibooks-logo.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/45px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/60px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></div>
+</div>
+</td>
+<td>
+<div class="center">
+<div class="floatnone"><a href="//commons.wikimedia.org/wiki/Special:Search/Category:Technology"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" width="20" height="27" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+</div>
+</td>
+<td>
+<div class="center">
+<div class="floatnone"><a href="//en.wikinews.org/wiki/Special:Search/Technology"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/45px-Wikinews-logo.svg.png" width="45" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/68px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/90px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></div>
+</div>
+</td>
+<td>
+<div class="center">
+<div class="floatnone"><a href="//en.wikiquote.org/wiki/Special:Search/Technology"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/29px-Wikiquote-logo.svg.png" width="29" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/45px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/59px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></div>
+</div>
+</td>
+<td>
+<div class="center">
+<div class="floatnone"><a href="//en.wikisource.org/wiki/Special:Search/Technology"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png" width="30" height="31" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/45px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/60px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></div>
+</div>
+</td>
+<td>
+<div class="center">
+<div class="floatnone"><a href="//en.wikiversity.org/wiki/Special:Search/Technology"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/30px-Wikiversity-logo.svg.png" width="30" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/45px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></div>
+</div>
+</td>
+<td>
+<div class="center">
+<div class="floatnone"><a href="//en.wiktionary.org/wiki/Special:Search/Technology"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/30px-Wiktionary-logo-en.svg.png" width="30" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/45px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/60px-Wiktionary-logo-en.svg.png 2x" data-file-width="1000" data-file-height="1089" /></a></div>
+</div>
+</td>
+</tr>
+</table>
+<div style="margin:-.8em 0">
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div style="clear: both; border: solid #0088F9; border-width: 1px 1px 0; background: #79AAF7; color: #00008B; padding: .1em;padding-top: .1em;padding-left: .1em;padding-right: .1em;padding-bottom: .1em;text-align: center;font-family: sans-serif;font-size:100%;margin-bottom: 0px;">
+<div class="plainlinks" style="float:right;margin-bottom:.1em;font-size:80%; color: #00008B"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Portal:Technology/Wikipedia%27s_portals&amp;action=edit"><span style="color: #00008B">edit</span></a>&#160;&#160;</div>
+<h2 style="font-family:sans-serif; font-size:100%; font-weight:bold; border: none; margin: 0; padding:0; padding-bottom:.1em; color:#00008B;"><span class="mw-headline" id="Wikipedia.27s_portals">Wikipedia's portals</span></h2>
+</div>
+<div style="border: 1px solid #0088F9; border-top-width: 1px; vertical-align: top;background: #F7FAFF;opacity: 1; color: black; text-align: left; margin: 0 0 10px; padding: 1em;padding-top: .3em;">
+<div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+<p><span class="plainlinks"><a href="/wiki/Portal:Contents/Portals" title="Portal:Contents/Portals"><span class="mw-ui-button"><span style="color:darkblue;"><b>All Portals</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Overviews" title="Portal:Contents/Overviews"><span class="mw-ui-button"><span style="color:darkblue;"><b>Overview</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Glossaries" title="Portal:Contents/Glossaries"><span class="mw-ui-button"><span style="color:darkblue;"><b>Glossaries</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Indexes" title="Portal:Contents/Indexes" class="mw-redirect"><span class="mw-ui-button"><span style="color:darkblue;"><b>Indices</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Lists" title="Portal:Contents/Lists"><span class="mw-ui-button"><span style="color:darkblue;"><b>Lists</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Outlines" title="Portal:Contents/Outlines"><span class="mw-ui-button"><span style="color:darkblue;"><b>Outlines</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Categories" title="Portal:Contents/Categories"><span class="mw-ui-button"><span style="color:darkblue;"><b>Categories</b></span></span></a></span></p>
+</div>
+<div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+<p><small style="font-size:85%;"><small style="font-size:85%;"><span class="plainlinks"><a href="/wiki/Portal:Contents/Reference" title="Portal:Contents/Reference"><span class="mw-ui-button"><span style="color:darkblue;"><b>Reference</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Culture_and_the_arts" title="Portal:Contents/Culture and the arts"><span class="mw-ui-button"><span style="color:darkblue;"><b>Culture</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Geography_and_places" title="Portal:Contents/Geography and places"><span class="mw-ui-button"><span style="color:darkblue;"><b>Geography</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Health_and_fitness" title="Portal:Contents/Health and fitness"><span class="mw-ui-button"><span style="color:darkblue;"><b>Health</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/History_and_events" title="Portal:Contents/History and events"><span class="mw-ui-button"><span style="color:darkblue;"><b>History</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Mathematics_and_logic" title="Portal:Contents/Mathematics and logic"><span class="mw-ui-button"><span style="color:darkblue;"><b>Mathematics</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Natural_and_physical_sciences" title="Portal:Contents/Natural and physical sciences"><span class="mw-ui-button"><span style="color:darkblue;"><b>Nature</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/People_and_self" title="Portal:Contents/People and self"><span class="mw-ui-button"><span style="color:darkblue;"><b>People</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Philosophy_and_thinking" title="Portal:Contents/Philosophy and thinking"><span class="mw-ui-button"><span style="color:darkblue;"><b>Philosophy</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Religion_and_belief_systems" title="Portal:Contents/Religion and belief systems"><span class="mw-ui-button"><span style="color:darkblue;"><b>Religion</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Society_and_social_sciences" title="Portal:Contents/Society and social sciences"><span class="mw-ui-button"><span style="color:darkblue;"><b>Society</b></span></span></a></span> <span class="plainlinks"><a href="/wiki/Portal:Contents/Technology_and_applied_sciences" title="Portal:Contents/Technology and applied sciences"><span class="mw-ui-button"><span style="color:darkblue;"><b>Technology</b></span></span></a></span></small></small></p>
+</div>
+<div align="center" class="hlist" style="clear:both;">
+<ul>
+<li><b><a href="/wiki/Portal:Featured_portals" title="Portal:Featured portals">Featured portals</a></b></li>
+<li><b><a href="/wiki/Wikipedia:Portal" title="Wikipedia:Portal">About portals</a></b></li>
+</ul>
+</div>
+<div style="margin:-.8em 0">
+<div class="noprint" style="margin:0.3em 0.2em 0.2em 0.3em; padding:0.3em 0.2em 0.2em 0.3em; text-align:right;"></div>
+<div style="clear:both;"></div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1251
+Cached time: 20151019113425
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.463 seconds
+Real time usage: 0.690 seconds
+Preprocessor visited node count: 3651/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 160256/2097152 bytes
+Template argument size: 28935/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 4/500
+Lua time usage: 0.150/10.000 seconds
+Lua memory usage: 4.06 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  463.329      1 - -total
+ 21.11%   97.829      1 - Portal:Technology/Related_portals
+ 20.62%   95.561      1 - Template:Related_portals2
+ 18.06%   83.684     29 - Template:Related_portal_item
+ 17.85%   82.701      5 - Template:Random_portal_component
+ 16.84%   78.029     29 - Template:Portal_image
+ 13.65%   63.237      1 - Portal:Technology/Wikipedia's_portals
+ 13.23%   61.307      1 - Template:Portal_navbar_no_header2
+ 11.47%   53.140      2 - Template:Center
+ 10.92%   50.574      1 - Template:Pp-semi-indef
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2072925-0!*!0!!*!4!* and timestamp 20151019113424 and revision id 677068871
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Portal:Technology&amp;oldid=677068871">https://en.wikipedia.org/w/index.php?title=Portal:Technology&amp;oldid=677068871</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Technology_portal" title="Category:Technology portal">Technology portal</a></li><li><a href="/wiki/Category:Technology_portals" title="Category:Technology portals">Technology portals</a></li><li><a href="/wiki/Category:Technology" title="Category:Technology">Technology</a></li><li><a href="/wiki/Category:Science_portals" title="Category:Science portals">Science portals</a></li><li><a href="/wiki/Category:WikiProject_Technology" title="Category:WikiProject Technology">WikiProject Technology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Semi-protected_portals" title="Category:Semi-protected portals">Semi-protected portals</a></li><li><a href="/wiki/Category:Featured_portals" title="Category:Featured portals">Featured portals</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Portal%3ATechnology&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Portal%3ATechnology" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-portal" class="selected"><span><a href="/wiki/Portal:Technology" >Portal</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Portal_talk:Technology"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Portal:Technology" >Read</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=Portal:Technology&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Portal:Technology&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Portal:Technology" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Portal:Technology" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Portal:Technology&amp;oldid=677068871" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Portal:Technology&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q4843868" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Portal%3ATechnology">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Portal%3ATechnology&amp;returnto=Portal%3ATechnology&amp;oldid=677068871&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Portal:Technology&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-am"><a href="//am.wikipedia.org/wiki/%E1%89%A0%E1%88%AD:%E1%8A%A2%E1%8A%95%E1%8C%82%E1%8A%94%E1%88%AA%E1%8A%95%E1%8C%8D" title="በር:ኢንጂኔሪንግ – Amharic" lang="am" hreflang="am">አማርኛ</a></li><li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%AA%D9%82%D9%86%D9%8A%D8%A9" title="بوابة:تقنية – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D1%8D%D1%85%D0%BD%D1%96%D0%BA%D0%B0" title="Партал:Тэхніка – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Портал:Техника – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/Portal:Tehnologija" title="Portal:Tehnologija – Bosnian" lang="bs" hreflang="bs">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Portal:Tecnologia" title="Portal:Tecnologia – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="//ceb.wikipedia.org/wiki/Ganghaan:Teknolohiya" title="Ganghaan:Teknolohiya – Cebuano" lang="ceb" hreflang="ceb">Cebuano</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Portal:Technik" title="Portal:Technik – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Portaal:Tehnika" title="Portaal:Tehnika – Estonian" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%A0%CF%8D%CE%BB%CE%B7:%CE%A4%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1" title="Πύλη:Τεχνολογία – Greek" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Portal:Tecnolog%C3%ADa" title="Portal:Tecnología – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Portalo:In%C4%9Denierarto" title="Portalo:Inĝenierarto – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-fa badge-Q17580674 badge-featuredportal" title="featured portal"><a href="//fa.wikipedia.org/wiki/%D8%AF%D8%B1%DA%AF%D8%A7%D9%87:%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C" title="درگاه:فناوری – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Portail:Technologies" title="Portail:Technologies – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="//fy.wikipedia.org/wiki/Tema:Wittenskip" title="Tema:Wittenskip – Western Frisian" lang="fy" hreflang="fy">Frysk</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%ED%8F%AC%ED%84%B8:%EA%B8%B0%EC%88%A0" title="포털:기술 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Portal:Teknologi" title="Portal:Teknologi – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Portale:Ingegneria" title="Portale:Ingegneria – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A4%D7%95%D7%A8%D7%98%D7%9C:%D7%98%D7%9B%D7%A0%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94" title="פורטל:טכנולוגיה – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%9E%E1%83%9D%E1%83%A0%E1%83%A2%E1%83%90%E1%83%9A%E1%83%98:%E1%83%A2%E1%83%94%E1%83%A5%E1%83%9C%E1%83%98%E1%83%99%E1%83%90" title="პორტალი:ტექნიკა – Georgian" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/Porta:Technologia" title="Porta:Technologia – Latin" lang="la" hreflang="la">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Vikisritis:Technika" title="Vikisritis:Technika – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Port%C3%A1l:Technika" title="Portál:Technika – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0" title="Портал:Технологија – Macedonian" lang="mk" hreflang="mk">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/Portal:Teknologi" title="Portal:Teknologi – Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA" title="Портал:Техник – Mongolian" lang="mn" hreflang="mn">Монгол</a></li><li class="interlanguage-link interwiki-my"><a href="//my.wikipedia.org/wiki/Portal:%E1%80%94%E1%80%8A%E1%80%BA%E1%80%B8%E1%80%95%E1%80%8A%E1%80%AC" title="Portal:နည်းပညာ – Burmese" lang="my" hreflang="my">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Portaal:Wetenschap_%26_Technologie" title="Portaal:Wetenschap &amp; Technologie – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="//ne.wikipedia.org/wiki/Portal:%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF" title="Portal:प्रविधि – Nepali" lang="ne" hreflang="ne">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/Portal:%E6%8A%80%E8%A1%93%E3%81%A8%E7%94%A3%E6%A5%AD" title="Portal:技術と産業 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-ce"><a href="//ce.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B2:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Ков:Техника – Chechen" lang="ce" hreflang="ce">Нохчийн</a></li><li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/Portal:Tecnologias" title="Portal:Tecnologias – Occitan" lang="oc" hreflang="oc">Occitan</a></li><li class="interlanguage-link interwiki-or"><a href="//or.wikipedia.org/wiki/%E0%AC%AA%E0%AD%8B%E0%AC%B0%E0%AD%8D%E0%AC%9F%E0%AC%BE%E0%AC%B2:%E0%AC%AC%E0%AD%88%E0%AC%B7%E0%AD%9F%E0%AC%BF%E0%AC%95_%E0%AC%AC%E0%AC%BF%E0%AC%9C%E0%AD%8D%E0%AC%9E%E0%AC%BE%E0%AC%A8" title="ପୋର୍ଟାଲ:ବୈଷୟିକ ବିଜ୍ଞାନ – Oriya" lang="or" hreflang="or">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-ps"><a href="//ps.wikipedia.org/wiki/%D8%AA%D8%A7%D9%86%D8%A8%D9%87:%D9%BC%DA%A9%D9%86%D8%A7%D9%84%D9%88%D8%AC%D9%8A" title="تانبه:ټکنالوجي – Pashto" lang="ps" hreflang="ps">پښتو</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Portal:Technika" title="Portal:Technika – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Portal:Tecnologia" title="Portal:Tecnologia – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Portal:Tehnologie" title="Portal:Tehnologie – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Портал:Техника – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-stq"><a href="//stq.wikipedia.org/wiki/Portoal:Wietenskup" title="Portoal:Wietenskup – Saterland Frisian" lang="stq" hreflang="stq">Seeltersk</a></li><li class="interlanguage-link interwiki-sq"><a href="//sq.wikipedia.org/wiki/Portal:Teknologji" title="Portal:Teknologji – Albanian" lang="sq" hreflang="sq">Shqip</a></li><li class="interlanguage-link interwiki-si"><a href="//si.wikipedia.org/wiki/%E0%B6%AF%E0%B7%8A%E0%B7%80%E0%B7%8F%E0%B6%BB%E0%B6%BA:%E0%B6%AD%E0%B7%8F%E0%B6%9A%E0%B7%8A%E0%B7%82%E0%B6%AB%E0%B6%BA" title="ද්වාරය:තාක්ෂණය – Sinhala" lang="si" hreflang="si">සිංහල</a></li><li class="interlanguage-link interwiki-ckb"><a href="//ckb.wikipedia.org/wiki/%D8%AF%DB%95%D8%B1%D9%88%D8%A7%D8%B2%DB%95:%D8%AA%DB%95%DA%A9%D9%86%DB%86%D9%84%DB%86%DA%98%DB%8C%D8%A7" title="دەروازە:تەکنۆلۆژیا – Central Kurdish" lang="ckb" hreflang="ckb">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Teemasivu:Tekniikka" title="Teemasivu:Tekniikka – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Portal:Teknik" title="Portal:Teknik – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%B2%E0%AF%88%E0%AE%B5%E0%AE%BE%E0%AE%9A%E0%AE%B2%E0%AF%8D:%E0%AE%A4%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%A9%E0%AF%81%E0%AE%9F%E0%AF%8D%E0%AE%AA%E0%AE%AE%E0%AF%8D" title="வலைவாசல்:தொழினுட்பம் – Tamil" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="//tt.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Портал:Технология – Tatar" lang="tt" hreflang="tt">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-bug"><a href="//bug.wikipedia.org/wiki/Portal:Teknologi" title="Portal:Teknologi – Buginese" lang="bug" hreflang="bug">ᨅᨔ ᨕᨘᨁᨗ</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D1%85%D0%BD%D1%96%D0%BA%D0%B0" title="Портал:Техніка – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="//ur.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8:%D8%B7%D8%B1%D8%B2%DB%8C%D8%A7%D8%AA" title="باب:طرزیات – Urdu" lang="ur" hreflang="ur">اردو</a></li><li class="interlanguage-link interwiki-wo"><a href="//wo.wikipedia.org/wiki/Bunt:_Xarala" title="Bunt: Xarala – Wolof" lang="wo" hreflang="wo">Wolof</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/Portal:%E6%8A%80%E8%A1%93" title="Portal:技術 – Cantonese" lang="zh-yue" hreflang="zh-yue">粵語</a></li><li class="interlanguage-link interwiki-diq"><a href="//diq.wikipedia.org/wiki/Portal:Teknolociye" title="Portal:Teknolociye – Zazaki" lang="diq" hreflang="diq">Zazaki</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/Portal:%E6%8A%80%E8%A1%93" title="Portal:技術 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q4843868#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 August 2015, at 22:53.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Portal:Technology&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1028"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

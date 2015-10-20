@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Mathieu Kérékou - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mathieu_Kérékou","wgTitle":"Mathieu Kérékou","wgCurRevisionId":686449755,"wgRevisionId":686449755,"wgArticleId":392304,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with French-language external links","Use dmy dates from October 2015","Articles which use infobox templates with no data rows","Presidents of Benin","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","1933 births","2015 deaths","People of French West Africa","Leaders who took power by coup","Cold War leaders","Communist rulers","Beninese evangelicals","Beninese military personnel","People's Revolutionary Party of Benin politicians","Beninese communists","Communism in Benin","Marxism","Library of Congress Africa Collection related","People from Atakora Department"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mathieu_Kérékou","wgRelevantArticleId":392304,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mathieu_Kerekou_FOCR_Cropped.png/93px-Mathieu_Kerekou_FOCR_Cropped.png","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q206719","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Mathieu_K%C3%A9r%C3%A9kou&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Mathieu_K%C3%A9r%C3%A9kou&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Mathieu_Kérékou skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Mathieu Kérékou</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 130%;"><span class="fn">Mathieu Kérékou</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Mathieu_Kerekou_FOCR_Cropped.png" class="image"><img alt="Mathieu Kerekou FOCR Cropped.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mathieu_Kerekou_FOCR_Cropped.png/220px-Mathieu_Kerekou_FOCR_Cropped.png" width="220" height="236" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mathieu_Kerekou_FOCR_Cropped.png/330px-Mathieu_Kerekou_FOCR_Cropped.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mathieu_Kerekou_FOCR_Cropped.png/440px-Mathieu_Kerekou_FOCR_Cropped.png 2x" data-file-width="654" data-file-height="703" /></a>
+<div>Kérékou in 1976</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lavender"><a href="/wiki/President_of_Benin" title="President of Benin" class="mw-redirect">President of Benin</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br />
+26 October 1972&#160;– 4 April 1991</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+<td><a href="/wiki/Justin_Ahomad%C3%A9gb%C3%A9-Tom%C3%AAtin" title="Justin Ahomadégbé-Tomêtin">Justin Ahomadégbé-Tomêtin</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+<td><a href="/wiki/Nic%C3%A9phore_Soglo" title="Nicéphore Soglo">Nicéphore Soglo</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br />
+4 April 1996&#160;– 6 April 2006</td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th>
+<td><a href="/wiki/Nic%C3%A9phore_Soglo" title="Nicéphore Soglo">Nicéphore Soglo</a></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th>
+<td><a href="/wiki/Yayi_Boni" title="Yayi Boni" class="mw-redirect">Yayi Boni</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:lavender">Personal details</th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td><span style="display:none">(<span class="bday">1933-09-02</span>)</span>2 September 1933<br />
+<a href="/wiki/Kouarfa" title="Kouarfa">Kouarfa</a>, <a href="/wiki/French_Dahomey" title="French Dahomey">French Dahomey</a><br />
+<small style="font-size:85%;">(now Benin)</small></td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>14 October 2015<span style="display:none">(<span class="dday deathdate">2015-10-14</span>)</span> (aged&#160;82)<br />
+<a href="/wiki/Cotonou" title="Cotonou">Cotonou</a>, <a href="/wiki/Littoral_Department" title="Littoral Department">Littoral Department</a>, Benin</td>
+</tr>
+<tr>
+<th scope="row">Political party</th>
+<td><a href="/wiki/People%27s_Revolutionary_Party_of_Benin" title="People's Revolutionary Party of Benin">People's Revolutionary Party of Benin</a> (1975–90)</td>
+</tr>
+<tr>
+<th scope="row">Religion</th>
+<td><a href="/wiki/Evangelicalism" title="Evangelicalism">Evangelical Christianity</a></td>
+</tr>
+<tr>
+<th scope="row">Ethnic group</th>
+<td><a href="/wiki/Somba_people" title="Somba people">Somba</a></td>
+</tr>
+</table>
+<p><b>Mathieu Kérékou</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_French" title="Help:IPA for French">[ma.tjø ke.ʁe.ku]</a></span> (2 September 1933 – 14 October 2015) was <a href="/wiki/President_of_Benin" title="President of Benin" class="mw-redirect">President of Benin</a> from 1972 to 1991 and again from 1996 to 2006. After seizing power in a military coup, he ruled the country for 17 years, for most of that time under an officially <a href="/wiki/Marxist%E2%80%93Leninist" title="Marxist–Leninist" class="mw-redirect">Marxist–Leninist</a> ideology, before he was stripped of his powers by the National Conference of 1990. He was defeated in the <a href="/wiki/Beninese_presidential_election,_1991" title="Beninese presidential election, 1991">1991 presidential election</a>, but was returned to the presidency in the <a href="/wiki/Beninese_presidential_election,_1996" title="Beninese presidential election, 1996">1996 election</a> and controversially <a href="/wiki/Beninese_presidential_election,_2001" title="Beninese presidential election, 2001">re-elected in 2001</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Military_background"><span class="tocnumber">1</span> <span class="toctext">Military background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#1972_coup_and_single-party_rule"><span class="tocnumber">2</span> <span class="toctext">1972 coup and single-party rule</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Transition_to_democracy"><span class="tocnumber">3</span> <span class="toctext">Transition to democracy</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Election_as_President.2C_1996"><span class="tocnumber">4</span> <span class="toctext">Election as President, 1996</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Disputed_re-election.2C_2001"><span class="tocnumber">5</span> <span class="toctext">Disputed re-election, 2001</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Religion_and_symbolism"><span class="tocnumber">6</span> <span class="toctext">Religion and symbolism</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Retirement_and_death"><span class="tocnumber">7</span> <span class="toctext">Retirement and death</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Military_background">Military background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathieu_K%C3%A9r%C3%A9kou&amp;action=edit&amp;section=1" title="Edit section: Military background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Kérékou was born in 1933 in <a href="/wiki/Kouarfa" title="Kouarfa">Kouarfa</a>,<sup id="cite_ref-Pouvoir_1-0" class="reference"><a href="#cite_note-Pouvoir-1"><span>[</span>1<span>]</span></a></sup> in north-west <a href="/wiki/French_Dahomey" title="French Dahomey">French Dahomey</a>. After having studied at military schools in modern-day Mali and Senegal,<sup id="cite_ref-Pouvoir_1-1" class="reference"><a href="#cite_note-Pouvoir-1"><span>[</span>1<span>]</span></a></sup> Kérékou served in the military. Following independence, from 1961 to 1963 he was an <i><a href="/wiki/Aide-de-camp" title="Aide-de-camp">aide-de-camp</a></i> to Dahomeyan President <a href="/wiki/Hubert_Maga" title="Hubert Maga">Hubert Maga</a>;<sup id="cite_ref-Profiles_2-0" class="reference"><a href="#cite_note-Profiles-2"><span>[</span>2<span>]</span></a></sup> following <a href="/wiki/Maurice_Kouand%C3%A9t%C3%A9" title="Maurice Kouandété">Maurice Kouandété</a>'s seizure of power in December 1967, Kérékou, who was his cousin,<sup id="cite_ref-Profiles_2-1" class="reference"><a href="#cite_note-Profiles-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Amuwo_3-0" class="reference"><a href="#cite_note-Amuwo-3"><span>[</span>3<span>]</span></a></sup> was made chairman of the Military Revolutionary Council.<sup id="cite_ref-Profiles_2-2" class="reference"><a href="#cite_note-Profiles-2"><span>[</span>2<span>]</span></a></sup> After Kérékou attended French military schools from 1968 to 1970,<sup id="cite_ref-Profiles_2-3" class="reference"><a href="#cite_note-Profiles-2"><span>[</span>2<span>]</span></a></sup> Maga made him a major, deputy chief of staff, and commander of the Ouidah paratroop unit.<sup id="cite_ref-Profiles_2-4" class="reference"><a href="#cite_note-Profiles-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Amuwo_3-1" class="reference"><a href="#cite_note-Amuwo-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="1972_coup_and_single-party_rule">1972 coup and single-party rule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathieu_K%C3%A9r%C3%A9kou&amp;action=edit&amp;section=2" title="Edit section: 1972 coup and single-party rule">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Kérékou seized power in <a href="/wiki/Republic_of_Dahomey" title="Republic of Dahomey">Dahomey</a> in a military coup on 26 October 1972,<sup id="cite_ref-Pouvoir_1-2" class="reference"><a href="#cite_note-Pouvoir-1"><span>[</span>1<span>]</span></a></sup> ending a system of government in which three members of a presidential council were to rotate power (earlier in the year Maga had handed over power to <a href="/wiki/Justin_Ahomadegb%C3%A9" title="Justin Ahomadegbé" class="mw-redirect">Justin Ahomadegbé</a>).<sup id="cite_ref-Decalo_4-0" class="reference"><a href="#cite_note-Decalo-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>During his first two years in power, Kérékou expressed only nationalism and said that the country's revolution would not "burden itself by copying foreign ideology ... We do not want communism or capitalism or socialism. We have our own Dahomean social and cultural system." On 30 November 1974, however, he announced the adoption of <a href="/wiki/Marxism-Leninism" title="Marxism-Leninism" class="mw-redirect">Marxism-Leninism</a> by the state.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> The country was renamed from the <a href="/wiki/Republic_of_Dahomey" title="Republic of Dahomey">Republic of Dahomey</a> to the <a href="/wiki/People%27s_Republic_of_Benin" title="People's Republic of Benin">People's Republic of Benin</a> a year later; the banks and <a href="/wiki/Petroleum_industry" title="Petroleum industry">petroleum industry</a> were nationalized. The <a href="/wiki/People%27s_Revolutionary_Party_of_Benin" title="People's Revolutionary Party of Benin">People's Revolutionary Party of Benin</a> (<i>Parti de la révolution populaire du Bénin</i>, PRPB) was established as the sole ruling party. In 1980, Kérékou was elected president by the Revolutionary National Assembly; he retired from the army in 1987.<sup id="cite_ref-Onadipe_6-0" class="reference"><a href="#cite_note-Onadipe-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>It has been suggested that Kérékou's move to Marxism-Leninism was motivated mainly by pragmatic considerations, and that Kérékou himself was not actually a leftist radical; the new ideology offered a means of legitimization, a way of distinguishing the new regime from those that had preceded it, and was based on broader unifying principles than the politics of ethnicity. Kérékou's regime initially included officers from both the north and south of the country, but as the years passed the northerners (like Kérékou himself) became clearly dominant, undermining the idea that the regime was not based in ethnicity.<sup id="cite_ref-Decalo_4-1" class="reference"><a href="#cite_note-Decalo-4"><span>[</span>4<span>]</span></a></sup> By officially adopting Marxism-Leninism, Kérékou may also have wanted to win the support of the country's leftists.<sup id="cite_ref-Allen_7-0" class="reference"><a href="#cite_note-Allen-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>Kérékou's regime was rigid and vigorous in pursuing its newly adopted ideological goals from the mid-1970s to the late 1970s. Beginning in the late 1970s, the regime jettisoned much of its radicalism and settled onto a more moderately socialist course as Kérékou consolidated his personal control.<sup id="cite_ref-Myth_8-0" class="reference"><a href="#cite_note-Myth-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>Kérékou survived numerous attempts to oust him, including an invasion of the port city of <a href="/wiki/Cotonou" title="Cotonou">Cotonou</a> by mercenaries contracted by a group of exiled Beninese political rivals in January 1977,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> as well as two coup attempts in 1988.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>It was hoped that the nationalizations of the 1970s would help develop the economy, but it remained in a very poor condition, with the state sector being plagued by inefficiency and corruption. Kérékou began reversing course in the early 1980s, closing down numerous state-run companies and attempting to attract foreign investment.<sup id="cite_ref-Decalo_4-2" class="reference"><a href="#cite_note-Decalo-4"><span>[</span>4<span>]</span></a></sup> He also accepted an <a href="/wiki/International_Monetary_Fund" title="International Monetary Fund">IMF</a> structural readjustment programme in 1989, agreeing to austerity measures that severely cut state expenditure.<sup id="cite_ref-Decalo_4-3" class="reference"><a href="#cite_note-Decalo-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-Allen_7-1" class="reference"><a href="#cite_note-Allen-7"><span>[</span>7<span>]</span></a></sup> The economic situation continued to worsen during the 1980s, provoking widespread unrest in 1989. A student strike began in January of that year; subsequently strikes among various elements of society increased in frequency and the nature of their demands grew broader: whereas initially they had focused on economic issues such as salary arrears, this progressed to include demands for political reform.<sup id="cite_ref-Allen_7-2" class="reference"><a href="#cite_note-Allen-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Transition_to_democracy">Transition to democracy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathieu_K%C3%A9r%C3%A9kou&amp;action=edit&amp;section=3" title="Edit section: Transition to democracy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the period of reforms towards multiparty democracy in Africa at the beginning of the 1990s, Benin moved onto this path early, with Kérékou being forced to make concessions to popular discontent. Benin's early and relatively smooth transition may be attributed to the particularly dismal economic situation in the country, which seemed to preclude any alternative.<sup id="cite_ref-Decalo_4-4" class="reference"><a href="#cite_note-Decalo-4"><span>[</span>4<span>]</span></a></sup> In the midst of increasing unrest, Kérékou was re-elected as president by the National Assembly in August 1989,<sup id="cite_ref-Onadipe_6-1" class="reference"><a href="#cite_note-Onadipe-6"><span>[</span>6<span>]</span></a></sup> but in December 1989 Marxism-Leninism was dropped as the state ideology,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> and a national conference was held in February 1990. The conference turned out to be hostile to Kérékou and declared its own sovereignty; despite the objections of some of his officers to this turn of events, Kérékou did not act against the conference,<sup id="cite_ref-Decalo_4-5" class="reference"><a href="#cite_note-Decalo-4"><span>[</span>4<span>]</span></a></sup> although he labelled the conference's declaration of sovereignty a "civilian coup". During the transition that followed, Kérékou remained president but lost most of his power.<sup id="cite_ref-Allen_7-3" class="reference"><a href="#cite_note-Allen-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>During the 1990 National Conference, which was nationally televised, Kérékou spoke to the <a href="/wiki/Archbishop_of_Cotonou" title="Archbishop of Cotonou" class="mw-redirect">Archbishop of Cotonou</a>, <a href="/w/index.php?title=Isidor_de_Souza&amp;action=edit&amp;redlink=1" class="new" title="Isidor de Souza (page does not exist)">Isidor de Souza</a>, confessing guilt and begging forgiveness for the flaws of his regime. An observer described it as a "remarkable piece of political theater", full of cultural symbolism and significance; in effect, Kérékou was seeking forgiveness from his people. Such a gesture, so unusual for the African autocrats of the time, could have fatally weakened Kérékou's political standing, but he performed the gesture in such a way that, far from ending his political career, it instead served to symbolically redeem him and facilitate his political rehabilitation, while also "securing him immunity from prosecution". Kérékou shrewdly utilized the timing and setting: "Culturally as well as theologically it was impossible to refuse forgiveness on these terms."<sup id="cite_ref-Myth_8-1" class="reference"><a href="#cite_note-Myth-8"><span>[</span>8<span>]</span></a></sup></p>
+<p><a href="/wiki/World_Bank" title="World Bank">World Bank</a> economist <a href="/wiki/Nic%C3%A9phore_Soglo" title="Nicéphore Soglo">Nicéphore Soglo</a>, chosen as prime minister by the conference, took office in March, and a new constitution was approved in a December 1990 referendum. Multi-party elections were held in March 1991, which Kérékou lost, obtaining only about 32% of the vote in the second round against Prime Minister Soglo;<sup id="cite_ref-Elections_13-0" class="reference"><a href="#cite_note-Elections-13"><span>[</span>13<span>]</span></a></sup> while he won very large vote percentages in the north, in the rest of the country he found little support.<sup id="cite_ref-Decalo_4-6" class="reference"><a href="#cite_note-Decalo-4"><span>[</span>4<span>]</span></a></sup> Kérékou was thus the first mainland African president to lose power through a popular election.<sup id="cite_ref-Decalo_4-7" class="reference"><a href="#cite_note-Decalo-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> He apologized for "deplorable and regrettable incidents" that occurred during his rule.<sup id="cite_ref-Onadipe_6-2" class="reference"><a href="#cite_note-Onadipe-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>After losing the election in March 1991, Kérékou left the political scene and "withdrew to total silence", another move that was interpreted as penitential.<sup id="cite_ref-Myth_8-2" class="reference"><a href="#cite_note-Myth-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Election_as_President.2C_1996">Election as President, 1996</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathieu_K%C3%A9r%C3%A9kou&amp;action=edit&amp;section=4" title="Edit section: Election as President, 1996">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Kérékou reclaimed the presidency in the March 1996 election. Soglo's economic reforms and his alleged dictatorial tendencies had caused his popularity to suffer.<sup id="cite_ref-Onadipe_6-3" class="reference"><a href="#cite_note-Onadipe-6"><span>[</span>6<span>]</span></a></sup> Although Kérékou received fewer votes than Soglo in the first round, he then defeated Soglo in the second round, taking 52.5% of the vote.<sup id="cite_ref-Amuwo_3-2" class="reference"><a href="#cite_note-Amuwo-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-Elections_13-1" class="reference"><a href="#cite_note-Elections-13"><span>[</span>13<span>]</span></a></sup> Kérékou was backed in the second round by third place candidate <a href="/wiki/Adrien_Houngb%C3%A9dji" title="Adrien Houngbédji">Adrien Houngbédji</a> and fourth place candidate <a href="/wiki/Bruno_Amoussou" title="Bruno Amoussou">Bruno Amoussou</a>;<sup id="cite_ref-Amuwo_3-3" class="reference"><a href="#cite_note-Amuwo-3"><span>[</span>3<span>]</span></a></sup> as in 1991, Kérékou received very strong support from northern voters,<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> but he also improved his performance in the south.<sup id="cite_ref-Amuwo_3-4" class="reference"><a href="#cite_note-Amuwo-3"><span>[</span>3<span>]</span></a></sup> Soglo alleged fraud, but this was rejected by the Constitutional Court, which confirmed Kérékou's victory.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> When taking the oath of office, Kérékou left out a portion that referred to the "spirits of the ancestors" because he had become a born-again Christian after his defeat by Soglo. He was subsequently forced to retake the oath including the reference to spirits.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Disputed_re-election.2C_2001">Disputed re-election, 2001</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathieu_K%C3%A9r%C3%A9kou&amp;action=edit&amp;section=5" title="Edit section: Disputed re-election, 2001">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Mathieu_K%C3%A9r%C3%A9kou_2006Feb10.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mathieu_K%C3%A9r%C3%A9kou_2006Feb10.JPG/220px-Mathieu_K%C3%A9r%C3%A9kou_2006Feb10.JPG" width="220" height="232" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mathieu_K%C3%A9r%C3%A9kou_2006Feb10.JPG/330px-Mathieu_K%C3%A9r%C3%A9kou_2006Feb10.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mathieu_K%C3%A9r%C3%A9kou_2006Feb10.JPG/440px-Mathieu_K%C3%A9r%C3%A9kou_2006Feb10.JPG 2x" data-file-width="924" data-file-height="974" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Mathieu_K%C3%A9r%C3%A9kou_2006Feb10.JPG" class="internal" title="Enlarge"></a></div>
+Mathieu Kérékou in 2006</div>
+</div>
+</div>
+<p>Kérékou was re-elected for a second five-year term in the <a href="/wiki/Benin_presidential_election,_2001" title="Benin presidential election, 2001" class="mw-redirect">March 2001 presidential election</a> under controversial circumstances. In the first round he took 45.4% of the vote; Soglo, who took second place, and parliament speaker Houngbédji, who took third, both refused to participate in the second round, alleging fraud and saying that they did not want to legitimize the vote by participating in it. This left the fourth place finisher, Amoussou, to face Kérékou in the run-off, and Kérékou easily won with 83.6% of the vote.<sup id="cite_ref-Elections_13-2" class="reference"><a href="#cite_note-Elections-13"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> It was subsequently discovered that the American corporation <a href="/wiki/Titan_Corporation" title="Titan Corporation">Titan</a> gave more than two million dollars to Kérékou's re-election campaign as a bribe.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<p>During Kérékou's second period in office his government followed a liberal economic path. The period also saw Benin take part in international peacekeeping missions in other African states.<sup id="cite_ref-irin_20-0" class="reference"><a href="#cite_note-irin-20"><span>[</span>20<span>]</span></a></sup></p>
+<p>Kérékou was barred from running again in 2006 on two counts. The constitution not only limited the president to two terms, but also required that presidential candidates be younger than 70 (he turned 70 in 2003, through his second term). Kérékou said in July 2005 that he would not attempt to amend the constitution to allow him to run for a third term. "If you don't leave power," he said, "power will leave you."<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup> There was, however, speculation that he had wanted it to be changed, but faced too much opposition.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p>
+<p>On 5 March 2006, <a href="/wiki/Benin_presidential_election,_2006" title="Benin presidential election, 2006" class="mw-redirect">voters went to the polls</a> to decide who would succeed Kérékou as President of Benin. <a href="/wiki/Yayi_Boni" title="Yayi Boni" class="mw-redirect">Yayi Boni</a> defeated Adrien Houngbédji in a run-off vote on 19 March,<sup id="cite_ref-Elections_13-3" class="reference"><a href="#cite_note-Elections-13"><span>[</span>13<span>]</span></a></sup> and Kérékou left office at the end of his term, at midnight on 6 April 2006.<sup id="cite_ref-irin_20-1" class="reference"><a href="#cite_note-irin-20"><span>[</span>20<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Religion_and_symbolism">Religion and symbolism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathieu_K%C3%A9r%C3%A9kou&amp;action=edit&amp;section=6" title="Edit section: Religion and symbolism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Kérékou allegedly converted to <a href="/wiki/Islam" title="Islam">Islam</a> in 1980 while on a visit to Libya, and changed his first name to Ahmed,<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup> but he later returned to the use of the name Mathieu. This alleged conversion may have been designed to please the Libyan leader <a href="/wiki/Muammar_Gaddafi" title="Muammar Gaddafi">Muammar Gaddafi</a> and obtain financial and military support.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup> Alternatively, the conversion story may have been a rumor planted by some of his opponents in order to destabilize his regime. He subsequently became a <a href="/wiki/Born-again_Christian" title="Born-again Christian" class="mw-redirect">born-again Christian</a>.<sup id="cite_ref-magical_26-0" class="reference"><a href="#cite_note-magical-26"><span>[</span>26<span>]</span></a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup> Some <a href="/wiki/West_African_Vodun" title="West African Vodun">Vodun</a> believers in Benin regarded him as having magical powers, explaining his ability to survive repeated coup attempts during his military rule.<sup id="cite_ref-magical_26-1" class="reference"><a href="#cite_note-magical-26"><span>[</span>26<span>]</span></a></sup></p>
+<p>Nicknamed "the chameleon" from an early point in his career,<sup id="cite_ref-Business_28-0" class="reference"><a href="#cite_note-Business-28"><span>[</span>28<span>]</span></a></sup> Kérékou's motto was "the branch will not break in the arms of the chameleon".<sup id="cite_ref-Pouvoir_1-3" class="reference"><a href="#cite_note-Pouvoir-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-Myth_8-3" class="reference"><a href="#cite_note-Myth-8"><span>[</span>8<span>]</span></a></sup> The nickname and motto he adopted were full of cultural symbolism, articulating and projecting his power and ability. Unlike some past rulers who had adopted animal symbolism intending to project a violent, warlike sense of power, Kérékou's symbolic animal suggested skill and cleverness; his motto suggested that he would keep the branch from breaking, but implicitly warned of what could happen to "the branch" if it was not "in the arms of the chameleon"—political chaos.<sup id="cite_ref-Myth_8-4" class="reference"><a href="#cite_note-Myth-8"><span>[</span>8<span>]</span></a></sup> To some, his nickname seemed particularly apt as he successfully adapted himself to a new political climate and neoliberal economic policies in the 1990s.<sup id="cite_ref-Business_28-1" class="reference"><a href="#cite_note-Business-28"><span>[</span>28<span>]</span></a></sup></p>
+<p>He used the campaign slogan, "Experience in the service of youth."<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Retirement_and_death">Retirement and death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathieu_K%C3%A9r%C3%A9kou&amp;action=edit&amp;section=7" title="Edit section: Retirement and death">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After leaving office in 2006, Kérékou stayed out of politics and spent time at his homes in Cotonou and <a href="/wiki/Natitingou" title="Natitingou">Natitingou</a> in northwestern Benin, his native region. He suffered a health crisis in 2014 and was taken to Paris for treatment. Although he recovered, he continued to suffer health problems, and he died in Benin on 14 October 2015 at the age of 82.<sup id="cite_ref-RFI_30-0" class="reference"><a href="#cite_note-RFI-30"><span>[</span>30<span>]</span></a></sup> His death was announced in a statement by President <a href="/wiki/Thomas_Boni_Yayi" title="Thomas Boni Yayi">Thomas Boni Yayi</a>. No cause of death was stated.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup> A week of national mourning was declared.<sup id="cite_ref-RFI_30-1" class="reference"><a href="#cite_note-RFI-30"><span>[</span>30<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mathieu_K%C3%A9r%C3%A9kou&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Pouvoir-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pouvoir_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pouvoir_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Pouvoir_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Pouvoir_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.irinnews.org/Report.aspx?ReportId=69248">"Après 29 ans de pouvoir, le Président Kérékou tire sa révérence"</a>, IRIN, 6 April 2006 <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(French)</span>.</span></li>
+<li id="cite_note-Profiles-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Profiles_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Profiles_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Profiles_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Profiles_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Profiles_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=Mz-fXRsedPMC&amp;q=mathieu+kerekou#v=snippet&amp;q=mathieu%20kerekou&amp;f=false">"Benin"</a>. <i>Profiles of People in Power: The World's Government Leaders</i>. Europa Publications. 2003. pp.&#160;55–56.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathieu+K%C3%A9r%C3%A9kou&amp;rft.atitle=Benin&amp;rft.btitle=Profiles+of+People+in+Power%3A+The+World%27s+Government+Leaders&amp;rft.date=2003&amp;rft.genre=bookitem&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DMz-fXRsedPMC%26q%3Dmathieu%2Bkerekou%23v%3Dsnippet%26q%3Dmathieu%2520kerekou%26f%3Dfalse&amp;rft.pages=55-56&amp;rft.pub=Europa+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Amuwo-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Amuwo_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Amuwo_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Amuwo_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Amuwo_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Amuwo_3-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">'Kunle Amuwo, "The State and the Politics of Democratic Consolidation in Benin, 1990–1999", in <i>Political Liberalization and Democratization in Africa</i> (2003), ed. Ihonvbere and Mbaku. <a href="/wiki/Special:BookSources/9780275975067" class="internal mw-magiclink-isbn">ISBN 978-0275975067</a>.</span></li>
+<li id="cite_note-Decalo-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Decalo_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Decalo_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Decalo_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Decalo_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Decalo_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Decalo_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Decalo_4-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Decalo_4-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text">Samuel Decalo, "Benin: First of the New Democracies", in <i>Political Reform in Francophone Africa</i> (1997), ed. Clark and Gardinier. <a href="/wiki/Special:BookSources/9780813327860" class="internal mw-magiclink-isbn">ISBN 978-0813327860</a>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Le Vine, Victor T. (2004). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ZVlzpwjhGqgC&amp;lpg=PA145&amp;vq=mathieu%20kerekou&amp;pg=PA145#v=snippet&amp;q=mathieu%20kerekou&amp;f=false"><i>Politics in Francophone Africa</i></a>. Boulder, Colorado: Lynne Rienner Publishers. p.&#160;145.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathieu+K%C3%A9r%C3%A9kou&amp;rft.aufirst=Victor+T.&amp;rft.aulast=Le+Vine&amp;rft.btitle=Politics+in+Francophone+Africa&amp;rft.date=2004&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DZVlzpwjhGqgC%26lpg%3DPA145%26vq%3Dmathieu%2520kerekou%26pg%3DPA145%23v%3Dsnippet%26q%3Dmathieu%2520kerekou%26f%3Dfalse&amp;rft.pages=145&amp;rft.place=Boulder%2C+Colorado&amp;rft.pub=Lynne+Rienner+Publishers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Onadipe-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Onadipe_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Onadipe_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Onadipe_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Onadipe_6-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Abiodun Onadipe, <a rel="nofollow" class="external text" href="http://www.findarticles.com/p/articles/mi_m2242/is_n1567_v269/ai_18801059">"The return of Africa's old guard – former African leaders, mostly dictators, bid for a return to power"</a>, <i>Contemporary Review</i>, August 1996.</span></li>
+<li id="cite_note-Allen-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Allen_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Allen_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Allen_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Allen_7-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Allen, Chris. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=yLIQC4jKOEEC&amp;q=goodbye+to+all+that#v=snippet&amp;q=goodbye%20to%20all%20that&amp;f=false">"<span style="padding-left:0.2em;">'</span>Goodbye to All That': The Short and Sad Story of Socialism in Benin"</a>. In Hughes, Arnold. <i>Marxism's Retreat from Africa</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathieu+K%C3%A9r%C3%A9kou&amp;rft.atitle=%27Goodbye+to+All+That%27%3A+The+Short+and+Sad+Story+of+Socialism+in+Benin&amp;rft.aufirst=Chris&amp;rft.aulast=Allen&amp;rft.btitle=Marxism%27s+Retreat+from+Africa&amp;rft.genre=bookitem&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DyLIQC4jKOEEC%26q%3Dgoodbye%2Bto%2Ball%2Bthat%23v%3Dsnippet%26q%3Dgoodbye%2520to%2520all%2520that%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Myth-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Myth_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Myth_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Myth_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Myth_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Myth_8-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Claffey, Patrick (2007). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=bFKNH-U06VQC&amp;lpg=PP1&amp;dq=Staging%20Politics%3A%20Power%20and%20Performance%20in%20Asia%20and%20Africa&amp;pg=PA98#v=onepage&amp;q=mathieu%20kerekou&amp;f=false">"Kérékou the Chameleon, Master of Myth"</a>. In Strauss, Julia C.; O'Brien, Donal Cruise. <i>Staging Politics: Power and Performance in Asia and Africa</i>. pp.&#160;98–101.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathieu+K%C3%A9r%C3%A9kou&amp;rft.atitle=K%C3%A9r%C3%A9kou+the+Chameleon%2C+Master+of+Myth&amp;rft.aufirst=Patrick&amp;rft.aulast=Claffey&amp;rft.btitle=Staging+Politics%3A+Power+and+Performance+in+Asia+and+Africa&amp;rft.date=2007&amp;rft.genre=bookitem&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DbFKNH-U06VQC%26lpg%3DPP1%26dq%3DStaging%2520Politics%253A%2520Power%2520and%2520Performance%2520in%2520Asia%2520and%2520Africa%26pg%3DPA98%23v%3Donepage%26q%3Dmathieu%2520kerekou%26f%3Dfalse&amp;rft.pages=98-101&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Adesina, Olutayo (2005). "Benin, Republic of (Dahomey) Kérékou, Mathieu (1935–)". In <a href="/wiki/Kevin_Shillington" title="Kevin Shillington">Shillington, Kevin</a>. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Ftz_gtO-pngC&amp;q=mathieu#v=snippet&amp;q=mathieu&amp;f=false"><i>Encyclopedia of African History</i></a>. pp.&#160;242+.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathieu+K%C3%A9r%C3%A9kou&amp;rft.atitle=Benin%2C+Republic+of+%28Dahomey%29+K%C3%A9r%C3%A9kou%2C+Mathieu+%281935%E2%80%93%29&amp;rft.aufirst=Olutayo&amp;rft.aulast=Adesina&amp;rft.btitle=Encyclopedia+of+African+History&amp;rft.date=2005&amp;rft.genre=bookitem&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DFtz_gtO-pngC%26q%3Dmathieu%23v%3Dsnippet%26q%3Dmathieu%26f%3Dfalse&amp;rft.pages=242%2B&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.bbc.com/news/world-africa-13040372">"Benin profile – Timeline"</a>. BBC News. 4 June 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathieu+K%C3%A9r%C3%A9kou&amp;rft.atitle=Benin+profile+%E2%80%93+Timeline&amp;rft.date=4+June+2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-africa-13040372&amp;rft.pub=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=950DE7DC163DF93AA35751C1A96F948260&amp;n=Top%2fNews%2fWorld%2fCountries%20and%20Territories%2fBenin">"Upheaval in the east; Benin, too, gives up Marxism for reforms"</a>, Reuters, 9 December 1989.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Lisa Beyer, <a rel="nofollow" class="external text" href="http://www.time.com/time/magazine/article/0,9171,970130,00.html">"Africa Continental Shift"</a>, <i>Time</i>, 21 May 1990.</span></li>
+<li id="cite_note-Elections-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Elections_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Elections_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Elections_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Elections_13-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://africanelections.tripod.com/bj.html">Elections in Benin</a>, African Elections Database.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9D0CEED7173EF935A15750C0A967958260&amp;n=Top%2fNews%2fWorld%2fCountries%20and%20Territories%2fBenin">"Official result in Benin vote shows big loss for Kerekou"</a>, Associated Press, 26 March 1991.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9C01EEDD1F39F935A35750C0A960958260">"World News Briefs; Benin Presidential Vote Heads for a Runoff"</a>, <i>The New York Times</i>, 6 March 1996.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.britannica.com/eb/article-9113740">Benin, Year in Review: 1996</a>, <i>Encyclopædia Britannica</i>.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation book">Richmond, Yale; Gestrin, Phyllis (1998). <a rel="nofollow" class="external text" href="http://www.amazon.com/Into-Africa-Intercultural-Insights-Interact/dp/1877864579/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1444880751&amp;sr=1-1&amp;keywords=9781877864575#reader_1877864579"><i>Into Africa: Intercultural Insights</i></a>. p.&#160;36.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathieu+K%C3%A9r%C3%A9kou&amp;rft.aufirst=Yale&amp;rft.au=Gestrin%2C+Phyllis&amp;rft.aulast=Richmond&amp;rft.btitle=Into+Africa%3A+Intercultural+Insights&amp;rft.date=1998&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.com%2FInto-Africa-Intercultural-Insights-Interact%2Fdp%2F1877864579%2Fref%3Dsr_1_1%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1444880751%26sr%3D1-1%26keywords%3D9781877864575%23reader_1877864579&amp;rft.pages=36&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/africa/1263931.stm">"Benin 'day of mourning'"</a>, BBC News, 6 April 2001.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/business/4310331.stm">"US company admits Benin bribery"</a>, BBC News, 2 March 2005.</span></li>
+<li id="cite_note-irin-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-irin_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-irin_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.irinnews.org/report/58686/benin-president-mathieu-kerekou-leaves-after-29-years">"BENIN: President Mathieu Kerekou leaves after 29 years"</a>. IRIN. 7 April 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathieu+K%C3%A9r%C3%A9kou&amp;rft.atitle=BENIN%3A+President+Mathieu+Kerekou+leaves+after+29+years&amp;rft.date=7+April+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.irinnews.org%2Freport%2F58686%2Fbenin-president-mathieu-kerekou-leaves-after-29-years&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.irinnews.org/Report.aspx?ReportId=55408">"Kerekou says will retire next year, will not change constitution to stay in power"</a>, IRIN, 12 July 2005.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Ali Idrissou-Toure, <a rel="nofollow" class="external text" href="http://www.speroforum.com/site/article.asp?id=1723">"Africa's big men cling to power"</a>, Spero News, 18 July 2005.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rulers.org/indexk2.html#kerek">Rulers.org biographical entry for Kérékou</a>.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation book">Cyr, Ruth Nora (2001). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=YlhwTte8pbkC&amp;lpg=PP1&amp;dq=Twentieth%20Century%20Africa%202001&amp;pg=PA35#v=onepage&amp;q=mathieu&amp;f=false"><i>Twentieth Century Africa</i></a>. San Jose, California: Writers Club Press. p.&#160;35.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathieu+K%C3%A9r%C3%A9kou&amp;rft.aufirst=Ruth+Nora&amp;rft.aulast=Cyr&amp;rft.btitle=Twentieth+Century+Africa&amp;rft.date=2001&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DYlhwTte8pbkC%26lpg%3DPP1%26dq%3DTwentieth%2520Century%2520Africa%25202001%26pg%3DPA35%23v%3Donepage%26q%3Dmathieu%26f%3Dfalse&amp;rft.pages=35&amp;rft.place=San+Jose%2C+California&amp;rft.pub=Writers+Club+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><i>Africa's First Peacekeeping Operation: The OAU in Chad, 1981–1982</i> (2002) by Terry M. Mays, p. 61. <a href="/wiki/Special:BookSources/9780275976064" class="internal mw-magiclink-isbn">ISBN 978-0275976064</a>.</span></li>
+<li id="cite_note-magical-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-magical_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-magical_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Okanla, Karim (20 August 2003). <a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/world/africa/3166593.stm">"Benin's 'magical' leader"</a>. <a href="/wiki/BBC_News" title="BBC News">BBC News</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathieu+K%C3%A9r%C3%A9kou&amp;rft.atitle=Benin%27s+%27magical%27+leader&amp;rft.aufirst=Karim&amp;rft.aulast=Okanla&amp;rft.date=20+August+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fworld%2Fafrica%2F3166593.stm&amp;rft.pub=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation journal">Decalo, Samuel (June 1985). "African Personal Dictatorships". <i>The Journal of Modern African Studies</i> <b>23</b> (2): 209–237. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1017%2FS0022278X0000015X">10.1017/S0022278X0000015X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathieu+K%C3%A9r%C3%A9kou&amp;rft.atitle=African+Personal+Dictatorships&amp;rft.aufirst=Samuel&amp;rft.aulast=Decalo&amp;rft.date=June+1985&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1017%2FS0022278X0000015X&amp;rft.issue=2&amp;rft.jtitle=The+Journal+of+Modern+African+Studies&amp;rft.pages=209-237&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=23" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Business-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-Business_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Business_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120119092111/http://goliath.ecnext.com/coms2/gi_0199-1721005/The-Chameleon-s-triumphal-return.html">"The 'Chameleon's triumphal return"</a>. African Business. 1 April 2002. Archived from <a rel="nofollow" class="external text" href="http://goliath.ecnext.com/coms2/gi_0199-1721005/The-Chameleon-s-triumphal-return.html">the original</a> on 19 January 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">15 October</span> 2015</span> – via Internet Archive Wayback Machine.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathieu+K%C3%A9r%C3%A9kou&amp;rft.atitle=The+%27Chameleon%27s+triumphal+return&amp;rft.date=1+April+2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fgoliath.ecnext.com%2Fcoms2%2Fgi_0199-1721005%2FThe-Chameleon-s-triumphal-return.html&amp;rft.pub=African+Business&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://secure.flickr.com/photos/pohick2/13976174519/in/set-72157644200924229">"Kerekou – L'experience au service de la jeunesse"</a>. <i>Library of Congress Africa Pamphlet Collection – Flickr</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMathieu+K%C3%A9r%C3%A9kou&amp;rft.btitle=Kerekou+%E2%80%93+L%27experience+au+service+de+la+jeunesse&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fsecure.flickr.com%2Fphotos%2Fpohick2%2F13976174519%2Fin%2Fset-72157644200924229&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-RFI-30"><span class="mw-cite-backlink">^ <a href="#cite_ref-RFI_30-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RFI_30-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Tirthankar Chanda, <a rel="nofollow" class="external text" href="http://www.rfi.fr/afrique/20151014-cameleons-necrologie-mathieu-kerekou-benin-president-dictateur-constitution-democra">"Les «Caméléons» meurent aussi: Mathieu Kérékou s’en est allé"</a>, Radio France Internationale, 14 October 2015 <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(French)</span>.</span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.yahoo.com/benins-former-president-mathieu-kerekou-dies-82-government-184310500.html">"Benin's former president Mathieu Kerekou dies at 82"</a>, Agence France-Presse, 14 October 2015.</span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:BeninPresidents" title="Template:BeninPresidents"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:BeninPresidents" title="Template talk:BeninPresidents"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:BeninPresidents&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/List_of_heads_of_state_of_Benin" title="List of heads of state of Benin">Heads of state of Benin</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hubert_Maga" title="Hubert Maga">Hubert Maga</a></li>
+<li><a href="/wiki/Christophe_Soglo" title="Christophe Soglo">Christophe Soglo</a>†</li>
+<li><a href="/wiki/Sourou-Migan_Apithy" title="Sourou-Migan Apithy">Sourou-Migan Apithy</a></li>
+<li><a href="/wiki/Justin_Ahomad%C3%A9gb%C3%A9-Tom%C3%AAtin" title="Justin Ahomadégbé-Tomêtin">Justin Ahomadégbé-Tomêtin</a>*</li>
+<li><a href="/wiki/Tahirou_Congacou" title="Tahirou Congacou">Tahirou Congacou</a>*</li>
+<li><a href="/wiki/Christophe_Soglo" title="Christophe Soglo">Christophe Soglo</a>†</li>
+<li><a href="/wiki/Jean-Baptiste_Hach%C3%A8me" title="Jean-Baptiste Hachème">Jean-Baptiste Hachème</a>†</li>
+<li><a href="/wiki/Maurice_Kouand%C3%A9t%C3%A9" title="Maurice Kouandété">Maurice Kouandété</a>†</li>
+<li><a href="/wiki/Alphonse_Alley" title="Alphonse Alley">Alphonse Alley</a>†</li>
+<li><a href="/wiki/%C3%89mile_Derlin_Zinsou" title="Émile Derlin Zinsou">Émile Derlin Zinsou</a></li>
+<li><a href="/wiki/Maurice_Kouand%C3%A9t%C3%A9" title="Maurice Kouandété">Maurice Kouandété</a>†</li>
+<li><a href="/wiki/Paul-%C3%89mile_de_Souza" title="Paul-Émile de Souza">Paul-Émile de Souza</a>†</li>
+<li><a href="/wiki/Hubert_Maga" title="Hubert Maga">Hubert Maga</a></li>
+<li><a href="/wiki/Justin_Ahomad%C3%A9gb%C3%A9-Tom%C3%AAtin" title="Justin Ahomadégbé-Tomêtin">Justin Ahomadégbé-Tomêtin</a></li>
+<li><strong class="selflink">Mathieu Kérékou</strong></li>
+<li><a href="/wiki/Nic%C3%A9phore_Soglo" title="Nicéphore Soglo">Nicéphore Soglo</a></li>
+<li><strong class="selflink">Mathieu Kérékou</strong></li>
+<li><a href="/wiki/Thomas_Boni_Yayi" title="Thomas Boni Yayi">Thomas Boni Yayi</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Flag_of_Benin.svg" class="image" title="Flag of Benin"><img alt="Flag of Benin" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/50px-Flag_of_Benin.svg.png" width="50" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/75px-Flag_of_Benin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/100px-Flag_of_Benin.svg.png 2x" data-file-width="450" data-file-height="300" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>†military *interim</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Fall_of_Communism" title="Template:Fall of Communism"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Fall_of_Communism" title="Template talk:Fall of Communism"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Fall_of_Communism&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Revolutions_of_1989" title="Revolutions of 1989">Revolutions of 1989</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Internal background</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Era_of_Stagnation" title="Era of Stagnation">Era of Stagnation</a></li>
+<li><a href="/wiki/Communism" title="Communism">Communism</a></li>
+<li><a href="/wiki/Anti-communism" title="Anti-communism">Anti-communism</a></li>
+<li><a href="/wiki/Criticism_of_communism" title="Criticism of communism">Criticism of communism</a></li>
+<li><a href="/wiki/Eastern_Bloc" title="Eastern Bloc">Eastern Bloc</a></li>
+<li><a href="/wiki/Eastern_Bloc_economies" title="Eastern Bloc economies" class="mw-redirect">Eastern Bloc economies</a></li>
+<li><a href="/wiki/Eastern_Bloc_politics" title="Eastern Bloc politics">Eastern Bloc politics</a></li>
+<li><a href="/wiki/Eastern_Bloc_information_dissemination" title="Eastern Bloc information dissemination" class="mw-redirect">Eastern Bloc information dissemination</a></li>
+<li><a href="/wiki/Eastern_Bloc_emigration_and_defection" title="Eastern Bloc emigration and defection">Eastern Bloc emigration and defection</a></li>
+<li><a href="/wiki/KGB" title="KGB">KGB</a></li>
+<li><a href="/wiki/Nomenklatura" title="Nomenklatura">Nomenklatura</a></li>
+<li><a href="/wiki/Shortage_economy" title="Shortage economy">Shortage economy</a></li>
+<li><a href="/wiki/Totalitarianism" title="Totalitarianism">Totalitarianism</a></li>
+<li><a href="/wiki/Eastern_European_Anti-Communist_Insurgencies" title="Eastern European Anti-Communist Insurgencies" class="mw-redirect">Eastern European Anti-Communist Insurgencies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">International background</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Active_measures" title="Active measures">Active measures</a></li>
+<li><a href="/wiki/Cold_War" title="Cold War">Cold War</a></li>
+<li><a href="/wiki/List_of_socialist_states" title="List of socialist states">List of socialist states</a></li>
+<li><a href="/wiki/Predictions_of_Soviet_collapse" title="Predictions of Soviet collapse" class="mw-redirect">Predictions of Soviet collapse</a></li>
+<li><a href="/wiki/Reagan_Doctrine" title="Reagan Doctrine">Reagan Doctrine</a></li>
+<li><a href="/wiki/Soviet_imperialism" title="Soviet imperialism" class="mw-redirect">Soviet imperialism</a></li>
+<li><a href="/wiki/Terrorism_and_the_Soviet_Union" title="Terrorism and the Soviet Union">Terrorism and the Soviet Union</a></li>
+<li><a href="/wiki/Holy_See%E2%80%93Soviet_Union_relations" title="Holy See–Soviet Union relations">Vatican Opposition</a></li>
+<li><a href="/wiki/Warsaw_Pact_invasion_of_Czechoslovakia" title="Warsaw Pact invasion of Czechoslovakia">Warsaw Pact invasion of Czechoslovakia</a></li>
+<li><a href="/wiki/People_Power_Revolution" title="People Power Revolution">People Power Revolution</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Reforms</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Socialism_with_Chinese_characteristics" title="Socialism with Chinese characteristics">Socialism with Chinese characteristics</a></li>
+<li><a href="/wiki/Perestroika" title="Perestroika">Perestroika</a></li>
+<li><a href="/wiki/Glasnost" title="Glasnost">Glasnost</a></li>
+<li><a href="/wiki/Democratisation_in_the_Soviet_Union" title="Democratisation in the Soviet Union" class="mw-redirect">Democratisation in the Soviet Union</a></li>
+<li><a href="/wiki/Sinatra_Doctrine" title="Sinatra Doctrine">Sinatra Doctrine</a></li>
+<li><a href="/wiki/Doi_Moi" title="Doi Moi">Doi Moi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Government leaders</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ramiz_Alia" title="Ramiz Alia">Ramiz Alia</a></li>
+<li><a href="/wiki/Nicolae_Ceau%C5%9Fescu" title="Nicolae Ceauşescu" class="mw-redirect">Nicolae Ceauşescu</a></li>
+<li><a href="/wiki/Mikhail_Gorbachev" title="Mikhail Gorbachev">Mikhail Gorbachev</a></li>
+<li><a href="/wiki/K%C3%A1roly_Gr%C3%B3sz" title="Károly Grósz">Károly Grósz</a></li>
+<li><a href="/wiki/Erich_Honecker" title="Erich Honecker">Erich Honecker</a></li>
+<li><a href="/wiki/J%C3%A1nos_K%C3%A1d%C3%A1r" title="János Kádár">János Kádár</a></li>
+<li><a href="/wiki/Milo%C5%A1_Jake%C5%A1" title="Miloš Jakeš">Miloš Jakeš</a></li>
+<li><a href="/wiki/Egon_Krenz" title="Egon Krenz">Egon Krenz</a></li>
+<li><a href="/wiki/Wojciech_Jaruzelski" title="Wojciech Jaruzelski">Wojciech Jaruzelski</a></li>
+<li><a href="/wiki/Slobodan_Milo%C5%A1evi%C4%87" title="Slobodan Milošević">Slobodan Milošević</a></li>
+<li><strong class="selflink">Mathieu Kérékou</strong></li>
+<li><a href="/wiki/Mengistu_Haile_Mariam" title="Mengistu Haile Mariam">Mengistu Haile Mariam</a></li>
+<li><a href="/wiki/Ne_Win" title="Ne Win">Ne Win</a></li>
+<li><a href="/wiki/Denis_Sassou_Nguesso" title="Denis Sassou Nguesso">Denis Sassou Nguesso</a></li>
+<li><a href="/wiki/Heng_Samrin" title="Heng Samrin">Heng Samrin</a></li>
+<li><a href="/wiki/Deng_Xiaoping" title="Deng Xiaoping">Deng Xiaoping</a></li>
+<li><a href="/wiki/Todor_Zhivkov" title="Todor Zhivkov">Todor Zhivkov</a></li>
+<li><a href="/wiki/Siad_Barre" title="Siad Barre">Siad Barre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Opposition methods</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Civil_resistance" title="Civil resistance">Civil resistance</a></li>
+<li><a href="/wiki/Demonstration_(people)" title="Demonstration (people)" class="mw-redirect">Demonstrations</a></li>
+<li><a href="/wiki/Human_chain" title="Human chain">Human chains</a></li>
+<li><a href="/wiki/Magnitizdat" title="Magnitizdat">Magnitizdat</a></li>
+<li><a href="/wiki/Polish_underground_press" title="Polish underground press">Polish underground press</a></li>
+<li><a href="/wiki/Protests" title="Protests" class="mw-redirect">Protests</a></li>
+<li><a href="/wiki/Samizdat" title="Samizdat">Samizdat</a></li>
+<li><a href="/wiki/Strike_action" title="Strike action">Strike action</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Opposition leaders</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lech_Wa%C5%82%C4%99sa" title="Lech Wałęsa">Lech Wałęsa</a></li>
+<li><a href="/wiki/V%C3%A1clav_Havel" title="Václav Havel">Václav Havel</a></li>
+<li><a href="/wiki/Alexander_Dub%C4%8Dek" title="Alexander Dubček">Alexander Dubček</a></li>
+<li><a href="/wiki/Ion_Iliescu" title="Ion Iliescu">Ion Iliescu</a></li>
+<li><a href="/wiki/Liu_Gang" title="Liu Gang">Liu Gang</a></li>
+<li><a href="/wiki/Wu%27erkaixi" title="Wu'erkaixi">Wu'erkaixi</a></li>
+<li><a href="/wiki/Chai_Ling" title="Chai Ling">Chai Ling</a></li>
+<li><a href="/wiki/Wang_Dan" title="Wang Dan">Wang Dan</a></li>
+<li><a href="/wiki/Feng_Congde" title="Feng Congde">Feng Congde</a></li>
+<li><a href="/wiki/Tank_Man" title="Tank Man">Tank Man</a></li>
+<li><a href="/wiki/Joachim_Gauck" title="Joachim Gauck">Joachim Gauck</a></li>
+<li><a href="/wiki/Sali_Berisha" title="Sali Berisha">Sali Berisha</a></li>
+<li><a href="/wiki/Sanjaas%C3%BCrengiin_Zorig" title="Sanjaasürengiin Zorig">Sanjaasürengiin Zorig</a></li>
+<li><a href="/wiki/Vladimir_Bukovsky" title="Vladimir Bukovsky">Vladimir Bukovsky</a></li>
+<li><a href="/wiki/Boris_Yeltsin" title="Boris Yeltsin">Boris Yeltsin</a></li>
+<li><a href="/wiki/Viacheslav_Chornovil" title="Viacheslav Chornovil">Viacheslav Chornovil</a></li>
+<li><a href="/wiki/Vytautas_Landsbergis" title="Vytautas Landsbergis">Vytautas Landsbergis</a></li>
+<li><a href="/wiki/Zianon_Pazniak" title="Zianon Pazniak">Zianon Pazniak</a></li>
+<li><a href="/wiki/Zhelyu_Zhelev" title="Zhelyu Zhelev">Zhelyu Zhelev</a></li>
+<li><a href="/wiki/Aung_San_Suu_Kyi" title="Aung San Suu Kyi">Aung San Suu Kyi</a></li>
+<li><a href="/wiki/Meles_Zenawi" title="Meles Zenawi">Meles Zenawi</a></li>
+<li><a href="/wiki/Isaias_Afewerki" title="Isaias Afewerki" class="mw-redirect">Isaias Afewerki</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Opposition movements</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beijing_Students%27_Autonomous_Federation" title="Beijing Students' Autonomous Federation">Beijing Students' Autonomous Federation</a></li>
+<li><a href="/wiki/Charter_77" title="Charter 77">Charter 77</a></li>
+<li><a href="/wiki/New_Forum" title="New Forum">New Forum</a></li>
+<li><a href="/wiki/Civic_Forum" title="Civic Forum">Civic Forum</a></li>
+<li><a href="/wiki/Democratic_Party_of_Albania" title="Democratic Party of Albania">Democratic Party of Albania</a></li>
+<li><a href="/wiki/Democratic_Russia" title="Democratic Russia">Democratic Russia</a></li>
+<li><a href="/wiki/Initiative_for_Peace_and_Human_Rights" title="Initiative for Peace and Human Rights">Initiative for Peace and Human Rights</a></li>
+<li><a href="/wiki/S%C4%85j%C5%ABdis" title="Sąjūdis">Sąjūdis</a></li>
+<li><a href="/wiki/Peaceful_Revolution" title="Peaceful Revolution">Peaceful Revolution</a></li>
+<li><a href="/wiki/People%27s_Movement_of_Ukraine" title="People's Movement of Ukraine">People's Movement of Ukraine</a></li>
+<li><a href="/wiki/Solidarity_(Polish_trade_union)" title="Solidarity (Polish trade union)">Solidarity</a></li>
+<li><a href="/wiki/Popular_Front_of_Latvia" title="Popular Front of Latvia">Popular Front of Latvia</a></li>
+<li><a href="/wiki/Popular_Front_of_Estonia" title="Popular Front of Estonia">Popular Front of Estonia</a></li>
+<li><a href="/wiki/Public_Against_Violence" title="Public Against Violence">Public Against Violence</a></li>
+<li><a href="/wiki/BPF_Party" title="BPF Party">Belarusian Popular Front</a></li>
+<li><a href="/wiki/National_League_for_Democracy" title="National League for Democracy">National League for Democracy</a></li>
+<li><a href="/wiki/National_Salvation_Front_(Romania)" title="National Salvation Front (Romania)">National Salvation Front</a></li>
+<li><a href="/wiki/Unification_Church_political_activities" title="Unification Church political activities">Unification Church political activities</a></li>
+<li><a href="/wiki/Union_of_Democratic_Forces_(Bulgaria)" title="Union of Democratic Forces (Bulgaria)">Union of Democratic Forces</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Events by location</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Central and Eastern Europe</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fall_of_communism_in_Albania" title="Fall of communism in Albania">Albania</a></li>
+<li><a href="/wiki/End_of_Communism_in_Bulgaria_(1989)" title="End of Communism in Bulgaria (1989)" class="mw-redirect">Bulgaria</a></li>
+<li><a href="/wiki/Velvet_Revolution" title="Velvet Revolution">Czechoslovakia</a></li>
+<li><a href="/wiki/Die_Wende" title="Die Wende">East Germany</a></li>
+<li><a href="/wiki/End_of_Communism_in_Hungary_(1989)" title="End of Communism in Hungary (1989)" class="mw-redirect">Hungary</a></li>
+<li><a href="/wiki/End_of_Communism_in_Poland_(1989)" title="End of Communism in Poland (1989)" class="mw-redirect">Poland</a></li>
+<li><a href="/wiki/Romanian_Revolution" title="Romanian Revolution">Romania</a></li>
+<li><a href="/wiki/Dissolution_of_the_Soviet_Union" title="Dissolution of the Soviet Union">Soviet Union</a></li>
+<li><a href="/wiki/Breakup_of_Yugoslavia" title="Breakup of Yugoslavia">Yugoslavia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Soviet Union</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Armenian_independence_referendum,_1991" title="Armenian independence referendum, 1991">Armenia</a></li>
+<li><a href="/wiki/Azerbaijani_independence_referendum,_1991" title="Azerbaijani independence referendum, 1991">Azerbaijan</a></li>
+<li><a href="/wiki/History_of_Belarus" title="History of Belarus">Belarus</a></li>
+<li><a href="/wiki/History_of_Chechnya" title="History of Chechnya">Chechnya</a></li>
+<li><a href="/wiki/Singing_Revolution" title="Singing Revolution">Estonia</a></li>
+<li><a href="/wiki/Georgian_independence_referendum,_1991" title="Georgian independence referendum, 1991">Georgia</a></li>
+<li><a href="/wiki/Singing_Revolution" title="Singing Revolution">Latvia</a></li>
+<li><a href="/wiki/Singing_Revolution" title="Singing Revolution">Lithuania</a></li>
+<li><a href="/wiki/History_of_Kazakhstan" title="History of Kazakhstan">Kazakhstan</a></li>
+<li><a href="/wiki/History_of_Kyrgyzstan" title="History of Kyrgyzstan">Kyrgyzstan</a></li>
+<li><a href="/wiki/Independence_of_Moldova" title="Independence of Moldova">Moldova</a></li>
+<li><a href="/wiki/History_of_Russia_(1992%E2%80%93present)" title="History of Russia (1992–present)">Russia</a></li>
+<li><a href="/wiki/History_of_Tajikistan" title="History of Tajikistan">Tajikstan</a></li>
+<li><a href="/wiki/Turkmenistani_independence_referendum,_1991" title="Turkmenistani independence referendum, 1991">Turkmenistan</a></li>
+<li><a href="/wiki/Ukrainian_independence_referendum,_1991" title="Ukrainian independence referendum, 1991">Ukraine</a></li>
+<li><a href="/wiki/Uzbekistani_independence_election,_1991" title="Uzbekistani independence election, 1991">Uzbekistan</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Elsewhere</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Civil_war_in_Afghanistan_(1989%E2%80%931992)" title="Civil war in Afghanistan (1989–1992)" class="mw-redirect">Afghanistan</a></li>
+<li><a href="/wiki/People%27s_Republic_of_Angola" title="People's Republic of Angola">Angola</a></li>
+<li><a href="/wiki/People%27s_Republic_of_Benin" title="People's Republic of Benin">Benin</a></li>
+<li><a href="/wiki/8888_Uprising" title="8888 Uprising">Burma</a></li>
+<li><a href="/wiki/United_Nations_Transitional_Authority_in_Cambodia" title="United Nations Transitional Authority in Cambodia">Cambodia</a></li>
+<li><a href="/wiki/Tiananmen_Square_protests_of_1989" title="Tiananmen Square protests of 1989">China</a></li>
+<li><a href="/wiki/People%27s_Republic_of_the_Congo" title="People's Republic of the Congo">Congo-Brazzaville</a></li>
+<li><a href="/wiki/Ethiopian_Civil_War" title="Ethiopian Civil War">Ethiopia</a></li>
+<li><a href="/wiki/1990_Democratic_Revolution_in_Mongolia" title="1990 Democratic Revolution in Mongolia" class="mw-redirect">Mongolia</a></li>
+<li><a href="/wiki/People%27s_Republic_of_Mozambique" title="People's Republic of Mozambique">Mozambique</a></li>
+<li><a href="/wiki/Somali_Revolution" title="Somali Revolution" class="mw-redirect">Somalia</a></li>
+<li><a href="/wiki/Yemeni_unification" title="Yemeni unification">South Yemen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Individual events</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1988_Polish_strikes" title="1988 Polish strikes">1988 Polish strikes</a></li>
+<li><a href="/wiki/April_9_tragedy" title="April 9 tragedy">April 9 tragedy</a></li>
+<li><a href="/wiki/Black_January" title="Black January">Black January</a></li>
+<li><a href="/wiki/Baltic_Way" title="Baltic Way">Baltic Way</a></li>
+<li><a href="/wiki/1987%E2%80%9389_Tibetan_unrest" title="1987–89 Tibetan unrest">1987–89 Tibetan unrest</a></li>
+<li><a href="/wiki/Tiananmen_Square_protests_of_1989" title="Tiananmen Square protests of 1989">Tiananmen Square protests of 1989</a></li>
+<li><a href="/wiki/Removal_of_Hungary%27s_border_fence" title="Removal of Hungary's border fence" class="mw-redirect">Removal of Hungary's border fence</a></li>
+<li><a href="/wiki/Polish_Round_Table_Agreement" title="Polish Round Table Agreement">Polish Round Table Agreement</a></li>
+<li><a href="/wiki/Hungarian_Round_Table_Talks" title="Hungarian Round Table Talks">Hungarian Round Table Talks</a></li>
+<li><a href="/wiki/Pan-European_Picnic" title="Pan-European Picnic">Pan-European Picnic</a></li>
+<li><a href="/wiki/Monday_demonstrations_in_East_Germany" title="Monday demonstrations in East Germany">Monday Demonstrations</a></li>
+<li><a href="/wiki/Alexanderplatz_demonstration" title="Alexanderplatz demonstration">Alexanderplatz demonstration</a></li>
+<li><a href="/wiki/Malta_Summit" title="Malta Summit">Malta Summit</a></li>
+<li><a href="/wiki/German_reunification" title="German reunification">German reunification</a></li>
+<li><a href="/wiki/January_Events_(Lithuania)" title="January Events (Lithuania)">January Events in Lithuania</a></li>
+<li><a href="/wiki/The_Barricades" title="The Barricades">January Events in Latvia</a></li>
+<li><a href="/wiki/March_1991_protests_in_Belgrade" title="March 1991 protests in Belgrade" class="mw-redirect">March 1991 protests in Belgrade</a></li>
+<li><a href="/wiki/1991_Soviet_coup_d%27%C3%A9tat_attempt" title="1991 Soviet coup d'état attempt">August Coup</a></li>
+<li><a href="/wiki/Dissolution_of_the_Soviet_Union" title="Dissolution of the Soviet Union">Dissolution of the Soviet Union</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Later events</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Colour_revolution" title="Colour revolution">Colour revolution</a></li>
+<li><a href="/wiki/Decommunization" title="Decommunization">Decommunization</a></li>
+<li><a href="/wiki/Lustration" title="Lustration">Lustration</a></li>
+<li><a href="/wiki/Democratization" title="Democratization">Democratization</a></li>
+<li><a href="/wiki/Economic_liberalization" title="Economic liberalization">Economic liberalization</a></li>
+<li><a href="/wiki/Post-Soviet_conflicts" title="Post-Soviet conflicts">Post-Soviet conflicts</a></li>
+<li><a href="/wiki/Neo-Sovietism" title="Neo-Sovietism">Neo-Sovietism</a></li>
+<li><a href="/wiki/Neo-Stalinism" title="Neo-Stalinism">Neo-Stalinism</a></li>
+<li><a href="/wiki/Post-communism" title="Post-communism">Post-communism</a></li>
+<li><a href="/wiki/Yugoslav_Wars" title="Yugoslav Wars">Yugoslav Wars</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n80-067933">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/39397049">39397049</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n80067933">n80067933</a></span></li>
+<li><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni-url.oclc.nl/isni/0000000078301779">0000 0000 7830 1779</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/120860783">120860783</a></span></li>
+<li><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.idref.fr/035199326">035199326</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb120551526">cb120551526</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb120551526">(data)</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1144
+Cached time: 20151019045857
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 1.163 seconds
+Real time usage: 1.272 seconds
+Preprocessor visited node count: 9120/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 85530/2097152 bytes
+Template argument size: 4213/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 2/500
+Lua time usage: 0.338/10.000 seconds
+Lua memory usage: 3.72 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1123.744      1 - -total
+ 52.88%  594.291      1 - Template:Infobox_President
+ 50.85%  571.465      6 - Template:Infobox
+ 23.05%  259.018     17 - Template:Infobox_officeholder/office
+ 21.28%  239.104      1 - Template:Reflist
+  5.82%   65.420      6 - Template:Cite_book
+  5.34%   60.036      3 - Template:Navbox
+  5.08%   57.141      1 - Template:Use_dmy_dates
+  4.70%   52.779      1 - Template:Authority_control
+  3.77%   42.332      2 - Template:Fr_icon
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:392304-0!*!0!!en!4!* and timestamp 20151019045907 and revision id 686449755
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mathieu_Kérékou&amp;oldid=686449755">https://en.wikipedia.org/w/index.php?title=Mathieu_Kérékou&amp;oldid=686449755</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Presidents_of_Benin" title="Category:Presidents of Benin">Presidents of Benin</a></li><li><a href="/wiki/Category:1933_births" title="Category:1933 births">1933 births</a></li><li><a href="/wiki/Category:2015_deaths" title="Category:2015 deaths">2015 deaths</a></li><li><a href="/wiki/Category:People_of_French_West_Africa" title="Category:People of French West Africa">People of French West Africa</a></li><li><a href="/wiki/Category:Leaders_who_took_power_by_coup" title="Category:Leaders who took power by coup">Leaders who took power by coup</a></li><li><a href="/wiki/Category:Cold_War_leaders" title="Category:Cold War leaders">Cold War leaders</a></li><li><a href="/wiki/Category:Communist_rulers" title="Category:Communist rulers">Communist rulers</a></li><li><a href="/wiki/Category:Beninese_evangelicals" title="Category:Beninese evangelicals">Beninese evangelicals</a></li><li><a href="/wiki/Category:Beninese_military_personnel" title="Category:Beninese military personnel">Beninese military personnel</a></li><li><a href="/wiki/Category:People%27s_Revolutionary_Party_of_Benin_politicians" title="Category:People's Revolutionary Party of Benin politicians">People's Revolutionary Party of Benin politicians</a></li><li><a href="/wiki/Category:Beninese_communists" title="Category:Beninese communists">Beninese communists</a></li><li><a href="/wiki/Category:Communism_in_Benin" title="Category:Communism in Benin">Communism in Benin</a></li><li><a href="/wiki/Category:Marxism" title="Category:Marxism">Marxism</a></li><li><a href="/wiki/Category:People_from_Atakora_Department" title="Category:People from Atakora Department">People from Atakora Department</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_French-language_external_links" title="Category:Articles with French-language external links">Articles with French-language external links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_October_2015" title="Category:Use dmy dates from October 2015">Use dmy dates from October 2015</a></li><li><a href="/wiki/Category:Articles_which_use_infobox_templates_with_no_data_rows" title="Category:Articles which use infobox templates with no data rows">Articles which use infobox templates with no data rows</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Library_of_Congress_Africa_Collection_related" title="Category:Library of Congress Africa Collection related">Library of Congress Africa Collection related</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mathieu+K%C3%A9r%C3%A9kou&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mathieu+K%C3%A9r%C3%A9kou" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Mathieu_K%C3%A9r%C3%A9kou"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Mathieu_K%C3%A9r%C3%A9kou"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Mathieu_K%C3%A9r%C3%A9kou" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Mathieu_K%C3%A9r%C3%A9kou&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Mathieu_K%C3%A9r%C3%A9kou&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mathieu_K%C3%A9r%C3%A9kou" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mathieu_K%C3%A9r%C3%A9kou" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Mathieu_K%C3%A9r%C3%A9kou&amp;oldid=686449755" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mathieu_K%C3%A9r%C3%A9kou&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q206719" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mathieu_K%C3%A9r%C3%A9kou&amp;id=686449755" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mathieu+K%C3%A9r%C3%A9kou">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Mathieu+K%C3%A9r%C3%A9kou&amp;returnto=Mathieu+K%C3%A9r%C3%A9kou&amp;oldid=686449755&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Mathieu_K%C3%A9r%C3%A9kou&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="//af.wikipedia.org/wiki/Ahmed_K%C3%A9r%C3%A9kou" title="Ahmed Kérékou – Afrikaans" lang="af" hreflang="af">Afrikaans</a></li><li class="interlanguage-link interwiki-br"><a href="//br.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Breton" lang="br" hreflang="br">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Estonian" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%9C%CE%B1%CF%84%CE%B9%CE%AD_%CE%9A%CE%B5%CF%81%CE%B5%CE%BA%CE%BF%CF%8D" title="Ματιέ Κερεκού – Greek" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Basque" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Galician" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%A7%88%ED%8B%B0%EC%99%B8_%EC%BC%80%EB%A0%88%EC%BF%A0" title="마티외 케레쿠 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="//io.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Ido" lang="io" hreflang="io">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-jv"><a href="//jv.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Javanese" lang="jv" hreflang="jv">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%9B%E1%83%90%E1%83%A2%E1%83%98%E1%83%94_%E1%83%99%E1%83%94%E1%83%A0%E1%83%94%E1%83%99%E1%83%A3" title="მატიე კერეკუ – Georgian" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/Matthaeus_K%C3%A9r%C3%A9kou" title="Matthaeus Kérékou – Latin" lang="la" hreflang="la">Latina</a></li><li class="interlanguage-link interwiki-mr"><a href="//mr.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%A5%E0%A4%BF%E0%A4%AF%E0%A5%82_%E0%A4%95%E0%A5%87%E0%A4%B0%E0%A5%87%E0%A4%95%E0%A5%82" title="माथियू केरेकू – Marathi" lang="mr" hreflang="mr">मराठी</a></li><li class="interlanguage-link interwiki-mn"><a href="//mn.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D1%8C%D1%8E_%D0%9A%D0%B5%D1%80%D0%B5%D0%BA%D1%83" title="Матью Кереку – Mongolian" lang="mn" hreflang="mn">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9E%E3%83%81%E3%83%A5%E3%83%BC%E3%83%BB%E3%82%B1%E3%83%AC%E3%82%AF" title="マチュー・ケレク – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Norwegian Nynorsk" lang="nn" hreflang="nn">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Occitan" lang="oc" hreflang="oc">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D0%B5%D0%BA%D1%83,_%D0%9C%D0%B0%D1%82%D1%8C%D1%91" title="Кереку, Матьё – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="//sco.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Scots" lang="sco" hreflang="sco">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D1%98%D0%B5_%D0%9A%D0%B5%D1%80%D0%B5%D0%BA%D1%83" title="Матје Кереку – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D1%8C%D1%94_%D0%9A%D0%B5%D1%80%D0%B5%D0%BA%D1%83" title="Матьє Кереку – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-yo"><a href="//yo.wikipedia.org/wiki/Mathieu_K%C3%A9r%C3%A9kou" title="Mathieu Kérékou – Yoruba" lang="yo" hreflang="yo">Yorùbá</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%A9%AC%E8%92%82%E5%8E%84%C2%B7%E5%85%8B%E9%9B%B7%E5%BA%93" title="马蒂厄·克雷库 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q206719#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 October 2015, at 04:59.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Mathieu_K%C3%A9r%C3%A9kou&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1188"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

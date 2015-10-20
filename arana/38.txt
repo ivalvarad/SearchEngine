@@ -1,0 +1,1267 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Wikipedia:Help desk - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Help_desk","wgTitle":"Help desk","wgCurRevisionId":686589736,"wgRevisionId":686589736,"wgArticleId":564696,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia help forums","Non-talk pages that are automatically signed","Pages automatically checked for accidental language links"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wikipedia:Help_desk","wgRelevantArticleId":564696,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4026300","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.inputBox.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%2Ccheckbox%2Cinput%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wikipedia:Help_desk" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-4 ns-subject page-Wikipedia_Help_desk skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Wikipedia:Help desk</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div style="position: absolute; top: 1.0em; right: 1.0em; border: 1px solid #a9a9a9; background: #fff; font-size:85%; padding:1px 4px 0 4px; margin-right: 8em;" class="hlist boilerplate metadata plainlinks">
+<ul>
+<li><a href="#footer">Skip to bottom</a></li>
+</ul>
+</div>
+<div class="hlist" style="font-weight:bold; text-align:center;">
+<ul>
+<li><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a>&#160;(<a href="/wiki/Wikipedia:Welcoming_committee/Welcome_to_Wikipedia" title="Wikipedia:Welcoming committee/Welcome to Wikipedia">Welcome</a>)</li>
+<li><a href="/wiki/Wikipedia:Contributing_to_Wikipedia" title="Wikipedia:Contributing to Wikipedia">Contributing</a>&#160;(<a href="/wiki/Wikipedia:Tutorial" title="Wikipedia:Tutorial">Tutorial</a>)</li>
+<li><a href="/wiki/Wikipedia:FAQ" title="Wikipedia:FAQ">FAQ</a></li>
+<li><a href="/wiki/Help:Menu" title="Help:Menu">Help&#160;menu</a>&#160;(<a href="/wiki/Help:Directory" title="Help:Directory">Directory</a>)</li>
+</ul>
+<ul>
+<li><a href="/wiki/Wikipedia:Questions" title="Wikipedia:Questions">Asking&#160;questions</a>&#160;(<strong class="selflink">Help&#160;desk</strong></li>
+<li><a href="/wiki/Wikipedia:Reference_desk" title="Wikipedia:Reference desk">Reference&#160;desk</a>)</li>
+<li><a href="/wiki/Wikipedia:Glossary" title="Wikipedia:Glossary">Glossary</a>&#160;(<a href="/wiki/Wikipedia:Wikipedia_abbreviations" title="Wikipedia:Wikipedia abbreviations">Abbreviations</a>)</li>
+<li><a href="/wiki/Help:Cheatsheet" title="Help:Cheatsheet">Wikicode&#160;help</a>&#160;(<a href="/wiki/Wikipedia:Tools" title="Wikipedia:Tools">Tools</a>)</li>
+</ul>
+</div>
+<table style="border: 1px solid #003EBA; width:100% padding:8; border-collapse: collapse;">
+<tr>
+<th style="background:#5D7CBA; text-align:center; color: #FFFFFF; font-size:130%; padding:5px;" colspan="3"><b>Wikipedia Help Desk</b></th>
+</tr>
+<tr>
+<td style="font-size:105%;background: #EAF4FF;">
+<ul>
+<li><b>This page is <u>only</u> for questions about <span style="color:red;"><i>how to use or edit</i></span> Wikipedia.</b> For other types of questions, use the <a href="/wiki/Special:Search" title="Special:Search">search box</a> or the <a href="/wiki/Wikipedia:Reference_desk" title="Wikipedia:Reference desk">Reference desk</a>.</li>
+<li><b>Do <span style="color:red;">not</span> provide your email address</b> or any other contact information. Answers will be provided <b>on this page only</b>.</li>
+<li>We are all volunteers, so sometimes replies can take some time. Please be patient. Check back on this page to see if your question has been answered.</li>
+</ul>
+<hr />
+<ul>
+<li><b>New users:</b> While this is a good place to ask questions, new users may prefer to ask for help at <b><a href="/wiki/Wikipedia:Teahouse" title="Wikipedia:Teahouse">the Teahouse</a></b>, an area specifically for new users to get help with editing, article creation, and general Wikipedia use, in a friendly environment.</li>
+</ul>
+</td>
+<td style="background: #EAF4FF; text-align:center; width:25%;">
+<table>
+<tr>
+<td><span style="white-space:nowrap; width:70%; border:lightblue 1px solid; padding:15px; background: #EAF4FF; font-size:110%;"><i><b><a href="/wiki/Wikipedia:Help_desk/Are_you_in_the_right_place" title="Wikipedia:Help desk/Are you in the right place">Are you in the right place?</a></b></i></span></td>
+<td>
+<div style="position:relative;top:-3em"><span id="WP:HELPDESK"></span><span id="WP:HD"></span></div>
+<table class="shortcutbox noprint" style="float:right;border:1px solid #aaa;background:#fff;margin:.3em .3em .3em 1em;padding:3px;text-align:center">
+<tr>
+<th class="plainlist" style="border:none;background:transparent"><small><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcuts</a>:</small>
+<ul>
+<li><small><a href="/wiki/Wikipedia:HELPDESK" title="Wikipedia:HELPDESK" class="mw-redirect">WP:HELPDESK</a></small></li>
+<li><small><a href="/wiki/Wikipedia:HD" title="Wikipedia:HD" class="mw-redirect">WP:HD</a></small></li>
+</ul>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="boilerplate metadata" title="Do you need real-time chat help with your issue?" style="border: 1px solid #cd853f; margin: 0.5em; padding: 0.5em; background-color:#fff8dc; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px;; padding: 1em;">
+<div class="center" style="width:auto; margin-left:auto; margin-right:auto;"><b>Do you need real-time chat help with your issue?</b></div>
+Join our IRC channel at<br />
+<a href="/wiki/Wikipedia:Help_desk/chat" title="Wikipedia:Help desk/chat">#wikipedia-en-help</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #003EBA; background: #EAF4FF;" colspan="2" class="plainlinks">
+<div style="font-size:135%;text-align:center;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=new"><span style="display:block;"><br />
+<b>Click here to ask a new question about how to use or edit Wikipedia <span style="font-family:arial, sans-serif; font-size: 2em; position:relative; top: .1em;color:#3fb6ff;">»</span></b></span><br /></a></div>
+<hr />
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="text-align:center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wikipedia_help_pages" title="Template:Wikipedia help pages"><span title="View this template" style="text-align:center;;;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wikipedia_help_pages" title="Template talk:Wikipedia help pages"><span title="Discuss this template" style="text-align:center;;;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wikipedia_help_pages&amp;action=edit"><span title="Edit this template" style="text-align:center;;;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Help:Directory" title="Help:Directory">Wikipedia help pages</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="text-align:center;">
+<div>
+<div class="hlist">
+<ul>
+<li><b><a href="/wiki/Wikipedia:Noticeboards" title="Wikipedia:Noticeboards">Noticeboards</a></b>&#160;<abbr title="Noticeboards on Wikipedia are pages where editors can ask questions and request assistance from people who are familiar with the policies and guidelines covered by each individual board.">(?)</abbr></li>
+<li><b><a href="/wiki/Wikipedia:FAQ" title="Wikipedia:FAQ">FAQs</a></b>&#160;<abbr title="This is a list of frequently asked questions about using and contributing to Wikipedia.">(?)</abbr></li>
+<li><b><a href="/wiki/Wikipedia:Reference_desk" title="Wikipedia:Reference desk">Reference desks</a></b>&#160;<abbr title="Works like a library reference desk. Ask a question here and Wikipedia volunteers will try to answer it.">(?)</abbr></li>
+<li><i><b><a href="/wiki/Help:Wikipedia:_The_Missing_Manual" title="Help:Wikipedia: The Missing Manual">The Missing Manual</a></b></i>&#160;<abbr title="A how-to guide that explains the process of contributing to the English Wikipedia, both for novice users and experienced editors.">(?)</abbr></li>
+<li><b><a href="/wiki/Wikipedia:Help_hub" title="Wikipedia:Help hub">Help hub</a></b>&#160;<abbr title="A menu of help topic links.">(?)</abbr></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia:Five_pillars" title="Wikipedia:Five pillars">Principles</a>&#160;(<a href="/wiki/Wikipedia:Wikipedia_in_brief" title="Wikipedia:Wikipedia in brief">Wikipedia in brief</a>)</li>
+<li><a href="/wiki/Wikipedia:Policies_and_guidelines" title="Wikipedia:Policies and guidelines">Policies and guidelines</a></li>
+<li><a href="/wiki/Wikipedia:What_Wikipedia_is_not" title="Wikipedia:What Wikipedia is not">What Wikipedia is not</a></li>
+<li><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimer</a>&#160;(<a href="/wiki/Wikipedia:Advice_for_parents" title="Wikipedia:Advice for parents">parental advice</a>)</li>
+<li><a href="/wiki/Wikipedia:Requests" title="Wikipedia:Requests" class="mw-redirect">Making requests</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Questions" title="Wikipedia:Questions">where to ask questions</a></li>
+<li><a href="/wiki/Wikipedia:Contact_us" title="Wikipedia:Contact us">contact Wikipedia directly</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Who_writes_Wikipedia%3F" title="Wikipedia:Who writes Wikipedia?">Who writes Wikipedia?</a></li>
+<li><a href="/wiki/Wikipedia:Why_create_an_account%3F" title="Wikipedia:Why create an account?">Why create an account?</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/Wikipedia:Reader%27s_index_to_Wikipedia" title="Wikipedia:Reader's index to Wikipedia">Help for readers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia:FAQ/Readers" title="Wikipedia:FAQ/Readers">FAQ</a></li>
+<li><a href="/wiki/Help:Books" title="Help:Books">Books</a></li>
+<li><a href="/wiki/Help:Copyright" title="Help:Copyright">Copyright</a></li>
+<li><a href="/wiki/Help:Glossary" title="Help:Glossary">Glossary</a></li>
+<li><a href="/wiki/Help:Mobile_access" title="Help:Mobile access">Mobile access</a></li>
+<li><a href="/wiki/Help:Navigation" title="Help:Navigation">Navigation</a></li>
+<li><a href="/wiki/Help:Other_languages" title="Help:Other languages">Other languages</a></li>
+<li><a href="/wiki/Help:Searching" title="Help:Searching">Searching</a></li>
+<li><a href="/wiki/Help:Student_help" title="Help:Student help">Students</a></li>
+<li><a href="/wiki/Help:Viewing_media" title="Help:Viewing media">Viewing media</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/Wikipedia:Contributing_to_Wikipedia" title="Wikipedia:Contributing to Wikipedia">Contributing<br />
+to Wikipedia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia:Plain_and_simple" title="Wikipedia:Plain and simple">A plain and simple overview</a></li>
+<li><a href="/wiki/Wikipedia:A_primer_for_newcomers" title="Wikipedia:A primer for newcomers">A primer for newcomers</a></li>
+<li><a href="/wiki/Wikipedia:Ask_for_help" title="Wikipedia:Ask for help">Asking for help</a></li>
+<li><a href="/wiki/Wikipedia:Guidance_for_younger_editors" title="Wikipedia:Guidance for younger editors">Advice for young editors</a></li>
+<li><a href="/wiki/Wikipedia:Avoiding_common_mistakes" title="Wikipedia:Avoiding common mistakes">Avoiding common mistakes</a></li>
+<li><a href="/wiki/Wikipedia:Etiquette" title="Wikipedia:Etiquette">Etiquette</a>&#160;(<a href="/wiki/Wikipedia:Expectations_and_norms_of_the_Wikipedia_community" title="Wikipedia:Expectations and norms of the Wikipedia community">community expectations</a>)</li>
+<li><a href="/wiki/Wikipedia:Learning_the_ropes" title="Wikipedia:Learning the ropes">Learning the ropes</a></li>
+<li><a href="/wiki/Wikipedia:Instructional_material" title="Wikipedia:Instructional material">Instructional material</a></li>
+<li><a href="/wiki/Wikipedia:Simplified_Manual_of_Style" title="Wikipedia:Simplified Manual of Style">Simplified Manual of Style</a></li>
+<li><a href="/wiki/Wikipedia:Simplified_ruleset" title="Wikipedia:Simplified ruleset">Simplified rule-set</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Ignore_all_rules" title="Wikipedia:Ignore all rules">"Ignore all rules"</a></li>
+<li><a href="/wiki/Wikipedia:The_rules_are_principles" title="Wikipedia:The rules are principles">"The rules are principles"</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Styletips" title="Wikipedia:Styletips">Style-tips</a></li>
+<li><a href="/wiki/Wikipedia:Tip_of_the_day" title="Wikipedia:Tip of the day">Tip of the day</a></li>
+<li><a href="/wiki/Wikipedia:Job_Center" title="Wikipedia:Job Center">Job Center</a></li>
+<li><a href="/wiki/Wikipedia:Your_first_article" title="Wikipedia:Your first article">Your first article</a>&#160;(<a href="/wiki/Wikipedia:Article_wizard" title="Wikipedia:Article wizard">article wizard</a>)</li>
+<li><a href="/wiki/Wikipedia:Vandalism" title="Wikipedia:Vandalism">Vandalism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/Help:Getting_started" title="Help:Getting started">Introductions<br />
+and tutorials</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia:Introduction" title="Wikipedia:Introduction">Wikipedia intro</a></li>
+<li><a href="/wiki/Wikipedia:Tutorial" title="Wikipedia:Tutorial">Wikipedia tutorial</a></li>
+<li><a href="/wiki/Wikipedia:The_Wikipedia_Adventure" title="Wikipedia:The Wikipedia Adventure">The Wikipedia Adventure</a></li>
+<li><a href="/wiki/Wikipedia:Training/Newcomers/Welcome" title="Wikipedia:Training/Newcomers/Welcome">Newcomers' training</a></li>
+<li><a href="/wiki/Help:Introduction_to_the_Manual_of_Style" title="Help:Introduction to the Manual of Style">Manual of Style intro</a></li>
+<li><a href="/wiki/Wikipedia:Graphics_tutorials" title="Wikipedia:Graphics tutorials">Graphics tutorials</a></li>
+<li><a href="/wiki/Wikipedia:Picture_tutorial" title="Wikipedia:Picture tutorial">Picture tutorial</a> (<a href="/wiki/Help:Introduction_to_uploading_images/1" title="Help:Introduction to uploading images/1">Uploading intro</a>)</li>
+<li><a href="/wiki/Wikipedia:IRC/Tutorial" title="Wikipedia:IRC/Tutorial">IRC <span style="font-size:90%;">(live chat)</span> tutorial</a></li>
+<li><a href="/wiki/Help:Introduction_to_navigating_Wikipedia/1" title="Help:Introduction to navigating Wikipedia/1">Navigating intro</a></li>
+<li><a href="/wiki/Help:Introduction_to_policies_and_guidelines" title="Help:Introduction to policies and guidelines">Policies intro</a></li>
+<li><a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">Referencing intro</a></li>
+<li><a href="/wiki/Help:Table/Introduction_to_tables" title="Help:Table/Introduction to tables">Tables intro</a></li>
+<li><a href="/wiki/Help:Introduction_to_talk_pages" title="Help:Introduction to talk pages">Talk pages intro</a></li>
+<li><a href="/wiki/Wikipedia:VisualEditor/User_guide" title="Wikipedia:VisualEditor/User guide">VisualEditor user guide</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/Category:Wikipedia_how-to" title="Category:Wikipedia how-to">How-to pages</a> and<br />
+<a href="/wiki/Category:Wikipedia_information_pages" title="Category:Wikipedia information pages">information pages</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia:Guide_to_appealing_blocks" title="Wikipedia:Guide to appealing blocks">Appealing blocks</a></li>
+<li><a href="/wiki/Wikipedia:Guide_to_deletion" title="Wikipedia:Guide to deletion">Article deletion</a></li>
+<li><a href="/wiki/Help:Category" title="Help:Category">Categories</a></li>
+<li><a href="/wiki/Help:Citations_quick_reference" title="Help:Citations quick reference">Citations&#160;/ references</a>
+<ul>
+<li><a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">Referencing for beginners</a></li>
+<li><a href="/wiki/Help:Citation_Style_1" title="Help:Citation Style 1">Citation Style 1</a></li>
+<li><a href="/wiki/Help:Cite_errors" title="Help:Cite errors">Cite errors</a></li>
+<li><a href="/wiki/Help:References_and_page_numbers" title="Help:References and page numbers">References and page numbers</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Help:Diff" title="Help:Diff">Diff</a></li>
+<li><a href="/wiki/Help:Editing" title="Help:Editing">Editing</a>
+<ul>
+<li><a href="/wiki/Help:Edit_toolbar" title="Help:Edit toolbar">toolbar</a></li>
+<li><a href="/wiki/Help:Edit_conflict" title="Help:Edit conflict">edit conflict</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Help:Email_confirmation" title="Help:Email confirmation">Email confirmation</a></li>
+<li><a href="/wiki/Help:Find_sources" title="Help:Find sources">Find sources</a></li>
+<li><a href="/wiki/Help:Files" title="Help:Files">Files</a></li>
+<li><a href="/wiki/Help:Footnotes" title="Help:Footnotes">Footnotes</a></li>
+<li><a href="/wiki/Wikipedia:Guide_to_image_deletion" title="Wikipedia:Guide to image deletion">Image deletion</a></li>
+<li><a href="/wiki/Help:Infobox" title="Help:Infobox">Infoboxes</a></li>
+<li><a href="/wiki/Help:Link" title="Help:Link">Linking</a>&#160;(<a href="/wiki/Help:Link_color" title="Help:Link color">link color</a>)</li>
+<li><a href="/wiki/Help:Logging_in" title="Help:Logging in">Logging in</a></li>
+<li><a href="/wiki/Help:Merging" title="Help:Merging" class="mw-redirect">Merging</a></li>
+<li><a href="/wiki/Help:Namespaces" title="Help:Namespaces" class="mw-redirect">Namespaces</a></li>
+<li><a href="/wiki/Help:Page_name" title="Help:Page name">Page name</a></li>
+<li><a href="/wiki/Help:Redirect" title="Help:Redirect">Redirect</a></li>
+<li><a href="/wiki/Help:How_to_move_a_page" title="Help:How to move a page">Renaming pages</a></li>
+<li><a href="/wiki/Help:Reset_password" title="Help:Reset password">Passwords</a></li>
+<li><a href="/wiki/Help:Reverting" title="Help:Reverting">Reverting</a></li>
+<li><a href="/wiki/Help:Using_talk_pages" title="Help:Using talk pages">Talk pages</a>&#160;(<a href="/wiki/Help:Archiving_a_talk_page" title="Help:Archiving a talk page">archiving</a>)</li>
+<li><a href="/wiki/Help:URL" title="Help:URL">URL</a></li>
+<li><a href="/wiki/Help:User_contributions" title="Help:User contributions">User contributions</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/Wiki_markup" title="Wiki markup">Coding wiki markup</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Help:Wiki_markup" title="Help:Wiki markup">Wiki markup</a>&#160;(<a href="/wiki/Help:Cheatsheet" title="Help:Cheatsheet">cheatsheet</a>)</li>
+<li><a href="/wiki/Help:Barchart" title="Help:Barchart">Barcharts</a></li>
+<li><a href="/wiki/Help:Calculation" title="Help:Calculation">Calculations</a></li>
+<li><a href="/wiki/Help:Special_characters" title="Help:Special characters">Characters</a></li>
+<li><a href="/wiki/Wikipedia:Citation_templates" title="Wikipedia:Citation templates">Citation templates</a></li>
+<li><a href="/wiki/Help:Columns" title="Help:Columns">Columns</a></li>
+<li><a href="/wiki/Help:HTML_in_wikitext" title="Help:HTML in wikitext">HTML</a></li>
+<li><a href="/wiki/Help:List" title="Help:List">Lists</a></li>
+<li><a href="/wiki/Help:Magic_words" title="Help:Magic words">Magic words</a>&#160;(<a href="/wiki/Help:Magic_words_for_beginners" title="Help:Magic words for beginners">introduction</a>)</li>
+<li><a href="/wiki/Help:Musical_symbols" title="Help:Musical symbols">Music symbols</a></li>
+<li><a href="/wiki/Help:Section" title="Help:Section">Sections</a></li>
+<li><a href="/wiki/Help:Sound_file_markup" title="Help:Sound file markup">Sounds</a></li>
+<li><a href="/wiki/Help:Table" title="Help:Table">Tables</a>&#160;(<a href="/wiki/Help:Table/Introduction_to_tables" title="Help:Table/Introduction to tables">introduction</a>)</li>
+<li><a href="/wiki/Help:Template" title="Help:Template">Templates</a>
+<ul>
+<li><a href="/wiki/Wikipedia:Template_documentation" title="Wikipedia:Template documentation">documentation</a></li>
+<li><a href="/wiki/Wikipedia:Template_messages" title="Wikipedia:Template messages">messages</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wikipedia:Transclusion" title="Wikipedia:Transclusion">Transclusion</a></li>
+<li><a href="/wiki/Help:Visual_file_markup" title="Help:Visual file markup">Visual files</a></li>
+<li><a href="/wiki/Wikipedia:Tools" title="Wikipedia:Tools">Wiki tools</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;"><a href="/wiki/Wikipedia:Quick_directory" title="Wikipedia:Quick directory">Directories</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wikipedia:Wikipedia_abbreviations" title="Wikipedia:Wikipedia abbreviations">Abbreviations</a></li>
+<li><a href="/wiki/Wikipedia:Department_directory" title="Wikipedia:Department directory">Departments</a></li>
+<li><a href="/wiki/Wikipedia:Editor%27s_index_to_Wikipedia" title="Wikipedia:Editor's index to Wikipedia">Editor's index</a></li>
+<li><a href="/wiki/Wikipedia:About_essay_searching" title="Wikipedia:About essay searching">Essays</a></li>
+<li><a href="/wiki/Wikipedia:FAQ_index" title="Wikipedia:FAQ index">FAQs</a></li>
+<li><a href="/wiki/Wikipedia:Glossary" title="Wikipedia:Glossary">Glossary</a></li>
+<li><a href="/wiki/Wikipedia:List_of_guidelines" title="Wikipedia:List of guidelines">Guidelines</a></li>
+<li><a href="/wiki/Help:Menu" title="Help:Menu">Help menu</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Contents" title="Wikipedia:Manual of Style/Contents">Manual of Style</a></li>
+<li><a href="/wiki/Wikipedia:List_of_policies" title="Wikipedia:List of policies">Policies</a></li>
+<li><a href="/wiki/Wikipedia:List_of_shortcuts" title="Wikipedia:List of shortcuts" class="mw-redirect">Shortcuts</a></li>
+<li><a href="/wiki/Wikipedia:Tips" title="Wikipedia:Tips">Tips</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="text-align:center;">
+<div>Visit the <b><a href="/wiki/Wikipedia:Teahouse" title="Wikipedia:Teahouse">Teahouse</a></b> if you are a new editor looking for interactive help, or the <b><strong class="selflink">Help desk</strong></b> for an interactive <abbr title="questions and answers">Q &amp; A</abbr> forum<br />
+<span class="noprint plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:MyTalk&amp;action=edit&amp;section=new&amp;preload=Help:Contents/helpmepreload&amp;preloadtitle=Help+me%21"><img alt="Question" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e0/Symbol_question.svg/16px-Symbol_question.svg.png" title="Question" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e0/Symbol_question.svg/23px-Symbol_question.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e0/Symbol_question.svg/31px-Symbol_question.svg.png 2x" data-file-width="180" data-file-height="185" />&#160;<b>Ask for help on your talk page</b></a></span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table style="margin: 1em auto 1em auto; width:600px">
+<tr>
+<th class="hlist" style="text-align:center; font-size:80%;">
+<ul>
+<li><a href="#October_20">Skip to today's questions</a></li>
+<li><a href="/wiki/Wikipedia:Requests#Special_services" title="Wikipedia:Requests" class="mw-redirect">Special help services</a></li>
+<li><a href="/wiki/Wikipedia:Help_desk/Archives" title="Wikipedia:Help desk/Archives">Archived discussions</a></li>
+<li><a href="/wiki/Wikipedia:Help_desk/How_to_answer" title="Wikipedia:Help desk/How to answer">How to answer</a></li>
+</ul>
+</th>
+</tr>
+</table>
+<table class="wikitable" style="float:right;">
+<tr>
+<td style="width:300px; text-align:center;"><b>Search <a href="/wiki/Wikipedia:FAQ" title="Wikipedia:FAQ">Frequently Asked Questions</a></b></td>
+</tr>
+<tr>
+<td>
+<div class="mw-inputbox-centered" style="">
+<form name="searchbox" class="searchbox" action="/wiki/Special:Search" id="searchbox">
+<p><input class="searchboxInput mw-ui-input mw-ui-input-inline" name="search" type="text" value="" placeholder="" size="40" dir="ltr" /><input type="hidden" value="Wikipedia:FAQ" name="prefix" /> <input type="submit" name="fulltext" class="mw-ui-button" value="Search the FAQ" /><input type="hidden" value="Search" name="fulltext" /></p>
+</form>
+</div>
+</td>
+</tr>
+<tr>
+<td style="width: 300px; text-align:center;"><b>Search the <a href="/wiki/Wikipedia:Help_desk/Archives" title="Wikipedia:Help desk/Archives">help desk archives</a></b> and other <b><a href="/wiki/Help:Menu" title="Help:Menu">help</a></b> pages</td>
+</tr>
+<tr>
+<td>
+<div class="mw-inputbox-centered" style="">
+<form name="searchbox" class="searchbox" action="/wiki/Special:Search" id="searchbox">
+<p><input class="searchboxInput mw-ui-input mw-ui-input-inline" name="search" type="text" value="" placeholder="" size="40" dir="ltr" /><input type="hidden" value="Wikipedia:Help" name="prefix" /> <input type="submit" name="fulltext" class="mw-ui-button" value="Search the archives" /><input type="hidden" value="Search" name="fulltext" /></p>
+</form>
+</div>
+</td>
+</tr>
+</table>
+<div style="width:50%">
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#October_16"><span class="tocnumber">1</span> <span class="toctext">October 16</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#arnold_schwarzenegger_page_errors._misrepresentation_of_govt_employee"><span class="tocnumber">1.1</span> <span class="toctext">arnold schwarzenegger page errors. misrepresentation of govt employee</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Two_articles_that_cover_the_same_topic"><span class="tocnumber">1.2</span> <span class="toctext">Two articles that cover the same topic</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Wrong_.22John_Davidson.22_pictured_on_hockey_biography"><span class="tocnumber">1.3</span> <span class="toctext">Wrong "John Davidson" pictured on hockey biography</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Wolf_Tegethoff_and_Mies_van_der_Rohe"><span class="tocnumber">1.4</span> <span class="toctext">Wolf Tegethoff and Mies van der Rohe</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Searching_the_archives_here"><span class="tocnumber">1.5</span> <span class="toctext">Searching the archives here</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#I_am_not_a_confirmed_user"><span class="tocnumber">1.6</span> <span class="toctext">I am not a confirmed user</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Deleted_article_archives"><span class="tocnumber">1.7</span> <span class="toctext">Deleted article archives</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#API_access_to_list_of_articles"><span class="tocnumber">1.8</span> <span class="toctext">API access to list of articles</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#New_page"><span class="tocnumber">1.9</span> <span class="toctext">New page</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Tense_in_timeline_articles"><span class="tocnumber">1.10</span> <span class="toctext">Tense in timeline articles</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Accepted_links"><span class="tocnumber">1.11</span> <span class="toctext">Accepted links</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#In_regards_to_John_Beaton_.28Canadian_Football_Player.29"><span class="tocnumber">1.12</span> <span class="toctext">In regards to John Beaton (Canadian Football Player)</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Audio_revision"><span class="tocnumber">1.13</span> <span class="toctext">Audio revision</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Mike_Bidlo"><span class="tocnumber">1.14</span> <span class="toctext">Mike Bidlo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#October_17"><span class="tocnumber">2</span> <span class="toctext">October 17</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#What_is_a_Supressor.3F"><span class="tocnumber">2.1</span> <span class="toctext">What is a Supressor?</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Multiple_image_template"><span class="tocnumber">2.2</span> <span class="toctext">Multiple image template</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Question_about_a_new_account."><span class="tocnumber">2.3</span> <span class="toctext">Question about a new account.</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Question_about_viewing_article_contributors"><span class="tocnumber">2.4</span> <span class="toctext">Question about viewing article contributors</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#3_questions"><span class="tocnumber">2.5</span> <span class="toctext">3 questions</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Fictional"><span class="tocnumber">2.6</span> <span class="toctext">Fictional</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#.22Loose_Change.22_Article"><span class="tocnumber">2.7</span> <span class="toctext">"Loose Change" Article</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Requested_moves"><span class="tocnumber">2.8</span> <span class="toctext">Requested moves</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Image_display_question"><span class="tocnumber">2.9</span> <span class="toctext">Image display question</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Best_way_to_cite_different_parts_of_the_same_video.3F"><span class="tocnumber">2.10</span> <span class="toctext">Best way to cite different parts of the same video?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-27"><a href="#October_18"><span class="tocnumber">3</span> <span class="toctext">October 18</span></a>
+<ul>
+<li class="toclevel-2 tocsection-28"><a href="#Page_Title_Change"><span class="tocnumber">3.1</span> <span class="toctext">Page Title Change</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Question_on_Reference_Desk_repeatedly_deleted."><span class="tocnumber">3.2</span> <span class="toctext">Question on Reference Desk repeatedly deleted.</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Cherry_Patch_Ranch"><span class="tocnumber">3.3</span> <span class="toctext">Cherry Patch Ranch</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Category:Candidates_for_speedy_deletion_as_hoaxes"><span class="tocnumber">3.4</span> <span class="toctext">Category:Candidates for speedy deletion as hoaxes</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#Curly_or_straight_brackets"><span class="tocnumber">3.5</span> <span class="toctext">Curly or straight brackets</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#Edit_count"><span class="tocnumber">3.6</span> <span class="toctext">Edit count</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#Curid"><span class="tocnumber">3.7</span> <span class="toctext">Curid</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#Berney_baronets"><span class="tocnumber">3.8</span> <span class="toctext">Berney baronets</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-36"><a href="#October_19"><span class="tocnumber">4</span> <span class="toctext">October 19</span></a>
+<ul>
+<li class="toclevel-2 tocsection-37"><a href="#What_is_a_reputable_source"><span class="tocnumber">4.1</span> <span class="toctext">What is a reputable source</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#Nightlink"><span class="tocnumber">4.2</span> <span class="toctext">Nightlink</span></a></li>
+<li class="toclevel-2 tocsection-39"><a href="#Pending_approval_for_review_of_article_in_Arabic"><span class="tocnumber">4.3</span> <span class="toctext">Pending approval for review of article in Arabic</span></a></li>
+<li class="toclevel-2 tocsection-40"><a href="#So_far_so_good.3F"><span class="tocnumber">4.4</span> <span class="toctext">So far so good?</span></a></li>
+<li class="toclevel-2 tocsection-41"><a href="#Astons_Coaches"><span class="tocnumber">4.5</span> <span class="toctext">Astons Coaches</span></a></li>
+<li class="toclevel-2 tocsection-42"><a href="#unreliability_of_your_contents_by_random_people"><span class="tocnumber">4.6</span> <span class="toctext">unreliability of your contents by random people</span></a></li>
+<li class="toclevel-2 tocsection-43"><a href="#The_View_.28U.S._TV_series.29"><span class="tocnumber">4.7</span> <span class="toctext"><i>The View</i> (U.S. TV series)</span></a></li>
+<li class="toclevel-2 tocsection-44"><a href="#Mary.2C_Princess_Royal_and_Countess_of_Harewood"><span class="tocnumber">4.8</span> <span class="toctext">Mary, Princess Royal and Countess of Harewood</span></a></li>
+<li class="toclevel-2 tocsection-45"><a href="#Frances_Lupton"><span class="tocnumber">4.9</span> <span class="toctext">Frances Lupton</span></a></li>
+<li class="toclevel-2 tocsection-46"><a href="#Nick_Bosustow"><span class="tocnumber">4.10</span> <span class="toctext">Nick Bosustow</span></a></li>
+<li class="toclevel-2 tocsection-47"><a href="#Create_the_page_of_my_village_Pinjarwadi_.28Ajhadnager.29_.7C_village"><span class="tocnumber">4.11</span> <span class="toctext">Create the page of my village Pinjarwadi (Ajhadnager) | village</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<h1><span class="mw-headline" id="October_16">October 16</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=1" title="Edit section: October 16">edit</a><span class="mw-editsection-bracket">]</span></span></h1>
+<h2><span class="mw-headline" id="arnold_schwarzenegger_page_errors._misrepresentation_of_govt_employee">arnold schwarzenegger page errors. misrepresentation of govt employee</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=2" title="Edit section: arnold schwarzenegger page errors. misrepresentation of govt employee">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Arnold_Schwarzenegger" title="Arnold Schwarzenegger">Arnold Schwarzenegger</a></p>
+<p>publishing errors: 1. "eponymous" just means name. it is too fancy and queer. 2. "then-governor" or "then-president" is a criminally ignorant phrase, a problem promoted by imitation of industry writers.</p>
+<p>legal or archival errors: most personal pages begins with their birth date and age on the right. the page lists the actor as a "governor" (religious hero story), not as a normal human. this person is an "actor" by trade, for most years known as a muscle model and &lt;redact a <a href="/wiki/Wikipedia:NPA" title="Wikipedia:NPA" class="mw-redirect">personal attack</a>&gt;</p>
+<p>the page should mention that all primary government officials are preselected or hired and bribed by a team of old rich church people who own world industry (including the "movies" and TV) before the very small part of the population is allowed to "vote" in secret. pre-paid candidates are false and not valid by law. <small class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/wiki/Special:Contributions/2602:306:36A9:F430:149A:CCB3:21BF:C700" title="Special:Contributions/2602:306:36A9:F430:149A:CCB3:21BF:C700">2602:306:36A9:F430:149A:CCB3:21BF:C700</a> (<a href="/w/index.php?title=User_talk:2602:306:36A9:F430:149A:CCB3:21BF:C700&amp;action=edit&amp;redlink=1" class="new" title="User talk:2602:306:36A9:F430:149A:CCB3:21BF:C700 (page does not exist)">talk</a>) 00:26, 16 October 2015 (UTC)</small></p>
+<dl>
+<dd>Hello. If you have suggestions about how to improve an article, the place to make them is on the article's talk page, here <a href="/wiki/Talk:Arnold_Schwarzenegger" title="Talk:Arnold Schwarzenegger">Talk:Arnold Schwarzenegger</a>. However, please be aware that your opinion of the subject (and my opinion, and anybody else's opinion) is not relevant to Wikipedia. A Wikipedia article must be based on what reliable published sources have said about the subject <i>and nothing else</i>. Schwarzenegger was elected and served as Governor: that is a fact, reported in many reliable sources, so the article should say so, whatever your opinion of him. If you can point to reliable published sources that criticise him along the lines of your opinion, then they may be referenced in the article. --<a href="/wiki/User:ColinFine" title="User:ColinFine">ColinFine</a> (<a href="/wiki/User_talk:ColinFine" title="User talk:ColinFine">talk</a>) 09:18, 16 October 2015 (UTC)</dd>
+</dl>
+<h2><span class="mw-headline" id="Two_articles_that_cover_the_same_topic">Two articles that cover the same topic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=3" title="Edit section: Two articles that cover the same topic">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hi, I noticed that the <a href="/wiki/Al-Sanadid_Forces" title="Al-Sanadid Forces">Al-Sanadid Forces</a> and <a href="/wiki/Jaysh_Al-Sanadeed" title="Jaysh Al-Sanadeed" class="mw-redirect">Jaysh Al-Sanadeed</a> articles cover the same topic. What is the correct procedure? Should I add a merge tag? Thanks, <a href="/wiki/User:David_O._Johnson" title="User:David O. Johnson">David O. Johnson</a> (<a href="/wiki/User_talk:David_O._Johnson" title="User talk:David O. Johnson">talk</a>) 00:55, 16 October 2015 (UTC)</p>
+<dl>
+<dd><a href="/wiki/User:David_O._Johnson" title="User:David O. Johnson">David</a>: There seems to be a clear-cut case for merging these two very new articles, but the respective creators may have views. <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">Wikipedia:Merging</a> sets out the process for opening a discussion. One point to determine will be which of the two page titles is the more appropriate transliteration of the name. Please let us know if you have further queries<a href="/wiki/User:Noyster" title="User:Noyster">: <b style="color:seagreen">Noyster</b></a> <a href="/wiki/User_talk:Noyster" title="User talk:Noyster"><span style="color:seagreen">(talk),</span></a> 09:56, 16 October 2015 (UTC)
+<dl>
+<dd>Thanks for your help; I was able to merge the pages after the the involved parties agreed with it.<a href="/wiki/User:David_O._Johnson" title="User:David O. Johnson">David O. Johnson</a> (<a href="/wiki/User_talk:David_O._Johnson" title="User talk:David O. Johnson">talk</a>) 20:23, 16 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Wrong_.22John_Davidson.22_pictured_on_hockey_biography">Wrong "John Davidson" pictured on hockey biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=4" title="Edit section: Wrong &quot;John Davidson&quot; pictured on hockey biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hey Wikipedia,</p>
+<p>You've got the wrong headshot of John Davidson, the former NHL goaltender, showing up when I did a bing.com search. It's showing the actor John Davidson by mistake. Just thought you would want to know for the sake of accuracy. <small class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/wiki/Special:Contributions/100.11.231.159" title="Special:Contributions/100.11.231.159">100.11.231.159</a> (<a href="/w/index.php?title=User_talk:100.11.231.159&amp;action=edit&amp;redlink=1" class="new" title="User talk:100.11.231.159 (page does not exist)">talk</a>) 04:30, 16 October 2015 (UTC)</small></p>
+<dl>
+<dd>Wikipedia does not control the images selected by bing (or for that matter google) when a picture is displayed as part of their search results in addition to Wikipedia based information. The actual article on John Davidson the Hockey Player (<a href="/wiki/John_Davidson_(ice_hockey)" title="John Davidson (ice hockey)">John Davidson (ice hockey)</a>) has no picture. You should contact bing.<br />
+<small>This isn't the first time I've seen this question for bing, a template similar to {{subst:HD/GKG}} or {{subst:HD/YKG}} might be useful.</small><a href="/wiki/User:Naraht" title="User:Naraht">Naraht</a> (<a href="/wiki/User_talk:Naraht" title="User talk:Naraht">talk</a>) 04:37, 16 October 2015 (UTC)
+<dl>
+<dd><small>{{<a href="/wiki/Template:HD/GKG" title="Template:HD/GKG">HD/GKG</a>}} was based on posts by me and I made {{<a href="/wiki/Template:HD/YKG" title="Template:HD/YKG">HD/YKG</a>}} but I don't see a knowledge graph equivalent at Bing so I cannot write about it. Maybe it matters that I'm in Denmark. It doesn't help to choose English interface. <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 09:46, 16 October 2015 (UTC)</small></dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Wolf_Tegethoff_and_Mies_van_der_Rohe">Wolf Tegethoff and Mies van der Rohe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=5" title="Edit section: Wolf Tegethoff and Mies van der Rohe">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Here are two links Wolf Tegethoff deserves. He researched and wrote The Villas and Country Houses of Mies van der Rohe, which was translated and and published by The Museum of Modern Art in conjunction with an exhibition of van der Rohe's work. His research led to the discovery of the plans for the Barcelona Pavilion and was directly responsible for its reconstruction. Ada Louise Huxtable called the book "the most important contribution to Mies scholarship to date."; (The New York Times, 1985.) <a rel="nofollow" class="external free" href="http://www.nytimes.com/1985/12/01/books/the-making-of-a-master.html?pagewanted=all">http://www.nytimes.com/1985/12/01/books/the-making-of-a-master.html?pagewanted=all</a></p>
+<p>Disclosure: I was the editor of the MOMA/MIT book, but I did nothing worth mentioning. Tegethoff did an excellent job and his work should at least be discussed in the Pavilion article and included in the Further Reading lists.</p>
+<p>I have written this here because I can't figure out where or how to send the information otherwise.</p>
+<p>Bill Dyckes <small class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/wiki/Special:Contributions/173.14.3.50" title="Special:Contributions/173.14.3.50">173.14.3.50</a> (<a href="/w/index.php?title=User_talk:173.14.3.50&amp;action=edit&amp;redlink=1" class="new" title="User talk:173.14.3.50 (page does not exist)">talk</a>) 07:02, 16 October 2015 (UTC)</small></p>
+<dl>
+<dd>Thank you for your suggestion. Normally, I would suggest that you simply add the material to the article <a href="/wiki/Wolf_Tegethoff" title="Wolf Tegethoff">Wolf Tegethoff</a>, particularly since you have a citation to an independent reliable source (which is the gold standard for information in a Wikipedia article, and something sadly lacking for almost everything else in the article). however, because of your <a href="/wiki/Wikipedia:Conflict_of_interest" title="Wikipedia:Conflict of interest">conflict of interest</a>, the best thing to do is to make your suggestion on the article's talk page <a href="/wiki/Talk:Wolf_Tegethoff" title="Talk:Wolf Tegethoff">Talk:Wolf Tegethoff</a>. If that talk page gets little traffic, you could also add {{<a href="/wiki/Template:Edit_request" title="Template:Edit request" class="mw-redirect">edit request</a>}} to it (with the double curly brackets) which will bring your suggestion to more people's notice. (I considered adding it myself, but I see that the article has severe problems, as it is almost unreferenced and liable to be deleted). --<a href="/wiki/User:ColinFine" title="User:ColinFine">ColinFine</a> (<a href="/wiki/User_talk:ColinFine" title="User talk:ColinFine">talk</a>) 09:28, 16 October 2015 (UTC)</dd>
+</dl>
+<h2><span class="mw-headline" id="Searching_the_archives_here">Searching the archives here</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=6" title="Edit section: Searching the archives here">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I cannot find my recent question posted here titled: <b>Can blocked editors get thanks?</b>. When I search the archives I only <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special%3ASearch&amp;profile=default&amp;search=Can+blocked+editors+get+thanks%3F+prefix%3AWikipedia%3AHelp&amp;fulltext=Search">get 2 results posted in 2013</a>. Thanks in advance, <a href="/wiki/User:Ottawahitech" title="User:Ottawahitech">Ottawahitech</a> (<a href="/wiki/User_talk:Ottawahitech" title="User talk:Ottawahitech">talk</a>) 10:37, 16 October 2015 (UTC)</p>
+<dl>
+<dd>Either omit the question mark or place the whole string in quotation marks. Otherwise the question mark functions as a wildcard for a character and you only get two hits on "thanks4". See more at <a href="/wiki/Help:Searching#Syntax" title="Help:Searching">Help:Searching#Syntax</a>. <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 10:47, 16 October 2015 (UTC)
+<dl>
+<dd>The thread is in the <a href="/wiki/Wikipedia:Help_desk/Archives/2015_October_12" title="Wikipedia:Help desk/Archives/2015 October 12">Wikipedia:Help desk/Archives/2015 October 12</a> archive. You can also search for things based on the month you asked them. October is <a href="/wiki/Wikipedia:Help_desk/Archives/October_2015" title="Wikipedia:Help desk/Archives/October 2015">here</a> and the links are all displayed by header names. --<a href="/wiki/User:Stabila711" title="User:Stabila711">Stabila711</a> (<a href="/wiki/User_talk:Stabila711" title="User talk:Stabila711">talk</a>) 19:37, 16 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="I_am_not_a_confirmed_user">I am not a confirmed user</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=7" title="Edit section: I am not a confirmed user">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I created an account less than a week ago and have confirmed my email account several times but still when I try to upload files or make changes, they are challenged and removed since I am not a confirmed user for some reason. I try upload photos and get the same message.</p>
+<p>Please advise ASAP <small><span class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/w/index.php?title=User:Hassan.o.daoud&amp;action=edit&amp;redlink=1" class="new" title="User:Hassan.o.daoud (page does not exist)">Hassan.o.daoud</a> (<a href="/wiki/User_talk:Hassan.o.daoud" title="User talk:Hassan.o.daoud">talk</a> • <a href="/wiki/Special:Contributions/Hassan.o.daoud" title="Special:Contributions/Hassan.o.daoud">contribs</a>) 10:52, 16 October 2015 (UTC)</span></small></p>
+<dl>
+<dd><span class="template-ping">@<a href="/w/index.php?title=User:Hassan.o.daoud&amp;action=edit&amp;redlink=1" class="new" title="User:Hassan.o.daoud (page does not exist)">Hassan.o.daoud</a>:</span> <a href="/wiki/Wikipedia:AUTOC" title="Wikipedia:AUTOC" class="mw-redirect">Autoconfirmation</a> is not related to email. Your account must be at least four days old. <a href="/wiki/Special:Log/Hassan.o.daoud" title="Special:Log/Hassan.o.daoud">Special:Log/Hassan.o.daoud</a> shows you are 20 minutes short. If you refer to saved edits disappearing then click the "View history" tab of the page to see what happened. <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 10:57, 16 October 2015 (UTC)</dd>
+</dl>
+<h2><span class="mw-headline" id="Deleted_article_archives">Deleted article archives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=8" title="Edit section: Deleted article archives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I would like to know if it is possible to still access the text of a completely deleted article. I wrote an article entitled "Snooker commentary" ca. 2005 so a long time ago, which was then significantly pared down after a formal discussion and vote (which actually the article won about 11-9 in favour but was still pared down). Then it was at some point completely removed from Wikipedia or somehow moved into a subsection of some other article that I cannot find. I am interested in the original text of the article "Snooker commentary" because a friend has expressed interest in seeing it. I don't care that it's no longer on Wikipedia I just want to show him it. If somebody with a bit more Wiki-savvy than me could track its history I'd very much appreciate the effort.</p>
+<p>Warm regards</p>
+<p><a href="/wiki/User:Poolkris" title="User:Poolkris">Kris</a> (<a href="/wiki/User_talk:Poolkris" title="User talk:Poolkris">talk</a>) 12:00, 16 October 2015 (UTC)</p>
+<dl>
+<dd><a href="/w/index.php?title=Snooker_commentary&amp;action=edit&amp;redlink=1" class="new" title="Snooker commentary (page does not exist)">Snooker commentary</a> was deleted in 2012 after two deletion nominations (see <a href="/wiki/Wikipedia:Articles_for_deletion/Snooker_commentary_(2nd_nomination)" title="Wikipedia:Articles for deletion/Snooker commentary (2nd nomination)">this</a> and <a href="/wiki/Wikipedia:Articles_for_deletion/Snooker_commentary" title="Wikipedia:Articles for deletion/Snooker commentary">this</a>). Only admins can see the content, so you should ask an admin to move it into draft space. Pinging the deleting admin, <a href="/wiki/User:Sandstein" title="User:Sandstein">Sandstein</a>. <a href="/wiki/User:Supdiop" title="User:Supdiop">Supdiop</a>&#160;(<a href="/wiki/User_talk:Supdiop" title="User talk:Supdiop"><small>T</small></a>🔹<a href="/wiki/Special:Contributions/Supdiop" title="Special:Contributions/Supdiop"><small>C</small></a>) 12:14, 16 October 2015 (UTC)</dd>
+<dd><span class="template-ping">@<a href="/wiki/User:Poolkris" title="User:Poolkris">Poolkris</a>:</span> Deleted articles can only be seen at Wikipedia by administrators (see <a href="/wiki/Wikipedia:Perennial_proposals#Deleted_pages_should_be_visible" title="Wikipedia:Perennial proposals">Wikipedia:Perennial proposals#Deleted pages should be visible</a>). External sites sometimes display an old version of articles. This is outside Wikipedia's control. In this case you can go to the <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a> at <a rel="nofollow" class="external free" href="https://archive.org/">https://archive.org/</a> and enter the old url <a class="external free" href="https://en.wikipedia.org/wiki/Snooker_commentary">https://en.wikipedia.org/wiki/Snooker_commentary</a>. You can make the url by getting "Snooker_commentary" from the url of the red link. Admins can see and restore the whole page history. <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 12:21, 16 October 2015 (UTC)</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>I've made the deleted content available at <a rel="nofollow" class="external free" href="http://pastebin.com/nZNDdWUK">http://pastebin.com/nZNDdWUK</a>. It will be automatically deleted there after a week because of licensing concerns. <small><span style="border:1px solid black;padding:1px;"><a href="/wiki/User:Sandstein" title="User:Sandstein"><font style="color:white;background:blue;font-family:sans-serif;"><b>&#160;Sandstein&#160;</b></font></a></span></small> 12:48, 16 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd><a href="/wiki/User:Sandstein" title="User:Sandstein">Sandstein</a> Thank you but I am not interested in the deleted post-deletion-nomination version of the article, that one deserved a deletion because it became boring, very short, and with no real content. I was interested in the original text of the article, i.e. its first entry in its History, which was much longer. The version that originally instigated the first deletion nomination. It was correctly accused of OR and essayism. Is that possible? <a href="/wiki/User:Poolkris" title="User:Poolkris">Kris</a> (<a href="/wiki/User_talk:Poolkris" title="User talk:Poolkris">talk</a>) 13:01, 16 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>OK, see <a rel="nofollow" class="external free" href="http://pastebin.com/XBfkw7PU">http://pastebin.com/XBfkw7PU</a>. Also expires in a week. <small><span style="border:1px solid black;padding:1px;"><a href="/wiki/User:Sandstein" title="User:Sandstein"><font style="color:white;background:blue;font-family:sans-serif;"><b>&#160;Sandstein&#160;</b></font></a></span></small> 16:33, 16 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>Looks like this has been dealt with now, but for the future, if you want to request temporary viewing access to a deleted page, the centralized place to do so is at <a href="/wiki/Wikipedia:REFUND" title="Wikipedia:REFUND" class="mw-redirect">WP:REFUND</a>. (Mention that you just want temporary viewing access, rather than restoration of the page.) --<a href="/wiki/User:Ais523" title="User:Ais523">ais523</a> 10:21, 17 October 2015 (<a href="/wiki/User:Ais523" title="User:Ais523">U</a><a href="/wiki/User_talk:Ais523" title="User talk:Ais523">T</a><a href="/wiki/Special:Contributions/Ais523" title="Special:Contributions/Ais523">C</a>)</dd>
+</dl>
+<h2><span class="mw-headline" id="API_access_to_list_of_articles">API access to list of articles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=9" title="Edit section: API access to list of articles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I am looking to download a list of articles (titles only, not content) from the English Wikipedia and Wiktionary. I know how to do this by going through <a href="/wiki/Special:PrefixIndex" title="Special:PrefixIndex">Special:PrefixIndex</a> and parsing the HTML, but I am wondering if there is an API or other, more straightforward way to get this information. And the same question for <a href="/wiki/Special:NewPages" title="Special:NewPages">new pages</a>.</p>
+<p>If it matters, the reason I am doing this is to create a web app to enable users to search for "words" meeting specified criteria. For example, you could search for words containing all of the letters AGNT and no others, and it would find <a href="/wiki/Jean-Marie_Atangana_Mebara" title="Jean-Marie Atangana Mebara">Atangana</a>, <a href="/wiki/Gnat" title="Gnat">gnat</a>, <a class="external text" href="https://en.wiktionary.org/wiki/tangana">tangana</a>, etc. And the reasons I'm doing <i>that</i> are both out of personal interest and as a demo/learning project for web development. <a href="/wiki/User:Matchups" title="User:Matchups">Ma</a><sup><a href="/wiki/User_talk:Matchups" title="User talk:Matchups">t</a></sup><sub><a href="/wiki/Special:Contributions/Matchups" title="Special:Contributions/Matchups">c</a></sub><a href="/wiki/User:Matchups" title="User:Matchups">hups</a> 12:01, 16 October 2015 (UTC)</p>
+<dl>
+<dd>I just found <a href="/wiki/Wikipedia:Database_download" title="Wikipedia:Database download">Wikipedia:Database download</a>, which answers the first part of my question, in part. That article notes that redirects are included. Are they flagged in some way? (I know I'll eventually find out when I download it, but am curious.) Still looking for a good way to get new articles. <a href="/wiki/User:Matchups" title="User:Matchups">Ma</a><sup><a href="/wiki/User_talk:Matchups" title="User talk:Matchups">t</a></sup><sub><a href="/wiki/Special:Contributions/Matchups" title="Special:Contributions/Matchups">c</a></sub><a href="/wiki/User:Matchups" title="User:Matchups">hups</a> 12:22, 16 October 2015 (UTC)
+<dl>
+<dd><span class="template-ping">@<a href="/wiki/User:Matchups" title="User:Matchups">Matchups</a>:</span> Wikipedia's API can be found via the link <a href="/wiki/Wikipedia:API" title="Wikipedia:API">Wikipedia:API</a>. <a href="//www.mediawiki.org/wiki/API:Allpages" class="extiw" title="mw:API:Allpages">mw:API:Allpages</a> looks a good starting point for you. -- <a href="/wiki/User:John_of_Reading" title="User:John of Reading">John of Reading</a> (<a href="/wiki/User_talk:John_of_Reading" title="User talk:John of Reading">talk</a>) 12:41, 16 October 2015 (UTC)</dd>
+</dl>
+</dd>
+<dd>If it is of any help, you can also grab the data as an RSS stream. Just tack on <code>?feed=rss</code> to the end of your URL, such as <code><a class="external free" href="https://en.wikipedia.org/wiki/Special:NewPages?feed=rss">https://en.wikipedia.org/wiki/Special:NewPages?feed=rss</a></code></dd>
+</dl>
+<h2><span class="mw-headline" id="New_page">New page</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=10" title="Edit section: New page">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>How do I create a new page for myself? I am a artist of some notoriety. <a href="/w/index.php?title=User:Eallenwarren&amp;action=edit&amp;redlink=1" class="new" title="User:Eallenwarren (page does not exist)">Eallenwarren</a> (<a href="/wiki/User_talk:Eallenwarren" title="User talk:Eallenwarren">talk</a>) 13:41, 16 October 2015 (UTC)</p>
+<dl>
+<dd>As someone with a <a href="/wiki/Wikipedia:COI" title="Wikipedia:COI" class="mw-redirect">conflict of interest</a> you generally shouldn't as <a href="/wiki/Wikipedia:NOTADVERT" title="Wikipedia:NOTADVERT" class="mw-redirect">Wikipedia is not a promotional platforma</a> and it will be difficult for you to <a href="/wiki/Wikipedia:UNDUE" title="Wikipedia:UNDUE" class="mw-redirect">present the content in a neutral manner that reflects how third party mainstream views you and your work</a> . see <a href="/wiki/Wikipedia:AUTOBIO" title="Wikipedia:AUTOBIO" class="mw-redirect">WP:AUTOBIO</a> as well. -- <a href="/wiki/User_talk:TheRedPenOfDoom" title="User talk:TheRedPenOfDoom"><span style="color:red;;;">TRPoD <small>aka The Red Pen of Doom</small></span></a> 13:51, 16 October 2015 (UTC)
+<dl>
+<dd>Please note, "notoriety" is not the same as "notability" which is what the subject of any article needs - in your case specifically defined <a href="/wiki/Wikipedia:ENTERTAINER" title="Wikipedia:ENTERTAINER" class="mw-redirect">here</a> - <a href="/wiki/User:Arjayay" title="User:Arjayay">Arjayay</a> (<a href="/wiki/User_talk:Arjayay" title="User talk:Arjayay">talk</a>) 15:57, 16 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Tense_in_timeline_articles">Tense in <a href="/wiki/Timeline" title="Timeline">timeline</a> articles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=11" title="Edit section: Tense in timeline articles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I recently put together an article called <a href="/wiki/Timeline_of_the_United_Kingdom_home_front_during_World_War_I" title="Timeline of the United Kingdom home front during World War I">Timeline of the United Kingdom home front during World War I</a> and on rereading it, notice that I have put some entries in the present tense and some in the past. Looking at other timelines, <a href="/wiki/Timeline_of_imperialism" title="Timeline of imperialism">Timeline of imperialism</a> is in the past tense whereas <a href="/wiki/Timeline_of_World_War_I" title="Timeline of World War I">Timeline of World War I</a> is in the present. Is there a consensus on which should be used? <a href="/wiki/User:Alansplodge" title="User:Alansplodge">Alansplodge</a> (<a href="/wiki/User_talk:Alansplodge" title="User talk:Alansplodge">talk</a>) 15:31, 16 October 2015 (UTC)</p>
+<dl>
+<dd><a href="/wiki/MOS:TENSE" title="MOS:TENSE" class="mw-redirect">MOS:TENSE</a> says past, <a href="/wiki/Wikipedia:TIMELINE" title="Wikipedia:TIMELINE" class="mw-redirect">WP:TIMELINE</a> says nothing about it, and <a href="/wiki/Timeline_of_chemistry" title="Timeline of chemistry">Timeline of chemistry</a> - a featured list - uses present. Confusing. <a href="/wiki/User:Finnusertop" title="User:Finnusertop">Finnusertop</a> (<a href="/wiki/User_talk:Finnusertop" title="User talk:Finnusertop">talk</a> | <a href="/wiki/User:Finnusertop/guestbook" title="User:Finnusertop/guestbook">guestbook</a> | <a href="/wiki/Special:Contributions/Finnusertop" title="Special:Contributions/Finnusertop">contribs</a>) 18:03, 16 October 2015 (UTC)
+<dl>
+<dd>So my next move is....? <a href="/wiki/User:Alansplodge" title="User:Alansplodge">Alansplodge</a> (<a href="/wiki/User_talk:Alansplodge" title="User talk:Alansplodge">talk</a>) 12:13, 18 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>Begin a discussion at <a href="/wiki/Wikipedia_talk:Timeline" title="Wikipedia talk:Timeline">Wikipedia talk:Timeline</a>?--<a href="/wiki/User:Ukexpat" title="User:Ukexpat">ukexpat</a> (<a href="/wiki/User_talk:Ukexpat" title="User talk:Ukexpat">talk</a>) 13:16, 19 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Accepted_links">Accepted links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=12" title="Edit section: Accepted links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>trouble that Wiki doesnot accept certain hyperlinks needed for verifiaction &amp; reliability <small><span class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/w/index.php?title=User:Leonardo2410&amp;action=edit&amp;redlink=1" class="new" title="User:Leonardo2410 (page does not exist)">Leonardo2410</a> (<a href="/wiki/User_talk:Leonardo2410" title="User talk:Leonardo2410">talk</a> • <a href="/wiki/Special:Contributions/Leonardo2410" title="Special:Contributions/Leonardo2410">contribs</a>) 16:11, 16 October 2015 (UTC)</span></small></p>
+<dl>
+<dd><span class="template-ping">@<a href="/w/index.php?title=User:Leonardo2410&amp;action=edit&amp;redlink=1" class="new" title="User:Leonardo2410 (page does not exist)">Leonardo2410</a>:</span> Does <a href="/wiki/Wikipedia:BLACKLIST" title="Wikipedia:BLACKLIST" class="mw-redirect">WP:BLACKLIST</a> answer your question? If not, could you be more specific about what you need to know? <span style="font-family:monospace;"><a href="/wiki/User:Dismas" title="User:Dismas">Dismas</a></span>|<a href="/wiki/User_talk:Dismas" title="User talk:Dismas"><sup>(talk)</sup></a> 17:30, 16 October 2015 (UTC)</dd>
+</dl>
+<h2><span class="mw-headline" id="In_regards_to_John_Beaton_.28Canadian_Football_Player.29">In regards to John Beaton (Canadian Football Player)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=13" title="Edit section: In regards to John Beaton (Canadian Football Player)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He has three children, and he has a loving and kind heart. He is very considerate of others. What ended his career was too many surgeries due to injuries on his legs. He is my second cousin. He has been divorced to Jennifer. At this time, I am uncertain if he is seeing anyone at this time or if he is. He was watched by family members cheering him on. Even though I called him an uncle, he was my second cousin, my dad's first cousin. He was admirable to me. So some of us did look up to him.</p>
+<p>Please can you either rearrange it or add it in by family members. Thank you for everything.</p>
+<p>Sincerely, E. Beaton</p>
+<p>P.S. that is in my opinion but I am sure others can agree if they saw this. <small class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/wiki/Special:Contributions/108.168.53.50" title="Special:Contributions/108.168.53.50">108.168.53.50</a> (<a href="/w/index.php?title=User_talk:108.168.53.50&amp;action=edit&amp;redlink=1" class="new" title="User talk:108.168.53.50 (page does not exist)">talk</a>) 20:32, 16 October 2015 (UTC)</small> have t</p>
+<dl>
+<dd>Hello, E. Beaton. I'm afraid Wikipedia doesn't work that way. Everything in it should be cited to a reliable published source: unpublished information (and especially any evaluations or opinions) is not acceptable. As it is, the existing article <a href="/wiki/John_Beaton_(Canadian_football)" title="John Beaton (Canadian football)">John Beaton (Canadian football)</a> is entirely without citations, and I have tagged it as such. Unless somebody finds some reliable published material about him by people unconnected with him, the article may get deleted. According to what is in the article, he has played in a major league, and so, according to <a href="/wiki/Wikipedia:NGRIDIRON" title="Wikipedia:NGRIDIRON" class="mw-redirect">WP:NGRIDIRON</a> he meets the criteria of notability; but that fact, like everything else in the article, should be supported by a published reference. --<a href="/wiki/User:ColinFine" title="User:ColinFine">ColinFine</a> (<a href="/wiki/User_talk:ColinFine" title="User talk:ColinFine">talk</a>) 22:08, 16 October 2015 (UTC)</dd>
+</dl>
+<h2><span class="mw-headline" id="Audio_revision">Audio revision</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=14" title="Edit section: Audio revision">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>How do you make an audio revision of a page?—<a href="/wiki/User:Eat_me,_I%27m_an_azuki" title="User:Eat me, I'm an azuki">Eat me, I'm an azuki</a> (<a href="/wiki/User_talk:Eat_me,_I%27m_an_azuki" title="User talk:Eat me, I'm an azuki">talk</a>&#160;<b>·</b> <a href="/wiki/Special:Contributions/Eat_me,_I%27m_an_azuki" title="Special:Contributions/Eat me, I'm an azuki">contribs</a>&#160;<b>·</b> <a href="/wiki/Special:EmailUser/Eat_me,_I%27m_an_azuki" title="Special:EmailUser/Eat me, I'm an azuki">email</a>) 22:52, 16 October 2015 (UTC)</p>
+<dl>
+<dd>See <a href="/wiki/Wikipedia:WikiProject_Spoken_Wikipedia" title="Wikipedia:WikiProject Spoken Wikipedia">Wikipedia:WikiProject Spoken Wikipedia</a>. <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 23:08, 16 October 2015 (UTC)</dd>
+</dl>
+<h2><span class="mw-headline" id="Mike_Bidlo"><a href="/wiki/Mike_Bidlo" title="Mike Bidlo">Mike Bidlo</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=15" title="Edit section: Mike Bidlo">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I have begun to compose an accurate and unbiased page for a well now artist Michael Bidlo, aka Mike Bidlo. I am doing this with the artist's assistance in getting copyrighted photographs and in verifying facts of his exhibition history. I am providing a bibliography and links.</p>
+<p>The current page has been repasted and I believe this must have been by Wikipedia personnel. The profile that replacing the "official" one I am composing is generic, uninformed and misleading in that the author is ignorant of the artist's complete history. How can the reversion be controlled? Do I have to just cut and paste over the generic that is taking over my revisions?</p>
+<p>History is of course by definition something an individual has contemplated and presented; the profile I am composing will be as accurate and unbiased as possible in presenting the person and work of Michael Bidlo. Please advise. <small><span class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/wiki/User:LBrandonKrall" title="User:LBrandonKrall">LBrandonKrall</a> (<a href="/w/index.php?title=User_talk:LBrandonKrall&amp;action=edit&amp;redlink=1" class="new" title="User talk:LBrandonKrall (page does not exist)">talk</a> • <a href="/wiki/Special:Contributions/LBrandonKrall" title="Special:Contributions/LBrandonKrall">contribs</a>) 23:42, 16 October 2015 (UTC)</span></small></p>
+<ul>
+<li>Welcome to Wikipedia <a href="/wiki/User:LBrandonKrall" title="User:LBrandonKrall">LBrandonKrall</a>. Articles here run off of <a href="/wiki/Wikipedia:RS" title="Wikipedia:RS" class="mw-redirect">reliable sources</a> and <a href="/wiki/Wikipedia:V" title="Wikipedia:V" class="mw-redirect">verifiability</a>. They also run off of a <a href="/wiki/Wikipedia:NPOV" title="Wikipedia:NPOV" class="mw-redirect">neutral point of view</a>. As you have a <a href="/wiki/Wikipedia:COI" title="Wikipedia:COI" class="mw-redirect">conflict of interest</a> in this area it is suggested that you <i>do not</i> edit the article directly. Please post on the article's <a href="/wiki/Talk:Mike_Bidlo" title="Talk:Mike Bidlo">talk page</a>. As to "controlling" the content that is not how Wikipedia works. We are a collaborative project and articles are open to be edited by anyone. In addition, repeatedly replacing content without discussing changes is a violation of our <a href="/wiki/Wikipedia:3RR" title="Wikipedia:3RR" class="mw-redirect">3RR</a> rule and can result in your account be blocked. Discussion is key here and it is preferred that you do so on the article's talk page. Also remember that Wikipedia runs off of sourced information. Your edit that was removed mentioned "Joseph John" as part of the artist's name. This information would require a published source to confirm that information. We cannot just take your word for it as we also do not allow <a href="/wiki/Wikipedia:OR" title="Wikipedia:OR" class="mw-redirect">original research</a> in the articles. --<a href="/wiki/User:Stabila711" title="User:Stabila711">Stabila711</a> (<a href="/wiki/User_talk:Stabila711" title="User talk:Stabila711">talk</a>) 23:52, 16 October 2015 (UTC)</li>
+<li>Also, <a href="/wiki/User:LBrandonKrall" title="User:LBrandonKrall">LBrandonKrall</a>, you should be aware there Wikipedia does not have "profiles", much less "official profiles". It has encyclopedia articles about subjects, which are in no way controlled or approved by those subjects, but instead are supported by reliable sources, as explained above. Moreover, Wikipedia does not have "Wikipedia personnel". All editing is done by unpaid volunteers. Some are more experienced and frequent editors than others, but all are simply volunteer editors. Also, please note that Wikipedia can make only very limited use of copyrighted works, unless they are released by the copyright owner under a free license. This would mean that anyone in the world could reproduce and modify the image (or other work), including for profit, with only the need to acknowledge the original source, but no need to pay any royalties. If the copyright holder wants to so release a work, see <a href="/wiki/Wikipedia:DCM" title="Wikipedia:DCM" class="mw-redirect">this page</a>. <a href="/wiki/User:DESiegel" title="User:DESiegel">DES</a> <a href="/wiki/User_talk:DESiegel" title="User talk:DESiegel"><sup>(talk)</sup></a> 00:29, 17 October 2015 (UTC) If you do have a bibliography of citable relaible published sources, do please list them on the <a href="/wiki/Talk:Mike_Bidlo" title="Talk:Mike Bidlo">talk page</a>. <a href="/wiki/User:DESiegel" title="User:DESiegel">DES</a> <a href="/wiki/User_talk:DESiegel" title="User talk:DESiegel"><sup>(talk)</sup></a> 00:31, 17 October 2015 (UTC)</li>
+</ul>
+<h1><span class="mw-headline" id="October_17">October 17</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=16" title="Edit section: October 17">edit</a><span class="mw-editsection-bracket">]</span></span></h1>
+<h2><span class="mw-headline" id="What_is_a_Supressor.3F">What is a Supressor?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=17" title="Edit section: What is a Supressor?">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Looking at <a href="/wiki/Special:Statistics" title="Special:Statistics">Special:Statistics</a>, there is a user group called "Supressor", although it is empty at the moment. Is there a "Supressor" user right and what does that right entail? There is no explanitory link on the page as with the other groups. <a href="/wiki/User:RudolfRed" title="User:RudolfRed">RudolfRed</a> (<a href="/wiki/User_talk:RudolfRed" title="User talk:RudolfRed">talk</a>) 00:43, 17 October 2015 (UTC)</p>
+<dl>
+<dd>
+<dl>
+<dd><s>They are also called Oversighters. See <a href="/wiki/Wikipedia:OS" title="Wikipedia:OS" class="mw-redirect">WP:OS</a> <a href="/wiki/User:Supdiop" title="User:Supdiop">Supdiop</a>&#160;(<a href="/wiki/User_talk:Supdiop" title="User talk:Supdiop"><small>T</small></a>🔹<a href="/wiki/Special:Contributions/Supdiop" title="Special:Contributions/Supdiop"><small>C</small></a>) 00:49, 17 October 2015 (UTC)</s> fail</dd>
+</dl>
+</dd>
+<dd><small>(<a href="/wiki/Help:Edit_conflict" title="Help:Edit conflict">edit conflict</a>)</small> <span class="template-ping">@<a href="/wiki/User:RudolfRed" title="User:RudolfRed">RudolfRed</a>:</span> According to MediaWiki's <a href="//www.mediawiki.org/wiki/Special:ListGroupRights" class="extiw" title="mw:Special:ListGroupRights">Special:ListGroupRights</a> it has to do with <a href="//www.mediawiki.org/wiki/Extension:Flow" class="extiw" title="mw:Extension:Flow">Extension:Flow</a>. Not quite sure what that actually means since I haven't read what that extension does yet but I thought I would post what I have found. It is not the same thing as <a href="/wiki/Wikipedia:Oversight" title="Wikipedia:Oversight">oversight</a>. Oversighters have a lot more permissions than Supressors. --<a href="/wiki/User:Stabila711" title="User:Stabila711">Stabila711</a> (<a href="/wiki/User_talk:Stabila711" title="User talk:Stabila711">talk</a>) 00:51, 17 October 2015 (UTC)</dd>
+<dd>Thanks for the replies. <a href="/wiki/User:RudolfRed" title="User:RudolfRed">RudolfRed</a> (<a href="/wiki/User_talk:RudolfRed" title="User talk:RudolfRed">talk</a>) 00:58, 17 October 2015 (UTC)
+<dl>
+<dd><a href="/wiki/User:RudolfRed" title="User:RudolfRed">RudolfRed</a>, I found more information on it and I thought I would post it for future reference. <a href="/wiki/User:Supdiop" title="User:Supdiop">Supdiop</a>, the group is not fully active. <s>yet as the flow extension is still under construction. So no real need to remove it.</s> According to the main <a href="//www.mediawiki.org/wiki/Flow" class="extiw" title="mw:Flow">flow page</a> <span class="inline-quote-talk" style="font-family: Georgia, 'DejaVu Serif', serif; color: #008560;">Flow is a project of the Collaboration team at the Wikimedia Foundation to build a modern discussion and collaboration system for Wikimedia projects. Flow provides features that are present on most modern websites, but which are not possible to implement in wikitext. For example, Flow automatically signs posts, threads replies, and permits per-topic notifications.</span> Suppressors will be able to moderate flow posts the same way admins and oversighters can revdel something now. The only difference is suppressors will only be able to do that. They do not have the ability to view suppressed flow posts. --<a href="/wiki/User:Stabila711" title="User:Stabila711">Stabila711</a> (<a href="/wiki/User_talk:Stabila711" title="User talk:Stabila711">talk</a>) 01:06, 17 October 2015 (UTC)</dd>
+<dd><small>Correction: Flow has been taken out of construction and will no longer be worked on according to the flow page. --<a href="/wiki/User:Stabila711" title="User:Stabila711">Stabila711</a> (<a href="/wiki/User_talk:Stabila711" title="User talk:Stabila711">talk</a>) 01:08, 17 October 2015 (UTC)</small></dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd><a href="/wiki/Special:Statistics" title="Special:Statistics">Special:Statistics</a> had a red link to <a href="/wiki/Wikipedia:Suppress" title="Wikipedia:Suppress">Wikipedia:Suppress</a> so I have made a small page there. <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 11:44, 17 October 2015 (UTC)</dd>
+</dl>
+<h2><span class="mw-headline" id="Multiple_image_template">Multiple image template</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=18" title="Edit section: Multiple image template">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Can someone with more knowledge on template coding make the pictures of Stepinac and the Cathedral on <a href="/wiki/Croats#Religion" title="Croats">Croats#Religion</a> roughly the same size? --<a href="/wiki/User:Steverci" title="User:Steverci">Steverci</a> (<a href="/wiki/User_talk:Steverci" title="User talk:Steverci">talk</a>) 06:35, 17 October 2015 (UTC)</p>
+<ul>
+<li><span class="template-ping">@<a href="/wiki/User:Steverci" title="User:Steverci">Steverci</a>:</span> Done. To resize photos with the multiple image template you have to specific the height and width of each photo and the total width of the entire thing. You can see what I did for future reference <a class="external text" href="//en.wikipedia.org/w/index.php?title=Croats&amp;type=revision&amp;diff=686134358&amp;oldid=685975337">here</a> --<a href="/wiki/User:Stabila711" title="User:Stabila711">Stabila711</a> (<a href="/wiki/User_talk:Stabila711" title="User talk:Stabila711">talk</a>) 06:44, 17 October 2015 (UTC)</li>
+</ul>
+<dl>
+<dd>
+<dl>
+<dd>Thank you. --<a href="/wiki/User:Steverci" title="User:Steverci">Steverci</a> (<a href="/wiki/User_talk:Steverci" title="User talk:Steverci">talk</a>) 06:52, 17 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Question_about_a_new_account.">Question about a new account.</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=19" title="Edit section: Question about a new account.">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I have a question about my account. I edited Wikipedia for about five/six years up until I took a break circa 2010. My previous account, <a href="/wiki/User:Karrmann" title="User:Karrmann">User:Karrmann</a>, I used throughout that time when I was a teenager in middle school and high school. Now that I have returned to Wikipedia after my absence as an adult I created this new account because I don't want to be associated with that old account. That old account was in good standing. I was never blocked or banned, or ever had any conflicts or issues with admins. I just don't want to be associated with the edits and stuff I made ten years ago when I was 14, kind of like when people take five year old drunk pictures off of their Facebook accounts. However I want to do this without violating <a href="/wiki/Wikipedia:SOCK" title="Wikipedia:SOCK" class="mw-redirect">WP:SOCK</a>, I'm trying to do this all above board. Can you help me? <a href="/wiki/User:Reattacollector" title="User:Reattacollector">Reattacollector</a> (<a href="/wiki/User_talk:Reattacollector" title="User talk:Reattacollector">talk</a>) 09:58, 17 October 2015 (UTC)</p>
+<dl>
+<dd>Hi <a href="/wiki/User:Reattacollector" title="User:Reattacollector">Reattacollector</a>. You are entitled to a <a href="/wiki/Wikipedia:Clean_start" title="Wikipedia:Clean start">clean start</a> by abandoning your old account and creating a new one (as you have already done). This is not a violation of WP:SOCK, given that you no longer use your old account and the new one was not created for the purpose of ban evasion. You do realize, however, that by posting the message above you have associated yourself with your old account? Should anyone find this message, they will know you are the same person as user Karrmann. <a href="/wiki/User:Finnusertop" title="User:Finnusertop">Finnusertop</a> (<a href="/wiki/User_talk:Finnusertop" title="User talk:Finnusertop">talk</a> | <a href="/wiki/User:Finnusertop/guestbook" title="User:Finnusertop/guestbook">guestbook</a> | <a href="/wiki/Special:Contributions/Finnusertop" title="Special:Contributions/Finnusertop">contribs</a>) 10:13, 17 October 2015 (UTC)</dd>
+<dd>Given the dates, I think people would be fine with this. However, if you want to make sure, you can put a note like "I was previously known as <a href="/wiki/User:Karrmann" title="User:Karrmann">User:Karrmann</a>" on your user page. In general, people are happy with disclosed ownership of multiple accounts so long as you don't try to use them both in the same discussion. --<a href="/wiki/User:Ais523" title="User:Ais523">ais523</a> 10:17, 17 October 2015 (<a href="/wiki/User:Ais523" title="User:Ais523">U</a><a href="/wiki/User_talk:Ais523" title="User talk:Ais523">T</a><a href="/wiki/Special:Contributions/Ais523" title="Special:Contributions/Ais523">C</a>)
+<dl>
+<dd>I just noticed that user Karrmann has edited recently. You may <i>not</i> use that and your current account at the same time. A clean start means completely abandoning the use of the old account. You can, and are encouraged, however to notify others that the old account is no longer in use by placing {{<a href="/wiki/Template:Retired" title="Template:Retired">Retired</a>}} on its userpage. You can do this logged as the old user, but after that, the account should no longer be used. <a href="/wiki/User:Finnusertop" title="User:Finnusertop">Finnusertop</a> (<a href="/wiki/User_talk:Finnusertop" title="User talk:Finnusertop">talk</a> | <a href="/wiki/User:Finnusertop/guestbook" title="User:Finnusertop/guestbook">guestbook</a> | <a href="/wiki/Special:Contributions/Finnusertop" title="Special:Contributions/Finnusertop">contribs</a>) 10:21, 17 October 2015 (UTC)
+<dl>
+<dd>I just created this account 20 mins ago. I am not, nor do I have any intention to use these accounts simultaneously. It was be beginning to edit as Karrmann again that made me decide I wanted to leave that account behind and start a new one. <a href="/wiki/User:Reattacollector" title="User:Reattacollector">Reattacollector</a> (<a href="/wiki/User_talk:Reattacollector" title="User talk:Reattacollector">talk</a>) 10:27, 17 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<p>I'm not completely opposed to the old editors I used to collaborate with knowing I'm the same person. I just decided I don't want to be dragging around the baggage (edit history, talk page archives, etc) of an account I used in 2007 when I was 15. <a href="/wiki/User:Reattacollector" title="User:Reattacollector">Reattacollector</a> (<a href="/wiki/User_talk:Reattacollector" title="User talk:Reattacollector">talk</a>) 10:34, 17 October 2015 (UTC)</p>
+<dl>
+<dd>If you want to display barnstars the old account received then you are practically declaring an official continuation of the account and should link it on the new user page. If you want a clean start then drop the old barnstars and don't edit anything controversial the old account has edited since you started reusing it this week. <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 11:12, 17 October 2015 (UTC)</dd>
+<dd>Good idea. <a href="/wiki/User:Reattacollector" title="User:Reattacollector">Reattacollector</a> (<a href="/wiki/User_talk:Reattacollector" title="User talk:Reattacollector">talk</a>) 16:08, 17 October 2015 (UTC)</dd>
+</dl>
+<h2><span class="mw-headline" id="Question_about_viewing_article_contributors">Question about viewing article contributors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=20" title="Edit section: Question about viewing article contributors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Simple query -- is there a bot that would allow me to view the contributors for a specific article, ranked by quantity of each editor's contributions? <a href="/wiki/User_talk:Plumpy_Humperdinkle" title="User talk:Plumpy Humperdinkle">Plumpy Humperdinkle</a> (<a href="/wiki/User_talk:Plumpy_Humperdinkle" title="User talk:Plumpy Humperdinkle">talk</a>) 13:51, 17 October 2015 (UTC)</p>
+<dl>
+<dd>How do you measure quantity? Click "Revision history statistics" at top of the page history to rank by number of edits, assuming your interface language is English. <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 13:56, 17 October 2015 (UTC)
+<dl>
+<dd>Thanks, that's exactly what I was looking for. <a href="/wiki/User_talk:Plumpy_Humperdinkle" title="User talk:Plumpy Humperdinkle">Plumpy Humperdinkle</a> (<a href="/wiki/User_talk:Plumpy_Humperdinkle" title="User talk:Plumpy Humperdinkle">talk</a>) 17:32, 17 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="3_questions">3 questions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=21" title="Edit section: 3 questions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>What do I type on <a href="//meta.wikimedia.org/wiki/User:Rubbish_computer/EditCounterGlobalOptIn.js" class="extiw" title="meta:User:Rubbish computer/EditCounterGlobalOptIn.js">meta:User:Rubbish computer/EditCounterGlobalOptIn.js</a> to opt in to this? I have also apparently made 1 edit on dewiki, which I do not recall. I would also like to turn off Visualeditor for myself globally. Thanks, --<a href="/wiki/User:Rubbish_computer" title="User:Rubbish computer"><i>Rubbish computer</i></a> (<a href="/wiki/User_talk:Rubbish_computer" title="User talk:Rubbish computer"><i>HALP!</i></a>: <a href="/wiki/Special:Contributions/Rubbish_computer" title="Special:Contributions/Rubbish computer"><i>I dropped the bass?</i></a>) 12:25, 17 October 2015 (UTC)</p>
+<dl>
+<dd><span class="template-ping">@<a href="/wiki/User:Rubbish_computer" title="User:Rubbish computer">Rubbish computer</a>:</span> Any random text will do. The page just needs to exist. I can't see that you've made any edits to dewiki, where did you get that information? - <a href="/wiki/User:NQ-Alt" title="User:NQ-Alt">NQ-Alt</a> (<a href="/wiki/User_talk:NQ-Alt" title="User talk:NQ-Alt">talk</a>) 16:32, 17 October 2015 (UTC)</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>Thanks <a href="/wiki/User:NQ-Alt" title="User:NQ-Alt">NQ-Alt</a>, I think it says I did <a class="external text" href="https://de.wikipedia.org/wiki/Spezial:Beitr%C3%A4ge/Rubbish_computer">here</a>. --<a href="/wiki/User:Rubbish_computer" title="User:Rubbish computer"><i>Rubbish computer</i></a> (<a href="/wiki/User_talk:Rubbish_computer" title="User talk:Rubbish computer"><i>HALP!</i></a>: <a href="/wiki/Special:Contributions/Rubbish_computer" title="Special:Contributions/Rubbish computer"><i>I dropped the bass?</i></a>) 16:36, 17 October 2015 (UTC)
+<dl>
+<dd>Strange. <a href="/wiki/Special:CentralAuth/Rubbish_computer" title="Special:CentralAuth/Rubbish computer">Special:CentralAuth/Rubbish computer</a> shows 0 edits to de.wiki. - <a href="/wiki/User:NQ-Alt" title="User:NQ-Alt">NQ-Alt</a> (<a href="/wiki/User_talk:NQ-Alt" title="User talk:NQ-Alt">talk</a>) 16:39, 17 October 2015 (UTC)</dd>
+<dd><span class="template-ping">@<a href="/wiki/User:Rubbish_computer" title="User:Rubbish computer">Rubbish computer</a>:</span> Ok, the page <a href="//de.wikipedia.org/wiki/Braun_Strowman" class="extiw" title="de:Braun Strowman">de:Braun Strowman</a> was <a class="external text" href="https://de.wikipedia.org/w/index.php?title=Spezial:Logbuch&amp;action=view&amp;page=Braun_Strowman">imported</a> from en.wiki and the page history has been copied over. Not sure how the process works. <a href="/wiki/User:NQ-Alt" title="User:NQ-Alt">NQ-Alt</a> (<a href="/wiki/User_talk:NQ-Alt" title="User talk:NQ-Alt">talk</a>) 16:52, 17 October 2015 (UTC)
+<dl>
+<dd><span class="template-ping">@<a href="/wiki/User:NQ-Alt" title="User:NQ-Alt">NQ-Alt</a>:</span> Thanks again. I've got the global edit counter now. --<a href="/wiki/User:Rubbish_computer" title="User:Rubbish computer"><i>Rubbish computer</i></a> (<a href="/wiki/User_talk:Rubbish_computer" title="User talk:Rubbish computer"><i>HALP!</i></a>: <a href="/wiki/Special:Contributions/Rubbish_computer" title="Special:Contributions/Rubbish computer"><i>I dropped the bass?</i></a>) 16:54, 17 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Fictional">Fictional</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=22" title="Edit section: Fictional">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hi, I just have one quick question. I am doing videos with my son, just for fun, not for money, and for this particular video, we are finding a treasure. I wanted to appear in the video looking up in the internet the story of a "real in the video", but really fictional captain Daniel and I was thinking about writing in Wikipedia about it and then film myself finding the article. Can I do that or is there other pages that I can use for this purpose. I am being totally honest. I just need to create this character for the video. Thank you.</p>
+<p>Osvaldo <small class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/wiki/Special:Contributions/75.115.96.82" title="Special:Contributions/75.115.96.82">75.115.96.82</a> (<a href="/w/index.php?title=User_talk:75.115.96.82&amp;action=edit&amp;redlink=1" class="new" title="User talk:75.115.96.82 (page does not exist)">talk</a>) 15:50, 17 October 2015 (UTC)</small></p>
+<dl>
+<dd>Please don't create an inaccurate article about a fictional character as if it were real just so you can be filmed looking it up. Instead, use some real article, or create a fake page on a site of your own, possibly taking a real article and modifying it. <a href="/wiki/User:DESiegel" title="User:DESiegel">DES</a> <a href="/wiki/User_talk:DESiegel" title="User talk:DESiegel"><sup>(talk)</sup></a> 16:26, 17 October 2015 (UTC)</dd>
+</dl>
+<h2><span class="mw-headline" id=".22Loose_Change.22_Article">"Loose Change" Article</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=23" title="Edit section: &quot;Loose Change&quot; Article">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wikipedia's lengthy article, "Loose Change", does a disservice to the credibility of your otherwise fine publication. "Loose Change" is rubbish. The article should be thoroughly edited to eliminate all the unsubstantiated claims presented as credible. That would greatly reduce it's length - perhaps by as much as +95 percent - and put your readers at ease: the article as currently published is a political statement implying a Republican conspiracy. The article violates a Wiki rule: "...content must be verifiable". The "Loose Change" creators confirm that the content is deliberately inaccurate. Loose, "Loose Change". <small class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/wiki/Special:Contributions/2602:306:2406:4829:4D2:70EE:F06D:C557" title="Special:Contributions/2602:306:2406:4829:4D2:70EE:F06D:C557">2602:306:2406:4829:4D2:70EE:F06D:C557</a> (<a href="/w/index.php?title=User_talk:2602:306:2406:4829:4D2:70EE:F06D:C557&amp;action=edit&amp;redlink=1" class="new" title="User talk:2602:306:2406:4829:4D2:70EE:F06D:C557 (page does not exist)">talk</a>) 17:13, 17 October 2015 (UTC)</small></p>
+<dl>
+<dd><a href="/wiki/Wikipedia:SOFIXIT" title="Wikipedia:SOFIXIT" class="mw-redirect">The great thing about a Wiki is that YOU can fix it!</a> No need to complain or wait for someone else. -- <a href="/wiki/User_talk:TheRedPenOfDoom" title="User talk:TheRedPenOfDoom"><span style="color:red;;;">TRPoD <small>aka The Red Pen of Doom</small></span></a> 17:59, 17 October 2015 (UTC)
+<dl>
+<dd>Presumably the concern is about <a href="/wiki/Loose_Change_(film_series)" title="Loose Change (film series)">Loose Change (film series)</a>. Discuss your concerns on the article talk page, <a href="/wiki/Talk:Loose_Change_(film_series)" title="Talk:Loose Change (film series)">Talk: Loose Change (film series)</a>. However, on reading the article, I disagree with the OP's assessment that the article presents unsubstantiated claims as credible. The article states that the film series provides <a href="/wiki/Conspiracy_theories" title="Conspiracy theories" class="mw-redirect">conspiracy theories</a> about the September 11 attacks. <a href="/wiki/User:Robert_McClenon" title="User:Robert McClenon">Robert McClenon</a> (<a href="/wiki/User_talk:Robert_McClenon" title="User talk:Robert McClenon">talk</a>) 02:45, 18 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Requested_moves">Requested moves</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=24" title="Edit section: Requested moves">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>How can we know how many "Requested moves" have been ever discussed for an article? I know that we can know it by checking all the talk page topics for the article, I'm asking for a faster way! Thanks <a href="/wiki/User:Mhhossein" title="User:Mhhossein">Mhhossein</a> (<a href="/wiki/User_talk:Mhhossein" title="User talk:Mhhossein">talk</a>) 18:12, 17 October 2015 (UTC)</p>
+<ul>
+<li><span class="template-ping">@<a href="/wiki/User:Mhhossein" title="User:Mhhossein">Mhhossein</a>:</span> Assuming the move request was formed correctly they should all have "Requested move" in the header. So type the following into the search box <code>Requested move prefix:Talk:PAGENAME</code>. That should search all archives associated with the talk page as well. --<a href="/wiki/User:Stabila711" title="User:Stabila711">Stabila711</a> (<a href="/wiki/User_talk:Stabila711" title="User talk:Stabila711">talk</a>) 20:15, 17 October 2015 (UTC)</li>
+</ul>
+<dl>
+<dd>
+<dl>
+<dd><a href="/wiki/File:Face-smile.svg" class="image"><img alt="Face-smile.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Face-smile.svg/18px-Face-smile.svg.png" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Face-smile.svg/27px-Face-smile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Face-smile.svg/36px-Face-smile.svg.png 2x" data-file-width="48" data-file-height="48" /></a> <b>Thank you</b> <a href="/wiki/User:Stabila711" title="User:Stabila711">Stabila711</a>. <a href="/wiki/User:Mhhossein" title="User:Mhhossein">Mhhossein</a> (<a href="/wiki/User_talk:Mhhossein" title="User talk:Mhhossein">talk</a>) 04:19, 18 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Image_display_question">Image display question</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=25" title="Edit section: Image display question">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There's probably an obvious answer I'm missing here. I just added an image to the left side of <a href="/wiki/Pollock-Krasner_House_and_Study_Center" title="Pollock-Krasner House and Study Center">Pollock-Krasner House and Study Center</a> using this markup: <tt>[[File:Pollock-Krasner House studio floor 2.jpg|thumb|left|Barn studio floor]]</tt>. Curiously, it seems like no matter where in the article text I move the image, it still displays down there by the external links. I even tried loading visual editor to try to drag/drop it elsewhere to no avail. Also checked another browser just in case it was some CSS weirdness. I'm curious to know why it's doing this (even more so than I want to fix it).&#160;:) Thanks — <tt><a href="/wiki/User:Rhododendrites" title="User:Rhododendrites"><span style="font-size:90%;letter-spacing:1px;text-shadow:0px -1px 0px Indigo;">Rhododendrites</span></a> <sup style="font-size:80%;"><a href="/wiki/User_talk:Rhododendrites" title="User talk:Rhododendrites">talk</a></sup></tt> \\ 19:21, 17 October 2015 (UTC)</p>
+<dl>
+<dd><span class="template-ping">@<a href="/wiki/User:Rhododendrites" title="User:Rhododendrites">Rhododendrites</a>:</span> It seems to have something to do with the infobox. The image doesn't render until just after the box and when the box is removed it renders in the correct place instead. Strange. I have no idea why that is doing that. --<a href="/wiki/User:Stabila711" title="User:Stabila711">Stabila711</a> (<a href="/wiki/User_talk:Stabila711" title="User talk:Stabila711">talk</a>) 20:08, 17 October 2015 (UTC)
+<dl>
+<dd>Fixed with {{<a href="/wiki/Template:Stack_begin" title="Template:Stack begin">Stack begin</a>}}.<a class="external autonumber" href="//en.wikipedia.org/w/index.php?title=Pollock-Krasner_House_and_Study_Center&amp;diff=686221222&amp;oldid=686213079">[1]</a> <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 20:22, 17 October 2015 (UTC)
+<dl>
+<dd><span class="template-ping">@<a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a>&#160;and <a href="/wiki/User:Stabila711" title="User:Stabila711">Stabila711</a>:</span> Very nice. That's definitely a new one. From what I could tell from removing various parts of the infobox, it just wouldn't let the left image display above the bottom of the infobox. I've looked at {{<a href="/w/index.php?title=Template:Stack_beign&amp;action=edit&amp;redlink=1" class="new" title="Template:Stack beign (page does not exist)">Stack beign</a>}} but I'm still not sure of the technical reason that works (and what CSS elements/properties it adjusts)? — <tt><a href="/wiki/User:Rhododendrites" title="User:Rhododendrites"><span style="font-size:90%;letter-spacing:1px;text-shadow:0px -1px 0px Indigo;">Rhododendrites</span></a> <sup style="font-size:80%;"><a href="/wiki/User_talk:Rhododendrites" title="User talk:Rhododendrites">talk</a></sup></tt> \\ 20:56, 17 October 2015 (UTC)
+<dl>
+<dd>I'm not an expert on the subject. I just know to use the template in situations like this. Note that the problem occurs when there are multiple elements to the right. If <a href="/wiki/File:Pollock-house.jpg" title="File:Pollock-house.jpg">Image:Pollock-house.jpg</a> had been removed from the right then the image on the left could have been displayed next to the infobox without using {{<a href="/wiki/Template:Stack_begin" title="Template:Stack begin">Stack begin</a>}} and {{<a href="/wiki/Template:Stack_end" title="Template:Stack end">Stack end</a>}}. <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 21:05, 17 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Best_way_to_cite_different_parts_of_the_same_video.3F">Best way to cite different parts of the same video?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=26" title="Edit section: Best way to cite different parts of the same video?">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hello. I am writing an article and one of the best sources is a seven minute long video in which a journalist explains several different things that I want to cite in several different sections of the article. What's the best way to cite different parts of the same video? Is there a template that gets me something like <sup>[3](at 2:30)</sup> and <sup>[3](at 4:45)</sup>? The altertives that I know of are either don't include the time (it's a seven minute video, so that seems workable but not great), or use a different <a href="/wiki/Template:Cite_AV_media" title="Template:Cite AV media">Template:Cite AV media</a> instance for each time (which also seems workable but not great).</p>
+<p>Thanks in advance, <a href="/w/index.php?title=User:The_Squirrel_Conspiracy&amp;action=edit&amp;redlink=1" class="new" title="User:The Squirrel Conspiracy (page does not exist)">The Squirrel Conspiracy</a> (<a href="/wiki/User_talk:The_Squirrel_Conspiracy" title="User talk:The Squirrel Conspiracy">talk</a>) 20:45, 17 October 2015 (UTC)</p>
+<dl>
+<dd>See <a href="/wiki/Wikipedia:Citing_sources#Citing_multiple_pages_of_the_same_source" title="Wikipedia:Citing sources">Wikipedia:Citing sources#Citing multiple pages of the same source</a> for a similar situation with page numbers. You could use {{<a href="/wiki/Template:Sfn" title="Template:Sfn">sfn</a>}} with the <code>loc</code> parameter. <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 21:12, 17 October 2015 (UTC)</dd>
+</dl>
+<h1><span class="mw-headline" id="October_18">October 18</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=27" title="Edit section: October 18">edit</a><span class="mw-editsection-bracket">]</span></span></h1>
+<h2><span class="mw-headline" id="Page_Title_Change">Page Title Change</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=28" title="Edit section: Page Title Change">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>How can I edit the punctuation of a page title? Specifically the "Michelle Key" page. Thank you <small><span class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/w/index.php?title=User:Mbarcellos89&amp;action=edit&amp;redlink=1" class="new" title="User:Mbarcellos89 (page does not exist)">Mbarcellos89</a> (<a href="/wiki/User_talk:Mbarcellos89" title="User talk:Mbarcellos89">talk</a> • <a href="/wiki/Special:Contributions/Mbarcellos89" title="Special:Contributions/Mbarcellos89">contribs</a>) 00:14, 18 October 2015 (UTC)</span></small></p>
+<dl>
+<dd>I moved <a href="/wiki/Michelle_key" title="Michelle key" class="mw-redirect">Michelle key</a> to <a href="/wiki/Michelle_Key" title="Michelle Key">Michelle Key</a>. --&#160;<a href="/wiki/User:GB_fan" title="User:GB fan">GB</a>&#160;<a href="/wiki/User_talk:GB_fan" title="User talk:GB fan">fan</a> 00:21, 18 October 2015 (UTC)
+<dl>
+<dd>I assume this is what was wanted, although key versus Key is called <a href="/wiki/Capitalization" title="Capitalization">capitalization</a>. <a href="/wiki/Punctuation" title="Punctuation">Punctuation</a> is about commas, periods, and some other characters. <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 12:15, 18 October 2015 (UTC)</dd>
+</dl>
+</dd>
+<dd>To answer the original question though, the page would need to be <a href="/wiki/Wikipedia:MOVE" title="Wikipedia:MOVE" class="mw-redirect">WP:MOVEd</a>. <span style="font-family:monospace;"><a href="/wiki/User:Dismas" title="User:Dismas">Dismas</a></span>|<a href="/wiki/User_talk:Dismas" title="User talk:Dismas"><sup>(talk)</sup></a> 03:14, 18 October 2015 (UTC)</dd>
+</dl>
+<h2><span class="mw-headline" id="Question_on_Reference_Desk_repeatedly_deleted.">Question on Reference Desk repeatedly deleted.</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=29" title="Edit section: Question on Reference Desk repeatedly deleted.">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="navbox collapsible collapsed" style="font-size:100%; margin-top: 0.2em;">
+<tr>
+<th class="navbox-title" style="background-color:#f2dfce;"><a href="/wiki/Wikipedia:EVASION" title="Wikipedia:EVASION" class="mw-redirect">WP:EVASION</a> --<a href="/wiki/User:Stabila711" title="User:Stabila711">Stabila711</a> (<a href="/wiki/User_talk:Stabila711" title="User talk:Stabila711">talk</a>) 02:24, 18 October 2015 (UTC)</th>
+</tr>
+<tr>
+<td style="font-style:italic;">The following discussion has been closed. <span style="color:red;"><b>Please do not modify it.</b></span></td>
+</tr>
+<tr>
+<td style="border: solid 1px silver; padding: 8px; background-color: #fcf4ef; text-align: left;">
+<p>Over the last year or so I have occasionally asked a question in Reference Desk Languages or Math pages. Particularly in Languages the service is pretty darn good. Good helpful answers were posted sometimes within half an hour.</p>
+<p>However a question I posted yesterday (German abbreviation Sct) disappeared. I thought it must be a computer glitch, so I posted it again. That disappeared too. I posted a third time and that went as well. So it seems it is being removed intentionally.</p>
+<p>Why? Is there a problem with the question?</p>
+<p>Is someone being a vandal? If so, can he/she be counselled or stopped? <a href="/wiki/Special:Contributions/1.122.34.124" title="Special:Contributions/1.122.34.124">1.122.34.124</a> (<a href="/wiki/User_talk:1.122.34.124" title="User talk:1.122.34.124">talk</a>) 02:08, 18 October 2015 (UTC)</p>
+<dl>
+<dd>Because you are evading your <a class="external text" href="https://en.wikipedia.org/wiki/Special:Contributions/124.182.36.62">block</a>. <a href="/wiki/User:Supdiop" title="User:Supdiop">Supdiop</a>&#160;(<a href="/wiki/User_talk:Supdiop" title="User talk:Supdiop"><small>T</small></a>🔹<a href="/wiki/Special:Contributions/Supdiop" title="Special:Contributions/Supdiop"><small>C</small></a>) 02:20, 18 October 2015 (UTC)</dd>
+</dl>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Cherry_Patch_Ranch">Cherry Patch Ranch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=30" title="Edit section: Cherry Patch Ranch">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Does the content about Lamar Odom belong in <a href="/wiki/Cherry_Patch_Ranch" title="Cherry Patch Ranch" class="mw-redirect">Cherry Patch Ranch</a> (now called Dennis Hof's Love Ranch), or should it be removed? I'm not sure if the place is even notable, but my concern is if something scandalous happens to a celebrity at a particular place - such as hotel or a place like this - is it appropriate to include information about it in the place's article just because the incident happened there? What if this had happened at a big-name hotel or restaurant or other place? Would we include it in that places's article? Thoughts?</p>
+<p>A separate issue is that <i>if</i> this place is indeed notable, shouldn't it be moved to its new name since it's much more prominent than the old name, and the new name has been in place for several years?</p>
+<p><a href="/wiki/User:Czoal" title="User:Czoal">Czoal</a> (<a href="/wiki/User_talk:Czoal" title="User talk:Czoal">talk</a>) 02:47, 18 October 2015 (UTC)</p>
+<dl>
+<dd>I've moved the article to <a href="/wiki/Dennis_Hof%27s_Love_Ranch" title="Dennis Hof's Love Ranch">Dennis Hof's Love Ranch</a>. Normally, <a href="/wiki/Wikipedia:NOTINHERITED" title="Wikipedia:NOTINHERITED" class="mw-redirect">notability is not inherited</a>, meaning that a celebrity scandal that happened to occur there doesn't make the place notable. But in this case, the sources cited in the article suggest that the place may be notable independent of that incident. If there are multiple reliable sources providing significant coverage of a business, that satisfies the criteria for inclusion in <a href="/wiki/Wikipedia:CORP" title="Wikipedia:CORP" class="mw-redirect">WP:CORP</a>. But I'd say the case for notability can be made, but it's weak. ~<a href="/wiki/User:Amatulic" title="User:Amatulic">Amatulić</a> <small>(<a href="/wiki/User_talk:Amatulic#top" title="User talk:Amatulic">talk</a>)</small> 04:33, 18 October 2015 (UTC)</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>Thanks for moving it. And, yes, I agree that the subject's notability is hanging on by a thread. In any case, my primary concern is actually about whether the Odom content should be included. Any thoughts on that? <a href="/wiki/User:Czoal" title="User:Czoal">Czoal</a> (<a href="/wiki/User_talk:Czoal" title="User talk:Czoal">talk</a>) 05:19, 18 October 2015 (UTC)
+<dl>
+<dd><span class="template-ping">@<a href="/wiki/User:Czoal" title="User:Czoal">Czoal</a>:</span> I think it falls into the category of trivia. The article would not suffer from its removal. ~<a href="/wiki/User:Amatulic" title="User:Amatulic">Amatulić</a> <small>(<a href="/wiki/User_talk:Amatulic#top" title="User talk:Amatulic">talk</a>)</small> 06:24, 18 October 2015 (UTC)
+<dl>
+<dd>That's a great point about it essentially being trivia. I removed the content. Thanks. <a href="/wiki/User:Czoal" title="User:Czoal">Czoal</a> (<a href="/wiki/User_talk:Czoal" title="User talk:Czoal">talk</a>) 20:09, 18 October 2015 (UTC)</dd>
+<dd>Update: The editor who <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Dennis_Hof%27s_Love_Ranch&amp;diff=685646775&amp;oldid=589221382">originally added the Odom content</a> to the article has reverted my removal of it, with <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Dennis_Hof%27s_Love_Ranch&amp;diff=686378602&amp;oldid=686377447">this edit summary</a>: "Extremely heavily reported. Major news events at locations are suitable for those location articles." I think it's inappropriate. If the incident happened at the <a href="/wiki/White_House" title="White House">White House</a>, would we include it in the article for The White House? If it happened at <a href="/wiki/Madison_Square_Garden" title="Madison Square Garden">Madison Square Garden</a>, would we include it in the article for Madison Square Garden? <a href="/wiki/User:Czoal" title="User:Czoal">Czoal</a> (<a href="/wiki/User_talk:Czoal" title="User talk:Czoal">talk</a>) 21:58, 18 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Category:Candidates_for_speedy_deletion_as_hoaxes"><a href="/wiki/Category:Candidates_for_speedy_deletion_as_hoaxes" title="Category:Candidates for speedy deletion as hoaxes">Category:Candidates for speedy deletion as hoaxes</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=31" title="Edit section: Category:Candidates for speedy deletion as hoaxes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This category has been stuck a 2 for days, even though there are no pages tagged as a hox. What's wrong?--<a href="/wiki/User:Bbb23" title="User:Bbb23">Bbb23</a> (<a href="/wiki/User_talk:Bbb23" title="User talk:Bbb23">talk</a>) 04:45, 18 October 2015 (UTC)</p>
+<ul>
+<li><span class="template-ping">@<a href="/wiki/User:Bbb23" title="User:Bbb23">Bbb23</a>:</span> That is odd. On the main category page (<a href="/wiki/Category:Speedy_deletion" title="Category:Speedy deletion">Category:Speedy deletion</a>) it lists the current pages under hoaxes as 1P, 2F. The 1 page is accounted for. I am assuming the 2F stands for 2 files so it must be something in the File namespace that is triggering it. I just don't know why it is not displaying those files in the category listings. The same thing is happening with <a href="/wiki/Category:Candidates_for_speedy_deletion_for_unspecified_reason" title="Category:Candidates for speedy deletion for unspecified reason">Category:Candidates for speedy deletion for unspecified reason</a>. It is showing 1F on the main category page but no listings. --<a href="/wiki/User:Stabila711" title="User:Stabila711">Stabila711</a> (<a href="/wiki/User_talk:Stabila711" title="User talk:Stabila711">talk</a>) 05:38, 18 October 2015 (UTC)</li>
+<li>This seems like a much larger issue and is probably worth a bug report. I would file one myself but I don't know how to do that. The File namespace is not being allocated to categories correctly. This can be seen multiple times on the speedy deletion page. Even a category marked for deletion as empty (<a href="/wiki/Category:Wooldridge_Monuments_images" title="Category:Wooldridge Monuments images">Category:Wooldridge Monuments images</a>) says it contains 10 files and even warns that it doesn't appear empty even though it is. I am going to copy and paste this thread over to VPT and request a bug report be filed. --<a href="/wiki/User:Stabila711" title="User:Stabila711">Stabila711</a> (<a href="/wiki/User_talk:Stabila711" title="User talk:Stabila711">talk</a>) 05:59, 18 October 2015 (UTC)</li>
+<li>Now discussed at <a href="/wiki/Wikipedia:Village_pump_(technical)#Categories_not_placing_items_in_the_File_namespace_correctly." title="Wikipedia:Village pump (technical)">Wikipedia:Village pump (technical)#Categories not placing items in the File namespace correctly.</a> <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 12:10, 18 October 2015 (UTC)</li>
+</ul>
+<h2><span class="mw-headline" id="Curly_or_straight_brackets">Curly or straight brackets</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=32" title="Edit section: Curly or straight brackets">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>What do three or more curly or straight brackets do in wikimarkup?—<a href="/wiki/User:Eat_me,_I%27m_an_azuki" title="User:Eat me, I'm an azuki">Eat me, I'm an azuki</a> (<a href="/wiki/User_talk:Eat_me,_I%27m_an_azuki" title="User talk:Eat me, I'm an azuki">talk</a>&#160;<b>·</b> <a href="/wiki/Special:Contributions/Eat_me,_I%27m_an_azuki" title="Special:Contributions/Eat me, I'm an azuki">contribs</a>&#160;<b>·</b> <a href="/wiki/Special:EmailUser/Eat_me,_I%27m_an_azuki" title="Special:EmailUser/Eat me, I'm an azuki">email</a>) 08:52, 18 October 2015 (UTC)</p>
+<ul>
+<li><span class="template-ping">@<a href="/wiki/User:Eat_me,_I%27m_an_azuki" title="User:Eat me, I'm an azuki">Eat me, I'm an azuki</a>:</span> Three or more brackets don't do anything special that I am aware of. Although brackets in multiples of two (four, six, ect.) will produce a link surrounded by brackets. [[<a href="/w/index.php?title=Example_A&amp;action=edit&amp;redlink=1" class="new" title="Example A (page does not exist)">Example A</a>]]. Odd numbered brackets do nothing. [[[Example B]]]. Multiple sets of curly braces can signify nested templates. For example, {{small|{{small|Test}}}} will produce <small style="font-size:85%;"><small style="font-size:85%;">Test</small></small> --<a href="/wiki/User:Stabila711" title="User:Stabila711">Stabila711</a> (<a href="/wiki/User_talk:Stabila711" title="User talk:Stabila711">talk</a>) 09:00, 18 October 2015 (UTC)</li>
+</ul>
+<dl>
+<dd>(ec)Hi <a href="/wiki/User:Eat_me,_I%27m_an_azuki" title="User:Eat me, I'm an azuki">Eat me, I'm an azuki</a> - Curly brackets are used for transclusions, straight brackets are for links. Three or more are either nesting multiple links/transclusions or simply an error. Do you have a specific example to show us? <a href="/wiki/User:Dodger67" title="User:Dodger67">Roger (Dodger67)</a> (<a href="/wiki/User_talk:Dodger67" title="User talk:Dodger67">talk</a>) 09:06, 18 October 2015 (UTC)
+<dl>
+<dd><a href="/wiki/Template:Infobox_Israel_municipality" title="Template:Infobox Israel municipality">Template:Infobox Israel municipality</a> just as an example.—<a href="/wiki/User:Eat_me,_I%27m_an_azuki" title="User:Eat me, I'm an azuki">Eat me, I'm an azuki</a> (<a href="/wiki/User_talk:Eat_me,_I%27m_an_azuki" title="User talk:Eat me, I'm an azuki">talk</a>&#160;<b>·</b> <a href="/wiki/Special:Contributions/Eat_me,_I%27m_an_azuki" title="Special:Contributions/Eat me, I'm an azuki">contribs</a>&#160;<b>·</b> <a href="/wiki/Special:EmailUser/Eat_me,_I%27m_an_azuki" title="Special:EmailUser/Eat me, I'm an azuki">email</a>) 09:39, 18 October 2015 (UTC)
+<dl>
+<dd>I only see doubles there, no triples. <a href="/wiki/User:Dodger67" title="User:Dodger67">Roger (Dodger67)</a> (<a href="/wiki/User_talk:Dodger67" title="User talk:Dodger67">talk</a>) 09:44, 18 October 2015 (UTC)
+<dl>
+<dd><span class="template-ping">@<a href="/wiki/User:Eat_me,_I%27m_an_azuki" title="User:Eat me, I'm an azuki">Eat me, I'm an azuki</a>:</span> Triple curly brackets are used in template definitions to refer to the parameters passed to the template. See <a href="/wiki/Help:Template#Handling_parameters" title="Help:Template">Help:Template#Handling parameters</a>. -- <a href="/wiki/User:John_of_Reading" title="User:John of Reading">John of Reading</a> (<a href="/wiki/User_talk:John_of_Reading" title="User talk:John of Reading">talk</a>) 10:08, 18 October 2015 (UTC)
+<dl>
+<dd>Yes, double curly brackets <code>{{...}}</code> is either <a href="/wiki/Wikipedia:Transclusion" title="Wikipedia:Transclusion">transclusion</a> or <a href="/wiki/Help:Magic_words" title="Help:Magic words">magic words and parser fucntions</a>, while triple curly brackets <code>{{{...}}}</code> is template parameters. More than three is nesting of double or triple cases (or an error). It's very common for ending brackets and can make template code difficult to read when there are many. A single curly bracket <code>{...}</code> has no meaning in syntax and is just displayed as text. Three straight brackets <code>[[[...]]]</code> has no meaning. Double straight brackets <code>[[...]]</code> are not usually nested except in file descriptions where four straight ending brackets can occur with a wikilink at the end of the file decription <code>[[File:...|Description [[...]]]]</code>. <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 12:08, 18 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Edit_count">Edit count</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=33" title="Edit section: Edit count">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I have noticed that recently in User contributions/Edit count <a class="external text" href="https://tools.wmflabs.org/xtools-ec/?user=Grahamboat&amp;project=en.wikipedia.org">here</a> the table heading for "Articles" is no longer in English but some Oriental language (Chinese?). This must be a mistake or glitch. Cheers. <a href="/wiki/User:Grahamboat" title="User:Grahamboat">Grahamboat</a> (<a href="/wiki/User_talk:Grahamboat" title="User talk:Grahamboat">talk</a>) 18:28, 18 October 2015 (UTC)</p>
+<dl>
+<dd>Does the same for me too. That is, looking up my account vs. yours. <span style="font-family:monospace;"><a href="/wiki/User:Dismas" title="User:Dismas">Dismas</a></span>|<a href="/wiki/User_talk:Dismas" title="User talk:Dismas"><sup>(talk)</sup></a> 19:29, 18 October 2015 (UTC)</dd>
+<dd>Looks like Korean. I noticed it a long time ago and I don't think it's ever showed anything else for me. <a href="/wiki/User:Cannolis" title="User:Cannolis">Cannolis</a> (<a href="/wiki/User_talk:Cannolis" title="User talk:Cannolis">talk</a>) 19:37, 18 October 2015 (UTC)</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>It is Korean – Google translates it as <b>General documents</b>. It use to be titled <b>Article(s)</b> but I can’t say how long ago because I don’t go there that often. <a href="/wiki/User:Grahamboat" title="User:Grahamboat">Grahamboat</a> (<a href="/wiki/User_talk:Grahamboat" title="User talk:Grahamboat">talk</a>) 20:48, 18 October 2015 (UTC)
+<dl>
+<dd>It's a known issue. See <a href="/wiki/Wikipedia:Village_pump_(technical)/Archive_138#edit_count_language" title="Wikipedia:Village pump (technical)/Archive 138">Wikipedia:Village pump (technical)/Archive 138#edit count language</a>. <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 21:00, 18 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>OK – just curious – I can live with it. Cheers. <a href="/wiki/User:Grahamboat" title="User:Grahamboat">Grahamboat</a> (<a href="/wiki/User_talk:Grahamboat" title="User talk:Grahamboat">talk</a>) 21:49, 18 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Curid">Curid</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=34" title="Edit section: Curid">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>What is the smallest value x for which <a class="external text" href="https://en.wikipedia.org/w/index.php?curid=x">curid</a> does not generate a "Bad title" message? <a href="/wiki/User:GeoffreyT2000" title="User:GeoffreyT2000">GeoffreyT2000</a> (<a href="/wiki/User_talk:GeoffreyT2000" title="User talk:GeoffreyT2000">talk</a>) 18:32, 18 October 2015 (UTC)</p>
+<dl>
+<dd><a class="external free" href="https://en.wikipedia.org/w/index.php?curid=10">https://en.wikipedia.org/w/index.php?curid=10</a>. The page history <a class="external autonumber" href="https://en.wikipedia.org/w/index.php?title=AccessibleComputing&amp;action=history">[2]</a> starts 21 January 2001‎. <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 19:44, 18 October 2015 (UTC)</dd>
+</dl>
+<h2><span class="mw-headline" id="Berney_baronets"><a href="/wiki/Berney_baronets" title="Berney baronets">Berney baronets</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=35" title="Edit section: Berney baronets">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Please help me get the "citations" correct in this article - they all look fine to me. What can we do and can you please see if you can help? cheers <a href="/w/index.php?title=User:Srbernadette&amp;action=edit&amp;redlink=1" class="new" title="User:Srbernadette (page does not exist)">Srbernadette</a> (<a href="/wiki/User_talk:Srbernadette" title="User talk:Srbernadette">talk</a>) 21:36, 18 October 2015 (UTC)</p>
+<dl>
+<dd>The problem, as I tried to explain at <a href="/wiki/Talk:Berney_baronets" title="Talk:Berney baronets">Talk:Berney baronets</a> is that several of the citations go to search results rather than documents. If the db being searched changes its contents (as is likely) there is no guarantee that those particular searches will return the same results. Instead, we must cite and link to the actual documents. A problem here is that the search points to documents behind a paywall, and will not give the exact url without registration. <a href="/wiki/User:DESiegel" title="User:DESiegel">DES</a> <a href="/wiki/User_talk:DESiegel" title="User talk:DESiegel"><sup>(talk)</sup></a> 22:05, 18 October 2015 (UTC)
+<dl>
+<dd>These would also seem to be primary source documentation and not third party sources which we prefer. -- <a href="/wiki/User_talk:TheRedPenOfDoom" title="User talk:TheRedPenOfDoom"><span style="color:red;;;">TRPoD <small>aka The Red Pen of Doom</small></span></a> 23:21, 18 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<h1><span class="mw-headline" id="October_19">October 19</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=36" title="Edit section: October 19">edit</a><span class="mw-editsection-bracket">]</span></span></h1>
+<h2><span class="mw-headline" id="What_is_a_reputable_source">What is a reputable source</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=37" title="Edit section: What is a reputable source">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>my page is 100% factual, based on a rising artist.</p>
+<p>i'm not sure what a verifiable source means.. as you can clearly go to them and see they pertain to the individual discussed.. <small><span class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/w/index.php?title=User:Lux44-musicpages&amp;action=edit&amp;redlink=1" class="new" title="User:Lux44-musicpages (page does not exist)">Lux44-musicpages</a> (<a href="/wiki/User_talk:Lux44-musicpages" title="User talk:Lux44-musicpages">talk</a> • <a href="/wiki/Special:Contributions/Lux44-musicpages" title="Special:Contributions/Lux44-musicpages">contribs</a>) 05:58, 19 October 2015 (UTC)</span></small></p>
+<dl>
+<dd><span class="template-ping">@<a href="/w/index.php?title=User:Lux44-musicpages&amp;action=edit&amp;redlink=1" class="new" title="User:Lux44-musicpages (page does not exist)">Lux44-musicpages</a>:</span> Hello and welcome to the Teahouse!</dd>
+<dd><a href="/wiki/Wikipedia:TOOSOON" title="Wikipedia:TOOSOON" class="mw-redirect">we dont cover artists as they are "risiing"</a> we wait until they have risen <a href="/wiki/Wikipedia:42" title="Wikipedia:42" class="mw-redirect">to the point that they and their works have been covered in a significant manner by sources not related to them</a> that have a <a href="/wiki/Wikipedia:RS" title="Wikipedia:RS" class="mw-redirect">reputation for subject matter expertise, accuracy, fact checking and editorial oversight</a>. -- <a href="/wiki/User_talk:TheRedPenOfDoom" title="User talk:TheRedPenOfDoom"><span style="color:red;;;">TRPoD <small>aka The Red Pen of Doom</small></span></a> 06:07, 19 October 2015 (UTC)</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>This isn't the Teahouse. Welcome to the Help Desk. <a href="/wiki/User:Robert_McClenon" title="User:Robert McClenon">Robert McClenon</a> (<a href="/wiki/User_talk:Robert_McClenon" title="User talk:Robert McClenon">talk</a>) 21:32, 19 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<p>they've been on american idol, the x factor, have had 2 record deals, 2 albums, as well as worked with huge producers. <small><span class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/w/index.php?title=User:Lux44-musicpages&amp;action=edit&amp;redlink=1" class="new" title="User:Lux44-musicpages (page does not exist)">Lux44-musicpages</a> (<a href="/wiki/User_talk:Lux44-musicpages" title="User talk:Lux44-musicpages">talk</a> • <a href="/wiki/Special:Contributions/Lux44-musicpages" title="Special:Contributions/Lux44-musicpages">contribs</a>) 06:09, 19 October 2015 (UTC)</span></small></p>
+<dl>
+<dd>
+<dl>
+<dd>we only care if reliable sources have cared to cover her - got any of that? -- <a href="/wiki/User_talk:TheRedPenOfDoom" title="User talk:TheRedPenOfDoom"><span style="color:red;;;">TRPoD <small>aka The Red Pen of Doom</small></span></a> 06:37, 19 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>You should sign your comments by adding <code>~~~~</code> at the end - ~~~~</dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd><span class="template-ping">@<a href="/w/index.php?title=User:Lux44-musicpages&amp;action=edit&amp;redlink=1" class="new" title="User:Lux44-musicpages (page does not exist)">Lux44-musicpages</a>:</span> Please see <a href="/wiki/Wikipedia:V" title="Wikipedia:V" class="mw-redirect">WP:V</a> for what verifiability means here and <a href="/wiki/Wikipedia:REFB" title="Wikipedia:REFB" class="mw-redirect">WP:REFB</a> for how to put references into the article. Right now the article on <a href="/wiki/Harley_Huke" title="Harley Huke">Harley Huke</a>, which I assume this question is in reference to, does not cite any references except a YouTube link. That is the main problem with the article right now. <span style="font-family:monospace;"><a href="/wiki/User:Dismas" title="User:Dismas">Dismas</a></span>|<a href="/wiki/User_talk:Dismas" title="User talk:Dismas"><sup>(talk)</sup></a> 12:48, 19 October 2015 (UTC)</dd>
+</dl>
+<p>Please read <a href="/wiki/Wikipedia:UPANDCOMING" title="Wikipedia:UPANDCOMING" class="mw-redirect">WP:UPANDCOMING</a>. --<a href="/wiki/User:Orangemike" title="User:Orangemike"><span style="color:#F80">Orange Mike</span></a> | <a href="/wiki/User_talk:Orangemike" title="User talk:Orangemike"><span style="color:#FA0">Talk</span></a> 15:02, 19 October 2015 (UTC)</p>
+<dl>
+<dd>Also kindly see <a href="/wiki/Wikipedia:BAND" title="Wikipedia:BAND" class="mw-redirect">WP:BAND</a> for information on what the inclusion criteria is <a href="/wiki/User:Tiggerjay" title="User:Tiggerjay">Tiggerjay</a> (<a href="/wiki/User_talk:Tiggerjay" title="User talk:Tiggerjay">talk</a>) 16:04, 19 October 2015 (UTC)</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>And to explain a bit more in words, <a href="/w/index.php?title=User:Lux44-musicpages&amp;action=edit&amp;redlink=1" class="new" title="User:Lux44-musicpages (page does not exist)">Lux44-musicpages</a>, the point is that a successful Wikipedia article is based almost 100% on what people unconnected with the subject have published about them. Wikipedia has hardly any interest in what somebody says about themselves, or what their friends, relatives, or associates say about them; or even in what they have done, unless and until somebody unconnected with them writes about it. Does that make things clearer? --<a href="/wiki/User:ColinFine" title="User:ColinFine">ColinFine</a> (<a href="/wiki/User_talk:ColinFine" title="User talk:ColinFine">talk</a>) 17:02, 19 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Nightlink">Nightlink</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=38" title="Edit section: Nightlink">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I was looking up Nightlink on your Website, and I had a Nightlink to add to your page, I had a look at how to add the new Information, but I could not find out how or where. Nightlink is a Volunteer Service at Night time when people can become vulnerable and scared or disorientated, so they have a number they can call and be able to speak to someone at any time of the night. It is similar to all the other organisations, but from there website, it is mainly in Cornwall. There is probably more information but I have not found any at the moment, but I thought you may like to add this small addition to your page if you think it worthy of a space. Thank you. <small class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/wiki/Special:Contributions/81.105.119.101" title="Special:Contributions/81.105.119.101">81.105.119.101</a> (<a href="/w/index.php?title=User_talk:81.105.119.101&amp;action=edit&amp;redlink=1" class="new" title="User talk:81.105.119.101 (page does not exist)">talk</a>) 07:54, 19 October 2015 (UTC)</small></p>
+<dl>
+<dd>The only article we have under a similar title is <a href="/wiki/NightLink" title="NightLink">NightLink</a>, but it's about an Australian bus service. <a href="/wiki/User:Dodger67" title="User:Dodger67">Roger (Dodger67)</a> (<a href="/wiki/User_talk:Dodger67" title="User talk:Dodger67">talk</a>) 11:57, 19 October 2015 (UTC)</dd>
+</dl>
+<dl>
+<dd>Seems like the above is kind of a new article proposal, and the subject is described for example here:
+<ul>
+<li><a rel="nofollow" class="external free" href="http://nightlink.co.uk/">http://nightlink.co.uk/</a></li>
+<li><a rel="nofollow" class="external free" href="http://www.cornwallmentalhealth.com/directory/organisations/show/100-nightlink">http://www.cornwallmentalhealth.com/directory/organisations/show/100-nightlink</a></li>
+<li><a rel="nofollow" class="external free" href="http://www.re-gain.org.uk/projects.htm">http://www.re-gain.org.uk/projects.htm</a></li>
+</ul>
+</dd>
+<dd><a href="/wiki/User:CiaPan" title="User:CiaPan">CiaPan</a> (<a href="/wiki/User_talk:CiaPan" title="User talk:CiaPan">talk</a>) 12:33, 19 October 2015 (UTC)</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>... and has had coverage by the BBC at <a rel="nofollow" class="external free" href="http://www.bbc.co.uk/news/uk-england-cornwall-19341375">http://www.bbc.co.uk/news/uk-england-cornwall-19341375</a> - <a href="/wiki/User:David_Biddulph" title="User:David Biddulph">David Biddulph</a> (<a href="/wiki/User_talk:David_Biddulph" title="User talk:David Biddulph">talk</a>) 12:49, 19 October 2015 (UTC)</dd>
+<dd>... and by <a href="/wiki/Cornish_Guardian" title="Cornish Guardian">Cornish Guardian</a>: <a rel="nofollow" class="external free" href="http://www.cornishguardian.co.uk/joy-hailed-pioneering-helpline-night-message/story-12772853-detail/story.html">http://www.cornishguardian.co.uk/joy-hailed-pioneering-helpline-night-message/story-12772853-detail/story.html</a> --<a href="/wiki/User:CiaPan" title="User:CiaPan">CiaPan</a> (<a href="/wiki/User_talk:CiaPan" title="User talk:CiaPan">talk</a>) 14:12, 19 October 2015 (UTC)
+<dl>
+<dd>Created a request for this over at AFC. <a href="/wiki/User:Tiggerjay" title="User:Tiggerjay">Tiggerjay</a> (<a href="/wiki/User_talk:Tiggerjay" title="User talk:Tiggerjay">talk</a>) 16:01, 19 October 2015 (UTC)
+<dl>
+<dd>The request placed here: <a href="/wiki/Wikipedia:Requested_articles/Business_and_economics/Companies#N" title="Wikipedia:Requested articles/Business and economics/Companies">Wikipedia:Requested articles/Business and economics/Companies#N</a><br />
+(found by <a href="/wiki/Special:WhatLinksHere/Nightlink" title="Special:WhatLinksHere/Nightlink">Special:WhatLinksHere/Nightlink</a>)&#160;;-) --<a href="/wiki/User:CiaPan" title="User:CiaPan">CiaPan</a> (<a href="/wiki/User_talk:CiaPan" title="User talk:CiaPan">talk</a>) 21:29, 19 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Pending_approval_for_review_of_article_in_Arabic">Pending approval for review of article in Arabic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=39" title="Edit section: Pending approval for review of article in Arabic">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hello, I have been waiting for nearly two months for a review to be processed. This is the link <a class="external free" href="https://ar.wikipedia.org/w/index.php?title=%D8%B3%D9%84%D9%85%D8%A7%D9%86_%D9%8A%D9%88%D8%B3%D9%81_%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A&amp;oldid=14907243&amp;diff=cur">https://ar.wikipedia.org/w/index.php?title=%D8%B3%D9%84%D9%85%D8%A7%D9%86_%D9%8A%D9%88%D8%B3%D9%81_%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A&amp;oldid=14907243&amp;diff=cur</a></p>
+<p>Can someone help me please?</p>
+<p>I have tried the Arabic IRC channel but there is none coming on to help...so I spoke to the English channel and they suggested a open a help desk ticker..</p>
+<p>Please help Thanks Aawsat <small><span class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/w/index.php?title=User:Aawsat-editor&amp;action=edit&amp;redlink=1" class="new" title="User:Aawsat-editor (page does not exist)">Aawsat-editor</a> (<a href="/w/index.php?title=User_talk:Aawsat-editor&amp;action=edit&amp;redlink=1" class="new" title="User talk:Aawsat-editor (page does not exist)">talk</a> • <a href="/wiki/Special:Contributions/Aawsat-editor" title="Special:Contributions/Aawsat-editor">contribs</a>) 11:18, 19 October 2015 (UTC)</span></small></p>
+<dl>
+<dd>The help desk for the <a href="//ar.wikipedia.org/wiki/" class="extiw" title="ar:">Arabic Wikipedia</a> is <a href="//ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9" class="extiw" title="ar:ويكيبيديا:الميدان/مساعدة">at this link</a>. - <a href="/wiki/User:David_Biddulph" title="User:David Biddulph">David Biddulph</a> (<a href="/wiki/User_talk:David_Biddulph" title="User talk:David Biddulph">talk</a>) 11:34, 19 October 2015 (UTC)
+<dl>
+<dd>Why isn't the title in Arabic?? <a href="/wiki/User:Supdiop" title="User:Supdiop">Supdiop</a>&#160;(<a href="/wiki/User_talk:Supdiop" title="User talk:Supdiop"><small>T</small></a>🔹<a href="/wiki/Special:Contributions/Supdiop" title="Special:Contributions/Supdiop"><small>C</small></a>) 13:57, 19 October 2015 (UTC)
+<dl>
+<dd>It is in Arabic. It's <a href="//ar.wikipedia.org/wiki/%D8%B3%D9%84%D9%85%D8%A7%D9%86_%D9%8A%D9%88%D8%B3%D9%81_%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A" class="extiw" title="ar:سلمان يوسف الدوسري">سلمان_يوسف_الدوسري</a> <a href="/wiki/User:Maproom" title="User:Maproom">Maproom</a> (<a href="/wiki/User_talk:Maproom" title="User talk:Maproom">talk</a>) 14:24, 19 October 2015 (UTC)
+<dl>
+<dd>Now its in Arabic. The link op posted has&#160;%D8%B3%D9%84%D9%85%D8%A7%D9%86_%D9%8A%D9%88%D8%B3%D9%81 instead of Arabic. <a href="/wiki/User:Supdiop" title="User:Supdiop">Supdiop</a>&#160;(<a href="/wiki/User_talk:Supdiop" title="User talk:Supdiop"><small>T</small></a>🔹<a href="/wiki/Special:Contributions/Supdiop" title="Special:Contributions/Supdiop"><small>C</small></a>) 14:38, 19 October 2015 (UTC)
+<dl>
+<dd>The OP posted a url and that's how url's are encoded for non-Latin scripts. When you click the link, your browser will maybe display the url in Arabic but if you copy-paste the url from the address bar, you probably get exactly what the OP posted. Our software automatically converts wikilinks like <a href="//ar.wikipedia.org/wiki/%D8%B3%D9%84%D9%85%D8%A7%D9%86_%D9%8A%D9%88%D8%B3%D9%81_%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A" class="extiw" title="ar:سلمان يوسف الدوسري">سلمان يوسف الدوسري</a> to encoded url's. <a href="/wiki/User:PrimeHunter" title="User:PrimeHunter">PrimeHunter</a> (<a href="/wiki/User_talk:PrimeHunter" title="User talk:PrimeHunter">talk</a>) 15:33, 19 October 2015 (UTC)
+<dl>
+<dd>Thanks - <a href="/wiki/User:Supdiop" title="User:Supdiop">Supdiop</a>&#160;(<a href="/wiki/User_talk:Supdiop" title="User talk:Supdiop"><small>T</small></a>🔹<a href="/wiki/Special:Contributions/Supdiop" title="Special:Contributions/Supdiop"><small>C</small></a>) 15:44, 19 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="So_far_so_good.3F">So far so good?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=40" title="Edit section: So far so good?">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Bill_Anagnos" title="Bill Anagnos">Bill_Anagnos</a> <small><span class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/w/index.php?title=User:Jamied_usa&amp;action=edit&amp;redlink=1" class="new" title="User:Jamied usa (page does not exist)">Jamied usa</a> (<a href="/wiki/User_talk:Jamied_usa" title="User talk:Jamied usa">talk</a> • <a href="/wiki/Special:Contributions/Jamied_usa" title="Special:Contributions/Jamied usa">contribs</a>) 13:55, 19 October 2015 (UTC)</span></small></p>
+<dl>
+<dd><span class="template-ping">@<a href="/w/index.php?title=User:Jamied_usa&amp;action=edit&amp;redlink=1" class="new" title="User:Jamied usa (page does not exist)">Jamied usa</a>:</span> in a word, no. While it looks pretty, we don't care so much about that. What matters is that <a href="/wiki/Wikipedia:42" title="Wikipedia:42" class="mw-redirect">the subject is covered in a significant manner by third party sources</a> with a <a href="/wiki/Wikipedia:RS" title="Wikipedia:RS" class="mw-redirect">reputation for fact checking, accuracy and editorial oversight</a> - (books, major newspapers, well respected trade magazines, academic peer reviewed journals etc.) Without demonstrating that third party coverage, nothing else matters.-- <a href="/wiki/User_talk:TheRedPenOfDoom" title="User talk:TheRedPenOfDoom"><span style="color:red;;;">TRPoD <small>aka The Red Pen of Doom</small></span></a> 15:14, 19 October 2015 (UTC)</dd>
+<dd>No, not at all. You need to provide reliable sources not IMDB like sources. It will be deleted soon, so, copy the text. <a href="/wiki/User:Supdiop" title="User:Supdiop">Supdiop</a>&#160;(<a href="/wiki/User_talk:Supdiop" title="User talk:Supdiop"><small>T</small></a>🔹<a href="/wiki/Special:Contributions/Supdiop" title="Special:Contributions/Supdiop"><small>C</small></a>) 15:26, 19 October 2015 (UTC)
+<dl>
+<dd>Please see <a href="/wiki/Wikipedia:ENT" title="Wikipedia:ENT" class="mw-redirect">WP:ENT</a> for more information on the inclusion criteria for what makes an entertainer notable enough for inclusion. Based on the information provided in the article, along with a quick Google search, Bill appears to fail these tests. <a href="/wiki/User:Tiggerjay" title="User:Tiggerjay">Tiggerjay</a> (<a href="/wiki/User_talk:Tiggerjay" title="User talk:Tiggerjay">talk</a>) 19:51, 19 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Astons_Coaches">Astons Coaches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=41" title="Edit section: Astons Coaches">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Can somebody please make a page for Astons Coaches, Worcester <small class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/wiki/Special:Contributions/217.46.139.60" title="Special:Contributions/217.46.139.60">217.46.139.60</a> (<a href="/w/index.php?title=User_talk:217.46.139.60&amp;action=edit&amp;redlink=1" class="new" title="User talk:217.46.139.60 (page does not exist)">talk</a>) 16:17, 19 October 2015 (UTC)</small></p>
+<dl>
+<dd>You can make a request yourself at <a href="/wiki/Wikipedia:Requested_articles" title="Wikipedia:Requested articles">Wikipedia:Requested articles</a>. Or you can create an account and write it yourself with the help of <a href="/wiki/Wikipedia:AFC" title="Wikipedia:AFC" class="mw-redirect">WP:AFC</a>. Feel free to choose either option. After all, this is an encyclopedia written by volunteers, much like yourself, who saw a need and filled it. <span style="font-family:monospace;"><a href="/wiki/User:Dismas" title="User:Dismas">Dismas</a></span>|<a href="/wiki/User_talk:Dismas" title="User talk:Dismas"><sup>(talk)</sup></a> 16:30, 19 October 2015 (UTC)
+<dl>
+<dd>But anyone who tries to create the article will need to establish that the company is <a href="/wiki/Wikipedia:N" title="Wikipedia:N" class="mw-redirect">notable</a>, in the strange sense in which that word is used in Wikipedia. If they can't do that, they will be wasting their time. <a href="/wiki/User:Maproom" title="User:Maproom">Maproom</a> (<a href="/wiki/User_talk:Maproom" title="User talk:Maproom">talk</a>) 23:23, 19 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="unreliability_of_your_contents_by_random_people">unreliability of your contents by random people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=42" title="Edit section: unreliability of your contents by random people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>You have all this information about Wiki: <a class="external free" href="https://en.wikipedia.org/wiki/Wikipedia:Ten_things_you_may_not_know_about_Wikipedia">https://en.wikipedia.org/wiki/Wikipedia:Ten_things_you_may_not_know_about_Wikipedia</a></p>
+<p>How about you should correct that, exactly random people CAN edit the information. Some are the people who have personal or national interests, and can use a totally non existing citation and you will post that information. I found so so many mistakes when it comes to science and history. You need to be careful allowing random people to post about each others country where they can demonstrate a form of national revenge, or antipathy to each other... be careful one day your site can be blow off too. Besides that Wiki is already treated as a cheap sources of unreliable information, but you are creating a huge blog to make people to get involved with fights and interestingly you are counting that some will support you... hmmmm... <small class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/wiki/Special:Contributions/8.42.24.5" title="Special:Contributions/8.42.24.5">8.42.24.5</a> (<a href="/w/index.php?title=User_talk:8.42.24.5&amp;action=edit&amp;redlink=1" class="new" title="User talk:8.42.24.5 (page does not exist)">talk</a>) 16:41, 19 October 2015 (UTC)</small></p>
+<dl>
+<dd>You suggest that someone "should correct that". Can you be more specific? You state that "random people CAN edit the information". I do not see anything in the essay that says otherwise.--<a href="/wiki/User:Sphilbrick" title="User:Sphilbrick"><span style="color:#000E2F;padding:0 4px;font-family: Copperplate Gothic Light">S Philbrick</span></a><a href="/wiki/User_talk:Sphilbrick" title="User talk:Sphilbrick"><span style=";padding:0 4px;color:# 000;font-family: Copperplate Gothic Light">(Talk)</span></a> 16:48, 19 October 2015 (UTC)
+<dl>
+<dd>They might be referring to the section entitled, "You can't actually <i>change</i> anything in Wikipedia…" ~ <i><a href="/wiki/User:ONUnicorn" title="User:ONUnicorn"><span style="color:#0cc">ONUnicorn</span></a></i><sup>(<a href="/wiki/User_talk:ONUnicorn" title="User talk:ONUnicorn">Talk</a>|<a href="/wiki/Special:Contributions/ONUnicorn" title="Special:Contributions/ONUnicorn">Contribs</a>)</sup><small><a href="/wiki/Wikipedia:P%26S" title="Wikipedia:P&amp;S" class="mw-redirect">problem solving</a></small> 21:38, 19 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="The_View_.28U.S._TV_series.29"><i>The View</i> (U.S. TV series)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=43" title="Edit section: The View (U.S. TV series)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Over the past few days, an editor <a class="external text" href="https://en.wikipedia.org/w/index.php?title=The_View_%28U.S._TV_series%29&amp;action=history">added an enormous amount of content</a> to <a href="/wiki/The_View_(U.S._TV_series)" title="The View (U.S. TV series)"><i>The View</i> (U.S. TV Series)</a> regarding a comment made recently by one of the show's co-hosts, Raven-Symoné. In fact, the editor created an entire <a class="external text" href="https://en.wikipedia.org/wiki/The_View_%28U.S._TV_series%29#Refusal_to_hire_people_with_black_names">section</a> devoted to the issue, titled "Refusal to hire people with black names". <a href="/wiki/Wikipedia:UNDUE" title="Wikipedia:UNDUE" class="mw-redirect">WP:UNDUE</a> and <a href="/wiki/Wikipedia:NPOV" title="Wikipedia:NPOV" class="mw-redirect">WP:NPOV</a> comes to mind. I don't plan on editing the article, but wanted to bring my concern here. <a href="/wiki/User:Czoal" title="User:Czoal">Czoal</a> (<a href="/wiki/User_talk:Czoal" title="User talk:Czoal">talk</a>) 20:32, 19 October 2015 (UTC)</p>
+<dl>
+<dd>Whether the section should be in the article is a content dispute. Read <a href="/wiki/Wikipedia:DR" title="Wikipedia:DR" class="mw-redirect">the dispute resolution policy</a>. Discuss on the talk page. If that is inconclusive, follow one of the dispute resolution procedures, such as <a href="/wiki/Wikipedia:3O" title="Wikipedia:3O" class="mw-redirect">third opinion</a> or <a href="/wiki/Wikipedia:RFC" title="Wikipedia:RFC" class="mw-redirect">Request for Comments</a>. <a href="/wiki/User:Robert_McClenon" title="User:Robert McClenon">Robert McClenon</a> (<a href="/wiki/User_talk:Robert_McClenon" title="User talk:Robert McClenon">talk</a>) 21:30, 19 October 2015 (UTC)
+<dl>
+<dd>Thanks, but there's no current dispute in the article. The content is new. I'm just looking for thoughts here. Or if anyone wants to be bold and make edits. I don't have much interest in the subject. My concern is more general with regard to the weight and POV issues. <a href="/wiki/User:Czoal" title="User:Czoal">Czoal</a> (<a href="/wiki/User_talk:Czoal" title="User talk:Czoal">talk</a>) 21:55, 19 October 2015 (UTC)
+<dl>
+<dd>If you just want to ask a question about article content, the talk page is still a good place to ask it. <a href="/wiki/User:Robert_McClenon" title="User:Robert McClenon">Robert McClenon</a> (<a href="/wiki/User_talk:Robert_McClenon" title="User talk:Robert McClenon">talk</a>) 21:59, 19 October 2015 (UTC)
+<dl>
+<dd>I've just discovered that all this content was originally added to <a href="/wiki/Raven-Symon%C3%A9" title="Raven-Symoné">Raven-Symoné</a> and then the same editor simply copied and pasted all of it into <a href="/wiki/The_View_(U.S._TV_series)" title="The View (U.S. TV series)"><i>The View</i> (U.S. TV Series)</a>.<a class="external autonumber" href="https://en.wikipedia.org/wiki/Raven-Symon%C3%A9#Refusal_to_hire_people_with_black_names">[3]</a><a class="external autonumber" href="https://en.wikipedia.org/wiki/The_View_%28U.S._TV_series%29#Refusal_to_hire_people_with_black_names">[4]</a> So now all that content is in <i>both</i> articles, in its entirety. <a href="/wiki/User:Czoal" title="User:Czoal">Czoal</a> (<a href="/wiki/User_talk:Czoal" title="User talk:Czoal">talk</a>) 22:46, 19 October 2015 (UTC)
+<dl>
+<dd>This matter is probably better suited for a more specialized board, like WikiProject Television. <a href="/wiki/User:Czoal" title="User:Czoal">Czoal</a> (<a href="/wiki/User_talk:Czoal" title="User talk:Czoal">talk</a>) 00:35, 20 October 2015 (UTC)</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Mary.2C_Princess_Royal_and_Countess_of_Harewood"><a href="/wiki/Mary,_Princess_Royal_and_Countess_of_Harewood" title="Mary, Princess Royal and Countess of Harewood">Mary, Princess Royal and Countess of Harewood</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=44" title="Edit section: Mary, Princess Royal and Countess of Harewood">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Plesae check - ref number 9 - is it OK? Thanks<a href="/w/index.php?title=User:Srbernadette&amp;action=edit&amp;redlink=1" class="new" title="User:Srbernadette (page does not exist)">Srbernadette</a> (<a href="/wiki/User_talk:Srbernadette" title="User talk:Srbernadette">talk</a>) 22:50, 19 October 2015 (UTC)</p>
+<dl>
+<dd>Are you asking if it's a <a href="/wiki/Wikipedia:RS" title="Wikipedia:RS" class="mw-redirect">reliable source</a>? <a href="/wiki/User:Czoal" title="User:Czoal">Czoal</a> (<a href="/wiki/User_talk:Czoal" title="User talk:Czoal">talk</a>) 23:02, 19 October 2015 (UTC)</dd>
+</dl>
+<dl>
+<dd>No, it was not OK. The reference is a book, not a website, so you should use {{<a href="/wiki/Template:Cite_book" title="Template:Cite book">cite book</a>}} not {{<a href="/wiki/Template:Cite_web" title="Template:Cite web">cite web</a>}}. I have corrected that, and various of the parameters, for example the publisher parameter should contain the name of the publisher, not the various other things you included. See <span class="plainlinks"><a class="external text" href="//en.wikipedia.org/w/index.php?title=&amp;diff=prev&amp;oldid=686571251">this edit</a></span>. --<a href="/wiki/Special:Contributions/86.169.51.102" title="Special:Contributions/86.169.51.102">86.169.51.102</a> (<a href="/w/index.php?title=User_talk:86.169.51.102&amp;action=edit&amp;redlink=1" class="new" title="User talk:86.169.51.102 (page does not exist)">talk</a>) 23:19, 19 October 2015 (UTC)</dd>
+</dl>
+<h2><span class="mw-headline" id="Frances_Lupton"><a href="/wiki/Frances_Lupton" title="Frances Lupton">Frances Lupton</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=45" title="Edit section: Frances Lupton">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Please help - I am trying to add on Olive Middleton - to the Lupton family page - but it is not working. It is near the end of the page. <a href="/w/index.php?title=User:Srbernadette&amp;action=edit&amp;redlink=1" class="new" title="User:Srbernadette (page does not exist)">Srbernadette</a> (<a href="/wiki/User_talk:Srbernadette" title="User talk:Srbernadette">talk</a>) 23:37, 19 October 2015 (UTC)</p>
+<dl>
+<dd>Srbernadette, if you are going to ask us to do another series of edits to a page that you are working on, please do us the curtesy of providing a link to the page in question as I have done in the title of this section. That makes it easier for us to get there. <span style="font-family:monospace;"><a href="/wiki/User:Dismas" title="User:Dismas">Dismas</a></span>|<a href="/wiki/User_talk:Dismas" title="User talk:Dismas"><sup>(talk)</sup></a> 23:47, 19 October 2015 (UTC)</dd>
+</dl>
+<p>Sorry - the page that I have failed to do the link on the word Olive Middleton is down the bottom on the page known as: <b>Frances Lupton</b> <b>. I am sorry if I get confused. Please be patient. Thanks again, signing off from <a href="/w/index.php?title=User:Srbernadette&amp;action=edit&amp;redlink=1" class="new" title="User:Srbernadette (page does not exist)">Srbernadette</a> (<a href="/wiki/User_talk:Srbernadette" title="User talk:Srbernadette">talk</a>) 00:02, 20 October 2015 (UTC)</b></p>
+<dl>
+<dd><img alt="Yes check.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/18px-Yes_check.svg.png" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/27px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/36px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /> <b>Done</b> You only had single square brackets around the link, where you needed double ones. <a href="/wiki/User:Rojomoke" title="User:Rojomoke">Rojomoke</a> (<a href="/wiki/User_talk:Rojomoke" title="User talk:Rojomoke">talk</a>) 00:33, 20 October 2015 (UTC)</dd>
+</dl>
+<h2><span class="mw-headline" id="Nick_Bosustow">Nick Bosustow</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=46" title="Edit section: Nick Bosustow">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Nick Bosustow was an Oscar wining animation produce, and son of Stephen Bosustow.Born in Los Angeles March 28 1940 Married to Julie Jonas April 1971 and had 2 daughters Nicole 1972 and Jennifer 1977. Graduated from Menlo College in 196. In 1969 joined his dad to form Stephen Bosustow Productions in which they produced over 48 animated children's films. Most notably Oscar winner Is It Always Right To Be Right? narrated by Orson Wells and a nominee for The Legend of John Henery sung by Roberta Flack. After 30 years in the industry Nick and his wife Julie joined Peace Corps Guatemala for 2 yeras and in 2004 Nick joined Peace Corps again on staff as the Deputy Country Director Suriname and returned to the States as a senior Peace Corps Recruiter for te Northern California Region. 2010 Julie and Nick retired to Eugene Oregon. 1971 Academy award winner 'Is it Always Right to be right, 1975 Academy Award nominee <i>Legend of John Henry</i> 1984 Producer of TV Emmy wining children's special staring Dick Van Dyke <i>Wrong Way Kid</i>. 1984 Producer 13 episodes Transformers 1986 Producer 13 episodes of Hayley Mills Story Book series <small class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/wiki/Special:Contributions/2601:1C0:C500:56FA:5020:B769:E4A6:D817" title="Special:Contributions/2601:1C0:C500:56FA:5020:B769:E4A6:D817">2601:1C0:C500:56FA:5020:B769:E4A6:D817</a> (<a href="/w/index.php?title=User_talk:2601:1C0:C500:56FA:5020:B769:E4A6:D817&amp;action=edit&amp;redlink=1" class="new" title="User talk:2601:1C0:C500:56FA:5020:B769:E4A6:D817 (page does not exist)">talk</a>) 00:54, 20 October 2015 (UTC)</small></p>
+<h2><span class="mw-headline" id="Create_the_page_of_my_village_Pinjarwadi_.28Ajhadnager.29_.7C_village">Create the page of my village Pinjarwadi (Ajhadnager) | village</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=47" title="Edit section: Create the page of my village Pinjarwadi (Ajhadnager) | village">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hi,</p>
+<p>I would like to create details history of my village.</p>
+<p>Kindly let me now how I should create.</p>
+<p>Moin <small><span class="autosigned">—&#160;Preceding <a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">unsigned</a> comment added by <a href="/w/index.php?title=User:Moinkhan31&amp;action=edit&amp;redlink=1" class="new" title="User:Moinkhan31 (page does not exist)">Moinkhan31</a> (<a href="/wiki/User_talk:Moinkhan31" title="User talk:Moinkhan31">talk</a> • <a href="/wiki/Special:Contributions/Moinkhan31" title="Special:Contributions/Moinkhan31">contribs</a>) 01:39, 20 October 2015 (UTC)</span></small></p>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1046
+Cached time: 20151020022329
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.479 seconds
+Real time usage: 0.684 seconds
+Preprocessor visited node count: 2883/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 82119/2097152 bytes
+Template argument size: 7612/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 2/500
+Lua time usage: 0.056/10.000 seconds
+Lua memory usage: 1.69 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  283.322      1 - -total
+ 76.58%  216.975      1 - Wikipedia:Help_desk/Header
+ 46.41%  131.480      1 - Template:Active_editnotice
+ 39.69%  112.447      1 - Template:Editnotices/Page/Wikipedia:Help_desk
+ 20.32%   57.564      2 - Template:Navbox
+ 19.57%   55.441      1 - Template:Ombox
+ 16.31%   46.206      1 - Template:Help_navigation
+ 11.61%   32.898      1 - Template:Editnotice
+  7.50%   21.251      1 - Template:Help_desk_templates_navbox
+  5.62%   15.923      3 - Template:FULLROOTPAGENAME
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:564696-0!*!0!!en!4!* and timestamp 20151020022328 and revision id 686589736
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Help_desk&amp;oldid=686589736">https://en.wikipedia.org/w/index.php?title=Wikipedia:Help_desk&amp;oldid=686589736</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_help_forums" title="Category:Wikipedia help forums">Wikipedia help forums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Non-talk_pages_that_are_automatically_signed" title="Category:Non-talk pages that are automatically signed">Non-talk pages that are automatically signed</a></li><li><a href="/wiki/Category:Pages_automatically_checked_for_accidental_language_links" title="Category:Pages automatically checked for accidental language links">Pages automatically checked for accidental language links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikipedia%3AHelp+desk&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikipedia%3AHelp+desk" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-project" class="selected"><span><a href="/wiki/Wikipedia:Help_desk"  title="View the project page [c]" accesskey="c">Project page</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Wikipedia_talk:Help_desk"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Wikipedia:Help_desk" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-addsection" class="collapsible"><span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=edit&amp;section=new"  title="Start a new section [+]" accesskey="+">New section</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikipedia:Help_desk" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikipedia:Help_desk" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikipedia:Help_desk&amp;oldid=686589736" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikipedia:Help_desk&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q4026300" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikipedia%3AHelp+desk">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Wikipedia%3AHelp+desk&amp;returnto=Wikipedia%3AHelp+desk&amp;oldid=686589736&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikipedia:Help_desk&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A7%D9%86/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9" title="ويكيبيديا:الميدان/مساعدة – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-azb"><a href="//azb.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%DA%A9%D8%A4%D9%85%DA%A9_%D9%85%DB%8C%D8%B2%DB%8C" title="ویکی‌پدیا:کؤمک میزی – South Azerbaijani" lang="azb" hreflang="azb">تۆرکجه</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE:%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0" title="উইকিপিডিয়া:সাহায্যকেন্দ্র – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Viquip%C3%A8dia:Plantejament_de_preguntes" title="Viquipèdia:Plantejament de preguntes – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Wikipedie:Pot%C5%99ebuji_pomoc" title="Wikipedie:Potřebuji pomoc – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="//cy.wikipedia.org/wiki/Wicipedia:Y_Ddesg_Gymorth" title="Wicipedia:Y Ddesg Gymorth – Welsh" lang="cy" hreflang="cy">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Wikipedia:Fragen_zur_Wikipedia" title="Wikipedia:Fragen zur Wikipedia – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Wikipedia:Caf%C3%A9_(ayuda)" title="Wikipedia:Café (ayuda) – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D9%85%DB%8C%D8%B2_%DA%A9%D9%85%DA%A9" title="ویکی‌پدیا:میز کمک – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Wikip%C3%A9dia:Guilde_des_Guides" title="Wikipédia:Guilde des Guides – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Wikipedia:A_Taberna_(axuda)" title="Wikipedia:A Taberna (axuda) – Galician" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EC%A7%88%EB%AC%B8%EB%B0%A9" title="위키백과:질문방 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Wikipedia:Meja_penolong" title="Wikipedia:Meja penolong – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Aiuto:Sportello_informazioni" title="Aiuto:Sportello informazioni – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%93%D7%9C%D7%A4%D7%A7_%D7%99%D7%99%D7%A2%D7%95%D7%A5" title="ויקיפדיה:דלפק ייעוץ – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%95%E1%83%98%E1%83%99%E1%83%98%E1%83%9E%E1%83%94%E1%83%93%E1%83%98%E1%83%90:%E1%83%AA%E1%83%AE%E1%83%94%E1%83%9A%E1%83%98_%E1%83%AE%E1%83%90%E1%83%96%E1%83%98" title="ვიკიპედია:ცხელი ხაზი – Georgian" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%BD%D1%8B%D2%9B%D1%82%D0%B0%D0%BC%D0%B0_%D2%AF%D1%81%D1%82%D0%B5%D0%BB%D1%96" title="Уикипедия:Анықтама үстелі – Kazakh" lang="kk" hreflang="kk">Қазақша</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Vikipedija:Pagalbos_biuras" title="Vikipedija:Pagalbos biuras – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%AA%E0%B5%80%E0%B4%A1%E0%B4%BF%E0%B4%AF:%E0%B4%B8%E0%B4%B9%E0%B4%BE%E0%B4%AF%E0%B4%AE%E0%B5%87%E0%B4%B6" title="വിക്കിപീഡിയ:സഹായമേശ – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/Wikipedia:Meja_bantuan" title="Wikipedia:Meja bantuan – Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Help:helpdesk" title="Help:helpdesk – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="//ne.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE_%E0%A4%95%E0%A4%95%E0%A5%8D%E0%A4%B7" title="विकिपीडिया:सहायता कक्ष – Nepali" lang="ne" hreflang="ne">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/Wikipedia:%E5%88%A9%E7%94%A8%E6%A1%88%E5%86%85" title="Wikipedia:利用案内 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Wikipedia:Vannposten" title="Wikipedia:Vannposten – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Wikipedia:Pytania_nowicjuszy" title="Wikipedia:Pytania nowicjuszy – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Wikipedia:Contato/Linha_direta" title="Wikipedia:Contato/Linha direta – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B" title="Википедия:Форум/Вопросы – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="//sco.wikipedia.org/wiki/Wikipedia:Help_desk" title="Wikipedia:Help desk – Scots" lang="sco" hreflang="sco">Scots</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Wikip%C3%A9dia:Potrebujem_pomoc" title="Wikipédia:Potrebujem pomoc – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-ckb"><a href="//ckb.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%D9%BE%DB%8C%D8%AF%DB%8C%D8%A7:%D9%BE%D8%B1%D8%B3%DA%AF%D8%A7" title="ویکیپیدیا:پرسگا – Central Kurdish" lang="ckb" hreflang="ckb">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Wikipedia:Kahvihuone_(Wikipedian_k%C3%A4yt%C3%B6n_neuvonta)" title="Wikipedia:Kahvihuone (Wikipedian käytön neuvonta) – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Wikipedia:Wikipediafr%C3%A5gor" title="Wikipedia:Wikipediafrågor – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%80%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE:%E0%AE%92%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BE%E0%AE%9A%E0%AF%88%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D" title="விக்கிப்பீடியா:ஒத்தாசைப் பக்கம் – Tamil" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="//tt.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Bul%C4%B1%C5%9Fu_%C3%BCz%C3%A4ge" title="Википедия:Bulışu üzäge – Tatar" lang="tt" hreflang="tt">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-te"><a href="//te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%BF%E0%B0%95%E0%B1%80%E0%B0%AA%E0%B1%80%E0%B0%A1%E0%B0%BF%E0%B0%AF%E0%B0%BE:%E0%B0%B0%E0%B0%9A%E0%B1%8D%E0%B0%9A%E0%B0%AC%E0%B0%82%E0%B0%A1_(%E0%B0%B8%E0%B0%B9%E0%B0%BE%E0%B0%AF%E0%B0%AE%E0%B1%81)" title="వికీపీడియా:రచ్చబండ (సహాయము) – Telugu" lang="te" hreflang="te">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2" title="วิกิพีเดีย:เลขาชาววิกิพีเดีย – Thai" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Vikipedi:Dan%C4%B1%C5%9Fma_masas%C4%B1" title="Vikipedi:Danışma masası – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-ur"><a href="//ur.wikipedia.org/wiki/%D9%85%D9%86%D8%B5%D9%88%D8%A8%DB%81:%D9%85%D8%B9%D8%A7%D9%88%D9%86%D8%AA_%D9%85%DB%8C%D8%B2" title="منصوبہ:معاونت میز – Urdu" lang="ur" hreflang="ur">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Wikipedia:B%C3%A0n_gi%C3%BAp_%C4%91%E1%BB%A1" title="Wikipedia:Bàn giúp đỡ – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wuu"><a href="//wuu.wikipedia.org/wiki/Wikipedia:%E9%97%AE%E9%A2%98" title="Wikipedia:问题 – Wu Chinese" lang="wuu" hreflang="wuu">吴语</a></li><li class="interlanguage-link interwiki-yi"><a href="//yi.wikipedia.org/wiki/%D7%B0%D7%99%D7%A7%D7%99%D7%A4%D6%BC%D7%A2%D7%93%D7%99%D7%A2:%D7%98%D7%A2%D7%9B%D7%A0%D7%99%D7%A9%D7%A2_%D7%A4%D7%A8%D7%90%D7%92%D7%A2%D7%A1" title="װיקיפּעדיע:טעכנישע פראגעס – Yiddish" lang="yi" hreflang="yi">ייִדיש</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/Wikipedia:%E5%9F%8E%E5%B8%82%E8%AB%96%E5%A3%87_(%E5%8D%94%E5%8A%A9)" title="Wikipedia:城市論壇 (協助) – Cantonese" lang="zh-yue" hreflang="zh-yue">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/Wikipedia:%E4%BA%92%E5%8A%A9%E5%AE%A2%E6%A0%88/%E6%B1%82%E5%8A%A9" title="Wikipedia:互助客栈/求助 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q4026300#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 October 2015, at 01:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wikipedia:Help_desk&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":821,"wgHostname":"mw1046"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

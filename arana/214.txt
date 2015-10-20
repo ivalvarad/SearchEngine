@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Charles Portal, 1st Viscount Portal of Hungerford - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Charles_Portal,_1st_Viscount_Portal_of_Hungerford","wgTitle":"Charles Portal, 1st Viscount Portal of Hungerford","wgCurRevisionId":679625026,"wgRevisionId":679625026,"wgArticleId":436604,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use British English from January 2013","Use dmy dates from January 2013","Commons category with local link same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with BNF identifiers","1893 births","1971 deaths","People from Hungerford","British people of Huguenot descent","People educated at Winchester College","Alumni of Christ Church, Oxford","Royal Engineers officers","Royal Flying Corps officers","Royal Air Force air marshals of World War II","Chiefs of the Air Staff (United Kingdom)","Marshals of the Royal Air Force","British Army personnel of World War I","Royal Air Force personnel of World War I","Knights Grand Cross of the Order of the Bath","Knights of the Garter","Members of the Order of Merit","Recipients of the Military Cross","Viscounts in the Peerage of the United Kingdom","Companions of the Distinguished Service Order and Bar","Grand Crosses of the Order of Polonia Restituta","Grand Crosses of the Order of the White Lion","Foreign recipients of the Distinguished Service Medal (United States)","Recipients of the Order of George I with Swords","Knights Grand Cross of the Order of Orange-Nassau","Grand Crosses of the Order of the Crown (Belgium)","Recipients of the Croix de guerre (Belgium)","Grand Croix of the Légion d'honneur","Recipients of the Czechoslovak War Cross","Deputy Lieutenants of Sussex","Graduates of the Royal Naval College, Greenwich","Presidents of the Marylebone Cricket Club","Deaths from cancer"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Charles_Portal,_1st_Viscount_Portal_of_Hungerford","wgRelevantArticleId":436604,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Charles_Portal_1947.jpg/75px-Charles_Portal_1947.jpg","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q663070","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Charles_Portal,_1st_Viscount_Portal_of_Hungerford" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Charles_Portal,_1st_Viscount_Portal_of_Hungerford" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Charles_Portal_1st_Viscount_Portal_of_Hungerford skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Charles Portal, 1st Viscount Portal of Hungerford</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vcard" style="width:22em;width:315px;border-spacing:2px;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:#B0C4DE;"><span class="fn">The Viscount Portal of Hungerford</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;border-bottom: 1px solid #aaa;; line-height: 1.5em"><a href="/wiki/File:Charles_Portal_1947.jpg" class="image"><img alt="Charles Portal 1947.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Charles_Portal_1947.jpg/260px-Charles_Portal_1947.jpg" width="260" height="345" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Charles_Portal_1947.jpg/390px-Charles_Portal_1947.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Charles_Portal_1947.jpg/520px-Charles_Portal_1947.jpg 2x" data-file-width="1776" data-file-height="2360" /></a>
+<div style="font-size: 95%">Marshal of the RAF Sir Charles Portal, 1947</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right: 1em">Birth name</th>
+<td class="nickname">Charles Frederick Algernon Portal</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right: 1em">Nickname(s)</th>
+<td class="nickname">Peter</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right: 1em">Born</th>
+<td><span style="display:none">(<span class="bday">1893-05-21</span>)</span>21 May 1893<br />
+<a href="/wiki/Hungerford" title="Hungerford">Hungerford</a>, <a href="/wiki/Berkshire" title="Berkshire">Berkshire</a>, England</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right: 1em">Died</th>
+<td>22 April 1971<span style="display:none">(<span class="dday deathdate">1971-04-22</span>)</span> (aged&#160;77)<br />
+<a href="/wiki/Funtington" title="Funtington">West Ashling</a>, <a href="/wiki/West_Sussex" title="West Sussex">West Sussex</a>, England</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right: 1em">Allegiance</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right: 1em">Service/branch</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_the_British_Army.svg/22px-Flag_of_the_British_Army.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_the_British_Army.svg/33px-Flag_of_the_British_Army.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_the_British_Army.svg/44px-Flag_of_the_British_Army.svg.png 2x" data-file-width="675" data-file-height="450" />&#160;</span><a href="/wiki/British_Army" title="British Army">British Army</a> (1914–18)<br />
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ensign_of_the_Royal_Air_Force.svg/22px-Ensign_of_the_Royal_Air_Force.svg.png" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ensign_of_the_Royal_Air_Force.svg/33px-Ensign_of_the_Royal_Air_Force.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ensign_of_the_Royal_Air_Force.svg/44px-Ensign_of_the_Royal_Air_Force.svg.png 2x" data-file-width="1440" data-file-height="720" />&#160;</span><a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a> (1918–45)</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right: 1em">Years&#160;of service</th>
+<td>1914–1945</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right: 1em">Rank</th>
+<td><a href="/wiki/Marshal_of_the_Royal_Air_Force" title="Marshal of the Royal Air Force">Marshal of the Royal Air Force</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right: 1em">Commands held</th>
+<td><a href="/wiki/Chief_of_the_Air_Staff_(United_Kingdom)" title="Chief of the Air Staff (United Kingdom)">Chief of the Air Staff</a><br />
+<a href="/wiki/RAF_Bomber_Command" title="RAF Bomber Command">RAF Bomber Command</a><br />
+<a href="/wiki/Air_Member_for_Personnel" title="Air Member for Personnel">Air Member for Personnel</a><br />
+<a href="/wiki/British_Forces_Aden" title="British Forces Aden">Aden Command</a><br />
+<a href="/wiki/No._7_Squadron_RAF" title="No. 7 Squadron RAF">No.&#160;7 Squadron</a><br />
+<a href="/wiki/No._1_Wing_RAF" title="No. 1 Wing RAF">No.&#160;1 Wing</a><br />
+<a href="/wiki/No._16_Squadron_RAF" title="No. 16 Squadron RAF">No.&#160;16 Squadron</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right: 1em">Battles/wars</th>
+<td><a href="/wiki/First_World_War" title="First World War" class="mw-redirect">First World War</a><br />
+<a href="/wiki/Second_World_War" title="Second World War" class="mw-redirect">Second World War</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right: 1em">Awards</th>
+<td><a href="/wiki/Knight_of_the_Order_of_the_Garter" title="Knight of the Order of the Garter" class="mw-redirect">Knight of the Order of the Garter</a><br />
+<a href="/wiki/Knight_Grand_Cross_of_the_Order_of_the_Bath" title="Knight Grand Cross of the Order of the Bath" class="mw-redirect">Knight Grand Cross of the Order of the Bath</a><br />
+<a href="/wiki/Member_of_the_Order_of_Merit" title="Member of the Order of Merit" class="mw-redirect">Member of the Order of Merit</a><br />
+<a href="/wiki/Distinguished_Service_Order" title="Distinguished Service Order">Distinguished Service Order</a> &amp; <a href="/wiki/Medal_bar" title="Medal bar">Bar</a><br />
+<a href="/wiki/Military_Cross" title="Military Cross">Military Cross</a><br />
+<a href="/wiki/Mentioned_in_Despatches" title="Mentioned in Despatches" class="mw-redirect">Mentioned in Despatches</a> (3)</td>
+</tr>
+</table>
+<p><a href="/wiki/Marshal_of_the_Royal_Air_Force" title="Marshal of the Royal Air Force">Marshal of the Royal Air Force</a> <b>Charles Frederick Algernon Portal, 1st Viscount Portal of Hungerford</b> <span style="font-size:85%;"><a href="/wiki/Knight_of_the_Order_of_the_Garter" title="Knight of the Order of the Garter" class="mw-redirect">KG</a>,&#160;<a href="/wiki/Knight_Grand_Cross_of_the_Order_of_the_Bath" title="Knight Grand Cross of the Order of the Bath" class="mw-redirect">GCB</a>,&#160;<a href="/wiki/Member_of_the_Order_of_Merit" title="Member of the Order of Merit" class="mw-redirect">OM</a>,&#160;<a href="/wiki/Distinguished_Service_Order_and_Bar" title="Distinguished Service Order and Bar" class="mw-redirect">DSO*</a>,&#160;<a href="/wiki/Military_Cross" title="Military Cross">MC</a></span> (21 May 1893 – 22 April 1971) was a senior <a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a> officer. In the <a href="/wiki/First_World_War" title="First World War" class="mw-redirect">First World War</a> he was a pilot, then a flight commander and then a squadron commander flying light bombers on the <a href="/wiki/Western_Front_(World_War_I)" title="Western Front (World War I)">Western Front</a>. In the early stages of the <a href="/wiki/Second_World_War" title="Second World War" class="mw-redirect">Second World War</a> he was commander-in-chief of <a href="/wiki/RAF_Bomber_Command" title="RAF Bomber Command">Bomber Command</a> in which role he advocated strategic <a href="/wiki/Area_bombardment" title="Area bombardment">area bombing</a> against German industrial areas, the same sort of targets that the <a href="/wiki/Luftwaffe" title="Luftwaffe">Luftwaffe</a> was already targeting in the United Kingdom. He was then <a href="/wiki/Chief_of_the_Air_Staff_(United_Kingdom)" title="Chief of the Air Staff (United Kingdom)">Chief of the Air Staff</a> during the rest of the War and in that role he fended off an attempt by the <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a> to take over <a href="/wiki/RAF_Coastal_Command" title="RAF Coastal Command">RAF Coastal Command</a> as well as an attempt by the <a href="/wiki/British_Army" title="British Army">British Army</a> to establish their own Army Air Arm. He was also an advocate of the need for a renewed <a href="/wiki/Strategic_bombing" title="Strategic bombing">strategic bombing</a> offensive. In retirement Portal was chairman of <a href="/wiki/British_Aluminium" title="British Aluminium">British Aluminium</a> and unsuccessfully fought in the "Aluminium War" against a hostile takeover bid by <a href="/wiki/Ivan_Stedeford" title="Ivan Stedeford">Sir Ivan Stedeford</a>'s <a href="/wiki/Tube_Investments" title="Tube Investments" class="mw-redirect">Tube Investments</a>; he then became chairman of the <a href="/wiki/British_Aircraft_Corporation" title="British Aircraft Corporation">British Aircraft Corporation</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#First_World_War"><span class="tocnumber">2</span> <span class="toctext">First World War</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Inter-war_years"><span class="tocnumber">3</span> <span class="toctext">Inter-war years</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Second_World_War"><span class="tocnumber">4</span> <span class="toctext">Second World War</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Post-war"><span class="tocnumber">5</span> <span class="toctext">Post-war</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Family"><span class="tocnumber">6</span> <span class="toctext">Family</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Notes"><span class="tocnumber">7.1</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Bibliography"><span class="tocnumber">7.2</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Portal was born at Eddington House, <a href="/wiki/Hungerford" title="Hungerford">Hungerford</a>, <a href="/wiki/Berkshire" title="Berkshire">Berkshire</a>, the son of Edward Robert Portal and his wife Ellinor Kate (née Hill).<sup id="cite_ref-odnb_1-0" class="reference"><a href="#cite_note-odnb-1"><span>[</span>1<span>]</span></a></sup> His younger brother <a href="/wiki/Admiral_(Royal_Navy)" title="Admiral (Royal Navy)">Admiral</a> Sir Reginald Portal (1894–1983) joined the <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a> and also had a distinguished career.<sup id="cite_ref-odnb_1-1" class="reference"><a href="#cite_note-odnb-1"><span>[</span>1<span>]</span></a></sup> The Portals had <a href="/wiki/Huguenot" title="Huguenot">Huguenot</a> origins, having arrived in England in the 17th century.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> Charles Portal, or "Peter" as he was nicknamed, was educated at <a href="/wiki/Winchester_College" title="Winchester College">Winchester College</a> and <a href="/wiki/Christ_Church,_Oxford" title="Christ Church, Oxford">Christ Church, Oxford</a>.<sup id="cite_ref-odnb_1-2" class="reference"><a href="#cite_note-odnb-1"><span>[</span>1<span>]</span></a></sup> Portal had intended to become a <a href="/wiki/Barrister" title="Barrister">barrister</a> but he did not finish his degree and he left undergraduate life to enlist as a private soldier in 1914.<sup id="cite_ref-prob23_3-0" class="reference"><a href="#cite_note-prob23-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="First_World_War">First World War</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;action=edit&amp;section=2" title="Edit section: First World War">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At the beginning of the <a href="/wiki/World_War_I" title="World War I">First World War</a>, Portal joined the <a href="/wiki/British_Army" title="British Army">British Army</a> and served as a <a href="/wiki/Dispatch_rider" title="Dispatch rider" class="mw-redirect">dispatch rider</a> in the motorcycle section of the <a href="/wiki/Royal_Engineers" title="Royal Engineers">Royal Engineers</a> on the <a href="/wiki/Western_Front_(World_War_I)" title="Western Front (World War I)">Western Front</a>.<sup id="cite_ref-air_4-0" class="reference"><a href="#cite_note-air-4"><span>[</span>4<span>]</span></a></sup> Portal was made a <a href="/wiki/Corporal" title="Corporal">corporal</a> very soon after joining the Army and he was commissioned as a <a href="/wiki/Second_lieutenant" title="Second lieutenant">second lieutenant</a> only weeks later.<sup id="cite_ref-prob23_3-1" class="reference"><a href="#cite_note-prob23-3"><span>[</span>3<span>]</span></a></sup> Around the same time, Portal was commended in <a href="/wiki/John_French,_1st_Earl_of_Ypres" title="John French, 1st Earl of Ypres">Sir John French</a>'s first despatch of September 1914.<sup id="cite_ref-odnb_1-3" class="reference"><a href="#cite_note-odnb-1"><span>[</span>1<span>]</span></a></sup> In December 1914, Portal was given command of all riders in the <a href="/wiki/I_Corps_(United_Kingdom)" title="I Corps (United Kingdom)">1st Corps</a> Headquarters Signals Company.<sup id="cite_ref-odnb_1-4" class="reference"><a href="#cite_note-odnb-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>In July 1915, with the need for dispatch riders reducing, Portal transferred to the <a href="/wiki/Royal_Flying_Corps" title="Royal Flying Corps">Royal Flying Corps</a> (RFC).<sup id="cite_ref-air_4-1" class="reference"><a href="#cite_note-air-4"><span>[</span>4<span>]</span></a></sup> He served first as an observer and then, from November 1915, as a flying officer.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> He graduated as a pilot in April 1916, and joined <a href="/wiki/No._60_Squadron_RAF" title="No. 60 Squadron RAF">No. 60 Squadron</a> flying <a href="/wiki/Morane-Saulnier_N" title="Morane-Saulnier N">Morane biplanes</a> on the <a href="/wiki/Western_Front_(World_War_I)" title="Western Front (World War I)">Western Front</a>.<sup id="cite_ref-air_4-2" class="reference"><a href="#cite_note-air-4"><span>[</span>4<span>]</span></a></sup> He became a flight commander with <a href="/wiki/No._3_Squadron_RAF" title="No. 3 Squadron RAF">No. 3 Squadron</a> flying <a href="/wiki/Royal_Aircraft_Factory_B.E.2" title="Royal Aircraft Factory B.E.2">BE2c aircraft</a> on the Western Front on 16 July 1916.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> Portal was promoted to temporary <a href="/wiki/Major" title="Major">major</a> in June 1917<sup id="cite_ref-air_4-3" class="reference"><a href="#cite_note-air-4"><span>[</span>4<span>]</span></a></sup> and given command of <a href="/wiki/No._16_Squadron_RAF" title="No. 16 Squadron RAF">No. 16 Squadron</a> flying <a href="/wiki/Royal_Aircraft_Factory_R.E.8" title="Royal Aircraft Factory R.E.8">RE8 aircraft</a> on the Western Front at the same time.<sup id="cite_ref-air_4-4" class="reference"><a href="#cite_note-air-4"><span>[</span>4<span>]</span></a></sup> He was promoted to temporary <a href="/wiki/Lieutenant-colonel" title="Lieutenant-colonel" class="mw-redirect">lieutenant-colonel</a> on 17 June 1918<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> and given command of No. 24 (Training) Wing at <a href="/wiki/RAF_Spitalgate" title="RAF Spitalgate">RAF Grantham</a> in August 1918.<sup id="cite_ref-air_4-5" class="reference"><a href="#cite_note-air-4"><span>[</span>4<span>]</span></a></sup> Portal was awarded the <a href="/wiki/Military_Cross" title="Military Cross">Military Cross</a> in January 1917,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> the <a href="/wiki/Distinguished_Service_Order" title="Distinguished Service Order">Distinguished Service Order</a> on 18 July 1917<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> and a <a href="/wiki/Medal_bar" title="Medal bar">Bar</a> to his DSO on 18 July 1918.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Inter-war_years">Inter-war years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;action=edit&amp;section=3" title="Edit section: Inter-war years">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In August 1919 Portal was appointed to a permanent commission in the <a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a> in the rank of <a href="/wiki/Major" title="Major">major</a> (shortly afterwards redesignated as a <a href="/wiki/Squadron_leader" title="Squadron leader">squadron leader</a>).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> He became a chief flying instructor at the <a href="/wiki/Royal_Air_Force_College_Cranwell" title="Royal Air Force College Cranwell">Royal Air Force College Cranwell</a> in November 1919 and then attended <a href="/wiki/RAF_Staff_College,_Andover" title="RAF Staff College, Andover">RAF Staff College</a> in 1922, before joining the air staff conducting flying operations in the home sector in April 1923.<sup id="cite_ref-air_4-6" class="reference"><a href="#cite_note-air-4"><span>[</span>4<span>]</span></a></sup> Promoted to <a href="/wiki/Wing_commander_(rank)" title="Wing commander (rank)">wing commander</a> on 1 July 1925,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> he attended the senior officers' war course at the <a href="/wiki/Royal_Naval_College,_Greenwich" title="Royal Naval College, Greenwich">Royal Naval College</a>, <a href="/wiki/Greenwich" title="Greenwich">Greenwich</a>, in 1926 before taking over <a href="/wiki/No._7_Squadron_RAF" title="No. 7 Squadron RAF">No. 7 Squadron</a> flying <a href="/wiki/Vickers_Virginia" title="Vickers Virginia">Vickers Virginia bombers</a> from <a href="/wiki/RAF_Worthy_Down" title="RAF Worthy Down">RAF Worthy Down</a> in March 1927<sup id="cite_ref-air_4-7" class="reference"><a href="#cite_note-air-4"><span>[</span>4<span>]</span></a></sup> and concentrated on improving bombing accuracy.<sup id="cite_ref-odnb_1-5" class="reference"><a href="#cite_note-odnb-1"><span>[</span>1<span>]</span></a></sup> He attended the <a href="/wiki/Royal_College_of_Defence_Studies" title="Royal College of Defence Studies">Imperial Defence College</a> in 1929 and then became Deputy Director of Plans in the Directorate of Operations &amp; Intelligence at the <a href="/wiki/Air_Ministry" title="Air Ministry">Air Ministry</a> in December 1930.<sup id="cite_ref-air_4-8" class="reference"><a href="#cite_note-air-4"><span>[</span>4<span>]</span></a></sup> Promoted to <a href="/wiki/Group_captain" title="Group captain">group captain</a> on 1 July 1931,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> he was appointed commander of <a href="/wiki/British_Forces_Aden" title="British Forces Aden">British forces in Aden</a> in February 1934,<sup id="cite_ref-air_4-9" class="reference"><a href="#cite_note-air-4"><span>[</span>4<span>]</span></a></sup> in which role he tried to control the local tribesmen by use of an air blockade.<sup id="cite_ref-odnb_1-6" class="reference"><a href="#cite_note-odnb-1"><span>[</span>1<span>]</span></a></sup> Promoted to <a href="/wiki/Air_commodore" title="Air commodore">air commodore</a> on 1 January 1935,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> he joined the Directing Staff at the Imperial Defence College in January 1936.<sup id="cite_ref-air_4-10" class="reference"><a href="#cite_note-air-4"><span>[</span>4<span>]</span></a></sup> Portal was promoted to <a href="/wiki/Air_vice_marshal" title="Air vice marshal" class="mw-redirect">air vice marshal</a> on 1 July 1937<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> before being appointed Director of Organization at the Air Ministry on 1 September 1937.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Second_World_War">Second World War</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;action=edit&amp;section=4" title="Edit section: Second World War">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Air_Chief_Marshal_Sir_Charles_Portal,_Kcb,_Dso,_Mc,_Chief_of_Air_Staff_1940-1945_TR3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Air_Chief_Marshal_Sir_Charles_Portal%2C_Kcb%2C_Dso%2C_Mc%2C_Chief_of_Air_Staff_1940-1945_TR3.jpg/220px-Air_Chief_Marshal_Sir_Charles_Portal%2C_Kcb%2C_Dso%2C_Mc%2C_Chief_of_Air_Staff_1940-1945_TR3.jpg" width="220" height="282" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Air_Chief_Marshal_Sir_Charles_Portal%2C_Kcb%2C_Dso%2C_Mc%2C_Chief_of_Air_Staff_1940-1945_TR3.jpg/330px-Air_Chief_Marshal_Sir_Charles_Portal%2C_Kcb%2C_Dso%2C_Mc%2C_Chief_of_Air_Staff_1940-1945_TR3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Air_Chief_Marshal_Sir_Charles_Portal%2C_Kcb%2C_Dso%2C_Mc%2C_Chief_of_Air_Staff_1940-1945_TR3.jpg/440px-Air_Chief_Marshal_Sir_Charles_Portal%2C_Kcb%2C_Dso%2C_Mc%2C_Chief_of_Air_Staff_1940-1945_TR3.jpg 2x" data-file-width="625" data-file-height="800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Air_Chief_Marshal_Sir_Charles_Portal,_Kcb,_Dso,_Mc,_Chief_of_Air_Staff_1940-1945_TR3.jpg" class="internal" title="Enlarge"></a></div>
+Air Chief Marshall Portal standing by a staff car outside Air Ministry buildings in London, during the <a href="/wiki/Second_World_War" title="Second World War" class="mw-redirect">Second World War</a></div>
+</div>
+</div>
+<p>Appointed a <a href="/wiki/Order_of_the_Bath" title="Order of the Bath">Companion of the Order of the Bath</a> in the 1939 <a href="/wiki/New_Year_Honours" title="New Year Honours">New Year Honours</a>,<sup id="cite_ref-air_4-11" class="reference"><a href="#cite_note-air-4"><span>[</span>4<span>]</span></a></sup> Portal became <a href="/wiki/Air_Member_for_Personnel" title="Air Member for Personnel">Air Member for Personnel</a> on the Air Council on 1 February 1939.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> He was promoted to the acting rank of <a href="/wiki/Air_marshal" title="Air marshal">air marshal</a> on 3 September 1939,<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> appointed commander-in-chief of <a href="/wiki/RAF_Bomber_Command" title="RAF Bomber Command">Bomber Command</a> in April 1940<sup id="cite_ref-air_4-12" class="reference"><a href="#cite_note-air-4"><span>[</span>4<span>]</span></a></sup> and promoted to the substantive rank of air marshal on 1 July 1940.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> Portal advocated strategic <a href="/wiki/Area_bombardment" title="Area bombardment">area bombing</a> against German industrial areas, the same sort of targets that the Luftwaffe was already targeting in the United Kingdom.<sup id="cite_ref-prob24_20-0" class="reference"><a href="#cite_note-prob24-20"><span>[</span>20<span>]</span></a></sup> He was advanced to <a href="/wiki/Order_of_the_Bath" title="Order of the Bath">Knight Commander of the Order of the Bath</a> in the 1940 Birthday Honours.<sup id="cite_ref-air_4-13" class="reference"><a href="#cite_note-air-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>On 25 October 1940, Portal was appointed as <a href="/wiki/Chief_of_the_Air_Staff_(United_Kingdom)" title="Chief of the Air Staff (United Kingdom)">Chief of the Air Staff</a> with the temporary rank of <a href="/wiki/Air_chief_marshal" title="Air chief marshal">air chief marshal</a><sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup> (made permanent in April 1942).<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> He continued in this capacity for the remainder of the war.<sup id="cite_ref-air_4-14" class="reference"><a href="#cite_note-air-4"><span>[</span>4<span>]</span></a></sup> The first issue he had to resolve was an attempt by the <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a> to take over <a href="/wiki/RAF_Coastal_Command" title="RAF Coastal Command">RAF Coastal Command</a> as well as an attempt by the <a href="/wiki/British_Army" title="British Army">British Army</a> to establish their own Army Air Arm.<sup id="cite_ref-prob25_23-0" class="reference"><a href="#cite_note-prob25-23"><span>[</span>23<span>]</span></a></sup> Portal successfully persuaded both the Army and the Navy that the RAF could adequately look after their needs.<sup id="cite_ref-prob24_20-1" class="reference"><a href="#cite_note-prob24-20"><span>[</span>20<span>]</span></a></sup> The second issue Portal had to resolve was the need for a renewed strategic bombing offensive.<sup id="cite_ref-prob24_20-2" class="reference"><a href="#cite_note-prob24-20"><span>[</span>20<span>]</span></a></sup> In August 1941 he received a report on the relative inefficiency of RAF daytime raids and proposals for area bombing by night: to implement the proposals he determined that a new leader was required and replaced the chief of bomber command, Air Chief Marshal <a href="/wiki/Richard_Peirse" title="Richard Peirse">Richard Peirse</a>, with <a href="/wiki/Sir_Arthur_Harris,_1st_Baronet" title="Sir Arthur Harris, 1st Baronet">Arthur Harris</a>.<sup id="cite_ref-prob25_23-1" class="reference"><a href="#cite_note-prob25-23"><span>[</span>23<span>]</span></a></sup> He was advanced to <a href="/wiki/Order_of_the_Bath" title="Order of the Bath">Knight Grand Cross of the Order of the Bath</a> in the <a href="/wiki/1942_Birthday_Honours" title="1942 Birthday Honours">1942 Birthday Honours</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Jalta_1945.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Jalta_1945.jpg/250px-Jalta_1945.jpg" width="250" height="199" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Jalta_1945.jpg/375px-Jalta_1945.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Jalta_1945.jpg/500px-Jalta_1945.jpg 2x" data-file-width="1138" data-file-height="905" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Jalta_1945.jpg" class="internal" title="Enlarge"></a></div>
+The Yalta Conference. Portal is shown standing behind Churchill.</div>
+</div>
+</div>
+<p>Portal accompanied Churchill to all the great conferences and made a good impression on Americans.<sup id="cite_ref-odnb_1-7" class="reference"><a href="#cite_note-odnb-1"><span>[</span>1<span>]</span></a></sup> In January 1943, at the <a href="/wiki/Casablanca_Conference" title="Casablanca Conference">Casablanca Conference</a>, the <a href="/wiki/Combined_Chiefs_of_Staff" title="Combined Chiefs of Staff">Combined Chiefs of Staff</a> selected him to coordinate the bomber forces of both the United States and Britain in a combined bomber offensive over Germany.<sup id="cite_ref-odnb_1-8" class="reference"><a href="#cite_note-odnb-1"><span>[</span>1<span>]</span></a></sup> The forces were transferred to U.S. General <a href="/wiki/Dwight_D._Eisenhower" title="Dwight D. Eisenhower">Dwight D. Eisenhower</a> for the duration of <a href="/wiki/Operation_Overlord" title="Operation Overlord">Operation <i>Overlord</i></a>;<sup id="cite_ref-odnb_1-9" class="reference"><a href="#cite_note-odnb-1"><span>[</span>1<span>]</span></a></sup> but when their control reverted to the Combined Chiefs, Portal still advocated area bombing of German cities instead of specific targets, such as Axis oil production facilities.<sup id="cite_ref-spiegel_25-0" class="reference"><a href="#cite_note-spiegel-25"><span>[</span>25<span>]</span></a></sup> He was promoted to <a href="/wiki/Marshal_of_the_Royal_Air_Force" title="Marshal of the Royal Air Force">Marshal of the Royal Air Force</a> on 1 January 1944.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></p>
+<p>In early 1944, Portal's view of strategic bombing changed; he felt that bombers could also play a more auxiliary role in the allied offensive. (Much of what is known about Portal's thinking is based on memoranda he wrote.) He argued for the new approach on the basis of the huge increase in the size of the bomber force, which would carry out not just precision bombing but also indiscriminate <a href="/wiki/Area_bombing" title="Area bombing" class="mw-redirect">area bombing</a> by night of all German cities with populations exceeding 100,000. Portal thought that the resulting damage to the German war effort and civilian morale would lead to victory within six months. A second memorandum in 1945 made a similar argument.<sup id="cite_ref-spiegel_25-1" class="reference"><a href="#cite_note-spiegel-25"><span>[</span>25<span>]</span></a></sup></p>
+<p>In March 1945, <a href="/wiki/Winston_Churchill" title="Winston Churchill">Churchill</a> gave the final order to stop Portal's strategy of area bombing, after the firestorm of <a href="/wiki/Dresden" title="Dresden">Dresden</a> a few weeks earlier. Churchill subsequently distanced himself from the bombing writing that "the destruction of Dresden remains a serious query against the conduct of Allied Bombing".<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Post-war">Post-war</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;action=edit&amp;section=5" title="Edit section: Post-war">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1945, after the war's end, Portal retired from the RAF and on 12 October 1945 he was raised to the peerage as <a href="/wiki/Baron_Portal_of_Hungerford" title="Baron Portal of Hungerford">Baron Portal of Hungerford</a> in the <a href="/wiki/Berkshire" title="Berkshire">County of Berkshire</a>, with remainder, failing male issue of his own, to his daughters and their male heirs.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup> On 8 February 1946 he was further honoured when he was made Viscount Portal of Hungerford, in the County of Berkshire, with normal remainder to his heirs male.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup> He was made a member of the <a href="/wiki/Order_of_Merit" title="Order of Merit">Order of Merit</a> on <a href="/wiki/1946_New_Year_Honours" title="1946 New Year Honours">1 January 1946</a>.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup> He was also awarded the American <a href="/wiki/Distinguished_Service_Medal_(U.S._Army)" title="Distinguished Service Medal (U.S. Army)">Distinguished Service Medal</a> on 15 March 1946<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup> and appointed a Knight Grand Cross of the Dutch <a href="/wiki/Order_of_Orange-Nassau" title="Order of Orange-Nassau">Order of Orange-Nassau</a> on 18 November 1947.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup> He was also appointed a Knight Grand Cross of the Belgium <a href="/wiki/Order_of_the_Crown_(Belgium)" title="Order of the Crown (Belgium)">Order of the Crown with Palm</a> and awarded the Belgian <a href="/wiki/Croix_de_guerre_(Belgium)" title="Croix de guerre (Belgium)">Croix de Guerre, 1940, with Palm</a> on 27 August 1948.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup></p>
+<p>From 1946 to 1951, Portal was Controller of Production (Atomic Energy) at the <a href="/wiki/Ministry_of_Supply" title="Ministry of Supply">Ministry of Supply</a>.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup> <a href="/wiki/Christopher_Hinton,_Baron_Hinton_of_Bankside" title="Christopher Hinton, Baron Hinton of Bankside">Christopher Hinton</a>, responsible for the production of <a href="/wiki/Fissile" title="Fissile" class="mw-redirect">fissile</a> material, said later, "I cannot remember that he ever did anything that helped us."<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup> He attended the funeral of <a href="/wiki/George_VI" title="George VI">King George VI</a> in February 1952<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup> and the <a href="/wiki/Coronation_of_Queen_Elizabeth_II" title="Coronation of Queen Elizabeth II">coronation of Queen Elizabeth II</a> in June 1953.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup></p>
+<p>Portal was elected Chairman of <a href="/wiki/British_Aluminium" title="British Aluminium">British Aluminium</a> and in 1958/1959 he fought in the <a href="/wiki/City_of_London" title="City of London">City of London</a>'s "Aluminium War" against a hostile takeover bid by <a href="/wiki/Ivan_Stedeford" title="Ivan Stedeford">Sir Ivan Stedeford</a>, Chairman and Chief Executive of <a href="/wiki/TI_Group" title="TI Group">Tube Investments</a>. T.I. along with its ally <a href="/wiki/Reynolds_Group_Holdings" title="Reynolds Group Holdings">Reynolds Metals</a> of the US, won the takeover battle, and in the process, rewrote the way the City of London conducted its business in relation to shareholders and investors. Stedeford replaced Portal as Chairman of British Aluminium. In 1960 Portal was elected chairman of the <a href="/wiki/British_Aircraft_Corporation" title="British Aircraft Corporation">British Aircraft Corporation</a>.<sup id="cite_ref-prob26_38-0" class="reference"><a href="#cite_note-prob26-38"><span>[</span>38<span>]</span></a></sup> Portal died from <a href="/wiki/Cancer" title="Cancer">cancer</a> at his home at <a href="/wiki/Funtington" title="Funtington">West Ashling</a> near <a href="/wiki/Chichester" title="Chichester">Chichester</a> on 22 April 1971.<sup id="cite_ref-odnb_1-10" class="reference"><a href="#cite_note-odnb-1"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Family">Family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;action=edit&amp;section=6" title="Edit section: Family">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In July 1919, Portal married Joan Margaret Welby (1898-1996); they had a son (who died at birth) and two daughters.<sup id="cite_ref-odnb_1-11" class="reference"><a href="#cite_note-odnb-1"><span>[</span>1<span>]</span></a></sup> The viscountcy died with him but he was succeeded in the barony according to the special remainder by his elder daughter, Rosemary Ann, who died in 1990.<sup id="cite_ref-odnb_1-12" class="reference"><a href="#cite_note-odnb-1"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;action=edit&amp;section=8" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist columns references-column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-odnb-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-odnb_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-odnb_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-odnb_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-odnb_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-odnb_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-odnb_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-odnb_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-odnb_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-odnb_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-odnb_1-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-odnb_1-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-odnb_1-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-odnb_1-12"><sup><i><b>m</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.oxforddnb.com/view/article/31561?docPos=1">"Portal, Charles Frederick Algernon."</a> <i>Oxford Dictionary of National Biography.</i> Retrieved: 9 July 2012.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Richards 1978, pp. 6–11.</span></li>
+<li id="cite_note-prob23-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-prob23_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-prob23_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Probert 1991, p. 23.</span></li>
+<li id="cite_note-air-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-air_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-air_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-air_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-air_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-air_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-air_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-air_4-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-air_4-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-air_4-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-air_4-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-air_4-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-air_4-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-air_4-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-air_4-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-air_4-14"><sup><i><b>o</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rafweb.org/Biographies/Portal.htm">"Marshal of the Royal Air Force Lord Portal."</a> <i>Air of Authority – A History of RAF Organisation.</i> Retrieved: 29 July 2012.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/29563/supplement/4328">(Supplement) no. 29563. p. 4328</a></span>. 28 April 1916. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/29691/supplement/7636">(Supplement) no. 29691. p. 7636</a></span>. 1 August 1916. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/30776/page/7771">no. 30776. p. 7771</a></span>. 2 July 1918. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/29898/page/462">no. 29898. p. 462</a></span>. 9 January 1917. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/30188/supplement/7213">(Supplement) no. 30188. p. 7213</a></span>. 17 July 1917. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/30813/supplement/8739">(Supplement) no. 30813. p. 8739</a></span>. 23 July 1918. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/31486/page/9865">no. 31486. p. 9865</a></span>. 1 August 1919. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/33063/page/4456">no. 33063. p. 4456</a></span>. 3 July 1925. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/33731/page/4250">no. 33731. p. 4250</a></span>. 30 June 1931. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/34119/supplement/16">(Supplement) no. 34119. p. 16</a></span>. 28 December 1934. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/34414/page/4253">no. 34414. p. 4253</a></span>. 2 July 1937. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/34432/page/5561">no. 34432. p. 5561</a></span>. 3 September 1937. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/34594/page/689">no. 34594. p. 689</a></span>. 31 January 1939. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/34742/page/7963">no. 34742. p. 7963</a></span>. 28 November 1939. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/34949/page/5579">no. 34949. p. 5579</a></span>. 20 September 1940. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-prob24-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-prob24_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-prob24_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-prob24_20-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Probert 1991, p. 24.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/34989/supplement/6492">(Supplement) no. 34989. p. 6492</a></span>. 12 November 1940. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/35525/page/1648">no. 35525. p. 1648</a></span>. 14 April 1942. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-prob25-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-prob25_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-prob25_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Probert 1991, p. 25.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/35586/page/2478">no. 35586. p. 2478</a></span>. 5 June 1942. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-spiegel-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-spiegel_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-spiegel_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.spiegel.de/international/germany/0,1518,607524,00.html">"The Logic Behind the Destruction of Dresden."</a> <i>Der Spiegel,</i> 13 February 2009. Retrieved: 29 July 2012.</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/36309/supplement/43">(Supplement) no. 36309. p. 43</a></span>. 31 December 1943. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/history/worldwars/wwtwo/area_bombing_01.shtml">"British Bombing Strategy in World War Two."</a> <i>BBC,</i> 17 February 2011. Retrieved: 29 July 2012.</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/37305/page/5026">no. 37305. p. 5026</a></span>. 12 October 1945. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/37461/page/864">no. 37461. p. 864</a></span>. 8 February 1946. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/37407/page/7">no. 37407. p. 7</a></span>. 28 December 1945. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/37501/supplement/1379">(Supplement) no. 37501. p. 1379</a></span>. 12 March 1946. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/38125/supplement/5423">(Supplement) no. 38125. p. 5423</a></span>. 14 November 1947. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/38390/page/4724">no. 38390. p. 4724</a></span>. 27 August 1948. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nature.com/nature/journal/v157/n3979/abs/157128a0.html">"Development of Atomic Energy in Britain."</a> <i>Nature,</i> 157, 2 February 1946, pp. 128–128. Retrieved: 29 July 2012.</span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text">Austerity Britain, David Kynaston 2007, p. 449</span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/39575/supplement/3349">(Supplement) no. 39575. p. 3349</a></span>. 17 June 1952. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>: <span class="PDFlink"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/40020/supplement/6268">(Supplement) no. 40020. p. 6268</a></span>. 17 November 1953. Retrieved 29 July 2012.</span></li>
+<li id="cite_note-prob26-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-prob26_38-0">^</a></b></span> <span class="reference-text">Probert 1991, p. 26.</span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;action=edit&amp;section=9" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="refbegin" style="">
+<ul>
+<li>Probert, Henry. <i>High Commanders of the Royal Air Force.</i> London: HMSO, 1991. <a href="/wiki/Special:BookSources/0117726354" class="internal mw-magiclink-isbn">ISBN 0-11-772635-4</a>.</li>
+<li>Richards, Denis. <i>Portal of Hungerford: The Life of Marshal of the Royal Air Force, Viscount Portal of Hungerford, KG, GCB, OM, DSO, MC.</i> London: <a href="/wiki/Heinemann_(book_publisher)" title="Heinemann (book publisher)" class="mw-redirect">Heinemann</a>, 1978. <a href="/wiki/Special:BookSources/0434628255" class="internal mw-magiclink-isbn">ISBN 0-434-62825-5</a>.</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Charles_Portal,_1st_Viscount_Portal_of_Hungerford" class="extiw" title="commons:Category:Charles Portal, 1st Viscount Portal of Hungerford">Charles Portal, 1st Viscount Portal of Hungerford</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.spartacus-educational.com/2WWportal.htm">Spartacus Educational – Charles Portal</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.thepeerage.com/p13504.htm">thePeerage.com – Air Marshal Sir Charles Frederick Algernon Portal</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.wlu.ca/lcmsds/archives/search/dhh/80-89/87/87-89.doc">Sir Charles Frederick Algernon Portal Fonds</a></li>
+</ul>
+<table class="infobox" style="width:22em;width: 258px; float: left; clear: left; margin:0 1.0em 1.0em 0;">
+<caption>External images</caption>
+<tr>
+<td colspan="2" style="text-align:center;text-align: left"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/61/Searchtool.svg/16px-Searchtool.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/61/Searchtool.svg/24px-Searchtool.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/61/Searchtool.svg/32px-Searchtool.svg.png 2x" data-file-width="512" data-file-height="512" /> <a rel="nofollow" class="external text" href="http://www.bbc.co.uk/arts/yourpaintings/paintings/air-chief-marshal-sir-charles-portal-18931971-135664">Portrait in oils of Air Chief Marshal Sir Charles Portal</a></td>
+</tr>
+</table>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+<tr>
+<th colspan="3" style="border-top: 5px solid #CF9C65;">Military offices</th>
+</tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Owen_Tudor_Boyd" title="Owen Tudor Boyd">O T Boyd</a></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b>Officer Commanding <a href="/wiki/RAF_Aden_Command" title="RAF Aden Command" class="mw-redirect">Aden Command</a><br />
+<small>Air Officer Commanding from 1 January 1935</small></b><br />
+1934–1935</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Leslie_Gossage" title="Leslie Gossage">E L Gossage</a></span></td>
+</tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/William_Welsh_(RAF_officer)" title="William Welsh (RAF officer)">W L Welsh</a></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/w/index.php?title=RAF_Director_of_Organisation&amp;action=edit&amp;redlink=1" class="new" title="RAF Director of Organisation (page does not exist)">Director of Organisation</a></b><br />
+1 September 1937 – 1 February 1939</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Grahame_Donald" title="Grahame Donald">D G Donald</a></span></td>
+</tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/William_Mitchell_(RAF_officer)" title="William Mitchell (RAF officer)">Sir William Mitchell</a></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/Air_Member_for_Personnel" title="Air Member for Personnel">Air Member for Personnel</a></b><br />
+1939–1940</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Leslie_Gossage" title="Leslie Gossage">Sir Leslie Gossage</a></span></td>
+</tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Edgar_Ludlow-Hewitt" title="Edgar Ludlow-Hewitt">Sir Edgar Ludlow-Hewitt</a></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b>Commander-in-Chief <a href="/wiki/RAF_Bomber_Command" title="RAF Bomber Command">Bomber Command</a></b><br />
+1940–1940</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Richard_Peirse" title="Richard Peirse">Sir Richard Peirse</a></span></td>
+</tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Cyril_Newall,_1st_Baron_Newall" title="Cyril Newall, 1st Baron Newall">Sir Cyril Newall</a></span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/Chief_of_the_Air_Staff_(United_Kingdom)" title="Chief of the Air Staff (United Kingdom)">Chief of the Air Staff</a></b><br />
+1940–1946</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Arthur_Tedder,_1st_Baron_Tedder" title="Arthur Tedder, 1st Baron Tedder">Sir Arthur Tedder</a></span></td>
+</tr>
+<tr>
+<th colspan="3" style="border-top: 5px solid #bebebe;">Government offices</th>
+</tr>
+<tr>
+<td style="width: 30%; text-align: center;" rowspan="1"><b>New office</b></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b>Controller of Production (Atomic Energy)<br />
+<small>Controller Atomic Energy from 1950</small></b><br />
+1946–1951</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Frederick_E._Morgan" title="Frederick E. Morgan">Sir Frederick Morgan</a></span></td>
+</tr>
+<tr>
+<th colspan="3" style="border-top: 5px solid #ffcc66;">Business positions</th>
+</tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br />
+<span style="font-weight: bold">Unknown</span></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b>Chairman of <a href="/wiki/British_Aluminium" title="British Aluminium">British Aluminium</a></b><br />
+1953–1958</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/Ivan_Stedeford" title="Ivan Stedeford">Sir Ivan Stedeford</a></span></td>
+</tr>
+<tr>
+<td style="width: 30%; text-align: center;" rowspan="1"><b>New title</b><br />
+<div style="font-size:90%">Corporation formed</div>
+</td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b>Chairman of the <a href="/wiki/British_Aircraft_Corporation" title="British Aircraft Corporation">British Aircraft Corporation</a></b><br />
+1960–1963</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold"><a href="/wiki/George_Edwards_(aviation)" title="George Edwards (aviation)">Sir George Edwards</a></span></td>
+</tr>
+<tr>
+<th colspan="3" style="border-top: 5px solid #ACE777;"><a href="/wiki/Peerage_of_the_United_Kingdom" title="Peerage of the United Kingdom">Peerage of the United Kingdom</a></th>
+</tr>
+<tr>
+<td style="width: 30%; text-align: center;" rowspan="2"><b>New creation</b></td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/Viscount_Portal_of_Hungerford" title="Viscount Portal of Hungerford" class="mw-redirect">Viscount Portal of Hungerford</a></b><br />
+1946–1971</td>
+<td style="width: 30%; text-align: center;"><b>Extinct</b></td>
+</tr>
+<tr>
+<td style="width: 40%; text-align: center;" rowspan="1"><b><a href="/wiki/Baron_Portal_of_Hungerford" title="Baron Portal of Hungerford">Baron Portal of Hungerford</a></b><br />
+1945–1971</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br />
+<span style="font-weight: bold">Rosemary Ann Portal</span></td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Chief_of_the_Air_Staff" title="Template:Chief of the Air Staff"><span title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Chief_of_the_Air_Staff" title="Template talk:Chief of the Air Staff"><span title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chief_of_the_Air_Staff&amp;action=edit"><span title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Chief_of_the_Air_Staff_(United_Kingdom)" title="Chief of the Air Staff (United Kingdom)">Chiefs of the Air Staff</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hugh_Trenchard,_1st_Viscount_Trenchard" title="Hugh Trenchard, 1st Viscount Trenchard">Sir Hugh Trenchard</a></li>
+<li><a href="/wiki/Frederick_Sykes" title="Frederick Sykes">Sir Frederick Sykes</a></li>
+<li><a href="/wiki/Hugh_Trenchard,_1st_Viscount_Trenchard" title="Hugh Trenchard, 1st Viscount Trenchard">Sir Hugh Trenchard</a></li>
+<li><a href="/wiki/John_Salmond" title="John Salmond">Sir John Salmond</a></li>
+<li><a href="/wiki/Geoffrey_Salmond" title="Geoffrey Salmond">Sir Geoffrey Salmond</a></li>
+<li><a href="/wiki/John_Salmond" title="John Salmond">Sir John Salmond</a></li>
+<li><a href="/wiki/Edward_Leonard_Ellington" title="Edward Leonard Ellington">Sir Edward Ellington</a></li>
+<li><a href="/wiki/Cyril_Newall,_1st_Baron_Newall" title="Cyril Newall, 1st Baron Newall">Sir Cyril Newall</a></li>
+<li><strong class="selflink">Lord Portal</strong></li>
+<li><a href="/wiki/Arthur_Tedder,_1st_Baron_Tedder" title="Arthur Tedder, 1st Baron Tedder">Lord Tedder</a></li>
+<li><a href="/wiki/John_Slessor" title="John Slessor">Sir John Slessor</a></li>
+<li><a href="/wiki/William_Dickson_(RAF_officer)" title="William Dickson (RAF officer)">Sir William Dickson</a></li>
+<li><a href="/wiki/Dermot_Boyle" title="Dermot Boyle">Sir Dermot Boyle</a></li>
+<li><a href="/wiki/Thomas_Pike" title="Thomas Pike">Sir Thomas Pike</a></li>
+<li><a href="/wiki/Charles_Elworthy,_Baron_Elworthy" title="Charles Elworthy, Baron Elworthy">Sir Charles Elworthy</a></li>
+<li><a href="/wiki/John_Grandy" title="John Grandy">Sir John Grandy</a></li>
+<li><a href="/wiki/Denis_Spotswood" title="Denis Spotswood">Sir Denis Spotswood</a></li>
+<li><a href="/wiki/Andrew_Humphrey" title="Andrew Humphrey">Sir Andrew Humphrey</a></li>
+<li><a href="/wiki/Neil_Cameron,_Baron_Cameron_of_Balhousie" title="Neil Cameron, Baron Cameron of Balhousie">Sir Neil Cameron</a></li>
+<li><a href="/wiki/Michael_Beetham" title="Michael Beetham">Sir Michael Beetham</a></li>
+<li><a href="/wiki/Keith_Williamson" title="Keith Williamson">Sir Keith Williamson</a></li>
+<li><a href="/wiki/David_Craig,_Baron_Craig_of_Radley" title="David Craig, Baron Craig of Radley">Sir David Craig</a></li>
+<li><a href="/wiki/Peter_Robin_Harding" title="Peter Robin Harding">Sir Peter Harding</a></li>
+<li><a href="/wiki/Michael_Graydon" title="Michael Graydon">Sir Michael Graydon</a></li>
+<li><a href="/wiki/Richard_Johns" title="Richard Johns">Sir Richard Johns</a></li>
+<li><a href="/wiki/Peter_Squire" title="Peter Squire">Sir Peter Squire</a></li>
+<li><a href="/wiki/Jock_Stirrup,_Baron_Stirrup" title="Jock Stirrup, Baron Stirrup">Sir Jock Stirrup</a></li>
+<li><a href="/wiki/Glenn_Torpy" title="Glenn Torpy">Sir Glenn Torpy</a></li>
+<li><a href="/wiki/Stephen_Dalton" title="Stephen Dalton">Sir Stephen Dalton</a></li>
+<li><a href="/wiki/Andrew_Pulford" title="Andrew Pulford">Sir Andrew Pulford</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:0%;padding:0px 0px 0px 2px">
+<div>
+<div class="floatright"><a href="/wiki/File:Ensign_of_the_Royal_Air_Force.svg" class="image"><img alt="Ensign of the Royal Air Force.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ensign_of_the_Royal_Air_Force.svg/75px-Ensign_of_the_Royal_Air_Force.svg.png" width="75" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ensign_of_the_Royal_Air_Force.svg/113px-Ensign_of_the_Royal_Air_Force.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ensign_of_the_Royal_Air_Force.svg/150px-Ensign_of_the_Royal_Air_Force.svg.png 2x" data-file-width="1440" data-file-height="720" /></a></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:WW2AirDefenceUK" title="Template:WW2AirDefenceUK"><span title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:WW2AirDefenceUK" title="Template talk:WW2AirDefenceUK"><span title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:WW2AirDefenceUK&amp;action=edit"><span title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%">Aerial defence of the United Kingdom during the <a href="/wiki/World_War_II" title="World War II">Second World War</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Overview</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a></li>
+<li><a href="/wiki/Royal_Canadian_Air_Force" title="Royal Canadian Air Force">Royal Canadian Air Force</a></li>
+<li><a href="/wiki/Strategic_bombing" title="Strategic bombing">Strategic bombing</a></li>
+<li><a href="/wiki/Night_fighter" title="Night fighter">Night fighter</a></li>
+<li><a href="/wiki/Big_Wing" title="Big Wing">Big Wing formation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">People</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;background:#dcdcdc; font-weight:normal;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Royal_Air_Force" title="Royal Air Force">RAF</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hugh_Dowding,_1st_Baron_Dowding" title="Hugh Dowding, 1st Baron Dowding">Hugh Dowding</a></li>
+<li><strong class="selflink">Charles Portal</strong></li>
+<li><a href="/wiki/Cyril_Newall,_1st_Baron_Newall" title="Cyril Newall, 1st Baron Newall">Cyril Newall</a></li>
+<li><a href="/wiki/Trafford_Leigh-Mallory" title="Trafford Leigh-Mallory">Trafford Leigh-Mallory</a></li>
+<li><a href="/wiki/Keith_Park" title="Keith Park">Keith Park</a></li>
+<li><a href="/wiki/Sholto_Douglas,_1st_Baron_Douglas_of_Kirtleside" title="Sholto Douglas, 1st Baron Douglas of Kirtleside">Sholto Douglas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;background:#dcdcdc; font-weight:normal;">
+<div style="padding:0em 0.75em;">Others</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Reginald_Victor_Jones" title="Reginald Victor Jones">R. V. Jones</a></li>
+<li><a href="/wiki/Robert_Watson-Watt" title="Robert Watson-Watt">Robert Watson-Watt</a></li>
+<li><a href="/wiki/Frederick_Alfred_Pile" title="Frederick Alfred Pile">Frederick Pile</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Organisation</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;background:#dcdcdc; font-weight:normal;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Command_(military_formation)" title="Command (military formation)">Commands</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/RAF_Fighter_Command" title="RAF Fighter Command">RAF Fighter Command</a></li>
+<li><a href="/wiki/RAF_Balloon_Command" title="RAF Balloon Command">RAF Balloon Command</a></li>
+<li><a href="/wiki/RAF_Coastal_Command" title="RAF Coastal Command">RAF Coastal Command</a></li>
+<li><a href="/wiki/Anti-Aircraft_Command" title="Anti-Aircraft Command">Anti-Aircraft Command</a></li>
+<li><a href="/wiki/RAF_Bomber_Command" title="RAF Bomber Command">RAF Bomber Command</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;background:#dcdcdc; font-weight:normal;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Group_(military_aviation_unit)" title="Group (military aviation unit)">Groups</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/No._10_Group_RAF" title="No. 10 Group RAF">No. 10 Group RAF</a></li>
+<li><a href="/wiki/No._11_Group_RAF" title="No. 11 Group RAF">No. 11 Group RAF</a></li>
+<li><a href="/wiki/No._12_Group_RAF" title="No. 12 Group RAF">No. 12 Group RAF</a></li>
+<li><a href="/wiki/No._13_Group_RAF" title="No. 13 Group RAF">No. 13 Group RAF</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;background:#dcdcdc; font-weight:normal;">
+<div style="padding:0em 0.75em;">Other units</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Battle_of_Britain_airfields" title="Battle of Britain airfields" class="mw-redirect">Battle of Britain airfields</a></li>
+<li><a href="/wiki/Eagle_Squadrons" title="Eagle Squadrons">Eagle Squadrons</a></li>
+<li><a href="/wiki/Royal_Observer_Corps" title="Royal Observer Corps">Royal Observer Corps</a></li>
+<li><a href="/wiki/Women%27s_Auxiliary_Air_Force" title="Women's Auxiliary Air Force">Women's Auxiliary Air Force</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">
+<div style="line-height:1.2em;padding:0.25em 0;">Campaigns and<br />
+operations</div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Battle_of_Britain" title="Battle of Britain">Battle of Britain</a></li>
+<li><a href="/wiki/The_Blitz" title="The Blitz">The Blitz</a></li>
+<li><a href="/wiki/Baedeker_Blitz" title="Baedeker Blitz">Baedeker raids</a></li>
+<li><a href="/wiki/Operation_Steinbock" title="Operation Steinbock">Operation Steinbock</a></li>
+<li><a href="/wiki/Operation_Crossbow" title="Operation Crossbow">Operation <i>Crossbow</i></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Aircraft</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bristol_Beaufighter" title="Bristol Beaufighter">Beaufighter</a></li>
+<li><a href="/wiki/Boulton_Paul_Defiant" title="Boulton Paul Defiant">Defiant</a></li>
+<li><a href="/wiki/Hawker_Hurricane" title="Hawker Hurricane">Hurricane</a></li>
+<li><a href="/wiki/Gloster_Meteor" title="Gloster Meteor">Meteor</a></li>
+<li><a href="/wiki/De_Havilland_Mosquito" title="De Havilland Mosquito">Mosquito</a></li>
+<li><a href="/wiki/Supermarine_Spitfire" title="Supermarine Spitfire">Spitfire</a></li>
+<li><a href="/wiki/Hawker_Tempest" title="Hawker Tempest">Tempest</a></li>
+<li><a href="/wiki/Hawker_Typhoon" title="Hawker Typhoon">Typhoon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Technology</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barrage_balloon" title="Barrage balloon">Barrage balloon</a></li>
+<li><a href="/wiki/Battle_of_the_Beams" title="Battle of the Beams">Battle of the Beams</a></li>
+<li><a href="/wiki/History_of_radar" title="History of radar">Radar</a> (<a href="/wiki/Chain_Home" title="Chain Home">Chain Home</a>)</li>
+<li><a href="/wiki/V-weapons" title="V-weapons">German V weapons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Related topics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:RAF_WWII_Strategic_Bombing" title="Template:RAF WWII Strategic Bombing" class="mw-redirect">RAF strategic bombing offensive</a></li>
+<li><a href="/wiki/United_States_Army_Air_Forces" title="United States Army Air Forces">United States Army Air Forces</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:B-AotF-FM-MRAF-WW2" title="Template:B-AotF-FM-MRAF-WW2"><span title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:B-AotF-FM-MRAF-WW2" title="Template talk:B-AotF-FM-MRAF-WW2"><span title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:B-AotF-FM-MRAF-WW2&amp;action=edit"><span title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%">British <a href="/wiki/Admiral_of_the_Fleet_(Royal_Navy)" title="Admiral of the Fleet (Royal Navy)">Admirals of the Fleet</a>, <a href="/wiki/Field_Marshal_(United_Kingdom)" title="Field Marshal (United Kingdom)" class="mw-redirect">Field Marshals</a> and <a href="/wiki/Marshal_of_the_Royal_Air_Force" title="Marshal of the Royal Air Force">Marshals of the Royal Air Force</a> of <a href="/wiki/World_War_II" title="World War II">World War II</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Admirals of the Fleet</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Roger_Keyes,_1st_Baron_Keyes" title="Roger Keyes, 1st Baron Keyes">Lord Keyes</a></li>
+<li><a href="/wiki/William_Boyle,_12th_Earl_of_Cork" title="William Boyle, 12th Earl of Cork" class="mw-redirect">Lord Cork</a></li>
+<li><a href="/wiki/Andrew_Cunningham,_1st_Viscount_Cunningham_of_Hyndhope" title="Andrew Cunningham, 1st Viscount Cunningham of Hyndhope">Sir Andrew Cunningham</a></li>
+<li><a href="/wiki/Charles_Forbes_(Royal_Navy_officer)" title="Charles Forbes (Royal Navy officer)">Sir Charles Forbes</a></li>
+<li><a href="/wiki/Dudley_Pound" title="Dudley Pound">Sir Dudley Pound</a></li>
+<li><a href="/wiki/James_Somerville" title="James Somerville">Sir James Somerville</a></li>
+<li><a href="/wiki/John_Tovey,_1st_Baron_Tovey" title="John Tovey, 1st Baron Tovey">Sir John Tovey</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Field Marshals</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Harold_Alexander,_1st_Earl_Alexander_of_Tunis" title="Harold Alexander, 1st Earl Alexander of Tunis">Sir Harold Alexander</a></li>
+<li><a href="/wiki/Alan_Brooke,_1st_Viscount_Alanbrooke" title="Alan Brooke, 1st Viscount Alanbrooke">Sir Alan Brooke</a></li>
+<li><a href="/wiki/John_Dill" title="John Dill">Sir John Dill</a></li>
+<li><a href="/wiki/John_Vereker,_6th_Viscount_Gort" title="John Vereker, 6th Viscount Gort">Lord Gort</a></li>
+<li><a href="/wiki/Edmund_Ironside,_1st_Baron_Ironside" title="Edmund Ironside, 1st Baron Ironside">Sir Edmund Ironside</a></li>
+<li><a href="/wiki/Bernard_Montgomery,_1st_Viscount_Montgomery_of_Alamein" title="Bernard Montgomery, 1st Viscount Montgomery of Alamein">Sir Bernard Montgomery</a></li>
+<li><a href="/wiki/Archibald_Wavell,_1st_Earl_Wavell" title="Archibald Wavell, 1st Earl Wavell">Sir Archibald Wavell</a></li>
+<li><a href="/wiki/Henry_Maitland_Wilson,_1st_Baron_Wilson" title="Henry Maitland Wilson, 1st Baron Wilson">Sir Henry Maitland Wilson</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Marshals of the Royal Air Force</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Edward_Leonard_Ellington" title="Edward Leonard Ellington">Sir Edward Ellington</a></li>
+<li><a href="/wiki/Cyril_Newall,_1st_Baron_Newall" title="Cyril Newall, 1st Baron Newall">Sir Cyril Newall</a></li>
+<li><strong class="selflink">Sir Charles Portal</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Aviation_in_World_War_I" title="Template:Aviation in World War I"><span title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Aviation_in_World_War_I" title="Template talk:Aviation in World War I"><span title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Aviation_in_World_War_I&amp;action=edit"><span title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/Aviation_in_World_War_I" title="Aviation in World War I">Aviation in World War I</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">People and aircraft</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Air_commanders_of_World_War_I" title="Air commanders of World War I">Commanders</a></li>
+<li><a href="/wiki/Lists_of_World_War_I_flying_aces" title="Lists of World War I flying aces">Aces</a></li>
+<li><a href="/wiki/List_of_World_War_I_Entente_aircraft" title="List of World War I Entente aircraft">Aircraft of the Entente Powers</a></li>
+<li><a href="/wiki/List_of_World_War_I_Central_Powers_aircraft" title="List of World War I Central Powers aircraft">Aircraft of the Central Powers</a></li>
+<li><a href="/wiki/Zeppelin#During_World_War_I" title="Zeppelin">Zeppelins</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Campaigns and battles</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Strategic_bombing_during_World_War_I" title="Strategic bombing during World War I">Strategic bombing</a>
+<ul>
+<li><small><a href="/wiki/German_strategic_bombing_during_World_War_I" title="German strategic bombing during World War I">German</a></small></li>
+<li><small><a href="/wiki/Cuxhaven_Raid" title="Cuxhaven Raid">Cuxhaven</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Aerial_bombing_of_cities#World_War_I" title="Aerial bombing of cities">Bombing of cities</a></li>
+<li><a href="/wiki/Aerial_reconnaissance_in_World_War_I" title="Aerial reconnaissance in World War I">Aerial reconnaissance</a></li>
+<li><a href="/wiki/Fokker_Scourge" title="Fokker Scourge">Fokker Scourge</a></li>
+<li><a href="/wiki/Flight_over_Vienna" title="Flight over Vienna">Flight over Vienna</a></li>
+<li><a href="/wiki/Bloody_April" title="Bloody April">Bloody April</a></li>
+<li><a href="/wiki/Category:Aerial_operations_and_battles_of_World_War_I" title="Category:Aerial operations and battles of World War I">Battles</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Entente Powers air services</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>British air services
+<ul>
+<li><a href="/wiki/Royal_Flying_Corps" title="Royal Flying Corps">Royal Flying Corps</a></li>
+<li><a href="/wiki/Royal_Naval_Air_Service" title="Royal Naval Air Service">Royal Naval Air Service</a></li>
+<li><a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Australian_Flying_Corps" title="Australian Flying Corps">Australian Flying Corps</a></li>
+<li><a href="/wiki/Canadian_Air_Force_(1918%E2%80%9320)" title="Canadian Air Force (1918–20)">Canadian Air Force (1918–20)</a></li>
+<li><a href="/wiki/History_of_the_Arm%C3%A9e_de_l%27Air_(1909%E2%80%9342)" title="History of the Armée de l'Air (1909–42)">French Air Service</a></li>
+<li><a href="/wiki/Imperial_Russian_Air_Service" title="Imperial Russian Air Service">Imperial Russian Air Service</a></li>
+<li><a href="/wiki/Corpo_Aeronautico_Militare" title="Corpo Aeronautico Militare">Royal Italian Air Corps</a></li>
+<li><a href="/wiki/United_States_Army_Air_Service" title="United States Army Air Service">United States Army Air Service</a></li>
+<li>Greek air services
+<ul>
+<li><a href="/wiki/Hellenic_Air_Force" title="Hellenic Air Force">Army Air Service</a></li>
+<li><a href="/wiki/Hellenic_Naval_Air_Service" title="Hellenic Naval Air Service">Naval Air Service</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color:#DCDCDC;">Central Powers air services</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Luftstreitkr%C3%A4fte" title="Luftstreitkräfte">Imperial German Air Service</a></li>
+<li><a href="/wiki/Imperial_and_Royal_Aviation_Troops" title="Imperial and Royal Aviation Troops">Austro-Hungarian Imperial and Royal Aviation Troops</a></li>
+<li><a href="/wiki/Ottoman_Aviation_Squadrons" title="Ottoman Aviation Squadrons">Ottoman Aviation Squadrons</a></li>
+<li><a href="/wiki/Bulgarian_Air_Force#World_War_I_.281914.E2.80.931918.29" title="Bulgarian Air Force">Bulgarian Army Aeroplane Section</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n78-025560">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/40627486">40627486</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n78025560">n78025560</a></span></li>
+<li><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11638338d">cb11638338d</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb11638338d">(data)</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20151019094017
+Cache expiry: 86400
+Dynamic content: true
+CPU time usage: 0.483 seconds
+Real time usage: 0.601 seconds
+Preprocessor visited node count: 9965/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 117165/2097152 bytes
+Template argument size: 17968/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.090/10.000 seconds
+Lua memory usage: 2.38 MB/50 MB
+Number of Wikibase entities loaded: 1-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  491.857      1 - -total
+ 21.81%  107.270      2 - Template:Infobox
+ 19.31%   94.963      1 - Template:Infobox_military_person
+ 16.49%   81.086      6 - Template:Navbox
+ 15.23%   74.906      1 - Template:Reflist
+ 15.12%   74.351      4 - Template:Military_navigation
+  6.86%   33.721      1 - Template:Commons_category
+  6.66%   32.744      1 - Template:WW2AirDefenceUK
+  6.60%   32.455      3 - Template:Br_separated_entries
+  5.71%   28.095      1 - Template:Use_British_English
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:436604-0!*!0!!en!4!* and timestamp 20151019094016 and revision id 679625026
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;oldid=679625026">https://en.wikipedia.org/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;oldid=679625026</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1893_births" title="Category:1893 births">1893 births</a></li><li><a href="/wiki/Category:1971_deaths" title="Category:1971 deaths">1971 deaths</a></li><li><a href="/wiki/Category:People_from_Hungerford" title="Category:People from Hungerford">People from Hungerford</a></li><li><a href="/wiki/Category:British_people_of_Huguenot_descent" title="Category:British people of Huguenot descent">British people of Huguenot descent</a></li><li><a href="/wiki/Category:People_educated_at_Winchester_College" title="Category:People educated at Winchester College">People educated at Winchester College</a></li><li><a href="/wiki/Category:Alumni_of_Christ_Church,_Oxford" title="Category:Alumni of Christ Church, Oxford">Alumni of Christ Church, Oxford</a></li><li><a href="/wiki/Category:Royal_Engineers_officers" title="Category:Royal Engineers officers">Royal Engineers officers</a></li><li><a href="/wiki/Category:Royal_Flying_Corps_officers" title="Category:Royal Flying Corps officers">Royal Flying Corps officers</a></li><li><a href="/wiki/Category:Royal_Air_Force_air_marshals_of_World_War_II" title="Category:Royal Air Force air marshals of World War II">Royal Air Force air marshals of World War II</a></li><li><a href="/wiki/Category:Chiefs_of_the_Air_Staff_(United_Kingdom)" title="Category:Chiefs of the Air Staff (United Kingdom)">Chiefs of the Air Staff (United Kingdom)</a></li><li><a href="/wiki/Category:Marshals_of_the_Royal_Air_Force" title="Category:Marshals of the Royal Air Force">Marshals of the Royal Air Force</a></li><li><a href="/wiki/Category:British_Army_personnel_of_World_War_I" title="Category:British Army personnel of World War I">British Army personnel of World War I</a></li><li><a href="/wiki/Category:Royal_Air_Force_personnel_of_World_War_I" title="Category:Royal Air Force personnel of World War I">Royal Air Force personnel of World War I</a></li><li><a href="/wiki/Category:Knights_Grand_Cross_of_the_Order_of_the_Bath" title="Category:Knights Grand Cross of the Order of the Bath">Knights Grand Cross of the Order of the Bath</a></li><li><a href="/wiki/Category:Knights_of_the_Garter" title="Category:Knights of the Garter">Knights of the Garter</a></li><li><a href="/wiki/Category:Members_of_the_Order_of_Merit" title="Category:Members of the Order of Merit">Members of the Order of Merit</a></li><li><a href="/wiki/Category:Recipients_of_the_Military_Cross" title="Category:Recipients of the Military Cross">Recipients of the Military Cross</a></li><li><a href="/wiki/Category:Viscounts_in_the_Peerage_of_the_United_Kingdom" title="Category:Viscounts in the Peerage of the United Kingdom">Viscounts in the Peerage of the United Kingdom</a></li><li><a href="/wiki/Category:Companions_of_the_Distinguished_Service_Order_and_Bar" title="Category:Companions of the Distinguished Service Order and Bar">Companions of the Distinguished Service Order and Bar</a></li><li><a href="/wiki/Category:Grand_Crosses_of_the_Order_of_Polonia_Restituta" title="Category:Grand Crosses of the Order of Polonia Restituta">Grand Crosses of the Order of Polonia Restituta</a></li><li><a href="/wiki/Category:Grand_Crosses_of_the_Order_of_the_White_Lion" title="Category:Grand Crosses of the Order of the White Lion">Grand Crosses of the Order of the White Lion</a></li><li><a href="/wiki/Category:Foreign_recipients_of_the_Distinguished_Service_Medal_(United_States)" title="Category:Foreign recipients of the Distinguished Service Medal (United States)">Foreign recipients of the Distinguished Service Medal (United States)</a></li><li><a href="/wiki/Category:Recipients_of_the_Order_of_George_I_with_Swords" title="Category:Recipients of the Order of George I with Swords">Recipients of the Order of George I with Swords</a></li><li><a href="/wiki/Category:Knights_Grand_Cross_of_the_Order_of_Orange-Nassau" title="Category:Knights Grand Cross of the Order of Orange-Nassau">Knights Grand Cross of the Order of Orange-Nassau</a></li><li><a href="/wiki/Category:Grand_Crosses_of_the_Order_of_the_Crown_(Belgium)" title="Category:Grand Crosses of the Order of the Crown (Belgium)">Grand Crosses of the Order of the Crown (Belgium)</a></li><li><a href="/wiki/Category:Recipients_of_the_Croix_de_guerre_(Belgium)" title="Category:Recipients of the Croix de guerre (Belgium)">Recipients of the Croix de guerre (Belgium)</a></li><li><a href="/wiki/Category:Grand_Croix_of_the_L%C3%A9gion_d%27honneur" title="Category:Grand Croix of the Légion d'honneur">Grand Croix of the Légion d'honneur</a></li><li><a href="/wiki/Category:Recipients_of_the_Czechoslovak_War_Cross" title="Category:Recipients of the Czechoslovak War Cross">Recipients of the Czechoslovak War Cross</a></li><li><a href="/wiki/Category:Deputy_Lieutenants_of_Sussex" title="Category:Deputy Lieutenants of Sussex">Deputy Lieutenants of Sussex</a></li><li><a href="/wiki/Category:Graduates_of_the_Royal_Naval_College,_Greenwich" title="Category:Graduates of the Royal Naval College, Greenwich">Graduates of the Royal Naval College, Greenwich</a></li><li><a href="/wiki/Category:Presidents_of_the_Marylebone_Cricket_Club" title="Category:Presidents of the Marylebone Cricket Club">Presidents of the Marylebone Cricket Club</a></li><li><a href="/wiki/Category:Deaths_from_cancer" title="Category:Deaths from cancer">Deaths from cancer</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_British_English_from_January_2013" title="Category:Use British English from January 2013">Use British English from January 2013</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_January_2013" title="Category:Use dmy dates from January 2013">Use dmy dates from January 2013</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Charles+Portal%2C+1st+Viscount+Portal+of+Hungerford&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Charles+Portal%2C+1st+Viscount+Portal+of+Hungerford" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Charles_Portal,_1st_Viscount_Portal_of_Hungerford"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Charles_Portal,_1st_Viscount_Portal_of_Hungerford"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Charles_Portal,_1st_Viscount_Portal_of_Hungerford" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Charles_Portal,_1st_Viscount_Portal_of_Hungerford" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Charles_Portal,_1st_Viscount_Portal_of_Hungerford" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;oldid=679625026" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q663070" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Charles_Portal%2C_1st_Viscount_Portal_of_Hungerford&amp;id=679625026" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Charles+Portal%2C+1st+Viscount+Portal+of+Hungerford">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Charles+Portal%2C+1st+Viscount+Portal+of+Hungerford&amp;returnto=Charles+Portal%2C+1st+Viscount+Portal+of+Hungerford&amp;oldid=679625026&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Charles_Portal" title="Charles Portal – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Charles_Portal,_1._Viscount_Portal_of_Hungerford" title="Charles Portal, 1. Viscount Portal of Hungerford – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Charles_Portal" title="Charles Portal – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Charles_Portal_(militaire)" title="Charles Portal (militaire) – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A6%27%D7%90%D7%A8%D7%9C%D7%A1_%D7%A4%D7%95%D7%A8%D7%98%D7%9C" title="צ'ארלס פורטל – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-mg"><a href="//mg.wikipedia.org/wiki/Charles_Portal" title="Charles Portal – Malagasy" lang="mg" hreflang="mg">Malagasy</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Charles_Portal" title="Charles Portal – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Charles_Portal" title="Charles Portal – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%9F%A5%E7%88%BE%E6%96%AF%C2%B7%E6%B3%A2%E7%89%B9%E7%88%BE%EF%BC%8C%E7%AC%AC%E4%B8%80%E4%BB%A3%E4%BA%A8%E6%A0%BC%E7%A6%8F%E5%BE%B7%E7%9A%84%E6%B3%A2%E7%89%B9%E7%88%BE%E5%AD%90%E7%88%B5" title="查爾斯·波特爾，第一代亨格福德的波特爾子爵 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q663070#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 September 2015, at 19:03.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Charles_Portal,_1st_Viscount_Portal_of_Hungerford&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1258"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

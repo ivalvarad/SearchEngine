@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>File:Muammar al-Gaddafi at the AU summit.jpg - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":6,"wgPageName":"File:Muammar_al-Gaddafi_at_the_AU_summit.jpg","wgTitle":"Muammar al-Gaddafi at the AU summit.jpg","wgCurRevisionId":661227442,"wgRevisionId":661227442,"wgArticleId":33474068,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Featured pictures","Wikipedia Picture of the day files","DYK images"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"File:Muammar_al-Gaddafi_at_the_AU_summit.jpg","wgRelevantArticleId":33474068,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRestrictionUpload":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.action.view.filepage%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector" />
+<link rel="stylesheet" href="https://commons.wikimedia.org/w/index.php?title=MediaWiki:Filepage.css&amp;action=raw&amp;maxage=2678400&amp;usemsgcache=yes&amp;ctype=text%2Fcss&amp;smaxage=2678400" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=File:Muammar_al-Gaddafi_at_the_AU_summit.jpg&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=File:Muammar_al-Gaddafi_at_the_AU_summit.jpg&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/File:Muammar_al-Gaddafi_at_the_AU_summit.jpg" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-6 ns-subject page-File_Muammar_al-Gaddafi_at_the_AU_summit_jpg skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+<div id="mw-indicator-commons-icon" class="mw-indicator"><a href="//commons.wikimedia.org/wiki/File:Muammar_al-Gaddafi_at_the_AU_summit.jpg" title="This is a file from the Wikimedia Commons"><img alt="This is a file from the Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/22px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+<div id="mw-indicator-featured-star" class="mw-indicator"><a href="/wiki/Wikipedia:Featured_pictures" title="This is a featured picture. Click here for more information."><img alt="This is a featured picture. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/20px-Cscr-featured.svg.png" width="20" height="19" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/30px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/40px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">File:Muammar al-Gaddafi at the AU summit.jpg</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text"><ul id="filetoc"><li><a href="#file">File</a></li>
+<li><a href="#filehistory">File history</a></li>
+<li><a href="#filelinks">File usage</a></li>
+<li><a href="#globalusage">Global file usage</a></li>
+<li><a href="#metadata">Metadata</a></li></ul><div class="fullImageLink" id="file"><a href="//upload.wikimedia.org/wikipedia/commons/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg"><img alt="File:Muammar al-Gaddafi at the AU summit.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/399px-Muammar_al-Gaddafi_at_the_AU_summit.jpg" width="399" height="600" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/599px-Muammar_al-Gaddafi_at_the_AU_summit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/798px-Muammar_al-Gaddafi_at_the_AU_summit.jpg 2x" data-file-width="2832" data-file-height="4256" /></a><div class="mw-filepage-resolutioninfo">Size of this preview: <a href="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/399px-Muammar_al-Gaddafi_at_the_AU_summit.jpg" class="mw-thumbnail-link">399 × 600 pixels</a>. <span class="mw-filepage-other-resolutions">Other resolutions: <a href="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/160px-Muammar_al-Gaddafi_at_the_AU_summit.jpg" class="mw-thumbnail-link">160 × 240 pixels</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/319px-Muammar_al-Gaddafi_at_the_AU_summit.jpg" class="mw-thumbnail-link">319 × 480 pixels</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/511px-Muammar_al-Gaddafi_at_the_AU_summit.jpg" class="mw-thumbnail-link">511 × 768 pixels</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/681px-Muammar_al-Gaddafi_at_the_AU_summit.jpg" class="mw-thumbnail-link">681 × 1,024 pixels</a> | <a href="//upload.wikimedia.org/wikipedia/commons/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg" class="mw-thumbnail-link">2,832 × 4,256 pixels</a>.</span></div></div>
+<div class="fullMedia"><a href="//upload.wikimedia.org/wikipedia/commons/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg" class="internal" title="Muammar al-Gaddafi at the AU summit.jpg">Original file</a> &#8206;<span class="fileInfo">(2,832 × 4,256 pixels, file size: 6.68 MB, MIME type: <span class="mime-type">image/jpeg</span>)</span>
+</div>
+<div class="sharedUploadNotice">
+<table id="mw-sharedupload" class="plainlinks fmbox fmbox-system" role="presentation"><tr><td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image" title="Wikimedia Commons logo"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td><td class="mbox-text" style="text-align: center;">This is a file from the <a href="//commons.wikimedia.org/wiki/Main_Page" class="extiw" title="commons:Main Page">Wikimedia Commons</a>. Information from its <b><a href="//commons.wikimedia.org/wiki/File:Muammar_al-Gaddafi_at_the_AU_summit.jpg" class="extiw" title="commons:File:Muammar al-Gaddafi at the AU summit.jpg">description page there</a></b> is shown below.<br/><span style="font-size: smaller;">Commons is a freely licensed media file repository. <a href="//commons.wikimedia.org/wiki/Commons:Welcome" class="extiw" title="commons:Commons:Welcome">You can help</a>.</span></td></tr></table>
+</div>
+<div id="mw-imagepage-content" lang="en" dir="ltr" class="mw-content-ltr"><div style="display:none; right:10px;" class="featured-picture metadata topicon" id="featured-star"><a href="/wiki/Wikipedia:Featured_pictures" title="This picture has been featured on Wikipedia and is considered one of the best images Wikipedia has to offer. For more information, click here."><img alt="This picture has been featured on Wikipedia and is considered one of the best images Wikipedia has to offer. For more information, click here." src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/14px-Cscr-featured.svg.png" width="14" height="13" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/21px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/28px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /></a></div>
+<table class="plainlinks imbox imbox-featured" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Cscr-featured.svg" class="image" title="Featured picture star"><img alt="Featured picture star" src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/50px-Cscr-featured.svg.png" width="50" height="47" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/75px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/100px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /></a></td>
+<td class="mbox-text">This is a <a href="/wiki/Wikipedia:Featured_pictures" title="Wikipedia:Featured pictures">featured picture</a>, which means that <a href="/wiki/Wikipedia:Featured_picture_candidates" title="Wikipedia:Featured picture candidates">members of the community</a> have <i><b><a href="/wiki/Wikipedia:Featured_picture_candidates/Muammar_Gaddafi" title="Wikipedia:Featured picture candidates/Muammar Gaddafi">identified</a></b></i> it as one of the finest images on the English Wikipedia, adding significantly to its accompanying article. If you have a different image of similar quality, be sure to <a href="/wiki/Special:Upload" title="Special:Upload">upload</a> it using the proper <a href="/wiki/Wikipedia:File_copyright_tags" title="Wikipedia:File copyright tags">free license tag</a>, <a href="/wiki/Wikipedia:Extended_image_syntax" title="Wikipedia:Extended image syntax">add</a> it to a relevant article, and <a href="/wiki/Wikipedia:Featured_picture_candidates" title="Wikipedia:Featured picture candidates">nominate it</a>.</td>
+</tr>
+</table>
+<table class="plainlinks imbox imbox-featured" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wikipedia-logo-v2.svg" class="image" title="Wikipedia logo"><img alt="Wikipedia logo" src="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/24px-Wikipedia-logo-v2.svg.png" width="24" height="22" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/36px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/48px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94" /></a></td>
+<td class="mbox-text">This image was selected as <b><a href="/wiki/Wikipedia:Picture_of_the_day" title="Wikipedia:Picture of the day">picture of the day</a></b> on the <a href="/wiki/English_Wikipedia" title="English Wikipedia">English Wikipedia</a> for <a href="/wiki/Template:POTD/2015-10-20" title="Template:POTD/2015-10-20">October 20, 2015</a>.</td>
+</tr>
+</table>
+<table class="plainlinks tmbox tmbox-notice" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Updated_DYK_query.svg" class="image" title="Did You Know"><img alt="Did You Know" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a0/Updated_DYK_query.svg/22px-Updated_DYK_query.svg.png" width="22" height="45" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a0/Updated_DYK_query.svg/33px-Updated_DYK_query.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a0/Updated_DYK_query.svg/44px-Updated_DYK_query.svg.png 2x" data-file-width="35" data-file-height="71" /></a></td>
+<td class="mbox-text">This image appeared on Wikipedia's <a href="/wiki/Main_Page" title="Main Page">Main Page</a> in the <b><a href="/wiki/Template:Did_you_know" title="Template:Did you know">Did you know?</a></b> column on 6 March 2011 (see <a href="/wiki/Wikipedia:Recent_additions/2011/March#6_March_2011" title="Wikipedia:Recent additions/2011/March">archives</a>).</td>
+<td class="mbox-imageright">
+<div class="floatright"><a href="/wiki/File:Wikipedia-logo-v2.svg" class="image" title="Wikipedia"><img alt="Wikipedia" src="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/40px-Wikipedia-logo-v2.svg.png" width="40" height="37" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/60px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/80px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94" /></a></div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1038
+Cached time: 20151020032227
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.068 seconds
+Real time usage: 0.093 seconds
+Preprocessor visited node count: 178/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 5842/2097152 bytes
+Template argument size: 285/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Lua time usage: 0.026/10.000 seconds
+Lua memory usage: 939 KB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   79.119      1 - -total
+ 77.83%   61.576      1 - Template:FeaturedPicture
+ 54.89%   43.431      1 - Template:Top_icon
+ 46.45%   36.753      1 - Template:Category_handler
+ 23.53%   18.618      2 - Template:Imbox
+ 11.70%    9.255      1 - Template:Picture_of_the_day
+ 10.11%    8.001      1 - Template:DYKfile
+  6.24%    4.934      1 - Template:Tmbox
+  4.60%    3.643      1 - Template:POTDlink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:33474068-0!*!0!*!*!4!* and timestamp 20151020032227 and revision id 661227442
+ -->
+</div><div id="shared-image-desc"><h2><span class="mw-headline" id="Summary">Summary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//commons.wikimedia.org/w/index.php?title=File:Muammar_al-Gaddafi_at_the_AU_summit.jpg&amp;action=edit&amp;section=1" title="Edit section: Summary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hproduct commons-file-information-table">
+<table class="fileinfotpl-type-information toccolours vevent mw-content-ltr" style="width: 100%; direction: ltr;" cellpadding="4">
+<tr style="vertical-align: top">
+<td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="en">Description<span class="summary fn" style="display:none">Muammar al-Gaddafi at the AU summit.jpg</span></td>
+<td class="description">
+<div class="description mw-content-rtl ar" dir="rtl" lang="ar" style=""><span class="language ar" title=""><b>العربية:</b></span> العقيد مُعمَّر القذَّافي في المؤتمر الثاني عشر للإتحاد الأفريقي في مدينة أديس أبابا عاصمة أثيوبيا، يوم 2 فبراير / شُباط سنة 2009م.</div>
+<div class="description mw-content-ltr en" dir="ltr" lang="en" style=""><span class="language en" title=""><b>English:</b></span> Muammar al-Gaddafi at the 12th AU summit, February 2, 2009, in Addis Abeba.</div>
+<div class="description mw-content-ltr fr" dir="ltr" lang="fr" style=""><span class="language fr" title="Français"><b>Français&#160;:</b></span> <a href="//fr.wikipedia.org/wiki/Mouammar_Kadhafi" class="extiw" title="fr:Mouammar Kadhafi">Mouammar Kadhafi</a> au 12e sommet de l'<a href="//fr.wikipedia.org/wiki/Union_africaine" class="extiw" title="fr:Union africaine">UA</a>, le 2 février 2009 à <a href="//fr.wikipedia.org/wiki/Addis-Abeba" class="extiw" title="fr:Addis-Abeba">Addis-Abeba</a></div>
+<div class="description mw-content-ltr ru" dir="ltr" lang="ru" style=""><span class="language ru" title=""><b>Русский:</b></span> Муаммар Каддафи на 12-м саммите Африканского Союза в Аддис-Абебе. 2 февраля 2009 года.</div>
+<div class="description mw-content-ltr uk" dir="ltr" lang="uk" style=""><span class="language uk" title=""><b>Українська:</b></span> Муаммар Каддафі на 12-му саміті Африканського Союзу в Аддис-Абебі. 2 лютого 2009 року.</div>
+</td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_date" class="fileinfo-paramfield" lang="en">Date</td>
+<td lang="en"><span style="white-space:nowrap"><time class="dtstart" datetime="2009-02-02">2 February 2009</time></span></td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_src" class="fileinfo-paramfield" lang="en">Source</td>
+<td>
+<table cellspacing="8" cellpadding="0" class="layouttemplate sourcetemplate" style="width:100%; clear:both; text-align:center; margin:0.5em auto; border:1px solid #555555; background:#f6f7f5; direction:ltr;" lang="en">
+<tr>
+<td><img alt="Seal of the United States Department of the Navy.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Seal_of_the_United_States_Department_of_the_Navy.svg/80px-Seal_of_the_United_States_Department_of_the_Navy.svg.png" width="80" height="80" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Seal_of_the_United_States_Department_of_the_Navy.svg/120px-Seal_of_the_United_States_Department_of_the_Navy.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Seal_of_the_United_States_Department_of_the_Navy.svg/160px-Seal_of_the_United_States_Department_of_the_Navy.svg.png 2x" data-file-width="889" data-file-height="889" /></td>
+<td align="center">
+<p><span class="layouttemplateargs" style="display:none;speak:none;" title="template=ID-USMil 1%3D090202-N-0506A-402 2%3DNavy url%3Dhttp%3A%2F%2Fwww.defenseimagery.mil%2Fimagery.html%23guid%3D91064e16066e054c5113951ad9d7c4f6f29f73fb">&#160;</span> This Image was released by the United States Navy with the ID <a rel="nofollow" class="external text" href="http://www.defenseimagery.mil/imagery.html#guid=91064e16066e054c5113951ad9d7c4f6f29f73fb">090202-N-0506A-402</a> <a class="external text" href="//commons.wikimedia.org/w/index.php?title=Category:Files_created_by_the_United_States_Navy_with_known_IDs&amp;filefrom=090202-N-0506A-402#mw-category-media"><small>(next)</small></a>.<br />
+<small>This tag does not indicate the copyright status of the attached work. A normal <a href="//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags" title="Special:MyLanguage/Commons:Copyright tags">copyright tag</a> is still required. See <a href="//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing" title="Special:MyLanguage/Commons:Licensing">Commons:Licensing</a> for more information.</small></p>
+<hr />
+<p><span style="font-size:x-small;line-height:140%" class="plainlinks noprint"><a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/bn">বাংলা</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/de">Deutsch</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/en">English</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/es">español</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/eu">euskara</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/fa">فارسی</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/fr">français</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/it">italiano</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/ja">日本語</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/ko">한국어</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/mk">македонски</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/ml">മലയാളം</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/nds">Plattdüütsch</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/nl">Nederlands</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/pl">polski</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/pt">português</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/tr">Türkçe</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/zh">中文</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:ID-USMil/zh-hans">中文（简体）‎</a>&#160;| <small class="plainlinks"><a class="external text" href="//commons.wikimedia.org/w/index.php?title=Template:ID-USMil/lang&amp;action=edit">+/−</a></small></span></p>
+</td>
+<td><img alt="Flag of the United States.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/90px-Flag_of_the_United_States.svg.png" width="90" height="47" class="thumbborder" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/135px-Flag_of_the_United_States.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/180px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="en">Author</td>
+<td>U.S. Navy photo by Mass Communication Specialist 2nd Class Jesse B. Awalt/Released</td>
+</tr>
+<tr style="vertical-align: top">
+<td id="fileinfotpl_ver" class="fileinfo-paramfield" lang="en">Other versions</td>
+<td>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="//commons.wikimedia.org/wiki/File:Muammar_al-Gaddafi_at_the_AU_summit-LR.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Muammar_al-Gaddafi_at_the_AU_summit-LR.jpg/80px-Muammar_al-Gaddafi_at_the_AU_summit-LR.jpg" width="80" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Muammar_al-Gaddafi_at_the_AU_summit-LR.jpg/120px-Muammar_al-Gaddafi_at_the_AU_summit-LR.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Muammar_al-Gaddafi_at_the_AU_summit-LR.jpg/160px-Muammar_al-Gaddafi_at_the_AU_summit-LR.jpg 2x" data-file-width="2832" data-file-height="4256" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Flipped version</p>
+</div>
+</div>
+</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<h2><span class="mw-headline" id="Licensing">Licensing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="//commons.wikimedia.org/w/index.php?title=File:Muammar_al-Gaddafi_at_the_AU_summit.jpg&amp;action=edit&amp;section=2" title="Edit section: Licensing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="licensetpl" style="display:none">
+<tr>
+<td><span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span></td>
+</tr>
+</table>
+<table style="width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa; direction: ltr; border-spacing: 8px; padding: 0px;" class="layouttemplate mw-content-ltr" lang="en">
+<tr>
+<td rowspan="2"><img alt="Public domain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/64px-PD-icon.svg.png" title="Public domain" width="64" height="64" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/96px-PD-icon.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/128px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></td>
+<td><span lang="en" class="description en"><i>This file is a work of a sailor or employee of the <a href="//en.wikipedia.org/wiki/United_States_Navy" class="extiw" title="w:United States Navy">U.S. Navy</a>, taken or made as part of that person's official duties. As a <a href="//en.wikipedia.org/wiki/Work_of_the_United_States_Government" class="extiw" title="w:Work of the United States Government">work</a> of the <a href="//en.wikipedia.org/wiki/Federal_government_of_the_United_States" class="extiw" title="w:Federal government of the United States">U.S. federal government</a>, the image is in the <b><a href="//en.wikipedia.org/wiki/public_domain" class="extiw" title="w:public domain">public domain</a></b>.</i></span></td>
+<td rowspan="2">
+<div class="floatright"><img alt="Seal of the United States Department of the Navy.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Seal_of_the_United_States_Department_of_the_Navy.svg/64px-Seal_of_the_United_States_Department_of_the_Navy.svg.png" width="64" height="64" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Seal_of_the_United_States_Department_of_the_Navy.svg/96px-Seal_of_the_United_States_Department_of_the_Navy.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Seal_of_the_United_States_Department_of_the_Navy.svg/128px-Seal_of_the_United_States_Department_of_the_Navy.svg.png 2x" data-file-width="889" data-file-height="889" /></div>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<center><span style="font-size:x-small;line-height:140%" class="plainlinks"><a rel="nofollow" class="external text" href="https://creativecommons.org/publicdomain/mark/1.0/deed.en">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a></span></center>
+</td>
+</tr>
+</table>
+<div id="accessments" dir="ltr" lang="en">
+<table cellspacing="8" cellpadding="0" style="background:transparent;margin:0.5em auto">
+<tr>
+<td>
+<table style="clear:both;margin:0em auto;width:100%;border:2px solid #E5D4A1;background-color:#FAF5E6; direction:ltr;">
+<tr>
+<td>
+<table style="background:transparent;">
+<tr>
+<td style="width:40px;text-align:center;" rowspan="2"></td>
+<td></td>
+<td style="width:30px;text-align:center;" rowspan="2">
+<p><img alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/30px-Wikipedia-logo-v2.svg.png" title="Wikipedia" width="30" height="27" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/45px-Wikipedia-logo-v2.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/60px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94" /></p>
+</td>
+</tr>
+<tr>
+<td style="font-size:95%;">
+<table class="collapsible collapsed" align="left" style="width:100%; margin:auto; clear:both; padding:1px; border:1px solid #FAF5E6; background:#FAF5E6;">
+<tr>
+<th colspan="0" style="padding-left:1em; padding-right:.4em; text-align:center; background-color:#E5D4A1; font-size:100%; color:#000000;">Wikipedia</th>
+</tr>
+<tr>
+<td style="text-align:left;font-size:100%;">
+<p><img alt="Cscr-featured.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/15px-Cscr-featured.svg.png" width="15" height="14" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/23px-Cscr-featured.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/30px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /><img alt="Sound-icon-empty.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sound-icon-empty.svg/10px-Sound-icon-empty.svg.png" width="10" height="8" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sound-icon-empty.svg/15px-Sound-icon-empty.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sound-icon-empty.svg/20px-Sound-icon-empty.svg.png 2x" data-file-width="128" data-file-height="96" />This is a featured picture on the Arabic language Wikipedia (<a href="//en.wikipedia.org/wiki/ar:%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%B5%D9%88%D8%B1_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9" class="extiw" title="w:ar:ويكيبيديا:صور مختارة">صور مختارة</a>) and is <a href="//en.wikipedia.org/wiki/ar:%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AA%D8%B1%D8%B4%D9%8A%D8%AD%D8%A7%D8%AA_%D8%A7%D9%84%D8%B5%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9/Muammar_al-Gaddafi_at_the_AU_summit.jpg" class="extiw" title="w:ar:ويكيبيديا:ترشيحات الصور المختارة/Muammar al-Gaddafi at the AU summit.jpg">considered</a> one of the finest images.<br />
+<img alt="Cscr-featured.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/15px-Cscr-featured.svg.png" width="15" height="14" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/23px-Cscr-featured.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/30px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /><img alt="Sound-icon-empty.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sound-icon-empty.svg/10px-Sound-icon-empty.svg.png" width="10" height="8" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sound-icon-empty.svg/15px-Sound-icon-empty.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sound-icon-empty.svg/20px-Sound-icon-empty.svg.png 2x" data-file-width="128" data-file-height="96" />This is a featured picture on the German language Wikipedia (<a href="//en.wikipedia.org/wiki/de:Wikipedia:Exzellente_Bilder" class="extiw" title="w:de:Wikipedia:Exzellente Bilder">Exzellente Bilder</a>) and is <a href="//en.wikipedia.org/wiki/de:Wikipedia:Kandidaten_f%C3%BCr_exzellente_Bilder/Muammar_al-Gaddafi_at_the_AU_summit.jpg" class="extiw" title="w:de:Wikipedia:Kandidaten für exzellente Bilder/Muammar al-Gaddafi at the AU summit.jpg">considered</a> one of the finest images.<br />
+<img alt="Cscr-featured.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/15px-Cscr-featured.svg.png" width="15" height="14" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/23px-Cscr-featured.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/30px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /><img alt="Sound-icon-empty.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sound-icon-empty.svg/10px-Sound-icon-empty.svg.png" width="10" height="8" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sound-icon-empty.svg/15px-Sound-icon-empty.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sound-icon-empty.svg/20px-Sound-icon-empty.svg.png 2x" data-file-width="128" data-file-height="96" />This is a featured picture on the English language Wikipedia (<a href="//en.wikipedia.org/wiki/en:Wikipedia:Featured_pictures" class="extiw" title="w:en:Wikipedia:Featured pictures">Featured pictures</a>) and is <a href="//en.wikipedia.org/wiki/en:Wikipedia:Featured_picture_candidates/Muammar_Gaddafi" class="extiw" title="w:en:Wikipedia:Featured picture candidates/Muammar Gaddafi">considered</a> one of the finest images.<br />
+<img alt="Cscr-featured.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/15px-Cscr-featured.svg.png" width="15" height="14" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/23px-Cscr-featured.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/30px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /><img alt="Sound-icon-empty.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sound-icon-empty.svg/10px-Sound-icon-empty.svg.png" width="10" height="8" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sound-icon-empty.svg/15px-Sound-icon-empty.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sound-icon-empty.svg/20px-Sound-icon-empty.svg.png 2x" data-file-width="128" data-file-height="96" />This is a featured picture on the Persian language Wikipedia (<a href="//en.wikipedia.org/wiki/fa:%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D9%86%DA%AF%D8%A7%D8%B1%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A8%D8%B1%DA%AF%D8%B2%DB%8C%D8%AF%D9%87" class="extiw" title="w:fa:ویکی‌پدیا:نگاره‌های برگزیده">نگاره‌های برگزیده</a>) and is <a href="//en.wikipedia.org/wiki/fa:%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%DA%AF%D8%B2%DB%8C%D8%AF%D9%86_%D9%86%DA%AF%D8%A7%D8%B1%D9%87_%D8%A8%D8%B1%DA%AF%D8%B2%DB%8C%D8%AF%D9%87/Muammar_al-Gaddafi_at_the_AU_summit.jpg" class="extiw" title="w:fa:ویکی‌پدیا:گزیدن نگاره برگزیده/Muammar al-Gaddafi at the AU summit.jpg">considered</a> one of the finest images.<br /></p>
+</td>
+</tr>
+</table>
+<hr />
+<p>If you think this file should be featured on Wikimedia Commons as well, feel free to <a href="//commons.wikimedia.org/wiki/Commons:Featured_picture_candidates" title="Commons:Featured picture candidates">nominate it</a>.<br />
+If you have an image of similar quality that can be published under a <a href="//commons.wikimedia.org/wiki/Commons:Licensing" title="Commons:Licensing">suitable copyright license</a>, be sure to <a href="//commons.wikimedia.org/wiki/Special:Upload" title="Special:Upload">upload</a> it, <a href="//commons.wikimedia.org/wiki/Commons:Copyright_tags" title="Commons:Copyright tags">tag</a> it, and <a href="//commons.wikimedia.org/wiki/Commons:Featured_picture_candidates" title="Commons:Featured picture candidates">nominate it</a>.<br /></p>
+<hr />
+<p><span style="font-size:x-small;line-height:140%" class="plainlinks noprint"><a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/ar">العربية</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/arq">جازايرية</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/az">Azərbaycanca</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/be-tarask">Беларуская (тарашкевіца)‎</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/bn">বাংলা</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/ca">Català</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/cs">Čeština</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/cy">Cymraeg</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/da">Dansk</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/de">Deutsch</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/diq">Zazaki</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/el">Ελληνικά</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/en">English</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/eo">Esperanto</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/es">Español</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/et">Eesti</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/fa">فارسی</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/tg">Тоҷикӣ</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/fi">Suomi</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/fr">Français</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/gl">Galego</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/he">עברית</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/hi">हिन्दी</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/hr">Hrvatski</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/hu">Magyar</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/hy">Հայերեն</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/id">Bahasa Indonesia</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/it">Italiano</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/ja">日本語</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/ka">ქართული</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/kk">Қазақша</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/ko">한국어</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/lb">Lëtzebuergesch</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/lt">Lietuvių</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/mk">Македонски</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/ml">മലയാളം</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/ms">Bahasa Melayu</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/mt">Malti</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/nds">Plattdüütsch</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/nl">Nederlands</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/nn">Norsk nynorsk</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/no">Norsk bokmål</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/pl">Polski</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/pt">Português</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/pt-br">Português do Brasil</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/ro">Română</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/ru">Русский</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/sl">Slovenščina</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/sr">Српски / srpski</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/sv">Svenska</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/ta">தமிழ்</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/th">ไทย</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/tr">Türkçe</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/tt">Татарча/tatarça</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/uk">Українська</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/vi">Tiếng Việt</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/yo">Yorùbá</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/zh-hans">中文（简体）‎</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/zh-hant">中文（繁體）‎</a>&#160;| <a class="external text" href="//commons.wikimedia.org/wiki/Template:Assessments/translate/yue">粵語</a>&#160;| <small class="plainlinks"><a class="external text" href="//commons.wikimedia.org/w/index.php?title=Template:Assessments/translate/lang&amp;action=edit">+/−</a></small></span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1065
+Cached time: 20151019002845
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.344 seconds
+Real time usage: 0.421 seconds
+Preprocessor visited node count: 6816/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 84609/2097152 bytes
+Template argument size: 30396/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 5/500
+Lua time usage: 0.047/10.000 seconds
+Lua memory usage: 1.15 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  367.591      1 - -total
+ 57.43%  211.092      1 - Template:Assessments
+ 38.67%  142.149      1 - Template:Collapse
+ 36.05%  132.511      1 - Template:Information
+ 34.77%  127.824     35 - Template:Assessments/wikipedia
+ 20.31%   74.645     36 - Template:Assessments/category
+ 14.04%   51.628      6 - Template:Autotranslate
+ 11.41%   41.925     36 - Template:FNO
+  9.81%   36.053      1 - Template:ISOdate
+  9.73%   35.752      1 - Template:ID-USMil
+-->
+
+<!-- Saved in parser cache with key commonswiki:pcache:idhash:14803201-1!*!0!!en!4!* and timestamp 20151019002844 and revision id 116290547
+ -->
+</div>
+<h2 id="filehistory">File history</h2>
+<div id="mw-imagepage-section-filehistory">
+<p>Click on a date/time to view the file as it appeared at that time.
+</p>
+<table class="wikitable filehistory">
+<tr><th></th><th>Date/Time</th><th>Thumbnail</th><th>Dimensions</th><th>User</th><th>Comment</th></tr>
+<tr><td>current</td><td class='filehistory-selected' style='white-space: nowrap;'><a href="//upload.wikimedia.org/wikipedia/commons/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg">03:52, 14 May 2012</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg"><img alt="Thumbnail for version as of 03:52, 14 May 2012" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/80px-Muammar_al-Gaddafi_at_the_AU_summit.jpg" width="80" height="120" data-file-width="2832" data-file-height="4256" /></a></td><td>2,832 × 4,256 <span style="white-space: nowrap;">(6.68 MB)</span></td><td>Tm</td><td dir="ltr">Reverted to version as of 22:26, 4 March 2009</td></tr>
+<tr><td></td><td  style='white-space: nowrap;'><a href="//upload.wikimedia.org/wikipedia/commons/archive/3/36/20120514035150%21Muammar_al-Gaddafi_at_the_AU_summit.jpg">22:35, 20 January 2012</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/archive/3/36/20120514035150%21Muammar_al-Gaddafi_at_the_AU_summit.jpg"><img alt="Thumbnail for version as of 22:35, 20 January 2012" src="//upload.wikimedia.org/wikipedia/commons/thumb/archive/3/36/20120514035150%21Muammar_al-Gaddafi_at_the_AU_summit.jpg/82px-Muammar_al-Gaddafi_at_the_AU_summit.jpg" width="82" height="120" data-file-width="2728" data-file-height="4000" /></a></td><td>2,728 × 4,000 <span style="white-space: nowrap;">(3.29 MB)</span></td><td>Soerfm</td><td dir="ltr">Crop, brightness</td></tr>
+<tr><td></td><td  style='white-space: nowrap;'><a href="//upload.wikimedia.org/wikipedia/commons/archive/3/36/20120120223501%21Muammar_al-Gaddafi_at_the_AU_summit.jpg">22:26, 4 March 2009</a></td><td><a href="//upload.wikimedia.org/wikipedia/commons/archive/3/36/20120120223501%21Muammar_al-Gaddafi_at_the_AU_summit.jpg"><img alt="Thumbnail for version as of 22:26, 4 March 2009" src="//upload.wikimedia.org/wikipedia/commons/thumb/archive/3/36/20120120223501%21Muammar_al-Gaddafi_at_the_AU_summit.jpg/80px-Muammar_al-Gaddafi_at_the_AU_summit.jpg" width="80" height="120" data-file-width="2832" data-file-height="4256" /></a></td><td>2,832 × 4,256 <span style="white-space: nowrap;">(6.68 MB)</span></td><td>Russavia</td><td dir="ltr">{{Information |Description=Muammar al-Gaddafi at the AU summit |Source=http://defenseimagery.mil/imagery.html#guid=91064e16066e054c5113951ad9d7c4f6f29f73fb |Date=2 February 2009 |Author=MC2 Jesse Awalt |Permission= |other_versions= }} [[Category:Muammar a</td></tr>
+</table>
+
+</div>
+<h2 id="filelinks">File usage</h2>
+<div id='mw-imagepage-section-linkstoimage'>
+<p>More than 100 pages link to this file.
+The following list shows the first 100 page links to this file only.
+A <a href="/wiki/Special:WhatLinksHere/File:Muammar_al-Gaddafi_at_the_AU_summit.jpg" title="Special:WhatLinksHere/File:Muammar al-Gaddafi at the AU summit.jpg">full list</a> is available.
+</p><ul class="mw-imagepage-linkstoimage">
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Al-Saadi_Gaddafi" title="Al-Saadi Gaddafi">Al-Saadi Gaddafi</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Ayesha_Gaddafi" title="Ayesha Gaddafi">Ayesha Gaddafi</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Cambridge_Union_Society" title="Cambridge Union Society">Cambridge Union Society</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Demographics_of_Libya" title="Demographics of Libya">Demographics of Libya</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Foreign_relations_of_Libya_under_Muammar_Gaddafi" title="Foreign relations of Libya under Muammar Gaddafi">Foreign relations of Libya under Muammar Gaddafi</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Gaddafi_Stadium" title="Gaddafi Stadium">Gaddafi Stadium</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/History_of_Libya" title="History of Libya">History of Libya</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Libya" title="Libya">Libya</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/List_of_heads_of_government_of_Libya" title="List of heads of government of Libya">List of heads of government of Libya</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/List_of_heads_of_state_of_Libya" title="List of heads of state of Libya">List of heads of state of Libya</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Muammar_Gaddafi" title="Muammar Gaddafi">Muammar Gaddafi</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Muhammad_Gaddafi" title="Muhammad Gaddafi">Muhammad Gaddafi</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Saif_al-Islam_Gaddafi" title="Saif al-Islam Gaddafi">Saif al-Islam Gaddafi</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/The_Green_Book_(Muammar_Gaddafi)" title="The Green Book (Muammar Gaddafi)">The Green Book (Muammar Gaddafi)</a></li>
+<li class="mw-imagepage-linkstoimage-ns0"><a href="/wiki/Third_International_Theory" title="Third International Theory">Third International Theory</a></li>
+<li class="mw-imagepage-linkstoimage-ns1"><a href="/wiki/Talk:Muammar_Gaddafi" title="Talk:Muammar Gaddafi">Talk:Muammar Gaddafi</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:4v4l0n42/Today" title="User:4v4l0n42/Today">User:4v4l0n42/Today</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Allard" title="User:Allard">User:Allard</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Alxt" title="User:Alxt">User:Alxt</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:AmiDaniel/Sandbox" title="User:AmiDaniel/Sandbox">User:AmiDaniel/Sandbox</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:AnOddName" title="User:AnOddName">User:AnOddName</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:ApolloCreed" title="User:ApolloCreed">User:ApolloCreed</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Archer1742" title="User:Archer1742">User:Archer1742</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Axezz" title="User:Axezz">User:Axezz</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Bart133" title="User:Bart133">User:Bart133</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Bayerischermann" title="User:Bayerischermann">User:Bayerischermann</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:BlankVerse/Admin_candidates" title="User:BlankVerse/Admin candidates">User:BlankVerse/Admin candidates</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Cactus.man" title="User:Cactus.man">User:Cactus.man</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:CatherineMunro" title="User:CatherineMunro">User:CatherineMunro</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Chaos_Reaver" title="User:Chaos Reaver">User:Chaos Reaver</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Chaosfeary" title="User:Chaosfeary">User:Chaosfeary</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:D_C_McJonathan" title="User:D C McJonathan">User:D C McJonathan</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:DarthVader" title="User:DarthVader">User:DarthVader</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Defunkt/old" title="User:Defunkt/old">User:Defunkt/old</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Ekespe" title="User:Ekespe">User:Ekespe</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Eloquence/Tour_01" title="User:Eloquence/Tour 01">User:Eloquence/Tour 01</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Encephalon/Main" title="User:Encephalon/Main">User:Encephalon/Main</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Evolauxia" title="User:Evolauxia">User:Evolauxia</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Fadookie" title="User:Fadookie">User:Fadookie</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Fang_Aili" title="User:Fang Aili">User:Fang Aili</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:FayssalF" title="User:FayssalF">User:FayssalF</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Flyhighplato" title="User:Flyhighplato">User:Flyhighplato</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Galactor213" title="User:Galactor213">User:Galactor213</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Gtdp" title="User:Gtdp">User:Gtdp</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Hellinterface" title="User:Hellinterface">User:Hellinterface</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Itai" title="User:Itai">User:Itai</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:J._Finkelstein/Old_page" title="User:J. Finkelstein/Old page">User:J. Finkelstein/Old page</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:JamieHughes" title="User:JamieHughes">User:JamieHughes</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Jcrwiki~enwiki" title="User:Jcrwiki~enwiki">User:Jcrwiki~enwiki</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Jdhowens90" title="User:Jdhowens90">User:Jdhowens90</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:JimmyNikaidoh123" title="User:JimmyNikaidoh123">User:JimmyNikaidoh123</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Jmccabe871" title="User:Jmccabe871">User:Jmccabe871</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Judgesurreal777/About_me" title="User:Judgesurreal777/About me">User:Judgesurreal777/About me</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Kerowyn" title="User:Kerowyn">User:Kerowyn</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Kinhull" title="User:Kinhull">User:Kinhull</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:MarSch/Main_body" title="User:MarSch/Main body">User:MarSch/Main body</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:MarSch/Main_page" title="User:MarSch/Main page">User:MarSch/Main page</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:MattTM" title="User:MattTM">User:MattTM</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Nickg331" title="User:Nickg331">User:Nickg331</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Nirajrm" title="User:Nirajrm">User:Nirajrm</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Palapala" title="User:Palapala">User:Palapala</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Pjf" title="User:Pjf">User:Pjf</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Przepla" title="User:Przepla">User:Przepla</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Rabit" title="User:Rabit">User:Rabit</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:RaptorX" title="User:RaptorX">User:RaptorX</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Richss" title="User:Richss">User:Richss</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Rodsan18" title="User:Rodsan18">User:Rodsan18</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:SCLamont" title="User:SCLamont">User:SCLamont</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:SMC" title="User:SMC">User:SMC</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Sid007" title="User:Sid007">User:Sid007</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Sommers" title="User:Sommers">User:Sommers</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Spliffy" title="User:Spliffy">User:Spliffy</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Straal" title="User:Straal">User:Straal</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Texture" title="User:Texture">User:Texture</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Theone00" title="User:Theone00">User:Theone00</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Titoxd" title="User:Titoxd">User:Titoxd</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Tlogmer" title="User:Tlogmer">User:Tlogmer</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Trevj" title="User:Trevj">User:Trevj</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Trumpetboy8282" title="User:Trumpetboy8282">User:Trumpetboy8282</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Veyklevar" title="User:Veyklevar">User:Veyklevar</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Vincent7" title="User:Vincent7">User:Vincent7</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Wcquidditch" title="User:Wcquidditch">User:Wcquidditch</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Wikipedian231" title="User:Wikipedian231">User:Wikipedian231</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Witan" title="User:Witan">User:Witan</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Zaui" title="User:Zaui">User:Zaui</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:Zorblek" title="User:Zorblek">User:Zorblek</a></li>
+<li class="mw-imagepage-linkstoimage-ns2"><a href="/wiki/User:%D8%A3%D8%AD%D9%85%D8%AF" title="User:أحمد">User:أحمد</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Bluejay_Young" title="User talk:Bluejay Young">User talk:Bluejay Young</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:JoJan/Archive_2" title="User talk:JoJan/Archive 2">User talk:JoJan/Archive 2</a></li>
+<li class="mw-imagepage-linkstoimage-ns3"><a href="/wiki/User_talk:Sillydragon" title="User talk:Sillydragon">User talk:Sillydragon</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/Wikipedia:Main_Page_alternative_(Italian-style)" title="Wikipedia:Main Page alternative (Italian-style)">Wikipedia:Main Page alternative (Italian-style)</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/Wikipedia:Main_Page_alternative_(blue_boy)" title="Wikipedia:Main Page alternative (blue boy)">Wikipedia:Main Page alternative (blue boy)</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/Wikipedia:Main_Page_alternative_(editable)" title="Wikipedia:Main Page alternative (editable)">Wikipedia:Main Page alternative (editable)</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/Wikipedia:Main_Page_alternative_(executive)" title="Wikipedia:Main Page alternative (executive)">Wikipedia:Main Page alternative (executive)</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/Wikipedia:Main_Page_alternative_(regal)" title="Wikipedia:Main Page alternative (regal)">Wikipedia:Main Page alternative (regal)</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/Wikipedia:Main_Page_alternative_(shades_of_blue)" title="Wikipedia:Main Page alternative (shades of blue)">Wikipedia:Main Page alternative (shades of blue)</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/Wikipedia:Main_Page_alternative_(simple_layout)" title="Wikipedia:Main Page alternative (simple layout)">Wikipedia:Main Page alternative (simple layout)</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/Wikipedia:Picture_of_the_day/Archive" title="Wikipedia:Picture of the day/Archive">Wikipedia:Picture of the day/Archive</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/Wikipedia:Template_messages/User_namespace" title="Wikipedia:Template messages/User namespace">Wikipedia:Template messages/User namespace</a></li>
+<li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/Wikipedia:WikiProject_Usability/Main_Page" title="Wikipedia:WikiProject Usability/Main Page">Wikipedia:WikiProject Usability/Main Page</a></li>
+</ul>
+</div>
+<h2 id="globalusage">Global file usage</h2>
+<div id="mw-imagepage-section-globalusage"><p>The following other wikis use this file:
+</p><ul>
+<li class='mw-gu-onwiki-af_wikipedia_org'>Usage on af.wikipedia.org
+<ul>	<li><a class="external" href="//af.wikipedia.org/wiki/Libi%C3%AB">Libië</a></li>
+	<li><a class="external" href="//af.wikipedia.org/wiki/Moeammar_al-Ghaddafi">Moeammar al-Ghaddafi</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-als_wikipedia_org'>Usage on als.wikipedia.org
+<ul>	<li><a class="external" href="//als.wikipedia.org/wiki/Muammar_al-Gaddafi">Muammar al-Gaddafi</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-arc_wikipedia_org'>Usage on arc.wikipedia.org
+<ul>	<li><a class="external" href="//arc.wikipedia.org/wiki/%DC%A1%DC%98%DC%A5%DC%A1%DC%AA_%DC%90%DC%A0%DC%A9%DC%95%DC%90%DC%A6%DC%9D">ܡܘܥܡܪ ܐܠܩܕܐܦܝ</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ar_wikipedia_org'>Usage on ar.wikipedia.org
+<ul>	<li><a class="external" href="//ar.wikipedia.org/wiki/%D9%84%D9%8A%D8%A8%D9%8A%D8%A7">ليبيا</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D9%84%D9%8A%D8%A8%D9%8A%D8%A7">بوابة:ليبيا</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/2011">2011</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%B9%D9%84%D8%A7%D9%85/%D8%B5%D9%88%D8%B1%D8%A9_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9/%D8%A3%D8%B1%D8%B4%D9%8A%D9%81">بوابة:أعلام/صورة مختارة/أرشيف</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9_%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9">الولايات المتحدة الأفريقية</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1_2009">سبتمبر 2009</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB_%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/23_%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1_2009">بوابة:أحداث جارية/23 سبتمبر 2009</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D9%86%D9%88%D9%81%D9%85%D8%A8%D8%B1_2009">نوفمبر 2009</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB_%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/24_%D9%86%D9%88%D9%81%D9%85%D8%A8%D8%B1_2009">بوابة:أحداث جارية/24 نوفمبر 2009</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D9%85%D8%B9%D9%85%D8%B1_%D8%A7%D9%84%D9%82%D8%B0%D8%A7%D9%81%D9%8A">معمر القذافي</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D9%8A%D9%88%D9%86%D9%8A%D9%88_2010">يونيو 2010</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB_%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/28_%D9%8A%D9%88%D9%86%D9%8A%D9%88_2010">بوابة:أحداث جارية/28 يونيو 2010</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D9%8A%D9%86%D8%A7%D9%8A%D8%B1_2011">يناير 2011</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB_%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/16_%D9%8A%D9%86%D8%A7%D9%8A%D8%B1_2011">بوابة:أحداث جارية/16 يناير 2011</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D9%81%D8%A8%D8%B1%D8%A7%D9%8A%D8%B1_2011">فبراير 2011</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB_%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/20_%D9%81%D8%A8%D8%B1%D8%A7%D9%8A%D8%B1_2011">بوابة:أحداث جارية/20 فبراير 2011</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D8%B3_2011">مارس 2011</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB_%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/2_%D9%85%D8%A7%D8%B1%D8%B3_2011">بوابة:أحداث جارية/2 مارس 2011</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A3%D8%A8%D8%B1%D9%8A%D9%84_2011">أبريل 2011</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB_%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/30_%D8%A3%D8%A8%D8%B1%D9%8A%D9%84_2011">بوابة:أحداث جارية/30 أبريل 2011</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D9%8A%D9%88%D9%86%D9%8A%D9%88_2011">يونيو 2011</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB_%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9/27_%D9%8A%D9%88%D9%86%D9%8A%D9%88_2011">بوابة:أحداث جارية/27 يونيو 2011</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9_%D8%A7%D9%84%D9%81%D8%A7%D8%B7%D9%85%D9%8A%D8%A9">الدولة الفاطمية</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%B9%D9%84%D8%A7%D9%85/%D8%B5%D9%88%D8%B1%D8%A9_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9/10">بوابة:أعلام/صورة مختارة/10</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D9%84%D9%8A%D8%A8%D9%8A%D8%A7/%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9/2">بوابة:ليبيا/شخصية مختارة/2</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AA%D8%B1%D8%B4%D9%8A%D8%AD%D8%A7%D8%AA_%D8%A7%D9%84%D8%B5%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9/%D8%B5%D9%88%D8%B1_%D9%85%D9%82%D8%A8%D9%88%D9%84%D8%A9/%D8%A3%D8%B1%D8%B4%D9%8A%D9%81_5">ويكيبيديا:ترشيحات الصور المختارة/صور مقبولة/أرشيف 5</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AA%D8%B1%D8%B4%D9%8A%D8%AD%D8%A7%D8%AA_%D8%A7%D9%84%D8%B5%D9%88%D8%B1_%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9/%D9%85%D8%B9%D9%85%D8%B1_%D8%A7%D9%84%D9%82%D8%B0%D8%A7%D9%81%D9%8A">ويكيبيديا:ترشيحات الصور المختارة/معمر القذافي</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85:%D8%B2%D9%8A%D8%A7%D8%AF0/%D8%B3%D8%AC%D9%84_%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84">مستخدم:زياد0/سجل الأعمال</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%B5%D9%88%D8%B1_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9/%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5/%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D9%88%D9%86">ويكيبيديا:صور مختارة/أشخاص/سياسيون</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D8%A3%D8%B9%D9%84%D8%A7%D9%85/%D8%B5%D9%88%D8%B1%D8%A9_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9_%D9%88%D9%85%D9%82%D9%88%D9%84%D8%A9">بوابة:أعلام/صورة مختارة ومقولة</a></li>
+	<li><a class="external" href="//ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D8%A8%D8%A9:%D9%84%D9%8A%D8%A8%D9%8A%D8%A7/%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9_%D9%85%D8%AE%D8%AA%D8%A7%D8%B1%D8%A9/%D8%A3%D8%B1%D8%B4%D9%8A%D9%81">بوابة:ليبيا/شخصية مختارة/أرشيف</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-arz_wikipedia_org'>Usage on arz.wikipedia.org
+<ul>	<li><a class="external" href="//arz.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%87_%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A%D9%87">الحرب المصريه الليبيه</a></li>
+	<li><a class="external" href="//arz.wikipedia.org/wiki/%D8%AB%D9%88%D8%B1%D8%A9_%D9%84%D9%8A%D8%A8%D9%8A%D8%A7_%D8%B3%D9%86%D8%A9_2011">ثورة ليبيا سنة 2011</a></li>
+	<li><a class="external" href="//arz.wikipedia.org/wiki/%D9%85%D8%B9%D9%85%D8%B1_%D8%A7%D9%84%D9%82%D8%B0%D8%A7%D9%81%D9%89">معمر القذافى</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-ast_wikipedia_org'>Usage on ast.wikipedia.org
+<ul>	<li><a class="external" href="//ast.wikipedia.org/wiki/Muammar_al-Gaddafi">Muammar al-Gaddafi</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-as_wikipedia_org'>Usage on as.wikipedia.org
+<ul>	<li><a class="external" href="//as.wikipedia.org/wiki/%E0%A6%AE%E0%A7%8B%E0%A7%B1%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%BE%E0%A7%B0_%E0%A6%97%E0%A6%BE%E0%A6%A1%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%AB%E0%A6%BF">মোৱাম্মাৰ গাড্ডাফি</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-az_wikipedia_org'>Usage on az.wikipedia.org
+<ul>	<li><a class="external" href="//az.wikipedia.org/wiki/Vikipediya:Tarixd%C9%99_bu_g%C3%BCn/Sentyabr">Vikipediya:Tarixdə bu gün/Sentyabr</a></li>
+	<li><a class="external" href="//az.wikipedia.org/wiki/Vikipediya:Bilirsinizmi/Arxiv">Vikipediya:Bilirsinizmi/Arxiv</a></li>
+	<li><a class="external" href="//az.wikipedia.org/wiki/Liviya_v%C9%99t%C9%99nda%C5%9F_m%C3%BCharib%C9%99si">Liviya vətəndaş müharibəsi</a></li>
+	<li><a class="external" href="//az.wikipedia.org/wiki/Vikipediya:Tarixd%C9%99_bu_g%C3%BCn/sentyabr_1">Vikipediya:Tarixdə bu gün/sentyabr 1</a></li>
+	<li><a class="external" href="//az.wikipedia.org/wiki/Vikipediya:Bilirsinizmi_b%C3%B6lm%C9%99si/Yanvar">Vikipediya:Bilirsinizmi bölməsi/Yanvar</a></li>
+	<li><a class="external" href="//az.wikipedia.org/wiki/C%C9%99mahiriyy%C9%99">Cəmahiriyyə</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-bcl_wikipedia_org'>Usage on bcl.wikipedia.org
+<ul>	<li><a class="external" href="//bcl.wikipedia.org/wiki/Muammar_Gaddafi">Muammar Gaddafi</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-be_wikipedia_org'>Usage on be.wikipedia.org
+<ul>	<li><a class="external" href="//be.wikipedia.org/wiki/%D0%9C%D1%83%D0%B0%D0%BC%D0%B0%D1%80_%D0%9A%D0%B0%D0%B4%D0%B0%D1%84%D1%96">Муамар Кадафі</a></li>
+	<li><a class="external" href="//be.wikipedia.org/wiki/%D0%91%D0%B5%D0%B4%D1%83%D1%96%D0%BD%D1%8B">Бедуіны</a></li>
+</ul></li>
+<li class='mw-gu-onwiki-bg_wikipedia_org'>Usage on bg.wikipedia.org
+<ul>	<li><a class="external" href="//bg.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%B8_(2010-2012)">Арабски протести (2010-2012)</a></li>
+</ul></li>
+</ul>
+<p>View <a href="/wiki/Special:GlobalUsage/Muammar_al-Gaddafi_at_the_AU_summit.jpg" title="Special:GlobalUsage/Muammar al-Gaddafi at the AU summit.jpg">more global usage</a> of this file.
+</p></div><h2 id="metadata">Metadata</h2>
+<div class="mw-imagepage-section-metadata">This file contains additional information, probably added from the digital camera or scanner used to create or digitize it.
+If the file has been modified from its original state, some details may not fully reflect the modified file.<table id="mw_metadata" class="mw_metadata">
+<tr class="exif-imagedescription">
+<th>Image title</th>
+<td><ul class="metadata-langlist"><li class="mw-metadata-lang-default"><span class="mw-metadata-lang-value">Muammar Qaddafi, the Libyan chief of state, attends the 12th African Union Summit in Addis Ababa, Ethiopia, Feb. 2, 2009. Qaddafi was elected chairman of the organization. (U.S. Navy photo by Mass Communication Specialist 2nd Class Jesse B. Awalt/Released)</span></li>
+</ul></td>
+</tr><tr class="exif-make">
+<th>Camera manufacturer</th>
+<td><a href="/wiki/NIKON_CORPORATION" title="NIKON CORPORATION" class="mw-redirect">NIKON CORPORATION</a></td>
+</tr><tr class="exif-model">
+<th>Camera model</th>
+<td><a href="/wiki/NIKON_D3" title="NIKON D3" class="mw-redirect">NIKON D3</a></td>
+</tr><tr class="exif-exposuretime">
+<th><a href="/wiki/Shutter_speed" title="Shutter speed">Exposure time</a></th>
+<td>1/100 sec (0.01)</td>
+</tr><tr class="exif-fnumber">
+<th><a href="/wiki/F-number" title="F-number">F-number</a></th>
+<td>f/2.8</td>
+</tr><tr class="exif-isospeedratings">
+<th><a href="/wiki/Film_speed" title="Film speed">ISO speed</a> rating</th>
+<td>1,600</td>
+</tr><tr class="exif-datetimeoriginal">
+<th>Date and time of data generation</th>
+<td>12:01, 2 February 2009</td>
+</tr><tr class="exif-focallength">
+<th>Lens <a href="/wiki/Focal_length" title="Focal length">focal length</a></th>
+<td>200 mm</td>
+</tr><tr class="exif-artist">
+<th>Author</th>
+<td>MC2 Jesse Awalt</td>
+</tr><tr class="exif-copyright">
+<th>Copyright holder</th>
+<td><ul class="metadata-langlist"><li class="mw-metadata-lang-default"><span class="mw-metadata-lang-value">Public Domain</span></li>
+</ul></td>
+</tr><tr class="exif-xresolution collapsable">
+<th>Horizontal resolution</th>
+<td>300 dpi</td>
+</tr><tr class="exif-yresolution collapsable">
+<th>Vertical resolution</th>
+<td>300 dpi</td>
+</tr><tr class="exif-software collapsable">
+<th>Software used</th>
+<td><a href="/wiki/Ver.1.00" title="Ver.1.00" class="mw-redirect">Ver.1.00 </a></td>
+</tr><tr class="exif-datetime collapsable">
+<th>File change date and time</th>
+<td>00:00, 2 February 2009</td>
+</tr><tr class="exif-whitepoint collapsable">
+<th>White point chromaticity</th>
+<td><ul><li>0.313</li>
+<li>0.329</li></ul></td>
+</tr><tr class="exif-primarychromaticities collapsable">
+<th>Chromaticities of primarities</th>
+<td><ul><li>0.64</li>
+<li>0.33</li>
+<li>0.21</li>
+<li>0.71</li>
+<li>0.15</li>
+<li>0.06</li></ul></td>
+</tr><tr class="exif-ycbcrcoefficients collapsable">
+<th>Color space transformation matrix coefficients</th>
+<td><ul><li>0.299</li>
+<li>0.587</li>
+<li>0.114</li></ul></td>
+</tr><tr class="exif-ycbcrpositioning collapsable">
+<th>Y and C positioning</th>
+<td>Co-sited</td>
+</tr><tr class="exif-exposureprogram collapsable">
+<th>Exposure Program</th>
+<td>Shutter priority</td>
+</tr><tr class="exif-exifversion collapsable">
+<th><a href="/wiki/Exchangeable_image_file_format" title="Exchangeable image file format">Exif</a> version</th>
+<td>2.21</td>
+</tr><tr class="exif-datetimedigitized collapsable">
+<th>Date and time of digitizing</th>
+<td>00:00, 2 February 2009</td>
+</tr><tr class="exif-componentsconfiguration collapsable">
+<th>Meaning of each component</th>
+<td><ol><li>Y</li>
+<li>Cb</li>
+<li>Cr</li>
+<li>does not exist</li></ol></td>
+</tr><tr class="exif-compressedbitsperpixel collapsable">
+<th>Image compression mode</th>
+<td>4</td>
+</tr><tr class="exif-exposurebiasvalue collapsable">
+<th><a href="/wiki/Exposure_compensation" title="Exposure compensation">Exposure bias</a></th>
+<td>0</td>
+</tr><tr class="exif-maxaperturevalue collapsable">
+<th>Maximum land aperture</th>
+<td>3 APEX (f/2.83)</td>
+</tr><tr class="exif-meteringmode collapsable">
+<th><a href="/wiki/Metering_mode" title="Metering mode">Metering mode</a></th>
+<td>Pattern</td>
+</tr><tr class="exif-lightsource collapsable">
+<th>Light source</th>
+<td>Tungsten (incandescent light)</td>
+</tr><tr class="exif-flash collapsable">
+<th><a href="/wiki/Flash_(photography)" title="Flash (photography)">Flash</a></th>
+<td>Flash did not fire</td>
+</tr><tr class="exif-subsectime collapsable">
+<th>DateTime subseconds</th>
+<td>31</td>
+</tr><tr class="exif-subsectimeoriginal collapsable">
+<th>DateTimeOriginal subseconds</th>
+<td>31</td>
+</tr><tr class="exif-subsectimedigitized collapsable">
+<th>DateTimeDigitized subseconds</th>
+<td>31</td>
+</tr><tr class="exif-flashpixversion collapsable">
+<th>Supported Flashpix version</th>
+<td>0,100</td>
+</tr><tr class="exif-colorspace collapsable">
+<th><a href="/wiki/Color_space" title="Color space">Color space</a></th>
+<td>Uncalibrated</td>
+</tr><tr class="exif-sensingmethod collapsable">
+<th>Sensing method</th>
+<td>One-chip color area sensor</td>
+</tr><tr class="exif-filesource collapsable">
+<th>File source</th>
+<td>Digital still camera</td>
+</tr><tr class="exif-scenetype collapsable">
+<th>Scene type</th>
+<td>A directly photographed image</td>
+</tr><tr class="exif-gpsversionid collapsable">
+<th>GPS tag version</th>
+<td>0.0.2.2</td>
+</tr><tr class="exif-keywords collapsable">
+<th>Keywords</th>
+<td><ul><li>Muammar Gaddafi</li>
+<li>African Union Summit</li>
+<li>African Union</li>
+<li>Ehtiopia</li>
+<li>Addis Ababa</li>
+<li>Horn of Africa</li>
+<li>Africa</li>
+<li>Jesse B. Awalt</li>
+<li>Jesse Awalt</li></ul></td>
+</tr><tr class="exif-objectname collapsable">
+<th>Short title</th>
+<td><ul class="metadata-langlist"><li class="mw-metadata-lang-default"><span class="mw-metadata-lang-value">090202-N-0506A-402</span></li>
+</ul></td>
+</tr><tr class="exif-writer collapsable">
+<th>Writer</th>
+<td>markvw</td>
+</tr><tr class="exif-credit collapsable">
+<th>Credit/Provider</th>
+<td>CJTF-HOA/PAO</td>
+</tr><tr class="exif-headline collapsable">
+<th>Headline</th>
+<td>Muammar Gaddafi, Leader of the Revolution of the Great Socialist People’s Libyan Arab Jamahiriya, sits reading in the Plenary Hall of the United Nations (UN) building in Addis Ababa, Ethiopia, during the 12th African Union (AU) Summit</td>
+</tr><tr class="exif-specialinstructions collapsable">
+<th>Special instructions</th>
+<td>Olive B. SampsonPublic Affairs OfficerUS Mission to the African UnionOffice: 251-11-517-4476Fax: 251-11-124-7037</td>
+</tr><tr class="exif-source collapsable">
+<th>Source</th>
+<td>Digital</td>
+</tr><tr class="exif-copyrighted collapsable">
+<th>Copyright status</th>
+<td>Copyrighted</td>
+</tr><tr class="exif-citydest collapsable">
+<th>City shown</th>
+<td>Addis Ababa</td>
+</tr><tr class="exif-countrydest collapsable">
+<th>Country shown</th>
+<td>Ethiopia</td>
+</tr><tr class="exif-iimversion collapsable">
+<th>IIM version</th>
+<td>3</td>
+</tr><tr class="exif-iimcategory collapsable">
+<th>Category</th>
+<td>O - Other</td>
+</tr><tr class="exif-iimsupplementalcategory collapsable">
+<th>Supplemental categories</th>
+<td>Unclassified</td>
+</tr></table>
+</div>
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=File:Muammar_al-Gaddafi_at_the_AU_summit.jpg&amp;oldid=661227442">https://en.wikipedia.org/w/index.php?title=File:Muammar_al-Gaddafi_at_the_AU_summit.jpg&amp;oldid=661227442</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Featured_pictures" title="Category:Featured pictures">Featured pictures</a></li><li><a href="/wiki/Category:Wikipedia_Picture_of_the_day_files" title="Category:Wikipedia Picture of the day files">Wikipedia Picture of the day files</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:DYK_images" title="Category:DYK images">DYK images</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=File%3AMuammar+al-Gaddafi+at+the+AU+summit.jpg&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=File%3AMuammar+al-Gaddafi+at+the+AU+summit.jpg" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-image" class="selected"><span><a href="/wiki/File:Muammar_al-Gaddafi_at_the_AU_summit.jpg"  title="View the file page [c]" accesskey="c">File</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=File_talk:Muammar_al-Gaddafi_at_the_AU_summit.jpg&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/File:Muammar_al-Gaddafi_at_the_AU_summit.jpg" >Read</a></span></li>
+															<li id="ca-view-foreign" class="collapsible"><span><a href="https://commons.wikimedia.org/wiki/File:Muammar_al-Gaddafi_at_the_AU_summit.jpg" >View on Commons</a></span></li>
+															<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=File:Muammar_al-Gaddafi_at_the_AU_summit.jpg&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit local description</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=File:Muammar_al-Gaddafi_at_the_AU_summit.jpg&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/File:Muammar_al-Gaddafi_at_the_AU_summit.jpg" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/File:Muammar_al-Gaddafi_at_the_AU_summit.jpg" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=File:Muammar_al-Gaddafi_at_the_AU_summit.jpg&amp;oldid=661227442" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=File:Muammar_al-Gaddafi_at_the_AU_summit.jpg&amp;action=info" title="More information about this page">Page information</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 May 2015, at 09:12.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=File:Muammar_al-Gaddafi_at_the_AU_summit.jpg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.action.view.metadata","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":268,"wgHostname":"mw1176"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+

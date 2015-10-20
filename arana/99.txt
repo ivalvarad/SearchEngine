@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Belarusian presidential election, 2015 - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Belarusian_presidential_election,_2015","wgTitle":"Belarusian presidential election, 2015","wgCurRevisionId":686408964,"wgRevisionId":686408964,"wgArticleId":44856531,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from October 2015","2015 elections in Europe","2015 in Belarus","Presidential elections in Belarus"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Belarusian_presidential_election,_2015","wgRelevantArticleId":44856531,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alexander_Lukashenko_crop.jpeg/74px-Alexander_Lukashenko_crop.jpeg","wgULSAcceptLanguageList":["en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q18691679","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.WatchlistBase%2CWatchlistGreenIndicators%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.2" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Belarusian_presidential_election,_2015" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Belarusian_presidential_election,_2015" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.2/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Belarusian_presidential_election_2015 skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Belarusian presidential election, 2015</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent" style="font-size: 88%; line-height: 1.5em;">
+<caption class="summary" style="font-size: 125%; font-weight: bold">Belarusian presidential election, 2015</caption>
+<tr>
+<td colspan="4" style="text-align:center;"><span class="flagicon"><a href="/wiki/Belarus" title="Belarus"><img alt="Belarus" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/50px-Flag_of_Belarus.svg.png" width="50" height="25" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/75px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/100px-Flag_of_Belarus.svg.png 2x" data-file-width="900" data-file-height="450" /></a></span>
+<hr /></td>
+</tr>
+<tr>
+<td colspan="4">
+<table cellspacing="0" cellpadding="0" style="background:transparent; width:100%;">
+<tr>
+<td style="width:25%;text-align:left;" class="noprint"><a href="/wiki/Belarusian_presidential_election,_2010" title="Belarusian presidential election, 2010">2010</a>&#160;←<br /></td>
+<td style="width:50%;text-align:center;"><b>11 October 2015</b></td>
+<td style="width:25%;text-align:right;" class="noprint">→&#160;2020<br /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<table style="background:transparent; width:100%;">
+<tr>
+<td colspan="4">
+<hr /></td>
+</tr>
+<tr>
+<td>&#160;</td>
+<td style="text-align:center;border-bottom: 6px solid #A52A2A"><a href="/wiki/File:Alexander_Lukashenko_crop.jpeg" class="image"><img alt="Alexander Lukashenko crop.jpeg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alexander_Lukashenko_crop.jpeg/119px-Alexander_Lukashenko_crop.jpeg" width="119" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alexander_Lukashenko_crop.jpeg/178px-Alexander_Lukashenko_crop.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Alexander_Lukashenko_crop.jpeg/238px-Alexander_Lukashenko_crop.jpeg 2x" data-file-width="1225" data-file-height="1646" /></a></td>
+<td style="text-align:center;border-bottom: 6px solid #F0004D"><a href="/wiki/File:Tacciana_Karatkievi%C4%8D.jpeg" class="image"><img alt="Tacciana Karatkievič.jpeg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tacciana_Karatkievi%C4%8D.jpeg/115px-Tacciana_Karatkievi%C4%8D.jpeg" width="115" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tacciana_Karatkievi%C4%8D.jpeg/173px-Tacciana_Karatkievi%C4%8D.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tacciana_Karatkievi%C4%8D.jpeg/230px-Tacciana_Karatkievi%C4%8D.jpeg 2x" data-file-width="1062" data-file-height="1475" /></a></td>
+</tr>
+<tr>
+<th style="width:75px;text-align:left">Nominee</th>
+<td style="width:75px;text-align:center"><a href="/wiki/Alexander_Lukashenko" title="Alexander Lukashenko">Alexander Lukashenko</a></td>
+<td style="width:75px;text-align:center"><a href="/wiki/Tatsiana_Karatkevich" title="Tatsiana Karatkevich">Tatsiana Karatkevich</a></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<th style="width:75px;text-align:left">Party</th>
+<td style="width:75px;text-align:center"><a href="/wiki/Independent_politician" title="Independent politician">Independent</a></td>
+<td style="width:75px;text-align:center">People's Referendum</td>
+</tr>
+<tr>
+<th style="text-align:left">Popular&#160;vote</th>
+<td style="width:75px;text-align:center"><b>5,102,478</b></td>
+<td style="width:75px;text-align:center">271,426</td>
+</tr>
+<tr>
+<th style="text-align:left">Percentage</th>
+<td style="width:75px;text-align:center"><b>83.47%</b></td>
+<td style="width:75px;text-align:center">4.44%</td>
+</tr>
+<tr>
+<td colspan="4">
+<hr /></td>
+</tr>
+<tr>
+<td>&#160;</td>
+<td style="text-align:center;border-bottom: 6px solid #0000FA"><a href="/wiki/File:Hajdukievi%C4%8D_-_from_the_electoral_banner.jpg" class="image"><img alt="Hajdukievič - from the electoral banner.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hajdukievi%C4%8D_-_from_the_electoral_banner.jpg/121px-Hajdukievi%C4%8D_-_from_the_electoral_banner.jpg" width="121" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hajdukievi%C4%8D_-_from_the_electoral_banner.jpg/181px-Hajdukievi%C4%8D_-_from_the_electoral_banner.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hajdukievi%C4%8D_-_from_the_electoral_banner.jpg/242px-Hajdukievi%C4%8D_-_from_the_electoral_banner.jpg 2x" data-file-width="572" data-file-height="757" /></a></td>
+<td style="text-align:center;border-bottom: 6px solid #000088"><a href="/wiki/File:Ulachovi%C4%8D_-_from_the_electoral_banner.jpg" class="image"><img alt="Ulachovič - from the electoral banner.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ulachovi%C4%8D_-_from_the_electoral_banner.jpg/117px-Ulachovi%C4%8D_-_from_the_electoral_banner.jpg" width="117" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ulachovi%C4%8D_-_from_the_electoral_banner.jpg/176px-Ulachovi%C4%8D_-_from_the_electoral_banner.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ulachovi%C4%8D_-_from_the_electoral_banner.jpg/235px-Ulachovi%C4%8D_-_from_the_electoral_banner.jpg 2x" data-file-width="541" data-file-height="737" /></a></td>
+</tr>
+<tr>
+<th style="width:75px;text-align:left">Nominee</th>
+<td style="width:75px;text-align:center"><a href="/wiki/Sergei_Gaidukevich" title="Sergei Gaidukevich">Sergei Gaidukevich</a></td>
+<td style="width:75px;text-align:center">Nikolai Ulakhovich</td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<th style="width:75px;text-align:left">Party</th>
+<td style="width:75px;text-align:center"><a href="/wiki/Liberal_Democratic_Party_(Belarus)" title="Liberal Democratic Party (Belarus)">Liberal Democratic Party</a></td>
+<td style="width:75px;text-align:center"><a href="/wiki/Belarusian_Patriotic_Party" title="Belarusian Patriotic Party">Belarusian Patriotic Party</a></td>
+</tr>
+<tr>
+<th style="text-align:left">Popular&#160;vote</th>
+<td style="width:75px;text-align:center">201,945</td>
+<td style="width:75px;text-align:center">102,131</td>
+</tr>
+<tr>
+<th style="text-align:left">Percentage</th>
+<td style="width:75px;text-align:center">3.30%</td>
+<td style="width:75px;text-align:center">1.67%</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center">
+<hr />
+<table cellspacing="0" cellpadding="0" style="background:transparent; width:100%;">
+<tr>
+<td style="width:50%; text-align:left; text-size: 80%"><b>President before election</b><br />
+<p><a href="/wiki/Alexander_Lukashenko" title="Alexander Lukashenko">Alexander Lukashenko</a><br />
+<a href="/wiki/Independent_politician" title="Independent politician">Independent</a></p>
+</td>
+<td style="width:50%; text-align:right; text-size: 80%"><b>Elected President</b><br />
+<p><a href="/wiki/Alexander_Lukashenko" title="Alexander Lukashenko">Alexander Lukashenko</a><br />
+<a href="/wiki/Independent_politician" title="Independent politician">Independent</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><b>Presidential elections</b> were held in <a href="/wiki/Belarus" title="Belarus">Belarus</a> on 11 October 2015.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> Long-term president <a href="/wiki/Alexander_Lukashenko" title="Alexander Lukashenko">Alexander Lukashenko</a> ran for his fifth term in office, having won every presidential election since independence in 1991. He was re-elected with 83.47% of the vote. The "<a href="/wiki/None_of_the_above" title="None of the above">against all</a>" option received more votes than any opposition candidate.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Candidates"><span class="tocnumber">2</span> <span class="toctext">Candidates</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Campaign"><span class="tocnumber">3</span> <span class="toctext">Campaign</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Opinion_polls"><span class="tocnumber">4</span> <span class="toctext">Opinion polls</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Conduct"><span class="tocnumber">5</span> <span class="toctext">Conduct</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Results"><span class="tocnumber">6</span> <span class="toctext">Results</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Reactions"><span class="tocnumber">7</span> <span class="toctext">Reactions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Domestic"><span class="tocnumber">7.1</span> <span class="toctext">Domestic</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#International"><span class="tocnumber">7.2</span> <span class="toctext">International</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Analysts"><span class="tocnumber">7.3</span> <span class="toctext">Analysts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Prior to the vote, six incarcerated opposition figures were pardoned by Lukashenko. The move was welcomed by the <a href="/wiki/Organization_for_Security_and_Co-operation_in_Europe" title="Organization for Security and Co-operation in Europe">OSCE</a> electoral observer mission with the head of the delegation, Kent Hasted, saying: "The recent release of political prisoners and a welcoming approach to observers were positive developments. However, the hope that this gave us for broader electoral progress was largely unfulfilled."<sup id="cite_ref-React_2-0" class="reference"><a href="#cite_note-React-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Candidates">Candidates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;action=edit&amp;section=2" title="Edit section: Candidates">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A total of eight candidates attempted to register to run in the elections by collecting the required 100,000 signatures; incumbent President <a href="/wiki/Alexander_Lukashenko" title="Alexander Lukashenko">Alexander Lukashenko</a> running as an independent, <a href="/wiki/Belarusian_Left_Party_%22A_Just_World%22" title="Belarusian Left Party &quot;A Just World&quot;">Belarusian Left Party "A Just World"</a> chairman <a href="/wiki/Sergey_Kalyakin" title="Sergey Kalyakin">Sergey Kalyakin</a>, <a href="/wiki/Liberal_Democratic_Party_(Belarus)" title="Liberal Democratic Party (Belarus)">Liberal Democratic Party</a> chairman <a href="/wiki/Sergei_Gaidukevich" title="Sergei Gaidukevich">Sergei Gaidukevich</a>, People's referendum member <a href="/wiki/Tatsiana_Karatkevich" title="Tatsiana Karatkevich">Tatsiana Karatkevich</a>, <a href="/wiki/United_Civic_Party_of_Belarus" title="United Civic Party of Belarus">United Civic Party</a> chairman <a href="/wiki/Anatoly_Lebedko" title="Anatoly Lebedko">Anatoly Lebedko</a>, economist Viktor Tereshchenko (who ran in the <a href="/wiki/Belarusian_presidential_election,_2010" title="Belarusian presidential election, 2010">2010 elections</a>), unemployed teacher Zhanna Romanovskaya and <a href="/wiki/Belarusian_Patriotic_Party" title="Belarusian Patriotic Party">Belarusian Patriotic Party</a> chairman Nikolai Ulakhovich.</p>
+<p>Although five candidates (Lukashenko, Ulakhovich, Gaidukevich, Tereshchenko and Karatkevich) obtained over 100,000 signatures,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> the vast majority of Tereshchenko's signatures were declared invalid,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> resulting in only four candidates (marked in bold) being able to contest the <a href="/wiki/Election" title="Election">elections</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<table class="wikitable sortable">
+<tr>
+<th rowspan="2">Candidate</th>
+<th rowspan="2">Political party</th>
+<th colspan="2">Initiative group</th>
+<th rowspan="2">Submitted</th>
+<th rowspan="2">Valid</th>
+</tr>
+<tr>
+<th>Members</th>
+<th>Leader</th>
+</tr>
+<tr>
+<td><b><a href="/wiki/Alexander_Lukashenko" title="Alexander Lukashenko">Alexander Lukashenko</a></b></td>
+<td>Independent</td>
+<td align="right">10,577</td>
+<td>Mikhail Orda</td>
+<td align="right">1,761,145</td>
+<td align="right">1,753,380</td>
+</tr>
+<tr>
+<td><b>Nikolai Ulakhovich</b></td>
+<td><a href="/wiki/Belarusian_Patriotic_Party" title="Belarusian Patriotic Party">Belarusian Patriotic Party</a></td>
+<td align="right">1,426</td>
+<td>Mikhail Vobrazaw</td>
+<td align="right">159,805</td>
+<td align="right">149,819</td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Sergei_Gaidukevich" title="Sergei Gaidukevich">Sergei Gaidukevich</a></b></td>
+<td><a href="/wiki/Liberal_Democratic_Party_(Belarus)" title="Liberal Democratic Party (Belarus)">Liberal Democratic Party</a></td>
+<td align="right">2,481</td>
+<td>Anatoly Khishchanka</td>
+<td align="right">140,735</td>
+<td align="right">139,877</td>
+</tr>
+<tr>
+<td><b><a href="/wiki/Tatsiana_Karatkevich" title="Tatsiana Karatkevich">Tatsiana Karatkevich</a></b></td>
+<td>People's Referendum</td>
+<td align="right">1,993</td>
+<td>Andrei Dmitriev</td>
+<td align="right">107,299</td>
+<td align="right">105,278</td>
+</tr>
+<tr>
+<td>Viktor Tereshchenko</td>
+<td>Independent</td>
+<td align="right">946</td>
+<td>Oleg Nestsyarkov</td>
+<td align="right">130,404</td>
+<td align="right">6,699</td>
+</tr>
+<tr>
+<td><a href="/wiki/Sergey_Kalyakin" title="Sergey Kalyakin">Sergey Kalyakin</a></td>
+<td><a href="/wiki/Belarusian_Left_Party_%22A_Just_World%22" title="Belarusian Left Party &quot;A Just World&quot;">Belarusian Left Party "A Just World"</a></td>
+<td align="right">1,510</td>
+<td>Valery Ukhnaliou</td>
+<td align="right">48</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td><a href="/wiki/Anatoly_Lebedko" title="Anatoly Lebedko">Anatoly Lebedko</a></td>
+<td><a href="/wiki/United_Civic_Party_of_Belarus" title="United Civic Party of Belarus">United Civic Party</a></td>
+<td align="right">977</td>
+<td>Viktor Kornienko</td>
+<td align="right">–</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td>Zhanna Romanovskaya</td>
+<td>Independent</td>
+<td align="right">110</td>
+<td>Eugene Naporko</td>
+<td align="right">780</td>
+<td align="right">0</td>
+</tr>
+<tr class="sortbottom">
+<td colspan="6">Sources: <a rel="nofollow" class="external text" href="http://nn.by/?c=ar&amp;i=153286">Nasha Niva</a>, <a rel="nofollow" class="external text" href="http://rec.gov.by/sites/default/files/pdf/Elections-PRB2015-Elect7.pdf">CEC</a>, <a rel="nofollow" class="external text" href="http://eng.belta.by/all_news/politics/Preliminary-data-about-true-signatures-to-nominate-candidates-for-Belarus-presidency-released_i_84137.html">Belta</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Campaign">Campaign</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;action=edit&amp;section=3" title="Edit section: Campaign">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The government allowed an unauthorised opposition rally in the capital, Minsk, to go ahead on the eve of the election without police intervention but Lukashenko warned that post-election protests would not be tolerated. On the same day, the winner of the 2015 <a href="/wiki/Nobel_Prize_in_Literature" title="Nobel Prize in Literature">Nobel Prize in Literature</a> (announced just two days prior), <a href="/wiki/Svetlana_Alexievich" title="Svetlana Alexievich">Svetlana Alexievich</a>, warned Europe to beware of Lukashenko's government as an alleged "soft dictatorship."<sup id="cite_ref-ndv_6-0" class="reference"><a href="#cite_note-ndv-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Opinion_polls">Opinion polls</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;action=edit&amp;section=4" title="Edit section: Opinion polls">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable" style="text-align:center">
+<tr>
+<th>Date</th>
+<th>Agency</th>
+<th>Lukashenko</th>
+<th>Karatkevich</th>
+<th>Statkevich</th>
+<th>Nyaklyaeu</th>
+<th>Lebedko</th>
+<th>Gaydukevich</th>
+<th>Kalyakin</th>
+<th>Ulakhovich</th>
+</tr>
+<tr>
+<td>31 March 2015</td>
+<td><a rel="nofollow" class="external text" href="http://news.tut.by/politics/442042.html">NISEPI</a></td>
+<td><b>34.2%</b></td>
+<td>–</td>
+<td>4.5%</td>
+<td><b>7.6%</b></td>
+<td>2.9%</td>
+<td>1.1%</td>
+<td>1.6%</td>
+<td>–</td>
+</tr>
+<tr>
+<td>1 July 2015</td>
+<td><a rel="nofollow" class="external text" href="http://news.tut.by/politics/454321.html">NISEPI</a></td>
+<td><b>38.6%</b></td>
+<td>1.1%</td>
+<td><b>5%</b></td>
+<td>4.7&#160;%</td>
+<td>4.2%</td>
+<td>3.9%</td>
+<td>3.1%</td>
+<td>-</td>
+</tr>
+<tr>
+<td>30 September 2015</td>
+<td><a rel="nofollow" class="external text" href="http://news.tut.by/politics/466573.html">NISEPI</a></td>
+<td><b>47%</b></td>
+<td><b>17.9%</b></td>
+<td><b>-</b></td>
+<td>-</td>
+<td>-</td>
+<td>11.4%</td>
+<td>-</td>
+<td>3.6%</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Belarusian_presidential_election_banner_2015.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Belarusian_presidential_election_banner_2015.jpg/250px-Belarusian_presidential_election_banner_2015.jpg" width="250" height="333" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Belarusian_presidential_election_banner_2015.jpg/375px-Belarusian_presidential_election_banner_2015.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Belarusian_presidential_election_banner_2015.jpg/500px-Belarusian_presidential_election_banner_2015.jpg 2x" data-file-width="3240" data-file-height="4320" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Belarusian_presidential_election_banner_2015.jpg" class="internal" title="Enlarge"></a></div>
+Belarusian presidential election banner</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Conduct">Conduct</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;action=edit&amp;section=5" title="Edit section: Conduct">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Commonwealth_of_Independent_States" title="Commonwealth of Independent States">CIS</a> mission included 312 accredited observers from Azerbaijan, Armenia, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Uzbekistan, the CIS Inter-Parliamentary Assembly, the Parliamentary Assembly of the Union of Belarus and Russia, and the CIS Executive Committee.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>The OSCE/<a href="/wiki/Office_for_Democratic_Institutions_and_Human_Rights" title="Office for Democratic Institutions and Human Rights">ODIHR</a> long-term observation mission was led by Jacques Faure and included more than 40 observers, whilst the short-term observation mission had over 400 people.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> The OSCE's <a href="/wiki/Kent_H%C3%A4rstedt" title="Kent Härstedt">Kent Härstedt</a> suggested the vote may have been undermined by "significant problems," especially during the counting of the votes. "It is clear that Belarus still has a long way to go towards fulfilling its democratic commitments."<sup id="cite_ref-ndv_6-1" class="reference"><a href="#cite_note-ndv-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>Several cases of forced early voting were recorded, usually among students of state universities and workers of state organizations.<sup id="cite_ref-viasna.dosr_9-0" class="reference"><a href="#cite_note-viasna.dosr-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> The "Human Rights Defenders for Free Elections" group also registered the overestimation of turnout (half of independent observers noted that the actual number of early voters didn't match with the official turnout) and unreasonable interference in observers' work.<sup id="cite_ref-viasna.dosr_9-1" class="reference"><a href="#cite_note-viasna.dosr-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>On election day, independent observers noted several violations during the elections. In <a href="/wiki/Barysaw" title="Barysaw">Barysaw</a>, chairman of the District Election Commission didn't announce the results before calling somewhere (presumably the higher-level electoral commission). After his call, the observer states, the number of votes for the opposition candidate Karatkevich in the final protocol decreased from 219 to 77.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> In <a href="/wiki/Salihorsk" title="Salihorsk">Salihorsk</a> polling station 24, the number of voters was announced to be 1,190, while the independent observer counted only 808 people.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> A similar incident happened in <a href="/wiki/Babruysk" title="Babruysk">Babruysk</a>, where the official turnout on three polling stations differed from the observers' calculations by several hundred voters in each station. The observer was not allowed to watch for the counting process.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>In <a href="/wiki/Slonim" title="Slonim">Slonim</a>, an independent observer noticed two packs of filled ballots thrown into the early voting ballot box.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Results">Results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;action=edit&amp;section=6" title="Edit section: Results">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the Central Election Commission, more than 36% of voters used the <a href="/wiki/Early_voting" title="Early voting">early voting</a> process, higher than in previous years.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> Overall turnout was 87.22% – highest in <a href="/wiki/Vitebsk_Region" title="Vitebsk Region">Vitebsk Region</a> at 91.08% and lowest in Minsk at 74.38%.<sup id="cite_ref-result_17-0" class="reference"><a href="#cite_note-result-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-vybory2015_18-0" class="reference"><a href="#cite_note-vybory2015-18"><span>[</span>18<span>]</span></a></sup> <a href="/wiki/Alexander_Lukashenko" title="Alexander Lukashenko">Alexander Lukashenko</a> won the election with 83.47% of the vote.<sup id="cite_ref-result_17-1" class="reference"><a href="#cite_note-result-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<table class="wikitable" style="text-align:right">
+<tr>
+<th colspan="2">Candidate</th>
+<th>Party</th>
+<th>Votes</th>
+<th>%</th>
+</tr>
+<tr>
+<td bgcolor="#A52A2A"></td>
+<td align="left"><a href="/wiki/Alexander_Lukashenko" title="Alexander Lukashenko">Alexander Lukashenko</a></td>
+<td align="left">Independent</td>
+<td>5,102,478</td>
+<td>83.47</td>
+</tr>
+<tr>
+<td bgcolor="#F0004D"></td>
+<td align="left"><a href="/wiki/Tatsiana_Karatkevich" title="Tatsiana Karatkevich">Tatsiana Karatkevich</a></td>
+<td align="left">People's Referendum</td>
+<td>271,426</td>
+<td>4.44</td>
+</tr>
+<tr>
+<td bgcolor="#0000FA"></td>
+<td align="left"><a href="/wiki/Sergei_Gaidukevich" title="Sergei Gaidukevich">Sergei Gaidukevich</a></td>
+<td align="left"><a href="/wiki/Liberal_Democratic_Party_(Belarus)" title="Liberal Democratic Party (Belarus)">Liberal Democratic Party</a></td>
+<td>201,945</td>
+<td>3.30</td>
+</tr>
+<tr>
+<td bgcolor="#000088"></td>
+<td align="left">Nikolai Ulakhovich</td>
+<td align="left"><a href="/wiki/Belarusian_Patriotic_Party" title="Belarusian Patriotic Party">Belarusian Patriotic Party</a></td>
+<td>102,131</td>
+<td>1.67</td>
+</tr>
+<tr>
+<td align="left" colspan="3">Against all</td>
+<td>386,225</td>
+<td>6.32</td>
+</tr>
+<tr>
+<td align="left" colspan="3">Invalid/blank votes</td>
+<td>48,808</td>
+<td>0.80</td>
+</tr>
+<tr>
+<td align="left" colspan="3"><b>Total</b></td>
+<td><b>6,113,013</b></td>
+<td><b>100</b></td>
+</tr>
+<tr>
+<td align="left" colspan="3">Registered voters/turnout</td>
+<td>7,008,682</td>
+<td>87.22</td>
+</tr>
+<tr>
+<td align="left" colspan="5">Source: <a rel="nofollow" class="external text" href="http://www.belta.by/politics/view/tsik-belarusi-utverdil-itogi-vyborov-prezidenta-166921-2015/">Belta</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Reactions">Reactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;action=edit&amp;section=7" title="Edit section: Reactions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Domestic">Domestic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;action=edit&amp;section=8" title="Edit section: Domestic">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Head of the Central Election Commission, <a href="/wiki/Lidiya_Yermoshina" title="Lidiya Yermoshina" class="mw-redirect">Lidiya Yermoshina</a> is quoted to say: "I think the election campaign was civilized, cultured and calm."<sup id="cite_ref-ndv_6-2" class="reference"><a href="#cite_note-ndv-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>Opposition leaders <a href="/wiki/Vladimir_Neklyaev" title="Vladimir Neklyaev" class="mw-redirect">Vladimir Neklyaev</a>, <a href="/wiki/Anatoly_Lebedko" title="Anatoly Lebedko">Anatoly Lebedko</a> and <a href="/wiki/Mikola_Statkevich" title="Mikola Statkevich">Mikola Statkevich</a> said they would not recognize the results.<sup id="cite_ref-ndv_6-3" class="reference"><a href="#cite_note-ndv-6"><span>[</span>6<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="International">International</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;action=edit&amp;section=9" title="Edit section: International">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span>Germany – Foreign Minister <a href="/wiki/Frank-Walter_Steinmeier" title="Frank-Walter Steinmeier">Frank-Walter Steinmeier</a> said from Luxembourg that the lack of repression against the opposition could pave the path towards easing sanctions against the country for four months. "There have been changes in Belarus, compared to the two past elections. If Belarus stays on this path, there is a willingness, and there is unanimity on this, to change the relationships with Belarus." However, he added that though there were few surprises, Belarus was changing, especially in regards to the "liberation of political prisoners" before the vote.<sup id="cite_ref-ndv_6-4" class="reference"><a href="#cite_note-ndv-6"><span>[</span>6<span>]</span></a></sup></p>
+<p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span>France – Minister for European Affairs <a href="/wiki/Harlem_D%C3%A9sir" title="Harlem Désir">Harlem Désir</a> said his country sought to encourage an opening, while also warning that backsliding on human rights could result in the re-imposition of sanctions.<sup id="cite_ref-React_2-1" class="reference"><a href="#cite_note-React-2"><span>[</span>2<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Analysts">Analysts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;action=edit&amp;section=10" title="Edit section: Analysts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An analyst at the <a href="/wiki/BelaPAN" title="BelaPAN">BelaPAN</a> Alexander Klaskovsky noticed that there were no mass protests and arrests of the opposition place this time.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2015)">citation needed</span></a></i>]</sup> A comment by <a href="/wiki/Agence_France_Presse" title="Agence France Presse" class="mw-redirect">Agence France Presse</a> suggested the changes in this election were due to Lukashenko's shrewdness in playing Western Europe against Russia and an attempt to decouple from Russia due to <a href="/wiki/International_sanctions_during_the_Ukrainian_crisis" title="International sanctions during the Ukrainian crisis">western sanctions</a> it faced.<sup id="cite_ref-ndv_6-5" class="reference"><a href="#cite_note-ndv-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://eng.belta.by/all_news/politics/Parliament-approves-11-October-2015-as-Belarus-president-election-date_i_82887.html">Parliament approves 11 October 2015 as Belarus president election date</a> Belta, 30 June 2015</span></li>
+<li id="cite_note-React-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-React_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-React_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dnaindia.com/world/report-european-union-on-course-to-lift-belarus-sanctions-despite-vote-concerns-2134271">European Union on course to lift Belarus sanctions despite vote concerns</a> DNA India, 12 October 2015</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://rec.gov.by/sites/default/files/pdf/Elections-PRB2015-Elect7.pdf">Number of voter signatures in the signature lists</a> Central Election Commission</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://eng.belta.by/politics/view/preliminary-data-about-true-signatures-to-nominate-candidates-for-belarus-presidency-released-84491-2015">Preliminary data about true signatures to nominate candidates for Belarus presidency released</a> Belta, 1 September 2015</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.electionguide.org/elections/id/2430/">Republic of Belarus</a> IFES</span></li>
+<li id="cite_note-ndv-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-ndv_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ndv_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ndv_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ndv_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ndv_6-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-ndv_6-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ndtv.com/world-news/belarus-lukashenko-looks-to-eased-sanctions-but-osce-queries-poll-1231258">Belarus' Alexander Lukashenko Looks to Eased Sanctions But OSCE Queries Poll</a> NDTV, 12 October 2015</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://eng.belta.by/all_news/politics/CIS-observers-release-interim-report-on-Belarus-election-campaign_i_84654.html">"Election 2015. CIS observers release interim report on Belarus election campaign"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABelarusian+presidential+election%2C+2015&amp;rft.btitle=Election+2015.+CIS+observers+release+interim+report+on+Belarus+election+campaign&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Feng.belta.by%2Fall_news%2Fpolitics%2FCIS-observers-release-interim-report-on-Belarus-election-campaign_i_84654.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://eng.belta.by/all_news/politics/Harstedt-OSCE-Council-of-Europes-invitation-to-observe-Belarus-president-election-is-a-good-sign_i_84629.html">"Election 2015. Harstedt: OSCE, Council of Europe's invitation to observe Belarus' president election is a good sign"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABelarusian+presidential+election%2C+2015&amp;rft.btitle=Election+2015.+Harstedt%3A+OSCE%2C+Council+of+Europe%27s+invitation+to+observe+Belarus%27+president+election+is+a+good+sign&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Feng.belta.by%2Fall_news%2Fpolitics%2FHarstedt-OSCE-Council-of-Europes-invitation-to-observe-Belarus-president-election-is-a-good-sign_i_84629.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-viasna.dosr-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-viasna.dosr_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-viasna.dosr_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">The Human Rights Center “Viasna”. <a rel="nofollow" class="external text" href="http://spring96.org/en/news/80597">"Final report on early voting at the elections of President of the Republic of Belarus in 2015"</a>. <i>spring96.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABelarusian+presidential+election%2C+2015&amp;rft.au=The+Human+Rights+Center+%E2%80%9CViasna%E2%80%9D&amp;rft.btitle=Final+report+on+early+voting+at+the+elections+of+President+of+the+Republic+of+Belarus+in+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fspring96.org%2Fen%2Fnews%2F80597&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://naviny.by/rubrics/elections/2015/10/07/ic_news_623_464570/">Минск: На предприятиях и в общежитиях принуждают голосовать досрочно</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://naviny.by/rubrics/elections/2015/10/06/ic_news_623_464519/">В государственных вузах наблюдается давление на студентов в связи с выборами</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">The Human Rights Center “Viasna”. <a rel="nofollow" class="external text" href="http://spring96.org/en/news/80701">"Barysaŭ: chairman consults higher commission before announcing results of voting"</a>. <i>spring96.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABelarusian+presidential+election%2C+2015&amp;rft.au=The+Human+Rights+Center+%E2%80%9CViasna%E2%80%9D&amp;rft.btitle=Barysa%C5%AD%3A+chairman+consults+higher+commission+before+announcing+results+of+voting&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fspring96.org%2Fen%2Fnews%2F80701&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">The Human Rights Center “Viasna”. <a rel="nofollow" class="external text" href="http://spring96.org/en/news/80699">"Salihorsk PEC No. 24 overestimates turnout by four hundred people"</a>. <i>spring96.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABelarusian+presidential+election%2C+2015&amp;rft.au=The+Human+Rights+Center+%E2%80%9CViasna%E2%80%9D&amp;rft.btitle=Salihorsk+PEC+No.+24+overestimates+turnout+by+four+hundred+people&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fspring96.org%2Fen%2Fnews%2F80699&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">The Human Rights Center “Viasna”. <a rel="nofollow" class="external text" href="http://spring96.org/en/news/80696">"Babrujsk: massive overestimation of turnout on election day"</a>. <i>spring96.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABelarusian+presidential+election%2C+2015&amp;rft.au=The+Human+Rights+Center+%E2%80%9CViasna%E2%80%9D&amp;rft.btitle=Babrujsk%3A+massive+overestimation+of+turnout+on+election+day&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fspring96.org%2Fen%2Fnews%2F80696&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">The Human Rights Center “Viasna”. <a rel="nofollow" class="external text" href="http://spring96.org/en/news/80697">"Observer registers stuffing of ballots at polling station No. 11 in Slonim"</a>. <i>spring96.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABelarusian+presidential+election%2C+2015&amp;rft.au=The+Human+Rights+Center+%E2%80%9CViasna%E2%80%9D&amp;rft.btitle=Observer+registers+stuffing+of+ballots+at+polling+station+No.+11+in+Slonim&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fspring96.org%2Fen%2Fnews%2F80697&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.tut.by/politics/468046.html">"Рекорд пал. Досрочно проголосовали 36,05% избирателей"</a>. <i>TUT.BY</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABelarusian+presidential+election%2C+2015&amp;rft.btitle=%D0%A0%D0%B5%D0%BA%D0%BE%D1%80%D0%B4+%D0%BF%D0%B0%D0%BB.+%D0%94%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BD%D0%BE+%D0%BF%D1%80%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%B0%D0%BB%D0%B8+36%2C05%25+%D0%B8%D0%B7%D0%B1%D0%B8%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fnews.tut.by%2Fpolitics%2F468046.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-result-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-result_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-result_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rec.gov.by/sites/default/files/pdf/Elections-PRB2015-itog.pdf">Сведения о результатах голосования 11 октября 2015 года</a></span></li>
+<li id="cite_note-vybory2015-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-vybory2015_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://vybory2015.by/">"Выборы Президента Республики Беларусь 2015"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABelarusian+presidential+election%2C+2015&amp;rft.btitle=%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D1%8B+%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0+%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8+%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C+2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fvybory2015.by%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.belta.by/politics/view/lukashenko-pobedil-na-vyborah-prezidenta-belarusi-nabrav-8349-golosov-166278-2015/">Belta: Лукашенко победил на выборах Президента Беларуси</a></span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Belarusian_elections" title="Template:Belarusian elections"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Belarusian_elections" title="Template talk:Belarusian elections"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Belarusian_elections&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><span class="flagicon"><a href="/wiki/Belarus" title="Belarus"><img alt="Belarus" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/35px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/46px-Flag_of_Belarus.svg.png 2x" data-file-width="900" data-file-height="450" /></a></span> <a href="/wiki/Elections_in_Belarus" title="Elections in Belarus">Elections and referendums in Belarus</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/President_of_Belarus" title="President of Belarus">Presidential elections</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Belarusian_presidential_election,_1994" title="Belarusian presidential election, 1994">1994</a></li>
+<li><a href="/wiki/Belarusian_presidential_election,_2001" title="Belarusian presidential election, 2001">2001</a></li>
+<li><a href="/wiki/Belarusian_presidential_election,_2006" title="Belarusian presidential election, 2006">2006</a></li>
+<li><a href="/wiki/Belarusian_presidential_election,_2010" title="Belarusian presidential election, 2010">2010</a></li>
+<li><strong class="selflink">2015</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/National_Assembly_of_Belarus" title="National Assembly of Belarus">Parliamentary elections</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Belarusian_parliamentary_election,_1937&amp;action=edit&amp;redlink=1" class="new" title="Belarusian parliamentary election, 1937 (page does not exist)">1937</a></li>
+<li><a href="/wiki/Elections_to_the_People%27s_Assemblies_of_Western_Ukraine_and_Western_Belarus" title="Elections to the People's Assemblies of Western Ukraine and Western Belarus">1939 (West Belarus)</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1947&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1947 (page does not exist)">1947</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1951&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1951 (page does not exist)">1951</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1955&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1955 (page does not exist)">1955</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1959&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1959 (page does not exist)">1959</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1963&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1963 (page does not exist)">1963</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1967&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1967 (page does not exist)">1967</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1971&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1971 (page does not exist)">1971</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1975&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1975 (page does not exist)">1975</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1980&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1980 (page does not exist)">1980</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1985&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1985 (page does not exist)">1985</a></li>
+<li><a href="/w/index.php?title=Belarusian_Supreme_Soviet_election,_1990&amp;action=edit&amp;redlink=1" class="new" title="Belarusian Supreme Soviet election, 1990 (page does not exist)">1990</a></li>
+<li><a href="/wiki/Belarusian_parliamentary_election,_1995" title="Belarusian parliamentary election, 1995">1995</a></li>
+<li><a href="/wiki/Belarusian_parliamentary_election,_2000" title="Belarusian parliamentary election, 2000">2000</a></li>
+<li><a href="/wiki/Belarusian_parliamentary_election,_2004" title="Belarusian parliamentary election, 2004">2004</a></li>
+<li><a href="/wiki/Belarusian_parliamentary_election,_2008" title="Belarusian parliamentary election, 2008">2008</a></li>
+<li><a href="/wiki/Belarusian_parliamentary_election,_2012" title="Belarusian parliamentary election, 2012">2012</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Referendums</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Belarusian_referendum,_1995" title="Belarusian referendum, 1995">1995</a></li>
+<li><a href="/wiki/Belarusian_referendum,_1996" title="Belarusian referendum, 1996">1996</a></li>
+<li><a href="/wiki/Belarusian_referendum,_2004" title="Belarusian referendum, 2004">2004</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1136
+Cached time: 20151019203402
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.575 seconds
+Real time usage: 0.643 seconds
+Preprocessor visited node count: 3696/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 40100/2097152 bytes
+Template argument size: 5647/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Lua time usage: 0.116/10.000 seconds
+Lua memory usage: 3.33 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  483.282      1 - -total
+ 46.57%  225.041      1 - Template:Infobox_election
+ 30.10%  145.472      3 - Template:Infobox_election/row
+ 28.17%  136.117      1 - Template:Reflist
+ 17.39%   84.067      9 - Template:Cite_web
+ 11.42%   55.192      1 - Template:Cn
+  9.77%   47.220      9 - Template:Ifempty
+  9.51%   45.954      1 - Template:Fix
+  8.12%   39.247      2 - Template:Category_handler
+  4.61%   22.265      1 - Template:Belarusian_elections
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:44856531-0!*!0!!en!4!* and timestamp 20151019203402 and revision id 686408964
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Belarusian_presidential_election,_2015&amp;oldid=686408964">https://en.wikipedia.org/w/index.php?title=Belarusian_presidential_election,_2015&amp;oldid=686408964</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2015_elections_in_Europe" title="Category:2015 elections in Europe">2015 elections in Europe</a></li><li><a href="/wiki/Category:2015_in_Belarus" title="Category:2015 in Belarus">2015 in Belarus</a></li><li><a href="/wiki/Category:Presidential_elections_in_Belarus" title="Category:Presidential elections in Belarus">Presidential elections in Belarus</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2015" title="Category:Articles with unsourced statements from October 2015">Articles with unsourced statements from October 2015</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Belarusian+presidential+election%2C+2015&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Belarusian+presidential+election%2C+2015" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Belarusian_presidential_election,_2015"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Belarusian_presidential_election,_2015"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Belarusian_presidential_election,_2015" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Belarusian_presidential_election,_2015" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Belarusian_presidential_election,_2015" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;oldid=686408964" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q18691679" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Belarusian_presidential_election%2C_2015&amp;id=686408964" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Belarusian+presidential+election%2C+2015">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Belarusian+presidential+election%2C+2015&amp;returnto=Belarusian+presidential+election%2C+2015&amp;oldid=686408964&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Belarusian_presidential_election,_2015&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%9F%D1%80%D1%8D%D0%B7%D1%96%D0%B4%D1%8D%D0%BD%D1%86%D0%BA%D1%96%D1%8F_%D0%B2%D1%8B%D0%B1%D0%B0%D1%80%D1%8B_%D1%9E_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%96,_2015" title="Прэзідэнцкія выбары ў Беларусі, 2015 – Belarusian" lang="be" hreflang="be">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="//be-x-old.wikipedia.org/wiki/%D0%9F%D1%80%D1%8D%D0%B7%D1%8B%D0%B4%D1%8D%D0%BD%D1%86%D0%BA%D1%96%D1%8F_%D0%B2%D1%8B%D0%B1%D0%B0%D1%80%D1%8B_%D1%9E_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%96_2015_%D0%B3%D0%BE%D0%B4%D1%83" title="Прэзыдэнцкія выбары ў Беларусі 2015 году – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Eleccions_presidencials_bielorusses_de_2015" title="Eleccions presidencials bielorusses de 2015 – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Pr%C3%A4sidentschaftswahl_in_Wei%C3%9Frussland_2015" title="Präsidentschaftswahl in Weißrussland 2015 – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA_%D8%B1%DB%8C%D8%A7%D8%B3%D8%AA_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A8%D9%84%D8%A7%D8%B1%D9%88%D8%B3_(%DB%B2%DB%B0%DB%B1%DB%B5_%D9%85%DB%8C%D9%84%D8%A7%D8%AF%DB%8C)" title="انتخابات ریاست جمهوری بلاروس (۲۰۱۵ میلادی) – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/%C3%89lection_pr%C3%A9sidentielle_bi%C3%A9lorusse_de_2015" title="Élection présidentielle biélorusse de 2015 – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Wybory_prezydenckie_na_Bia%C5%82orusi_w_2015_roku" title="Wybory prezydenckie na Białorusi w 2015 roku – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%8B_%D0%B2_%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%B8%D0%B8_(2015)" title="Президентские выборы в Белоруссии (2015) – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Presidentvalet_i_Vitryssland_2015" title="Presidentvalet i Vitryssland 2015 – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%81%D1%8C%D0%BA%D1%96_%D0%B2%D0%B8%D0%B1%D0%BE%D1%80%D0%B8_%D0%B2_%D0%91%D1%96%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%96_2015" title="Президентські вибори в Білорусі 2015 – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/B%E1%BA%A7u_c%E1%BB%AD_t%E1%BB%95ng_th%E1%BB%91ng_Belarus,_2015" title="Bầu cử tổng thống Belarus, 2015 – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/2015%E5%B9%B4%E7%99%BD%E4%BF%84%E7%BE%85%E6%96%AF%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89" title="2015年白俄羅斯總統選舉 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q18691679#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 October 2015, at 00:02.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Belarusian_presidential_election,_2015&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.2/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector" />
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.geoFeatures","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1167"}); /* @nomin */
+} );</script>
+	</body>
+</html>
+
