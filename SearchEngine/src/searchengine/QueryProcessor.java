@@ -29,6 +29,7 @@ public class QueryProcessor
     public QueryProcessor(Index index)
     {
         this.index = index;
+        stopwords = new ArrayList<>();
         try 
         {
             loadStopWords("..\\stopwords.txt");
@@ -144,7 +145,7 @@ public class QueryProcessor
     // processes a file with the stop-words
     // and loads them to memory.
     // stop-words are supposed to be one in each line of the file.
-    public void loadStopWords(String path) throws FileNotFoundException
+    public final void loadStopWords(String path) throws FileNotFoundException
     {
         BufferedReader br = new BufferedReader(new FileReader(path));
         try
