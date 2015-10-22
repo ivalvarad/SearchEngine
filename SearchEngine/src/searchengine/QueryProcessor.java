@@ -34,7 +34,7 @@ public class QueryProcessor
         {
             loadStopWords("..\\stopwords.txt");
         }
-        catch (FileNotFoundException ex){}
+        catch(FileNotFoundException ex){}
     }
     
     // receives String with the query
@@ -42,13 +42,17 @@ public class QueryProcessor
     public ArrayList<String> processQuery(String query)
     {
         // ArrayList with the id of the documents which match the boolean retrival.
-        ArrayList<String> result = new ArrayList<>();
         ArrayList<String> queryWords = new ArrayList<>();
+        ArrayList<String> rawQuery = new ArrayList<>();
+        ArrayList<String> result = new ArrayList<>();
         String post;
         // ignore white-spaces and all that stuff.
 	queryWords = separateWords(query);
 	// eliminates the stop-words.
-	queryWords = eliminateWords(queryWords);
+	rawQuery = eliminateWords(queryWords);
+        System.out.println("SIRVIOOOOOOOOOO: " + rawQuery.size());
+        //System.out.println("queryE: " + queryWords.get(0));
+       // System.out.println("query: " + queryWords.get(1));
         result = processWords(queryWords);
         return result;
     }
@@ -61,6 +65,7 @@ public class QueryProcessor
         IndexEntry entry;
         String aux;
         
+        System.out.println("queryWords: " + queryWords.size());
         for(int i = 0; i < queryWords.size(); ++i)
         {
             // word to analize.
@@ -93,15 +98,25 @@ public class QueryProcessor
 	{
             c = query.charAt(i);
             // white spaces are ignored.
-            if( ignoreChar(c) == true)
+            if( (ignoreChar(c) == true) || (i == query.length()-1) )
             {
                 // generates a substring.
-		pos2 = i-1;
+                if(i == query.length()-1)
+                {
+                    pos2 = i+1;
+                }
+                else
+                {
+                    pos2 = i;
+                }
 		aux = query.substring(pos1, pos2);
 		// saves the sub-string.
 		result.add(aux);
 		// ignores the white-spaces between words.
-		c = query.charAt(i+1);
+		if(i < query.length()-1)
+                {
+                    c = query.charAt(i+1);
+                }                
 		while(ignoreChar(c) == true)
 		{
                     ++i;
