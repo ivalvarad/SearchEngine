@@ -69,7 +69,6 @@ public class QueryProcessor
         ArrayList<String> queryWords = new ArrayList<>();
         ArrayList<String> rawQuery = new ArrayList<>();
         ArrayList<String> result = new ArrayList<>();
-        String post;
         // ignore white-spaces and all that stuff.
 	queryWords = separateWords(query);
 	// eliminates the stop-words.
@@ -190,7 +189,7 @@ public class QueryProcessor
                 }
                 else
                 {
-                    postListF = setIntersection(postList, postListF);
+                    postListF = setIntersection(postListF, postList);
                 }
             }
         }
@@ -205,27 +204,25 @@ public class QueryProcessor
     // the structure of the set model was simulated as an array.
     public ArrayList<String> setIntersection(ArrayList<String> S1, ArrayList<String> S2)
     {
-        System.out.println("INTER");
         ArrayList<String> ans = new ArrayList<>();
         String word1;
         String word2;
         for(int i = 0; i < S1.size(); ++i)
         {
             word1 = S1.get(i);
+            word1 = word1.trim();
             for(int j = 0; j < S2.size(); ++j)
             {
                 word2 = S2.get(j);
+                word2 = word2.trim();
                 // element is part of the sets intersection.
                 if(word1.compareToIgnoreCase(word2) == 0)
                 {
-                    System.out.println(word1 + "=" + word2);
                     ans.add(word1);
                     // it is not needed to end the intern cycle.
-                    break;
                 }
             }
         }
         return ans;
-    }
-    
+    }    
 }
