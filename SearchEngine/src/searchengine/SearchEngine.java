@@ -28,10 +28,12 @@ public class SearchEngine {
     
     public SearchEngine(){
         myParser = new Parser("..\\postings.txt");
-        try {
+        myIndex = new Index(1000);
+        /*try {
             myIndex = new Index(myParser.getNumberLines()); //a esto hay que pasarle la cantidad de términos del diccionario
-        } catch (FileNotFoundException ex) {}
+        } catch (FileNotFoundException ex) {}*/
         myQP = new QueryProcessor(myIndex);
+        buildIndex();
     }
     
     //builds the index
@@ -58,7 +60,6 @@ public class SearchEngine {
     }
     
     public ArrayList<String> processQuery(String query){
-        buildIndex();
         return myQP.processQuery(query);
     }
     
