@@ -195,7 +195,7 @@ public class QueryProcessor
         }
         for(int i = 0; i < postListF.size();++i)
         {
-            System.out.println("PostF:" + postListF.get(i));
+            //System.out.println("PostF:" + postListF.get(i));
         }
         return postListF;
     }

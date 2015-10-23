@@ -28,7 +28,7 @@ public class SearchEngine {
     
     public SearchEngine(){
         myParser = new Parser("..\\postings.txt");
-        myIndex = new Index(1000);
+        myIndex = new Index(100);
         /*try {
             myIndex = new Index(myParser.getNumberLines()); //a esto hay que pasarle la cantidad de términos del diccionario
         } catch (FileNotFoundException ex) {}*/
@@ -56,7 +56,7 @@ public class SearchEngine {
             }
             myIndex.insert(newEntry);
         }
-        System.out.println(myIndex.toString());
+        //System.out.println(myIndex.toString());
     }
     
     public ArrayList<String> processQuery(String query){
