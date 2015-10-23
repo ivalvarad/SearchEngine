@@ -18,101 +18,129 @@ import java.util.logging.Logger;
 
 public class QueryProcessor 
 {
-    //receives a string with the search query from the user
-    //in some way, it has to fix the query (ignore stop words and that kind of stuff)
-    //then it has to process the query and look in the Index for the resulting docs
-    //then it has to return the results of the query to the controller
+    // receives a string with the search query from the user.
+    // in some way, it has to fix the query,
+    // then it has to process the query and
+    // look in the Index for the resulting docs.
+    // then it has to return the results of the query to the controller.
     
     private Index index;
     private ArrayList<String> stopwords;
     
+    // loads what need the instance to function correctly.
     public QueryProcessor(Index index)
     {
         this.index = index;
         stopwords = new ArrayList<>();
         try 
         {
+            // loads the stop-words file to main memory.
             loadStopWords("..\\stopwords.txt");
         }
-        catch (FileNotFoundException ex){}
+        catch(FileNotFoundException ex){}
+    }
+    
+    // processes a file with the stop-words
+    // and loads them to memory.
+    // stop-words are supposed to be one in each line of the file.
+    public final void loadStopWords(String path) throws FileNotFoundException
+    {
+        BufferedReader br = new BufferedReader(new FileReader(path));
+        try
+        {
+            String line = br.readLine();
+            while (line != null) 
+            {
+                // obtains the whole line and saves it in the list of stop-words.
+                stopwords.add(line);
+                line = br.readLine();                
+            }
+            br.close();
+        } 
+        catch (IOException ex){}
     }
     
     // receives String with the query
     // returns an ArrayList with the id of the documents found
     public ArrayList<String> processQuery(String query)
     {
-        // ArrayList with the id of the documents which match the boolean retrival.
-        ArrayList<String> result = new ArrayList<>();
+        // ArrayList with the id of the documents
+        // which match the boolean retrival.
         ArrayList<String> queryWords = new ArrayList<>();
+        ArrayList<String> rawQuery = new ArrayList<>();
+        ArrayList<String> result = new ArrayList<>();
         String post;
         // ignore white-spaces and all that stuff.
 	queryWords = separateWords(query);
 	// eliminates the stop-words.
-	queryWords = eliminateWords(queryWords);
-        result = processWords(queryWords);
+	rawQuery = eliminateWords(queryWords);
+        /* System.out.println("RawSize: " + rawQuery.size());
+        for(int i = 0; i < rawQuery.size(); ++i)
+        {
+            System.out.println("Rawquery: " + rawQuery.get(i));
+        }*/
+        result = processWords(rawQuery);
+        for(int i = 0; i < result.size(); ++i)
+        {
+            System.out.println("Result: " + result.get(i));
+        }
         return result;
     }
     
-    // 
-    public ArrayList<String> processWords(ArrayList<String> queryWords)
-    {
-        ArrayList<String> postListF = new ArrayList<>();
-        ArrayList<String> postList = new ArrayList<>();
-        IndexEntry entry;
-        String aux;
-        
-        for(int i = 0; i < queryWords.size(); ++i)
-        {
-            // word to analize.
-            aux = queryWords.get(i);
-            // get the post-list for the word.
-            entry = index.getEntry(aux);
-            postList = entry.getPostingsList();                    
-            // postlist is still empty.
-            if(postListF.isEmpty())
-            {
-                postListF = postList;
-            }
-            else
-            {
-                postListF = setIntersection(postList, postListF);
-            }
-        }
-        return postListF;
-    }
-    	
-    // generates an array of words according to a query that was originally a simple string of chars.
+    // generates an array of words according to
+    // a query that was originally a simple string of chars.
     public ArrayList<String> separateWords(String query)
     {
-        ArrayList<String> result = new ArrayList<>();	
-	char c;
+        ArrayList<String> result = new ArrayList<>();
+        char c;
 	String aux;
 	int pos1 = 0;
-	int pos2;
+	int pos2 = 0;
+
 	for(int i = 0; i < query.length(); ++i)
 	{
             c = query.charAt(i);
             // white spaces are ignored.
-            if( ignoreChar(c) == true)
+            if(validateChar(c) == true)
             {
-                // generates a substring.
-		pos2 = i-1;
-		aux = query.substring(pos1, pos2);
-		// saves the sub-string.
-		result.add(aux);
-		// ignores the white-spaces between words.
-		c = query.charAt(i+1);
-		while(ignoreChar(c) == true)
-		{
+                pos1 = i;
+                // leaves the index on an invalid char.
+                while((validateChar(c) == true) && i < query.length())
+                {
+                    pos2 = i;
                     ++i;
-		}
-                pos1 = i+1;
-            }			
-	}
-	return result;		
+                    if(i < query.length()-1)
+                    {
+                        c = query.charAt(i);
+                    }
+                }
+                if(pos2 == query.length())
+                {
+                    --pos2;
+                }
+                aux = query.substring(pos1, pos2+1);
+                // saves the sub-string.
+                result.add(aux);
+            }		
+        }
+        return result;
     }
-	
-    // checks if the word has to be ignored or not.
+    
+    // only alphanumeric substrings of the query will be taken into account.
+    // verifies if the given char is alphanumeric or not.
+    // true if it is alphanumeric, otherwise false.
+    public boolean validateChar(char c)
+    {
+        boolean ans = false;
+        // verifies if the character is alphanumeric or not.
+        if(Character.isDigit(c) || Character.isLetter(c))
+        {
+            ans = true;
+        }    
+        return ans;
+    }
+    
+     // checks if the word has to be ignored or not.
     // none stop-word will be processed.
     // could generate an empty array of words for being processed as a query.
     public ArrayList<String> eliminateWords(ArrayList<String> queryWords)
@@ -124,7 +152,7 @@ public class QueryProcessor
 	{
             boolean includeW = true;
             aux = queryWords.get(i);
-            for(int j = 0; i < stopwords.size() && includeW != false; ++j)
+            for(int j = 0; j < stopwords.size() && includeW != false; ++j)
             {
                 stopword = stopwords.get(j);
                 // verifies if both string of characters are equal.
@@ -141,42 +169,36 @@ public class QueryProcessor
 	}
 	return result;		
     }
-
-    // processes a file with the stop-words
-    // and loads them to memory.
-    // stop-words are supposed to be one in each line of the file.
-    public final void loadStopWords(String path) throws FileNotFoundException
-    {
-        BufferedReader br = new BufferedReader(new FileReader(path));
-        try
-        {
-            String line = br.readLine();
-            while (line != null) 
-            {
-                // obtains the whole line and saves it in the list of stop-words.
-		line = br.readLine();
-		stopwords.add(line);				
-            }
-            br.close();
-        } 
-        catch (IOException ex)
-        {
-            Logger.getLogger(QueryProcessor.class.getName()).log(Level.SEVERE, null, ex);
-        }
-    }
     
-    // only alphanumeric substrings of the query will be taken into account.
-    // verifies if the given char is alphanumeric or not.
-    // false if it is alphanumeric, otherwise true.
-    public boolean ignoreChar(char c)
+    // 
+    public ArrayList<String> processWords(ArrayList<String> queryWords)
     {
-        boolean ans = false;
-        // verifies if the character is alphanumeric or not.
-        if(!Character.isDigit(c) && !Character.isLetter(c))
+        ArrayList<String> postListF = new ArrayList<>();
+        ArrayList<String> postList = new ArrayList<>();
+        IndexEntry entry = new IndexEntry();
+        String aux;
+        
+        for(int i = 0; i < queryWords.size(); ++i)
         {
-            ans = true;
-        }    
-        return ans;
+            // word to analize.
+            aux = queryWords.get(i);
+            // get the post-list for the word.
+            entry = index.getEntry(aux);
+            // term was not found in the index.
+            if(entry != null)
+            {
+                postList = entry.getPostingsList();
+                if(postListF.isEmpty())
+                {
+                    postListF = postList;
+                }
+                else
+                {
+                    postListF = setIntersection(postList, postListF);
+                }
+            }
+        }
+        return postListF;
     }
     
     // intersection between two sets of words.
