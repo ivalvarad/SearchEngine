@@ -74,12 +74,16 @@ public class QueryProcessor
 	queryWords = separateWords(query);
 	// eliminates the stop-words.
 	rawQuery = eliminateWords(queryWords);
-        System.out.println("RawSize: " + rawQuery.size());
+        /* System.out.println("RawSize: " + rawQuery.size());
         for(int i = 0; i < rawQuery.size(); ++i)
         {
             System.out.println("Rawquery: " + rawQuery.get(i));
-        }
+        }*/
         result = processWords(rawQuery);
+        for(int i = 0; i < result.size(); ++i)
+        {
+            System.out.println("Result: " + result.get(i));
+        }
         return result;
     }
     
@@ -171,7 +175,7 @@ public class QueryProcessor
     {
         ArrayList<String> postListF = new ArrayList<>();
         ArrayList<String> postList = new ArrayList<>();
-        IndexEntry entry;
+        IndexEntry entry = new IndexEntry();
         String aux;
         
         for(int i = 0; i < queryWords.size(); ++i)
@@ -180,15 +184,18 @@ public class QueryProcessor
             aux = queryWords.get(i);
             // get the post-list for the word.
             entry = index.getEntry(aux);
-            postList = entry.getPostingsList();                    
-            // postlist is still empty.
-            if(postListF.isEmpty())
+            // term was not found in the index.
+            if(entry != null)
             {
-                postListF = postList;
-            }
-            else
-            {
-                postListF = setIntersection(postList, postListF);
+                postList = entry.getPostingsList();
+                if(postListF.isEmpty())
+                {
+                    postListF = postList;
+                }
+                else
+                {
+                    postListF = setIntersection(postList, postListF);
+                }
             }
         }
         return postListF;

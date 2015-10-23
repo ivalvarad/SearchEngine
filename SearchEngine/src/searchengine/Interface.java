@@ -1,5 +1,7 @@
 package searchengine;
 
+import java.util.ArrayList;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -96,7 +98,13 @@ public class Interface extends javax.swing.JFrame {
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
         // jTextArea1.append( searchEngine.processQuery(jButton1.getText()).get(0) );
-		jTextArea1.append( searchEngine.processQuery(jTextField1.getText()).get(0) );
+		// jTextArea1.append( searchEngine.processQuery(jTextField1.getText()).get(0) );
+		ArrayList<String> result = new ArrayList<>();
+		result = searchEngine.processQuery(jTextField1.getText());
+		for(int i = 0; i < result.size(); ++i)
+		{
+			jTextArea1.append( result.get(i) + "\n" );
+		}
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
