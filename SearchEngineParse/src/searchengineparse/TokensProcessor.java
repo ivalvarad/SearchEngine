@@ -143,7 +143,7 @@ public class TokensProcessor {
                 line = line.substring(line.indexOf("|")+1);
                 String docID = line.substring(line.indexOf("|")+1, line.length()); //leaves: docID
                 postings += " "+docID;
-                //System.out.print(" DocID: "+docID);
+                System.out.print(" DocID: "+docID);
             }
             //System.out.println();
             postings += "\n";

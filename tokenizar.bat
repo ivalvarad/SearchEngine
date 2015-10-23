@@ -1,1 +1,1 @@
-java edu.stanford.nlp.process.PTBTokenizer -ioFileList lista.txt
+java edu.stanford.nlp.process.PTBTokenizer -lowerCase -ioFileList lista.txt

@@ -19,7 +19,6 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Normalizar normalizar = new Normalizar();
         File temp = new File("");
         String ruta = temp.getAbsolutePath().replace("\\", "/");
         String[] temp1 = ruta.split("/");
@@ -27,6 +26,7 @@ public class Main {
         for(int i = 0; i < temp1.length-1; ++i){
             ruta += temp1[i] + "/";
         }
+        Normalizar normalizar = new Normalizar(ruta);
         File[] archivos = new File(ruta+"dirTokens").listFiles();
         for(int i = 0; i < archivos.length; ++i){
             normalizar.modificarArchivo(archivos[i]);
