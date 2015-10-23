@@ -1,15 +1,11 @@
 help
-that
 link
-to
 main
 jump
 navigation
 search
 links
-page
 namespace
-all
 article
 talk
 user
@@ -35,10 +31,7 @@ hide
 links
 hide
 redirects
-following
-pages
 link
-to
 tools
 redirects
 view
@@ -102,7 +95,6 @@ talk
 baseball
 links
 edit
-of
 links
 edit
 talk
@@ -123,7 +115,6 @@ talk
 beltane
 links
 edit
-of
 links
 edit
 links
@@ -141,7 +132,6 @@ links
 edit
 links
 edit
-of
 links
 edit
 talk
@@ -169,7 +159,6 @@ links
 edit
 links
 edit
-and
 links
 edit
 talk
@@ -195,17 +184,14 @@ links
 edit
 previous
 retrieved
-from
 namespaces
 talk
 variants
 views
 read
-more
 search
 navigation
 contents
-to
 interaction
 help
 tools

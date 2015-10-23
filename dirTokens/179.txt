@@ -1,15 +1,11 @@
 help
-that
 link
-to
 portal
 jump
 navigation
 search
 links
-page
 namespace
-all
 article
 talk
 user
@@ -35,10 +31,7 @@ hide
 links
 hide
 redirects
-following
-pages
 link
-to
 portal
 tools
 redirects
@@ -56,7 +49,6 @@ links
 edit
 portals
 redirect
-page
 links
 edit
 links
@@ -79,7 +71,6 @@ links
 edit
 links
 edit
-for
 links
 edit
 links
@@ -101,8 +92,6 @@ edit
 links
 edit
 templates
-with
-many
 links
 edit
 talk
@@ -111,7 +100,6 @@ links
 edit
 links
 edit
-information
 links
 edit
 user
@@ -120,9 +108,7 @@ edit
 user
 links
 edit
-to
 disambiguating
-pages
 links
 edit
 user
@@ -134,8 +120,6 @@ links
 edit
 rights
 movement
-in
-the
 united
 links
 edit
@@ -200,16 +184,12 @@ edit
 links
 edit
 cake
-is
-a
 links
 edit
 user
 coplan
 links
 edit
-pages
-with
 links
 edit
 user
@@ -249,7 +229,6 @@ links
 edit
 links
 edit
-of
 totally
 spies
 links
@@ -260,7 +239,6 @@ links
 edit
 previous
 retrieved
-from
 namespaces
 article
 talk
@@ -268,11 +246,9 @@ variants
 views
 read
 edit
-more
 search
 navigation
 contents
-to
 interaction
 help
 tools
