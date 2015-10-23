@@ -44,7 +44,7 @@ public class SearchEngine {
         for(int i = 0; i < lines.length; ++i){
             String line = lines[i];
             int blankIdx = line.indexOf(' '); //index of the first blank
-            String term = new String (line.substring(0, line.indexOf(' '))); //cut from beginning to the first blank
+            String term = line.substring(0, line.indexOf(' ')); //cut from beginning to the first blank
             IndexEntry newEntry = new IndexEntry(term); //create a new IndexEntry containing the term
             line = line.substring(blankIdx+1); //remove the term from the line
             String parts[] = line.split(" ");

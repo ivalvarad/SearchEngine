@@ -69,7 +69,6 @@ public class IndexEntry {
     @Override
     public String toString(){
         String result = "";
-        //result += "Term: "+term+", Frequency: "+frequency+", Documents: ";
         result += "Term: "+term+", "+"Documents: ";
         if(postingsList.size()>0){
             result += postingsList.get(0);

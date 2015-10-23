@@ -60,7 +60,6 @@ public class Index {
     
     //return the index where the object IndexEntry with the term "term" is stored at
     public ArrayList getIndex(String term){
-        //int index = -1;
         ArrayList index = new ArrayList(2);
         for(int i=0; i< table.size(); i++){
             for(int j = 0; i < table.get(i).size(); j++){

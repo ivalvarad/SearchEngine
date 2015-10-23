@@ -26,15 +26,12 @@ public class Parser {
         BufferedReader br = new BufferedReader(new FileReader(path));
         String everything = "";
         try {
-            StringBuilder sb = new StringBuilder();
             String line = br.readLine();
             while (line != null) {
-                sb.append(line);
-                sb.append(System.lineSeparator());
+                everything += line + "\n";
                 line = br.readLine();
             }
             br.close();
-            everything = sb.toString();
         } catch (IOException ex) {
             Logger.getLogger(Parser.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -46,7 +43,6 @@ public class Parser {
         BufferedReader br = new BufferedReader(new FileReader(path));
         int lines = 0; 
         try {
-            StringBuilder sb = new StringBuilder();
             while (br.readLine() != null) {
                 lines += 1;
             }

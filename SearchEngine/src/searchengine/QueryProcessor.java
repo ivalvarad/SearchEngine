@@ -74,11 +74,6 @@ public class QueryProcessor
 	queryWords = separateWords(query);
 	// eliminates the stop-words.
 	rawQuery = eliminateWords(queryWords);
-        /* System.out.println("RawSize: " + rawQuery.size());
-        for(int i = 0; i < rawQuery.size(); ++i)
-        {
-            System.out.println("Rawquery: " + rawQuery.get(i));
-        }*/
         result = processWords(rawQuery);
         if(result == null)
         {
