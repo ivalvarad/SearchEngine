@@ -80,9 +80,9 @@ public class QueryProcessor
             System.out.println("Rawquery: " + rawQuery.get(i));
         }*/
         result = processWords(rawQuery);
-        for(int i = 0; i < result.size(); ++i)
+        if(result == null)
         {
-            System.out.println("Result: " + result.get(i));
+            result.add("Results not found.\n");
         }
         return result;
     }
@@ -170,7 +170,8 @@ public class QueryProcessor
 	return result;		
     }
     
-    // 
+    // looks for the post-lists for each term, 
+    // then uses interyection to create the result to be shown.
     public ArrayList<String> processWords(ArrayList<String> queryWords)
     {
         ArrayList<String> postListF = new ArrayList<>();
@@ -198,6 +199,10 @@ public class QueryProcessor
                 }
             }
         }
+        for(int i = 0; i < postListF.size();++i)
+        {
+            System.out.println("PostF:" + postListF.get(i));
+        }
         return postListF;
     }
     
@@ -205,6 +210,7 @@ public class QueryProcessor
     // the structure of the set model was simulated as an array.
     public ArrayList<String> setIntersection(ArrayList<String> S1, ArrayList<String> S2)
     {
+        System.out.println("INTER");
         ArrayList<String> ans = new ArrayList<>();
         String word1;
         String word2;
@@ -217,6 +223,7 @@ public class QueryProcessor
                 // element is part of the sets intersection.
                 if(word1.compareToIgnoreCase(word2) == 0)
                 {
+                    System.out.println(word1 + "=" + word2);
                     ans.add(word1);
                     // it is not needed to end the intern cycle.
                     break;
